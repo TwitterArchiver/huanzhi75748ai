@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993594590268735493"
+      ],
+      "media_source_tweet_id": [
+        "1993594598376280223"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994118233935524159",
+    "created_at": "2025-11-27T18:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994118233935524159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901339878966636544",
+          "start": 3,
+          "username": "tteokki9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sNEHsb4lh6",
+          "end": 47,
+          "expanded_url": "https://x.com/tteokki9/status/1993594598376280223/photo/1",
+          "media_key": "3_1993594590268735493",
+          "start": 24,
+          "url": "https://t.co/sNEHsb4lh6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994118233935524159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 566
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993594598376280223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tteokki9: 我未来老公必须这样 https://t.co/sNEHsb4lh6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_1993594590268735493",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qrt6MbwAUDDwV.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993594590268735493"
+          ],
+          "media_source_tweet_id": [
+            "1993594598376280223"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994118233935524159",
+        "created_at": "2025-11-27T18:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994118233935524159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901339878966636544",
+              "start": 3,
+              "username": "tteokki9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNEHsb4lh6",
+              "end": 47,
+              "expanded_url": "https://x.com/tteokki9/status/1993594598376280223/photo/1",
+              "media_key": "3_1993594590268735493",
+              "start": 24,
+              "url": "https://t.co/sNEHsb4lh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994118233935524159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 566
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993594598376280223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tteokki9: 我未来老公必须这样 https://t.co/sNEHsb4lh6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993594590268735493"
+          ]
+        },
+        "author_id": "1901339878966636544",
+        "conversation_id": "1993594598376280223",
+        "created_at": "2025-11-26T08:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993594598376280223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNEHsb4lh6",
+              "end": 33,
+              "expanded_url": "https://x.com/tteokki9/status/1993594598376280223/photo/1",
+              "media_key": "3_1993594590268735493",
+              "start": 10,
+              "url": "https://t.co/sNEHsb4lh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993594598376280223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 747835,
+          "like_count": 7128,
+          "quote_count": 139,
+          "reply_count": 195,
+          "retweet_count": 566
+        },
+        "reply_settings": "everyone",
+        "text": "我未来老公必须这样 https://t.co/sNEHsb4lh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1337,
+          "like_count": 21816,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 4484
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜置顶推广自辨",
+        "id": "1901339878966636544",
+        "location": "🚪188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1993981977226035648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 127,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1141
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

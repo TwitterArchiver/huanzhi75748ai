@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1802031658595418166",
+    "created_at": "2024-06-15T17:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T18:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802031658595418166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/T5da0ri0lJ0iPO…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/T5da0ri0lJ0iPOI/status/1801662329257660667",
+          "start": 2,
+          "url": "https://t.co/3yMYPJSzNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802031658595418166",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801662329257660667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美 https://t.co/3yMYPJSzNg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1802031658595418166",
+        "created_at": "2024-06-15T17:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802031658595418166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/T5da0ri0lJ0iPO…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/T5da0ri0lJ0iPOI/status/1801662329257660667",
+              "start": 2,
+              "url": "https://t.co/3yMYPJSzNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802031658595418166",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801662329257660667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美 https://t.co/3yMYPJSzNg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801662325206003712"
+          ]
+        },
+        "author_id": "1492348591834157057",
+        "conversation_id": "1801662329257660667",
+        "created_at": "2024-06-14T17:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T18:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801662329257660667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3vk5I7Z5vf",
+              "end": 34,
+              "expanded_url": "https://twitter.com/T5da0ri0lJ0iPOI/status/1801662329257660667/photo/1",
+              "media_key": "3_1801662325206003712",
+              "start": 11,
+              "url": "https://t.co/3vk5I7Z5vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801662329257660667",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 749,
+          "impression_count": 86957,
+          "like_count": 7067,
+          "quote_count": 74,
+          "reply_count": 24,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "2023.11.11 https://t.co/3vk5I7Z5vf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1142,
+          "like_count": 11721,
+          "listed_count": 1,
+          "tweet_count": 2177
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T04:03:32.000Z",
+        "description": "全て捨てました @xxvll_0 @gachacutehazmat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxvll_0"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "gachacutehazmat"
+              }
+            ]
+          }
+        },
+        "id": "1492348591834157057",
+        "name": "disturbing duo",
+        "pinned_tweet_id": "1725501240979923188",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 2,
+          "like_count": 40,
+          "listed_count": 3,
+          "tweet_count": 56
+        },
+        "username": "T5da0ri0lJ0iPOI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840455750239555846",
+    "created_at": "2024-09-29T18:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T19:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840455750239555846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linsolyy/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/linsolyy/status/1840370914430689507",
+          "start": 19,
+          "url": "https://t.co/HMd7Vn8bdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840455750239555846",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840370914430689507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来河北及北京奔现求职躲避追杀的别白来 https://t.co/HMd7Vn8bdA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840455750239555846",
+        "created_at": "2024-09-29T18:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T19:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840455750239555846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linsolyy/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/linsolyy/status/1840370914430689507",
+              "start": 19,
+              "url": "https://t.co/HMd7Vn8bdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840455750239555846",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840370914430689507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来河北及北京奔现求职躲避追杀的别白来 https://t.co/HMd7Vn8bdA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716829745885884417",
+        "conversation_id": "1840370914430689507",
+        "created_at": "2024-09-29T12:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T13:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840370914430689507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840370914430689507",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6469,
+          "like_count": 49,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国庆来广东奔现失败的告诉我一声 别白来 请我吃顿饭再走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16349,
+          "listed_count": 1,
+          "tweet_count": 3098
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T14:51:35.000Z",
+        "description": "学医/4i\n\n自用vpn➡️https://t.co/hQ93PJ1NZF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.xyz/#/register?cod…",
+                "end": 37,
+                "expanded_url": "https://ziniao.xyz/#/register?code=nkTsa9eO",
+                "start": 14,
+                "url": "https://t.co/hQ93PJ1NZF"
+              }
+            ]
+          }
+        },
+        "id": "1716829745885884417",
+        "location": "盗图挡我灾",
+        "name": "哑巴肥皂盒",
+        "pinned_tweet_id": "1824805035752259892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835878601478283264/k-mRRDNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12399,
+          "following_count": 146,
+          "like_count": 8108,
+          "listed_count": 29,
+          "tweet_count": 918
+        },
+        "username": "linsolyy",
+        "verified": false
+      }
+    ]
+  }
+}

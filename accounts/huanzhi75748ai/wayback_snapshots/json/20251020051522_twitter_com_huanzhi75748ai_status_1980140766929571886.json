@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1980140766929571886",
+    "created_at": "2025-10-20T05:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T06:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980140766929571886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980140766929571886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一切理想的未来都只能在自己离开这个地方以后实现。可是我怎么离开。一切都是纸上谈兵。我真的好想随便找个人嫁了，离开这个住的地方。但我又深知脱离当下困境的办法绝不是进入另一个困境。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1980140766929571886",
+        "created_at": "2025-10-20T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980140766929571886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980140766929571886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一切理想的未来都只能在自己离开这个地方以后实现。可是我怎么离开。一切都是纸上谈兵。我真的好想随便找个人嫁了，离开这个住的地方。但我又深知脱离当下困境的办法绝不是进入另一个困境。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1342,
+          "like_count": 21878,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 4431
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

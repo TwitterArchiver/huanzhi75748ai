@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1997412743360454838",
+    "created_at": "2025-12-06T21:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T22:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997412743360454838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AngelSuicide99…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/AngelSuicide999/status/1996216280635023492",
+          "start": 11,
+          "url": "https://t.co/EDYDWVAiQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997412743360454838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996216280635023492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像眼一样的鱼👁很萌。 https://t.co/EDYDWVAiQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14400,
+        "height": 1080,
+        "media_key": "13_1996215716153077760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996215716153077760/img/ktuimxFyfqAq8TrP.jpg",
+        "public_metrics": {
+          "view_count": 2828
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996215716153077760/vid/avc1/960x720/1hZz8ZJTTg91uVV7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996215716153077760/vid/avc1/480x360/RZkj6bvoFG6_VZrV.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996215716153077760/vid/avc1/360x270/y6LQKxzfynir3StD.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996215716153077760/vid/avc1/1440x1080/tQLQZLOsTE_z-YXe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996215716153077760/pl/lOvelQK_ZCDDtnrv.m3u8?v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1997412743360454838",
+        "created_at": "2025-12-06T21:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T22:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997412743360454838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngelSuicide99…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/AngelSuicide999/status/1996216280635023492",
+              "start": 11,
+              "url": "https://t.co/EDYDWVAiQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997412743360454838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996216280635023492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像眼一样的鱼👁很萌。 https://t.co/EDYDWVAiQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996215716153077760"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "1996216280635023492",
+        "created_at": "2025-12-03T13:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996216280635023492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XIJduejYC",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1996216280635023492/video/1",
+              "media_key": "13_1996215716153077760",
+              "start": 0,
+              "url": "https://t.co/5XIJduejYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996216280635023492",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 7735,
+          "like_count": 628,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5XIJduejYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1340,
+          "like_count": 21960,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4535
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "天使自殺⁡⁡です⁡。in tokio.\n⁡音楽、平面、映像、写像、。\n⁡お仕事やブッキング、⁡\n⁡喜んでお受けします⁡。\n⁡見つけれてくれて、ありがとう。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5n5Au"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "name": "Suicide",
+        "pinned_tweet_id": "1993229130155049446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927572549589688320/90zSepQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28483,
+          "following_count": 2,
+          "like_count": 92569,
+          "listed_count": 95,
+          "media_count": 784,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/1XH3J5n5Au",
+        "username": "AngelSuicide999",
+        "verified": true
+      }
+    ]
+  }
+}

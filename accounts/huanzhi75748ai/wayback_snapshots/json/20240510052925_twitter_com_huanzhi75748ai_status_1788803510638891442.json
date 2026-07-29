@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1788597576171933830",
+    "created_at": "2024-05-10T05:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T06:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788803510638891442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681313579897864198",
+          "start": 0,
+          "username": "bobi_bobobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788803510638891442",
+    "in_reply_to_user_id": "1681313579897864198",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788597576171933830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi_bobobi 很可爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1788597576171933830",
+        "created_at": "2024-05-10T05:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T06:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788803510638891442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681313579897864198",
+              "start": 0,
+              "username": "bobi_bobobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788803510638891442",
+        "in_reply_to_user_id": "1681313579897864198",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788597576171933830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi_bobobi 很可爱的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788597503639851009"
+          ]
+        },
+        "author_id": "1681313579897864198",
+        "conversation_id": "1788597576171933830",
+        "created_at": "2024-05-09T15:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T16:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788597576171933830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/I7pUMaASJd",
+              "end": 38,
+              "expanded_url": "https://twitter.com/bobi_bobobi/status/1788597576171933830/photo/1",
+              "media_key": "3_1788597503639851009",
+              "start": 15,
+              "url": "https://t.co/I7pUMaASJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788597576171933830",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 605,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "生活破破爛爛\n波比波縫縫補補 https://t.co/I7pUMaASJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1074,
+          "like_count": 7436,
+          "listed_count": 1,
+          "tweet_count": 1510
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T14:43:09.000Z",
+        "description": "前一個號被封了www安安大家好\ninfp-t 重鬱|重焦",
+        "id": "1681313579897864198",
+        "location": "波比波帝國！",
+        "name": "波比波2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708433490583355392/GXsWPUuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 292,
+          "like_count": 2278,
+          "listed_count": 0,
+          "tweet_count": 1028
+        },
+        "username": "bobi_bobobi",
+        "verified": false
+      }
+    ]
+  }
+}

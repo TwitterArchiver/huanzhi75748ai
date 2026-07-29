@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2039361438062723095",
+    "created_at": "2026-04-02T16:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039740705074229603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039740705074229603",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039361438062723095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 鸟。可爱。我也要传达"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2039361421373554688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1EaGGbQAAWLL9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1886,
+        "media_key": "3_2039361434312949760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1Ea2TawAA5HMN.jpg",
+        "width": 3177
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2039361425446227968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1EaVRbUAAWaw9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2039361438062723095",
+        "created_at": "2026-04-02T16:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039740705074229603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039740705074229603",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039361438062723095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 鸟。可爱。我也要传达"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039361421373554688",
+            "3_2039361434312949760",
+            "3_2039361425446227968"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "conversation_id": "2039361438062723095",
+        "created_at": "2026-04-01T15:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039361438062723095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzBhzxmr2Y",
+              "end": 157,
+              "expanded_url": "https://x.com/qngshu988723424/status/2039361438062723095/photo/1",
+              "media_key": "3_2039361421373554688",
+              "start": 134,
+              "url": "https://t.co/hzBhzxmr2Y"
+            },
+            {
+              "display_url": "pic.x.com/hzBhzxmr2Y",
+              "end": 157,
+              "expanded_url": "https://x.com/qngshu988723424/status/2039361438062723095/photo/1",
+              "media_key": "3_2039361434312949760",
+              "start": 134,
+              "url": "https://t.co/hzBhzxmr2Y"
+            },
+            {
+              "display_url": "pic.x.com/hzBhzxmr2Y",
+              "end": 157,
+              "expanded_url": "https://x.com/qngshu988723424/status/2039361438062723095/photo/1",
+              "media_key": "3_2039361425446227968",
+              "start": 134,
+              "url": "https://t.co/hzBhzxmr2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039361438062723095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1071,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶，之后很难见到薯条呆毛，被取消了位置。\n可以叫我清水/72，我会突然发送很多帖子污染互关tl，看这集的时候要小心争议性言论🫡\n谢谢大家，大家的每一个对话都是在帮助我社会化。如果你们夸鸟，我会向鸟传达信息。通过语气它们可以判断出夸赞，因此心情愉悦。感谢你们的付出 https://t.co/hzBhzxmr2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1393,
+          "like_count": 27405,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 5653
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的，然后就是吧我现在打算那个，我认真写一下简介吧但是呢，我l呃呃就是我困了，谢谢你们祝你们身体健康",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 643,
+          "like_count": 7766,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 7299
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

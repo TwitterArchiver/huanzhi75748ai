@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863637555243028480"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1863637567125549366",
+    "created_at": "2024-12-02T17:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T18:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863637567125549366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KwCYg3JOOz",
+          "end": 123,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1863637567125549366/photo/1",
+          "media_key": "3_1863637555243028480",
+          "start": 100,
+          "url": "https://t.co/KwCYg3JOOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863637567125549366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曾经和姐姐形影不离，到哪里都牵着手，没有不能说的话，贪恋她的笑容，她未干的发丝，晚上就算有空床也要睡在一起。\n睡觉的时候，她往你怀了挤了挤。说\n“你要是个男的就好了\n从那以后我发誓不再看任何女人一眼 https://t.co/KwCYg3JOOz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863637567125549366].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863637567125549366",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863637567125549366"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1863637555243028480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdz4e4ZWkAAV_pE.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1263,
+          "like_count": 18998,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 3751
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

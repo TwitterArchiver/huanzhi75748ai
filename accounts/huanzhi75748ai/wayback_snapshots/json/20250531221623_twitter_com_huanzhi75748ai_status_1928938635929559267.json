@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1928528466556645801",
+    "created_at": "2025-05-31T22:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T23:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928938635929559267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724381980039479296",
+          "start": 0,
+          "username": "Sakamotoloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928938635929559267",
+    "in_reply_to_user_id": "1724381980039479296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928675650396626988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakamotoloveu 口矣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1928528466556645801",
+        "created_at": "2025-05-31T22:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T23:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928938635929559267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1724381980039479296",
+              "start": 0,
+              "username": "Sakamotoloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928938635929559267",
+        "in_reply_to_user_id": "1724381980039479296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928675650396626988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakamotoloveu 口矣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724381980039479296",
+        "conversation_id": "1928528466556645801",
+        "created_at": "2025-05-31T04:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T05:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928675650396626988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928675650396626988",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928528466556645801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 崩溃，自卑是只能穿长袖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1344,
+          "like_count": 21721,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4188
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T11:01:28.000Z",
+        "description": "可是说好的是一辈子，少一年，一个月，一天，一个时辰，都不算是一辈子。",
+        "id": "1724381980039479296",
+        "location": "悲傷峇里島",
+        "name": "鳶雨",
+        "pinned_tweet_id": "1873291602191655360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919210316371804160/Jo99E1AM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 79,
+          "like_count": 4359,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 3266
+        },
+        "username": "Sakamotoloveu",
+        "verified": false
+      }
+    ]
+  }
+}

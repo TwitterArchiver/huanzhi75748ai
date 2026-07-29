@@ -1,0 +1,99 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1916193566910496768"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1916193568827576503",
+    "created_at": "2025-04-26T18:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T19:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916193568827576503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916193568827576503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌回家，也讨厌返校。说到底我只是讨厌从一个好不容易已经熟悉的环境转移到另一个环境。这让我很没有安全感。而且不管哪里都没有我期待的人和事"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916193568827576503].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916193568827576503",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916193568827576503"
+    }
+  ],
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-04-27T18:12:02.000Z",
+        "id": "1916193566910496768",
+        "options": [
+          {
+            "label": "放假坏",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "返校坏",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "都坏",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1319,
+          "like_count": 20944,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 4059
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

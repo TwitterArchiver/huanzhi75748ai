@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808729837772943769",
+    "created_at": "2024-07-04T19:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T20:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808953485297398206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773814776390713344",
+          "start": 0,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808953485297398206",
+    "in_reply_to_user_id": "1773814776390713344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808729837772943769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoliaomcy 抱歉，不过给你一点\n🙌🏻❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808729837772943769",
+        "created_at": "2024-07-04T19:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T20:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808953485297398206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773814776390713344",
+              "start": 0,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808953485297398206",
+        "in_reply_to_user_id": "1773814776390713344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808729837772943769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoliaomcy 抱歉，不过给你一点\n🙌🏻❤️❤️❤️"
+      },
+      {
+        "attachments": {},
+        "author_id": "1773814776390713344",
+        "conversation_id": "1808729837772943769",
+        "created_at": "2024-07-04T05:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T06:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808729837772943769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808729837772943769",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1689,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1190,
+          "like_count": 13319,
+          "listed_count": 1,
+          "tweet_count": 2478
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "是不是死全家了",
+        "id": "1773814776390713344",
+        "location": "对不起行了吗",
+        "name": "我不活了",
+        "pinned_tweet_id": "1802989521346420749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805283708347596801/cDNzJzP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 303,
+          "like_count": 28202,
+          "listed_count": 2,
+          "tweet_count": 3558
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

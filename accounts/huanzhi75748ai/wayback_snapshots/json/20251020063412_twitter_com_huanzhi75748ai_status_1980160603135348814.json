@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979796088165961728"
+      ],
+      "media_source_tweet_id": [
+        "1979796136564338883"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1980160603135348814",
+    "created_at": "2025-10-20T06:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980160603135348814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/61N7uTbrn8",
+          "end": 52,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1979796136564338883/photo/1",
+          "media_key": "3_1979796088165961728",
+          "start": 29,
+          "url": "https://t.co/61N7uTbrn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980160603135348814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979796136564338883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 我特么也是真服了 https://t.co/61N7uTbrn8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_1979796088165961728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mmDYLXEAAaD6r.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979796088165961728"
+          ],
+          "media_source_tweet_id": [
+            "1979796136564338883"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1980160603135348814",
+        "created_at": "2025-10-20T06:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980160603135348814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/61N7uTbrn8",
+              "end": 52,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1979796136564338883/photo/1",
+              "media_key": "3_1979796088165961728",
+              "start": 29,
+              "url": "https://t.co/61N7uTbrn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980160603135348814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979796136564338883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 我特么也是真服了 https://t.co/61N7uTbrn8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979796088165961728"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1979796136564338883",
+        "created_at": "2025-10-19T06:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979796136564338883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61N7uTbrn8",
+              "end": 32,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1979796136564338883/photo/1",
+              "media_key": "3_1979796088165961728",
+              "start": 9,
+              "url": "https://t.co/61N7uTbrn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979796136564338883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 119276,
+          "like_count": 2245,
+          "quote_count": 29,
+          "reply_count": 19,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "我特么也是真服了 https://t.co/61N7uTbrn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1342,
+          "like_count": 21894,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 4432
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8000,
+          "following_count": 7123,
+          "like_count": 25389,
+          "listed_count": 15,
+          "media_count": 5636,
+          "tweet_count": 37523
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

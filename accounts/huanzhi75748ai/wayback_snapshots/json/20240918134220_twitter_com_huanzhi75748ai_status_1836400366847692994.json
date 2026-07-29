@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836400351093862400"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1836340215210012693",
+    "created_at": "2024-09-18T13:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T14:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836400366847692994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250237155143811076",
+          "start": 0,
+          "username": "1nfinityHeaven"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oklcoou5t",
+          "end": 52,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1836400366847692994/photo/1",
+          "media_key": "3_1836400351093862400",
+          "start": 29,
+          "url": "https://t.co/9oKLCOOu5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836400366847692994",
+    "in_reply_to_user_id": "1250237155143811076",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836340215210012693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nfinityHeaven 主人你看我行吗😼带你下分 https://t.co/9oKLCOOu5t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836400366847692994].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836400366847692994",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836400366847692994"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1836400351093862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXw0Y8BaMAAI7Z1.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250237155143811076",
+        "conversation_id": "1836340215210012693",
+        "created_at": "2024-09-18T09:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T10:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836340215210012693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836340215210012693",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1178,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁他妈带我打农？八千个粉丝没一个有用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1238,
+          "like_count": 15722,
+          "listed_count": 1,
+          "tweet_count": 3073
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "@yumorentupaopao\n@takemet0themo0n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yumorentupaopao"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "takemet0themo0n"
+              }
+            ]
+          }
+        },
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "1836361021424099715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833498766055510018/bHkel5v9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 249,
+          "like_count": 51401,
+          "listed_count": 13,
+          "tweet_count": 15997
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

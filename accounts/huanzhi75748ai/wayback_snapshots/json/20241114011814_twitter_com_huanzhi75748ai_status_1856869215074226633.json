@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1856828190255452293",
+    "created_at": "2024-11-14T01:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T02:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856869215074226633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856869215074226633",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856828190255452293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 我咋还没火🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1856828190255452293",
+        "created_at": "2024-11-14T01:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T02:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856869215074226633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856869215074226633",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856828190255452293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 我咋还没火🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "conversation_id": "1856828190255452293",
+        "created_at": "2024-11-13T22:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T23:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856828190255452293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856828190255452293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我算是明白了，想🔥的前提：头像必须是二次元。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1261,
+          "like_count": 18796,
+          "listed_count": 1,
+          "tweet_count": 3688
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "幻想を信じて、今年も宜しくお願い致します。\n\n（❤️100%回FO❤️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timegrass.bsky.social",
+                "end": 23,
+                "expanded_url": "http://timegrass.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Q2VGjYgAZy"
+              }
+            ]
+          }
+        },
+        "id": "1054322364870246400",
+        "location": "無言フォロー失礼します",
+        "name": "Mr.What (re: Time Grass)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823804372813537284/Eh3SUK2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 1604,
+          "like_count": 38713,
+          "listed_count": 1,
+          "tweet_count": 6348
+        },
+        "url": "https://t.co/Q2VGjYgAZy",
+        "username": "mrwhat926",
+        "verified": false
+      }
+    ]
+  }
+}

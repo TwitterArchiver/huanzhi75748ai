@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2069102224358412768",
+    "created_at": "2026-06-22T16:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069102224358412768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193400921",
+          "start": 3,
+          "username": "itaspato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069102224358412768",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6455
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068816368825200909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itaspato: som de patinha de cachorro se aproximando é o som mais bonito do mundo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2069102224358412768",
+        "created_at": "2026-06-22T16:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069102224358412768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193400921",
+              "start": 3,
+              "username": "itaspato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069102224358412768",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6455
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068816368825200909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itaspato: som de patinha de cachorro se aproximando é o som mais bonito do mundo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193400921",
+        "conversation_id": "2068816368825200909",
+        "created_at": "2026-06-21T22:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068816368825200909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068816368825200909",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 322664,
+          "like_count": 32483,
+          "quote_count": 204,
+          "reply_count": 27,
+          "retweet_count": 6455
+        },
+        "reply_settings": "everyone",
+        "text": "som de patinha de cachorro se aproximando é o som mais bonito do mundo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31557,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 6609
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-21T18:41:42.000Z",
+        "description": "i run from straight men like the plague",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/itaspato",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/itaspato",
+                "start": 0,
+                "url": "https://t.co/MwrXS1y057"
+              }
+            ]
+          }
+        },
+        "id": "193400921",
+        "location": "Brasil",
+        "name": "patinho",
+        "pinned_tweet_id": "2024607735631765803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008897145332543488/DhUP-s2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6058,
+          "following_count": 1604,
+          "like_count": 138700,
+          "listed_count": 12,
+          "media_count": 5802,
+          "tweet_count": 74127
+        },
+        "url": "https://t.co/MwrXS1y057",
+        "username": "itaspato",
+        "verified": false
+      }
+    ]
+  }
+}

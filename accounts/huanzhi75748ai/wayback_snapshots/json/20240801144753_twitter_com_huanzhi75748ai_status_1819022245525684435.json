@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1819022245525684435",
+    "created_at": "2024-08-01T14:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T15:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819022245525684435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666862952027127831",
+          "start": 3,
+          "username": "kangyeon91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819022245525684435",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818478414103199861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kangyeon91: （拎起每一个路过的朋友)\n(进行拍打）（说教）：不可以随便给人当小狗！只可以给喜欢的人当小狗！而且在他也喜欢你的时候才可以当小狗！坏蛋不配拥有小狗！！！拥有小狗是人类最高礼仪！不要随便当小狗！！！\n（放回地面）（完成教导）下一个！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1819022245525684435",
+        "created_at": "2024-08-01T14:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819022245525684435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666862952027127831",
+              "start": 3,
+              "username": "kangyeon91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819022245525684435",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818478414103199861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kangyeon91: （拎起每一个路过的朋友)\n(进行拍打）（说教）：不可以随便给人当小狗！只可以给喜欢的人当小狗！而且在他也喜欢你的时候才可以当小狗！坏蛋不配拥有小狗！！！拥有小狗是人类最高礼仪！不要随便当小狗！！！\n（放回地面）（完成教导）下一个！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666862952027127831",
+        "conversation_id": "1818478414103199861",
+        "created_at": "2024-07-31T02:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T03:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818478414103199861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818478414103199861",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 56117,
+          "like_count": 852,
+          "quote_count": 17,
+          "reply_count": 73,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "（拎起每一个路过的朋友)\n(进行拍打）（说教）：不可以随便给人当小狗！只可以给喜欢的人当小狗！而且在他也喜欢你的时候才可以当小狗！坏蛋不配拥有小狗！！！拥有小狗是人类最高礼仪！不要随便当小狗！！！\n（放回地面）（完成教导）下一个！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1222,
+          "like_count": 14826,
+          "listed_count": 1,
+          "tweet_count": 2817
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T17:41:17.000Z",
+        "description": "饼干中的坏蛋   已婚@nishibigsb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "nishibigsb"
+              }
+            ]
+          }
+        },
+        "id": "1666862952027127831",
+        "location": "Orlando, FL",
+        "name": "险恶曲奇",
+        "pinned_tweet_id": "1801474813023678805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679324319602683906/V_E9M_9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 347,
+          "like_count": 4894,
+          "listed_count": 6,
+          "tweet_count": 4532
+        },
+        "username": "kangyeon91",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1920196938592628740"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1920196940605894857",
+    "created_at": "2025-05-07T19:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T20:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920196940605894857"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920196940605894857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁懂互关推油从籍籍无名到万粉推主的感觉，虽然可能不是很熟但是自豪。\n谁懂之前喜欢的大推主由于一次次换号转生/现生忙碌/被限制/死亡而无人在意，基本刷不到的没落感。甚至想起来去特意搜的时候已经没号了。\n那么谁又懂活跃互关一直和我互动的救赎感"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920196940605894857].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920196940605894857",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920196940605894857"
+    }
+  ],
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-05-08T19:20:00.000Z",
+        "id": "1920196938592628740",
+        "options": [
+          {
+            "label": "懂自豪",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "懂没落",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "懂救赎",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "都懂，我懂你😎🕶🤏🏻🥺",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1337,
+          "like_count": 21183,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 4103
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

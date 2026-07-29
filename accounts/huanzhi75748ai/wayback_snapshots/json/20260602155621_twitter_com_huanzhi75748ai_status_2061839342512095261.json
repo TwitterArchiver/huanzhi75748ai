@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2061073813048340805",
+    "created_at": "2026-06-02T15:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061839342512095261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719787399545532416",
+          "start": 0,
+          "username": "uriisin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061839342512095261",
+    "in_reply_to_user_id": "1719787399545532416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061427759910686835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uriisin 😿🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2061073813048340805",
+        "created_at": "2026-06-02T15:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061839342512095261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719787399545532416",
+              "start": 0,
+              "username": "uriisin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061839342512095261",
+        "in_reply_to_user_id": "1719787399545532416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061427759910686835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uriisin 😿🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719787399545532416",
+        "conversation_id": "2061073813048340805",
+        "created_at": "2026-06-01T12:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061427759910686835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061427759910686835",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061147128995655901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 看着他难受我就心疼得不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31213,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 6461
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T18:44:19.000Z",
+        "description": "コスメ・映画・アニメが好き。美味しいものと可愛いものが元気の源。 無理せず、ゆるく繋がれたら嬉しいです💚💚",
+        "id": "1719787399545532416",
+        "name": "🍋‍🟩ジンリアン🍋‍🟩",
+        "pinned_tweet_id": "1943331804792201627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935382623800442880/Lqo-BAJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 279,
+          "like_count": 10120,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 3558
+        },
+        "username": "uriisin",
+        "verified": false
+      }
+    ]
+  }
+}

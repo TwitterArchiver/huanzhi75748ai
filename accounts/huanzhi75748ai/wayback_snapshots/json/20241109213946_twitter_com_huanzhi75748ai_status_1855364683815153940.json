@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1855364683815153940",
+    "created_at": "2024-11-09T21:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T22:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855364683815153940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429826969194033160",
+          "start": 3,
+          "username": "zheshiwenzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855364683815153940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855175669124395410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zheshiwenzi: 你不是说喜欢我吗，怎么我一说我是大专就骂我大专逼不好操？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1855364683815153940",
+        "created_at": "2024-11-09T21:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T22:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855364683815153940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429826969194033160",
+              "start": 3,
+              "username": "zheshiwenzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855364683815153940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855175669124395410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zheshiwenzi: 你不是说喜欢我吗，怎么我一说我是大专就骂我大专逼不好操？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429826969194033160",
+        "conversation_id": "1855175669124395410",
+        "created_at": "2024-11-09T09:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T10:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855175669124395410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855175669124395410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15144,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不是说喜欢我吗，怎么我一说我是大专就骂我大专逼不好操？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1258,
+          "like_count": 18599,
+          "listed_count": 1,
+          "tweet_count": 3637
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:25:02.000Z",
+        "description": "啥都发发呢｜🔞@laifenfanfan｜🚪99过门看小号置顶｜不接推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "laifenfanfan"
+              }
+            ]
+          }
+        },
+        "id": "1429826969194033160",
+        "location": "黑龙江",
+        "name": "这是雯子",
+        "pinned_tweet_id": "1842990055939592216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743676273912926208/HkvURJEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11350,
+          "following_count": 20,
+          "like_count": 110,
+          "listed_count": 16,
+          "tweet_count": 8159
+        },
+        "username": "zheshiwenzi",
+        "verified": false
+      }
+    ]
+  }
+}

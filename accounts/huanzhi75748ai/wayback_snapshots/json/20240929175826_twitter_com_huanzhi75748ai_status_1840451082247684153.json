@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840451082247684153",
+    "created_at": "2024-09-29T17:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T18:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840451082247684153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Twitwiii_/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Twitwiii_/status/1839905338981494819",
+          "start": 6,
+          "url": "https://t.co/byDxZaKBFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840451082247684153",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839905338981494819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好棒的设定 https://t.co/byDxZaKBFv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840451082247684153",
+        "created_at": "2024-09-29T17:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T18:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840451082247684153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Twitwiii_/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Twitwiii_/status/1839905338981494819",
+              "start": 6,
+              "url": "https://t.co/byDxZaKBFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840451082247684153",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839905338981494819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好棒的设定 https://t.co/byDxZaKBFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839905311811088384"
+          ]
+        },
+        "author_id": "1165792574168166401",
+        "conversation_id": "1839905338981494819",
+        "created_at": "2024-09-28T05:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T06:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839905338981494819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ss2ixaqb8z",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Twitwiii_/status/1839905338981494819/photo/1",
+              "media_key": "3_1839905311811088384",
+              "start": 0,
+              "url": "https://t.co/ss2iXaQb8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839905338981494819",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8555,
+          "impression_count": 1535230,
+          "like_count": 87233,
+          "quote_count": 558,
+          "reply_count": 49,
+          "retweet_count": 10510
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ss2iXaQb8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16326,
+          "listed_count": 1,
+          "tweet_count": 3091
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T01:06:32.000Z",
+        "description": "推推/ツイツイ、無言フォロー失礼します🙇🏻‍♀️💦               \n🇨🇳中国語👌🏻/   English、日本語勉強中です\nメール👉1551078722@qq.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8iw0kyr25o8srv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8iw0kyr25o8srvy?t=aFXp7M&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Kw5qBRibn5"
+              }
+            ]
+          }
+        },
+        "id": "1165792574168166401",
+        "name": "推推",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769763936294043648/aD88YDFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4013,
+          "following_count": 1262,
+          "like_count": 7300,
+          "listed_count": 44,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/Kw5qBRibn5",
+        "username": "Twitwiii_",
+        "verified": false
+      }
+    ]
+  }
+}

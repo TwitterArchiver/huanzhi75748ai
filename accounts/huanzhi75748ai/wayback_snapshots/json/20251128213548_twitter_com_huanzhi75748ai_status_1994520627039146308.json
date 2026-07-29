@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994285191658123457",
+    "created_at": "2025-11-28T21:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T22:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994520627039146308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994520627039146308",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994285191658123457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya od圈最强宣传片，od的反而没那么高技术力和广大受众。请以实物为准，药效没那么快也没那么耐吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59628,
+        "height": 1278,
+        "media_key": "7_1994285138818289666",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994285138818289666/pu/img/WZTbHlL2FRRsEPGm.jpg",
+        "public_metrics": {
+          "view_count": 8473
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994285138818289666/pu/vid/avc1/320x694/8J9R0bBpxyIbLHu6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994285138818289666/pu/vid/avc1/480x1042/P1TeV2b02EvhCwVJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994285138818289666/pu/vid/avc1/588x1278/KhKiL2Ouhc_drMK0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994285138818289666/pu/pl/vjEdIyXdofDNzRK3.m3u8?tag=12&v=6ee"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994285191658123457",
+        "created_at": "2025-11-28T21:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994520627039146308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994520627039146308",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994285191658123457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya od圈最强宣传片，od的反而没那么高技术力和广大受众。请以实物为准，药效没那么快也没那么耐吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994285138818289666"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1994285191658123457",
+        "created_at": "2025-11-28T06:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994285191658123457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceI7v1fVUh",
+              "end": 50,
+              "expanded_url": "https://x.com/bghtnya/status/1994285191658123457/video/1",
+              "media_key": "7_1994285138818289666",
+              "start": 27,
+              "url": "https://t.co/ceI7v1fVUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994285191658123457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15120,
+          "like_count": 79,
+          "quote_count": 4,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到史了，搬来给推u品鉴，不能只让窝一个人看到史（） https://t.co/ceI7v1fVUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1340,
+          "like_count": 21898,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4495
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8270,
+          "following_count": 2120,
+          "like_count": 170614,
+          "listed_count": 20,
+          "media_count": 3509,
+          "tweet_count": 43351
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

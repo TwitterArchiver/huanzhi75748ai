@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048037713979547649"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2048037769772237039",
+    "created_at": "2026-04-25T13:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048037769772237039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ayZqbbZ0jQ",
+          "end": 81,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2048037769772237039/photo/1",
+          "media_key": "3_2048037713979547649",
+          "start": 58,
+          "url": "https://t.co/ayZqbbZ0jQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048037769772237039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抖音这次真的赢了。在推特大量封锁账号和删帖的今天，抖音甚至可以无码发雪图了。说是火龙果还一堆人真信了，我不行了啊。 https://t.co/ayZqbbZ0jQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048037769772237039].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048037769772237039",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048037769772237039"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2168,
+        "media_key": "3_2048037713979547649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwXcyxaoAEyNPV.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1391,
+          "like_count": 29890,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 6144
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

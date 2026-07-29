@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043167538037788876",
+    "created_at": "2026-04-12T10:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043268888050409586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043268888050409586",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043167538037788876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetiekittylol 我也曾经这样想，我思念的朋友是不是早已忘记我。分开的朋友是不是真的很讨厌我。但是缘分有时候很神奇，我去年和幼儿园的闺蜜联系上了，她虽然变了很多，但是承载我回忆的美好一直没变。还在我发丧气动态的时候安慰我。虽然有的人可能以后只能存在于回忆里，但他们本身也是一样爱着我们。我是这样想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043167538037788876",
+        "created_at": "2026-04-12T10:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043268888050409586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043268888050409586",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043167538037788876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetiekittylol 我也曾经这样想，我思念的朋友是不是早已忘记我。分开的朋友是不是真的很讨厌我。但是缘分有时候很神奇，我去年和幼儿园的闺蜜联系上了，她虽然变了很多，但是承载我回忆的美好一直没变。还在我发丧气动态的时候安慰我。虽然有的人可能以后只能存在于回忆里，但他们本身也是一样爱着我们。我是这样想的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512373779933978626",
+        "conversation_id": "2043167538037788876",
+        "created_at": "2026-04-12T03:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043167538037788876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043167538037788876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "做梦梦见和以前的好朋友睡在一起，我勾着她的手指，用稚嫩的嗓音问她：我们会是一辈子的好朋友吗？她点点头，一双黑亮的大眼睛望着我。\n……可是我们已经十多年没有见面了，或许她早就已经不记得我，我们也再也不会像小时候那样聊天了，梦终究是梦吧😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1398,
+          "like_count": 29138,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 5946
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24755,
+          "following_count": 666,
+          "like_count": 15782,
+          "listed_count": 54,
+          "media_count": 1140,
+          "tweet_count": 9437
+        },
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

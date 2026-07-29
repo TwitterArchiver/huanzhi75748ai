@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2044104538496610540",
+    "created_at": "2026-04-16T07:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044677295261221090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044677295261221090",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044104538496610540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 我发现很多健全人把自残视为威胁他人/跟风/做戏。他们认为自残却不敢自杀的人不够痛苦，也没有勇气。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2044104538496610540",
+        "created_at": "2026-04-16T07:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044677295261221090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044677295261221090",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044104538496610540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 我发现很多健全人把自残视为威胁他人/跟风/做戏。他们认为自残却不敢自杀的人不够痛苦，也没有勇气。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2044104538496610540",
+        "created_at": "2026-04-14T17:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044104538496610540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044104538496610540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 51000,
+          "like_count": 3882,
+          "quote_count": 27,
+          "reply_count": 41,
+          "retweet_count": 823
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些人能理解自杀却不能理解自残呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1393,
+          "like_count": 29473,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6057
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好 我有精神疾病别骂我 | 🔮占卜可以找我 | 餐劵od | 互fo私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2043435688889315415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 457,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

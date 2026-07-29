@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997785388686225408"
+      ],
+      "media_source_tweet_id": [
+        "1997785451441356920"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1998357180920311834",
+    "created_at": "2025-12-09T11:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998357180920311834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1940358435352305664",
+          "start": 3,
+          "username": "ADCvidarchives"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kdkFsQDFHX",
+          "end": 43,
+          "expanded_url": "https://x.com/ADCvidarchives/status/1997785451441356920/video/1",
+          "media_key": "13_1997785388686225408",
+          "start": 20,
+          "url": "https://t.co/kdkFsQDFHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998357180920311834",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10232
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997785451441356920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ADCvidarchives: https://t.co/kdkFsQDFHX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47760,
+        "height": 874,
+        "media_key": "13_1997785388686225408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997785388686225408/img/8iRLGJhabvjt6-Sf.jpg",
+        "public_metrics": {
+          "view_count": 1008460
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997785388686225408/vid/avc1/320x388/cZDLahzMaNs3Dl2W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997785388686225408/vid/avc1/480x582/WFGLMtTzE50zO622.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997785388686225408/vid/avc1/720x874/aE1SjukjTuQlbZPM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997785388686225408/pl/mPGkG2-nYqPgXUA1.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997785388686225408"
+          ],
+          "media_source_tweet_id": [
+            "1997785451441356920"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1998357180920311834",
+        "created_at": "2025-12-09T11:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998357180920311834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1940358435352305664",
+              "start": 3,
+              "username": "ADCvidarchives"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdkFsQDFHX",
+              "end": 43,
+              "expanded_url": "https://x.com/ADCvidarchives/status/1997785451441356920/video/1",
+              "media_key": "13_1997785388686225408",
+              "start": 20,
+              "url": "https://t.co/kdkFsQDFHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998357180920311834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10232
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997785451441356920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ADCvidarchives: https://t.co/kdkFsQDFHX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997785388686225408"
+          ]
+        },
+        "author_id": "1940358435352305664",
+        "conversation_id": "1997785451441356920",
+        "created_at": "2025-12-07T21:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T22:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997785451441356920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdkFsQDFHX",
+              "end": 23,
+              "expanded_url": "https://x.com/ADCvidarchives/status/1997785451441356920/video/1",
+              "media_key": "13_1997785388686225408",
+              "start": 0,
+              "url": "https://t.co/kdkFsQDFHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997785451441356920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6797,
+          "impression_count": 1238519,
+          "like_count": 81073,
+          "quote_count": 1165,
+          "reply_count": 221,
+          "retweet_count": 10232
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kdkFsQDFHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1344,
+          "like_count": 22089,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 4553
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T10:34:54.000Z",
+        "description": "i love cats",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "purrandfurr.com",
+                "end": 23,
+                "expanded_url": "http://www.purrandfurr.com",
+                "start": 0,
+                "url": "https://t.co/puJIcb25XS"
+              }
+            ]
+          }
+        },
+        "id": "1940358435352305664",
+        "name": "Antidepressant Content",
+        "pinned_tweet_id": "1997785451441356920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963721749591216128/cWSE6kjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8643,
+          "following_count": 16,
+          "like_count": 3072,
+          "listed_count": 24,
+          "media_count": 2284,
+          "tweet_count": 2759
+        },
+        "url": "https://t.co/puJIcb25XS",
+        "username": "ADCvidarchives",
+        "verified": true
+      }
+    ]
+  }
+}

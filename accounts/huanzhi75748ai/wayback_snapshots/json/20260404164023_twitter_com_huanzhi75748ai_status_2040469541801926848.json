@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040469541801926848",
+    "created_at": "2026-04-04T16:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040469541801926848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuzo_oshimi/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/shuzo_oshimi/status/2040410219138957481",
+          "start": 10,
+          "url": "https://t.co/KiiXSn6qP6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040469541801926848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040410219138957481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个做主页背景很帅 https://t.co/KiiXSn6qP6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_2040410214156087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFD-R3raMAA2mW_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040469541801926848",
+        "created_at": "2026-04-04T16:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040469541801926848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuzo_oshimi/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/shuzo_oshimi/status/2040410219138957481",
+              "start": 10,
+              "url": "https://t.co/KiiXSn6qP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040469541801926848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040410219138957481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个做主页背景很帅 https://t.co/KiiXSn6qP6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040410214156087296"
+          ]
+        },
+        "author_id": "760101680029380608",
+        "conversation_id": "2040410219138957481",
+        "created_at": "2026-04-04T12:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040410219138957481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ドラマ惡の華"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CURqGCFeyz",
+              "end": 31,
+              "expanded_url": "https://x.com/shuzo_oshimi/status/2040410219138957481/photo/1",
+              "media_key": "3_2040410214156087296",
+              "start": 8,
+              "url": "https://t.co/CURqGCFeyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040410219138957481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 72316,
+          "like_count": 4378,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "#ドラマ惡の華 https://t.co/CURqGCFeyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1397,
+          "like_count": 28002,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 5753
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-01T13:15:37.000Z",
+        "description": "漫画家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shuzooshimi/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shuzooshimi/",
+                "start": 0,
+                "url": "https://t.co/rbcMfj2pJO"
+              }
+            ]
+          }
+        },
+        "id": "760101680029380608",
+        "name": "押見修造",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925731687113076736/ITU9hyJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126725,
+          "following_count": 146,
+          "like_count": 161,
+          "listed_count": 682,
+          "media_count": 1088,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/rbcMfj2pJO",
+        "username": "shuzo_oshimi",
+        "verified": true
+      }
+    ]
+  }
+}

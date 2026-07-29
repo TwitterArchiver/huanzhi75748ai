@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1982853640940613746",
+    "created_at": "2025-10-27T16:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T17:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982853640940613746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1115809099482980353",
+          "start": 3,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982853640940613746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982457696625557919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DKR_World: 猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー\n\nーナマ猫ーナマ猫ーナマ猫\n ーナマ猫ーナマ猫ーナマ猫\n  ーナマ猫ーナマ猫ーナマ猫\n\n  猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1982853640940613746",
+        "created_at": "2025-10-27T16:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982853640940613746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1115809099482980353",
+              "start": 3,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982853640940613746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982457696625557919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DKR_World: 猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー\n\nーナマ猫ーナマ猫ーナマ猫\n ーナマ猫ーナマ猫ーナマ猫\n  ーナマ猫ーナマ猫ーナマ猫\n\n  猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "1982457696625557919",
+        "created_at": "2025-10-26T14:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982457696625557919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982457696625557919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 52645,
+          "like_count": 1468,
+          "quote_count": 15,
+          "reply_count": 28,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー\n\nーナマ猫ーナマ猫ーナマ猫\n ーナマ猫ーナマ猫ーナマ猫\n  ーナマ猫ーナマ猫ーナマ猫\n\n  猫マナー猫マナー猫マナー\n 猫マナー猫マナー猫マナー\n猫マナー猫マナー猫マナー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1346,
+          "like_count": 21986,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 4458
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1981772621143548061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979697970774740992/kT8yVUy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 582,
+          "like_count": 29683,
+          "listed_count": 8,
+          "media_count": 387,
+          "tweet_count": 4657
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

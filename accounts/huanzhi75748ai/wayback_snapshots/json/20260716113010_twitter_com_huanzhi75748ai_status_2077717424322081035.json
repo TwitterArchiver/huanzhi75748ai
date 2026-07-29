@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2075848019463803320",
+    "created_at": "2026-07-16T11:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077717424322081035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077717424322081035",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075848019463803320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 我也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2075848019463803320",
+        "created_at": "2026-07-16T11:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077717424322081035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077717424322081035",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075848019463803320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986136179721240576",
+        "conversation_id": "2075848019463803320",
+        "created_at": "2026-07-11T07:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075848019463803320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075848019463803320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 940,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我平均每周都要独立思考一次 然后鉴定上周的自己是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31665,
+          "listed_count": 2,
+          "media_count": 583,
+          "tweet_count": 6691
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "只是一位单亲拓麻妈妈\n@gjfgift 减肥打卡日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "gjfgift"
+              }
+            ]
+          }
+        },
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 304,
+          "like_count": 11852,
+          "listed_count": 0,
+          "media_count": 587,
+          "tweet_count": 3225
+        },
+        "url": "",
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

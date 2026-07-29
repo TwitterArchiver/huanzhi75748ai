@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1918212696371281923"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1918212710246039974",
+    "created_at": "2025-05-02T07:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T08:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918212710246039974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2AjLtA89nT",
+          "end": 30,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1918212710246039974/video/1",
+          "media_key": "7_1918212696371281923",
+          "start": 7,
+          "url": "https://t.co/2AjLtA89nT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918212710246039974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熊，泡泡浴。 https://t.co/2AjLtA89nT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1918212710246039974].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1918212710246039974",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1918212710246039974"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2335,
+        "height": 720,
+        "media_key": "7_1918212696371281923",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918212696371281923/pu/img/36L5djEBZrYaUdE0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918212696371281923/pu/vid/avc1/320x320/GqVzg-VUYzGOdneY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918212696371281923/pu/vid/avc1/540x540/K6Lzhv_DE8LScuXh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918212696371281923/pu/vid/avc1/720x720/dKXIO1TrVr0q0IPG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918212696371281923/pu/pl/4RSEBYiIYjlAhTlj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1326,
+          "like_count": 21082,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 4087
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

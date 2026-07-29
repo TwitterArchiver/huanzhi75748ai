@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841514729678004224"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841514747784790115",
+    "created_at": "2024-10-02T16:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T17:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841514747784790115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q79XBYG7Mb",
+          "end": 39,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1841514747784790115/photo/1",
+          "media_key": "3_1841514729678004224",
+          "start": 16,
+          "url": "https://t.co/q79XBYG7Mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841514747784790115",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁给我送给充电宝来。手机没电了 https://t.co/q79XBYG7Mb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841514747784790115].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841514747784790115",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841514747784790115"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1841514729678004224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY5f488bYAAfkE0.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1250,
+          "like_count": 16595,
+          "listed_count": 1,
+          "tweet_count": 3135
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

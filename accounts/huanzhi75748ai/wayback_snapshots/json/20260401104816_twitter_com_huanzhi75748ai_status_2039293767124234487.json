@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2039285817181659558",
+    "created_at": "2026-04-01T10:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039293767124234487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976383726855839744",
+          "start": 0,
+          "username": "MmeTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039293767124234487",
+    "in_reply_to_user_id": "1976383726855839744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039285817181659558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MmeTuT 肯定很香🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23637,
+        "height": 1280,
+        "media_key": "7_2039285714450591744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039285714450591744/pu/img/jL6BCCyY94LckCor.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039285714450591744/pu/vid/avc1/320x568/Rc6kFu9p-KwRvjjm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039285714450591744/pu/vid/avc1/480x852/5LQc3KmGyYJpwaq8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039285714450591744/pu/vid/avc1/720x1280/r_rPWlZ12QXAgGkx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039285714450591744/pu/pl/B7djwYqCZvQznEMH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2039285817181659558",
+        "created_at": "2026-04-01T10:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039293767124234487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293767124234487",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039285817181659558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT 肯定很香🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039285714450591744"
+          ]
+        },
+        "author_id": "1976383726855839744",
+        "conversation_id": "2039285817181659558",
+        "created_at": "2026-04-01T10:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039285817181659558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdnshngUEx",
+              "end": 33,
+              "expanded_url": "https://x.com/MmeTuT/status/2039285817181659558/video/1",
+              "media_key": "7_2039285714450591744",
+              "start": 10,
+              "url": "https://t.co/mdnshngUEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039285817181659558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样秀发质哼哼 https://t.co/mdnshngUEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1390,
+          "like_count": 26864,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 5593
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "enfp 哥哥控｜女高｜不是黄推 只发我想发的｜不收🚪不聊骚｜只关注我感兴趣的人｜关于我的碎碎念 @ROSSMARYAGUIRR2 只过互关 没有黄色内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "ROSSMARYAGUIRR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki95570",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki95570",
+                "start": 0,
+                "url": "https://t.co/wJeivsFncV"
+              }
+            ]
+          }
+        },
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024284032037720223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 205,
+          "like_count": 10201,
+          "listed_count": 4,
+          "media_count": 142,
+          "tweet_count": 3597
+        },
+        "url": "https://t.co/wJeivsFncV",
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1917267415660126611",
+    "created_at": "2025-04-29T22:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T23:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917338393224114179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917338393224114179",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917267415660126611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 原来和缓缓睡表白被拒可以欠钱不还还能被日飞。我要报名🙋🏻‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1917267415660126611",
+        "created_at": "2025-04-29T22:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T23:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917338393224114179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917338393224114179",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917267415660126611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 原来和缓缓睡表白被拒可以欠钱不还还能被日飞。我要报名🙋🏻‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647182072723959808",
+        "conversation_id": "1917267415660126611",
+        "created_at": "2025-04-29T17:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T18:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917267415660126611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917267415660126611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就因为不同意你的表白，你就把我删了。你还欠我💰啊，傻逼我日飞你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1322,
+          "like_count": 20961,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 4066
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "留下了zZ zZ zZ",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "pinned_tweet_id": "1841792332691083412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917276807004397568/wJTIHNSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 804,
+          "like_count": 151367,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 4599
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

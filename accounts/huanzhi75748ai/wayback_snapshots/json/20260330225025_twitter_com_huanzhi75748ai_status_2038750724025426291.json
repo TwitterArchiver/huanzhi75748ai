@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038717009433915460",
+    "created_at": "2026-03-30T22:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T23:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038750724025426291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038750724025426291",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038717009433915460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 民子😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2038716931512074241",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEr6P2RaAAEBckm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEr6P2RaAAEBckm.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038717009433915460",
+        "created_at": "2026-03-30T22:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T23:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038750724025426291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038750724025426291",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038717009433915460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 民子😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2038716931512074241"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "2038717009433915460",
+        "created_at": "2026-03-30T20:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038717009433915460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bb4Y35CS10",
+              "end": 30,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2038717009433915460/photo/1",
+              "media_key": "16_2038716931512074241",
+              "start": 7,
+              "url": "https://t.co/bb4Y35CS10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038717009433915460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6069,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "恐怖预警\n🐀 https://t.co/bb4Y35CS10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1384,
+          "like_count": 26419,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5518
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "本人只有这一个账号！！其他均为骗子， 请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪1314/5200zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！不玩抖音等软件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8ThzX"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1979789301509726520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527085700534272/SO1uhKhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271115,
+          "following_count": 45,
+          "like_count": 584,
+          "listed_count": 693,
+          "media_count": 621,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/bvlwJ8ThzX",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

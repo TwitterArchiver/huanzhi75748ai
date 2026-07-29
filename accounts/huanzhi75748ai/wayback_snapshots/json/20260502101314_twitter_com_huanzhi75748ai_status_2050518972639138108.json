@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2050177047612538934",
+    "created_at": "2026-05-02T10:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050518972639138108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540455959986081792",
+          "start": 0,
+          "username": "lulanglinhai3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050518972639138108",
+    "in_reply_to_user_id": "1540455959986081792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050219873075405160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulanglinhai3 好麻烦。直说不得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2050177047612538934",
+        "created_at": "2026-05-02T10:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050518972639138108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540455959986081792",
+              "start": 0,
+              "username": "lulanglinhai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050518972639138108",
+        "in_reply_to_user_id": "1540455959986081792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050219873075405160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulanglinhai3 好麻烦。直说不得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540455959986081792",
+        "conversation_id": "2050177047612538934",
+        "created_at": "2026-05-01T14:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050219873075405160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050219873075405160",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050177047612538934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 恋爱课程虽然挂了恋爱的名，但本质上是一套公式化的吸引异性方法论。其实更像是为了达成上床这件事，而非恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1404,
+          "like_count": 30404,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6240
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T22:05:06.000Z",
+        "description": "1234",
+        "id": "1540455959986081792",
+        "location": "坟里",
+        "name": "🐸🐸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620375906517946369/8OSPd1Ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 265,
+          "like_count": 47457,
+          "listed_count": 4,
+          "media_count": 1176,
+          "tweet_count": 32603
+        },
+        "username": "lulanglinhai3",
+        "verified": false
+      }
+    ]
+  }
+}

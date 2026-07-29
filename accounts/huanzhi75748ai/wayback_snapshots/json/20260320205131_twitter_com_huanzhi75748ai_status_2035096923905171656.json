@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2035096923905171656",
+    "created_at": "2026-03-20T20:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T21:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035096923905171656"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035096923905171656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在恋爱关系中有处男情节。因为如果对方和很多人都有过，我就会很害怕被拿来比较。比如对方可能会在心里想，哎呦现在这个没有上一个身材好，没有上上个叫的好听，没有上上上个水多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2035096923905171656",
+        "created_at": "2026-03-20T20:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035096923905171656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035096923905171656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在恋爱关系中有处男情节。因为如果对方和很多人都有过，我就会很害怕被拿来比较。比如对方可能会在心里想，哎呦现在这个没有上一个身材好，没有上上个叫的好听，没有上上上个水多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1346,
+          "like_count": 24133,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 5036
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

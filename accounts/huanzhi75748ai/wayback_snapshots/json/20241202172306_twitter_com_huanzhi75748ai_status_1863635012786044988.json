@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1862573955984339268",
+    "created_at": "2024-12-02T17:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T18:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863635012786044988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863635012786044988",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862693136734331174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_insky 自言自语自言自语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1862573955984339268",
+        "created_at": "2024-12-02T17:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T18:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863635012786044988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863635012786044988",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862693136734331174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 自言自语自言自语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "1862573955984339268",
+        "created_at": "2024-11-30T03:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T04:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862693136734331174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862693136734331174",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862573955984339268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 自言自语自言自语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1263,
+          "like_count": 18997,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 3745
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历/谁要过我🚪50我将用尽所有力气赞美你/推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推🔗： https://t.co/janMYlQsKS小号@fishoutworld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "fishoutworld"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 101,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=VfscThxt/",
+                "start": 78,
+                "url": "https://t.co/janMYlQsKS"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "距你3.4km",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1863552674110816437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796457507369652225/H-J0Fpp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 485,
+          "like_count": 10063,
+          "listed_count": 8,
+          "media_count": 1082,
+          "tweet_count": 9741
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

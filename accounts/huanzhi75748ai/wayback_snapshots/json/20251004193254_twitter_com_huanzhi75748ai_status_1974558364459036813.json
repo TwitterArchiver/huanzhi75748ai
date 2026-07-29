@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974558346826088448",
+        "3_1974558348038287360",
+        "3_1974558348009000960"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1974558364459036813",
+    "created_at": "2025-10-04T19:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T20:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974558364459036813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Tg27lzB5P",
+          "end": 34,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1974558364459036813/photo/1",
+          "media_key": "3_1974558346826088448",
+          "start": 11,
+          "url": "https://t.co/3Tg27lzB5P"
+        },
+        {
+          "display_url": "pic.x.com/3Tg27lzB5P",
+          "end": 34,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1974558364459036813/photo/1",
+          "media_key": "3_1974558348038287360",
+          "start": 11,
+          "url": "https://t.co/3Tg27lzB5P"
+        },
+        {
+          "display_url": "pic.x.com/3Tg27lzB5P",
+          "end": 34,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1974558364459036813/photo/1",
+          "media_key": "3_1974558348009000960",
+          "start": 11,
+          "url": "https://t.co/3Tg27lzB5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974558364459036813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墙壁上的猛虎它是壁虎 https://t.co/3Tg27lzB5P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974558364459036813].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974558364459036813",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974558364459036813"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974558346826088448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cKWtLaAAAMo0C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974558348038287360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cKWxsasAAAZji.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974558348009000960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cKWxlb0AAQQln.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1346,
+          "like_count": 21715,
+          "listed_count": 3,
+          "media_count": 423,
+          "tweet_count": 4374
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

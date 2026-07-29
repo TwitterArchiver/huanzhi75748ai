@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041409460120469545",
+    "created_at": "2026-04-07T06:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041409460120469545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512373779933978626",
+          "start": 3,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041409460120469545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041366090312499472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sweetiekittylol: 养宠物更像是和这个世界多了一层联系，你可以做很多与他人交往时让你感到羞耻的事情，你可以对它撒娇，夹着嗓音说话，肆意地亲额头揉肚子闻体味，可以抱着它毛茸茸热烘烘的身体大哭一场。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041409460120469545",
+        "created_at": "2026-04-07T06:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041409460120469545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512373779933978626",
+              "start": 3,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041409460120469545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041366090312499472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sweetiekittylol: 养宠物更像是和这个世界多了一层联系，你可以做很多与他人交往时让你感到羞耻的事情，你可以对它撒娇，夹着嗓音说话，肆意地亲额头揉肚子闻体味，可以抱着它毛茸茸热烘烘的身体大哭一场。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512373779933978626",
+        "conversation_id": "2041366090312499472",
+        "created_at": "2026-04-07T04:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041366090312499472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041366090312499472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "养宠物更像是和这个世界多了一层联系，你可以做很多与他人交往时让你感到羞耻的事情，你可以对它撒娇，夹着嗓音说话，肆意地亲额头揉肚子闻体味，可以抱着它毛茸茸热烘烘的身体大哭一场。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1396,
+          "like_count": 28382,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 5828
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23616,
+          "following_count": 666,
+          "like_count": 15359,
+          "listed_count": 55,
+          "media_count": 1131,
+          "tweet_count": 9339
+        },
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

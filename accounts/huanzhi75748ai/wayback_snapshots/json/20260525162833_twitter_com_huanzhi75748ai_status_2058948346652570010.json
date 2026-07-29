@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2058948346652570010",
+    "created_at": "2026-05-25T16:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058948346652570010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058948346652570010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058839545400144366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 如果你在我24岁之前认识我，你不是真正意义上的了解我。你只是了解第一季的我，第一季的制作成本特别低，并且编剧团队经历了一些常人难以承受的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2058948346652570010",
+        "created_at": "2026-05-25T16:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058948346652570010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058948346652570010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058839545400144366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 如果你在我24岁之前认识我，你不是真正意义上的了解我。你只是了解第一季的我，第一季的制作成本特别低，并且编剧团队经历了一些常人难以承受的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2058839545400144366",
+        "created_at": "2026-05-25T09:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058839545400144366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058839545400144366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 25291,
+          "like_count": 679,
+          "quote_count": 5,
+          "reply_count": 74,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在我24岁之前认识我，你不是真正意义上的了解我。你只是了解第一季的我，第一季的制作成本特别低，并且编剧团队经历了一些常人难以承受的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1384,
+          "like_count": 31008,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 6407
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望语言也可以是连续剧 谢谢关注😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2058501140560678944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41561,
+          "following_count": 2909,
+          "like_count": 40872,
+          "listed_count": 133,
+          "media_count": 1674,
+          "tweet_count": 2593
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

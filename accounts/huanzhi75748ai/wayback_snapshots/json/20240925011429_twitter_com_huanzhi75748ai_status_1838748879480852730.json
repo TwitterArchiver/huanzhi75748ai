@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1838748879480852730",
+    "created_at": "2024-09-25T01:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T02:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838748879480852730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1654545613529448448",
+          "start": 3,
+          "username": "fakeplasticdog7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838748879480852730",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838046908897747414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fakeplasticdog7: 当你开始觉得一个人好像变了，不那么爱你了，那他已经远远比你想象的更不爱你了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1838748879480852730",
+        "created_at": "2024-09-25T01:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T02:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838748879480852730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1654545613529448448",
+              "start": 3,
+              "username": "fakeplasticdog7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838748879480852730",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838046908897747414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fakeplasticdog7: 当你开始觉得一个人好像变了，不那么爱你了，那他已经远远比你想象的更不爱你了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654545613529448448",
+        "conversation_id": "1838046908897747414",
+        "created_at": "2024-09-23T02:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T03:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838046908897747414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838046908897747414",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 33014,
+          "like_count": 409,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "当你开始觉得一个人好像变了，不那么爱你了，那他已经远远比你想象的更不爱你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1244,
+          "like_count": 16013,
+          "listed_count": 1,
+          "tweet_count": 3147
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:56:37.000Z",
+        "description": "不是客人的朋友到底有没有",
+        "id": "1654545613529448448",
+        "name": "塑料狗",
+        "pinned_tweet_id": "1759140144374861880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670895062195277825/JpPDloaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 113,
+          "like_count": 1802,
+          "listed_count": 13,
+          "tweet_count": 4037
+        },
+        "username": "fakeplasticdog7",
+        "verified": false
+      }
+    ]
+  }
+}

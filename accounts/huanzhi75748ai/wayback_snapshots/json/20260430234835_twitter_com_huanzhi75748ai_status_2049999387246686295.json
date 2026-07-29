@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2049764489684475998",
+    "created_at": "2026-04-30T23:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049999387246686295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049999387246686295",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049764489684475998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049764474790518784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gEaoAALrqt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049764474790555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gEbMAAFwNm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049764474794725376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gFa0AA5Say.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049764474782109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI57gCaUAAjRzE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2049764489684475998",
+        "created_at": "2026-04-30T23:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049999387246686295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049999387246686295",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049764489684475998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049764474790518784",
+            "3_2049764474790555648",
+            "3_2049764474794725376",
+            "3_2049764474782109696"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049764489684475998",
+        "created_at": "2026-04-30T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764489684475998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474790518784",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            },
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474790555648",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            },
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474794725376",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            },
+            {
+              "display_url": "pic.x.com/AYoyHwZwf6",
+              "end": 42,
+              "expanded_url": "https://x.com/shu_fan0228/status/2049764489684475998/photo/1",
+              "media_key": "3_2049764474782109696",
+              "start": 19,
+              "url": "https://t.co/AYoyHwZwf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764489684475998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4607,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇啊啊啊啊啊啊啊啊第一次摸到伯恩山… https://t.co/AYoyHwZwf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1403,
+          "like_count": 30283,
+          "listed_count": 2,
+          "media_count": 533,
+          "tweet_count": 6207
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "一个幸福的旋转的白痴神棍",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 166,
+          "like_count": 3440,
+          "listed_count": 3,
+          "media_count": 716,
+          "tweet_count": 4364
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

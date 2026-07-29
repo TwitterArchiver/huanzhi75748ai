@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1862581520466157711",
+    "created_at": "2024-11-29T19:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T20:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862581520466157711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1666599054917218305",
+          "start": 3,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862581520466157711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862503888810909893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirakira4th: 小时候觉得抽烟喝酒吸毒穿孔染发纹身搞同性恋的都是坏人，现在这些人都是我朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1862581520466157711",
+        "created_at": "2024-11-29T19:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T20:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862581520466157711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1666599054917218305",
+              "start": 3,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862581520466157711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862503888810909893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirakira4th: 小时候觉得抽烟喝酒吸毒穿孔染发纹身搞同性恋的都是坏人，现在这些人都是我朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1862503888810909893",
+        "created_at": "2024-11-29T14:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862503888810909893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862503888810909893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小时候觉得抽烟喝酒吸毒穿孔染发纹身搞同性恋的都是坏人，现在这些人都是我朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1260,
+          "like_count": 18945,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 3732
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "投胎错为猪",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "pinned_tweet_id": "1860322536485236873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861725947520802816/OnAY04AS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7422,
+          "following_count": 1990,
+          "like_count": 29145,
+          "listed_count": 8,
+          "media_count": 176,
+          "tweet_count": 7323
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

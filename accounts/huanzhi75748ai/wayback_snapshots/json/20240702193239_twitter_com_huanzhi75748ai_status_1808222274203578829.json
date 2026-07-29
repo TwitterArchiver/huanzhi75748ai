@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808222211133919234"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808222274203578829",
+    "created_at": "2024-07-02T19:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T20:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808222274203578829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Uy4iTXyIce",
+          "end": 39,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1808222274203578829/photo/1",
+          "media_key": "3_1808222211133919234",
+          "start": 16,
+          "url": "https://t.co/Uy4iTXyIce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808222274203578829",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在手里的药只有这个，怎么o https://t.co/Uy4iTXyIce"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1808222274203578829].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1808222274203578829",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1808222274203578829"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1808222211133919234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRgYhUmb0AIGnNa.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1183,
+          "like_count": 12992,
+          "listed_count": 1,
+          "tweet_count": 2366
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

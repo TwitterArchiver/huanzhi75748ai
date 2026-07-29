@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2051558175535743478",
+    "created_at": "2026-05-08T09:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052682550565580878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719787399545532416",
+          "start": 0,
+          "username": "uriisin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052682550565580878",
+    "in_reply_to_user_id": "1719787399545532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051678688606052385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uriisin 被接住了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2051558175535743478",
+        "created_at": "2026-05-08T09:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052682550565580878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719787399545532416",
+              "start": 0,
+              "username": "uriisin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052682550565580878",
+        "in_reply_to_user_id": "1719787399545532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051678688606052385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uriisin 被接住了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719787399545532416",
+        "conversation_id": "2051558175535743478",
+        "created_at": "2026-05-05T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051678688606052385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051678688606052385",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051558175535743478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 你问到问题的核心，我用最简单最直白最真诚的话告诉你，是你太清醒了，我就在这里不躲不绕，稳稳的接住你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1396,
+          "like_count": 30554,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6298
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T18:44:19.000Z",
+        "description": "コスメ・映画・アニメが好き。美味しいものと可愛いものが元気の源。 無理せず、ゆるく繋がれたら嬉しいです💚💚",
+        "id": "1719787399545532416",
+        "name": "🍋‍🟩ジンリアン🍋‍🟩",
+        "pinned_tweet_id": "1943331804792201627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935382623800442880/Lqo-BAJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 280,
+          "like_count": 9877,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 3454
+        },
+        "username": "uriisin",
+        "verified": false
+      }
+    ]
+  }
+}

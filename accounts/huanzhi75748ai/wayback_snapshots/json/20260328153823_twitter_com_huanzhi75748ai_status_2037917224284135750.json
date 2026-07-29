@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037776236785930661",
+    "created_at": "2026-03-28T15:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037917224284135750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930603190682357760",
+          "start": 0,
+          "username": "1234jiangdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037917224284135750",
+    "in_reply_to_user_id": "1930603190682357760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037776236785930661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1234jiangdu 一晚上看完肯定看得不认真！不同意！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2037776228489527296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeirubagAAoXCC.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037776236785930661",
+        "created_at": "2026-03-28T15:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037917224284135750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930603190682357760",
+              "start": 0,
+              "username": "1234jiangdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037917224284135750",
+        "in_reply_to_user_id": "1930603190682357760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037776236785930661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1234jiangdu 一晚上看完肯定看得不认真！不同意！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037776228489527296"
+          ]
+        },
+        "author_id": "1930603190682357760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037776236785930661",
+        "created_at": "2026-03-28T06:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037776236785930661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DME6kKIZPa",
+              "end": 23,
+              "expanded_url": "https://x.com/1234jiangdu/status/2037776236785930661/photo/1",
+              "media_key": "3_2037776228489527296",
+              "start": 0,
+              "url": "https://t.co/DME6kKIZPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037776236785930661",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 53101,
+          "like_count": 688,
+          "quote_count": 15,
+          "reply_count": 47,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DME6kKIZPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1381,
+          "like_count": 25413,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 5357
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T12:30:53.000Z",
+        "description": "你看你又破防 废弃照片存放： @miao_002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "miao_002"
+              }
+            ]
+          }
+        },
+        "id": "1930603190682357760",
+        "name": "干嘛",
+        "pinned_tweet_id": "2036013924345417731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014367119207776258/vE1_AzHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 26,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1474
+        },
+        "username": "1234jiangdu",
+        "verified": false
+      }
+    ]
+  }
+}

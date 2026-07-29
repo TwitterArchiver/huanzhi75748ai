@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040943515623104990",
+    "created_at": "2026-04-06T02:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040984947255861507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013251360901287936",
+          "start": 0,
+          "username": "knk0223ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040984947255861507",
+    "in_reply_to_user_id": "2013251360901287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040943515623104990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knk0223ff 是啊，有一个自己的家已经成为我的执念了。我只是想要一个安心的能被接纳的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040943515623104990",
+        "created_at": "2026-04-06T02:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040984947255861507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013251360901287936",
+              "start": 0,
+              "username": "knk0223ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040984947255861507",
+        "in_reply_to_user_id": "2013251360901287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040943515623104990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knk0223ff 是啊，有一个自己的家已经成为我的执念了。我只是想要一个安心的能被接纳的地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013251360901287936",
+        "conversation_id": "2040943515623104990",
+        "created_at": "2026-04-06T00:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T01:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040943515623104990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040943515623104990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "听到一段音频“人在痛苦的时候会说 我好想回家 但如果家也是一个痛苦的地方 你会说什么呢” 以前的时候 我总说我好想死啊 但现在自己住了 给自己了一个新的家 现在我也可以说好想回家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1396,
+          "like_count": 28163,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 5791
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:05:09.000Z",
+        "description": "新号 大号炸了！我有精神病/07/intp/🚪288\n我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "2013251360901287936",
+        "location": "地狱",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2037947148038549608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033560847952523264/S4YtVLzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 44,
+          "like_count": 411,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 298
+        },
+        "username": "knk0223ff",
+        "verified": false
+      }
+    ]
+  }
+}

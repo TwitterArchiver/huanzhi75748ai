@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928938940054253570"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1928938944378581099",
+    "created_at": "2025-05-31T22:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T23:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928938944378581099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MrfxImRZyQ",
+          "end": 35,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1928938944378581099/photo/1",
+          "media_key": "3_1928938940054253570",
+          "start": 12,
+          "url": "https://t.co/MrfxImRZyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928938944378581099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不能割手我就割腿🦵🏻。 https://t.co/MrfxImRZyQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928938944378581099].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928938944378581099",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928938944378581099"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928938940054253570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsT3vvtaMAI6DHU.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1344,
+          "like_count": 21721,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 4189
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1851161696368533818",
+    "created_at": "2024-10-29T07:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T08:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851161696368533818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851161696368533818",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850612765289009488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: 你以为你割了满手的疤大家就会宽容待你吗？\n事实上不认识你的人只觉得你恐怖，讨厌你的人只觉得你是恐怖的婊子。\n如果你是女同的话理解你的人会多一些，但要是异性恋你就完蛋了\n讨厌你的无论男女都会觉得你是“极端到用割手来勾引男人的恐怖婊子”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1851161696368533818",
+        "created_at": "2024-10-29T07:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T08:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851161696368533818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851161696368533818",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850612765289009488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: 你以为你割了满手的疤大家就会宽容待你吗？\n事实上不认识你的人只觉得你恐怖，讨厌你的人只觉得你是恐怖的婊子。\n如果你是女同的话理解你的人会多一些，但要是异性恋你就完蛋了\n讨厌你的无论男女都会觉得你是“极端到用割手来勾引男人的恐怖婊子”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1850612765289009488",
+        "created_at": "2024-10-27T18:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T19:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850612765289009488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850612765289009488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 23800,
+          "like_count": 529,
+          "quote_count": 16,
+          "reply_count": 34,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "你以为你割了满手的疤大家就会宽容待你吗？\n事实上不认识你的人只觉得你恐怖，讨厌你的人只觉得你是恐怖的婊子。\n如果你是女同的话理解你的人会多一些，但要是异性恋你就完蛋了\n讨厌你的无论男女都会觉得你是“极端到用割手来勾引男人的恐怖婊子”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1258,
+          "like_count": 18086,
+          "listed_count": 1,
+          "tweet_count": 3467
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24636,
+          "following_count": 925,
+          "like_count": 13607,
+          "listed_count": 36,
+          "tweet_count": 13835
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

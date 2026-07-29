@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025889829066784768"
+      ],
+      "media_source_tweet_id": [
+        "2025889831369523617"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2026217903289426237",
+    "created_at": "2026-02-24T08:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026217903289426237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906024483431047168",
+          "start": 3,
+          "username": "Chudokusho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/27js9h44pk",
+          "end": 60,
+          "expanded_url": "https://x.com/Chudokusho/status/2025889831369523617/photo/1",
+          "media_key": "3_2025889829066784768",
+          "start": 37,
+          "url": "https://t.co/27js9h44pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026217903289426237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025889831369523617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chudokusho: 假装不知道自己这辈子要完了 继续玩手机。 https://t.co/27js9h44pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2025889829066784768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1oEN-aQAAcZrp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025889829066784768"
+          ],
+          "media_source_tweet_id": [
+            "2025889831369523617"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2026217903289426237",
+        "created_at": "2026-02-24T08:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026217903289426237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906024483431047168",
+              "start": 3,
+              "username": "Chudokusho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27js9h44pk",
+              "end": 60,
+              "expanded_url": "https://x.com/Chudokusho/status/2025889831369523617/photo/1",
+              "media_key": "3_2025889829066784768",
+              "start": 37,
+              "url": "https://t.co/27js9h44pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026217903289426237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025889831369523617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chudokusho: 假装不知道自己这辈子要完了 继续玩手机。 https://t.co/27js9h44pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025889829066784768"
+          ]
+        },
+        "author_id": "1906024483431047168",
+        "conversation_id": "2025889831369523617",
+        "created_at": "2026-02-23T11:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025889831369523617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/27js9h44pk",
+              "end": 44,
+              "expanded_url": "https://x.com/Chudokusho/status/2025889831369523617/photo/1",
+              "media_key": "3_2025889829066784768",
+              "start": 21,
+              "url": "https://t.co/27js9h44pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025889831369523617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13831,
+          "like_count": 942,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "假装不知道自己这辈子要完了 继续玩手机。 https://t.co/27js9h44pk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1317,
+          "like_count": 22785,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 4821
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你 @Chudokushowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "Chudokushowo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chudokusho1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chudokusho1",
+                "start": 0,
+                "url": "https://t.co/B2IXaTpzxd"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "匿名信箱",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021836144829509635/rWlwX03t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 75,
+          "like_count": 3147,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 2302
+        },
+        "url": "https://t.co/B2IXaTpzxd",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

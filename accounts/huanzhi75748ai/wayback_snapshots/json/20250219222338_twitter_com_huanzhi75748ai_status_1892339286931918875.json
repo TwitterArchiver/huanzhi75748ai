@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892087005666058573",
+    "created_at": "2025-02-19T22:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892339286931918875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764866850847080448",
+          "start": 0,
+          "username": "Takemet0theMo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892339286931918875",
+    "in_reply_to_user_id": "1764866850847080448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892087005666058573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takemet0theMo0n 轻轻松松美得一如既往🙀🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892086996270776320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkILGTDbAAAmU6h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892087005666058573",
+        "created_at": "2025-02-19T22:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892339286931918875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764866850847080448",
+              "start": 0,
+              "username": "Takemet0theMo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892339286931918875",
+        "in_reply_to_user_id": "1764866850847080448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892087005666058573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takemet0theMo0n 轻轻松松美得一如既往🙀🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892086996270776320"
+          ]
+        },
+        "author_id": "1764866850847080448",
+        "conversation_id": "1892087005666058573",
+        "created_at": "2025-02-19T05:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T06:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892087005666058573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXTI7GEur9",
+              "end": 29,
+              "expanded_url": "https://x.com/Takemet0theMo0n/status/1892087005666058573/photo/1",
+              "media_key": "3_1892086996270776320",
+              "start": 6,
+              "url": "https://t.co/QXTI7GEur9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892087005666058573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4653,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我剪头发了 https://t.co/QXTI7GEur9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1262,
+          "like_count": 19545,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3794
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T04:14:15.000Z",
+        "description": "冷也好热也好活着就好@yongchuyuyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "yongchuyuyu"
+              }
+            ]
+          }
+        },
+        "id": "1764866850847080448",
+        "name": "食色性也",
+        "pinned_tweet_id": "1790807497978298649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891801777168908288/tZDjW7F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 104,
+          "like_count": 1891,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "Takemet0theMo0n",
+        "verified": false
+      }
+    ]
+  }
+}

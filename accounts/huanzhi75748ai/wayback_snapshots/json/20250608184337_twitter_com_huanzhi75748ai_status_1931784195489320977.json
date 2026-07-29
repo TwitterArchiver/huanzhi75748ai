@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1931784195489320977",
+    "created_at": "2025-06-08T18:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T19:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931784195489320977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhou1919456789…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/zhou1919456789/status/1931326829748748736",
+          "start": 2,
+          "url": "https://t.co/A24YmyhAq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931784195489320977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931326829748748736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "医 https://t.co/A24YmyhAq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1931326827152519168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1zhEWbsAAvunN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1931784195489320977",
+        "created_at": "2025-06-08T18:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T19:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931784195489320977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhou1919456789…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/zhou1919456789/status/1931326829748748736",
+              "start": 2,
+              "url": "https://t.co/A24YmyhAq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931784195489320977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931326829748748736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医 https://t.co/A24YmyhAq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931326827152519168"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1931326829748748736",
+        "created_at": "2025-06-07T12:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931326829748748736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9V1qkI7jT",
+              "end": 38,
+              "expanded_url": "https://x.com/zhou1919456789/status/1931326829748748736/photo/1",
+              "media_key": "3_1931326827152519168",
+              "start": 15,
+              "url": "https://t.co/g9V1qkI7jT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931326829748748736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 56811,
+          "like_count": 356,
+          "quote_count": 13,
+          "reply_count": 148,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "学什么专业让你感觉死路一条？ https://t.co/g9V1qkI7jT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1345,
+          "like_count": 21730,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 4188
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中学生/欢迎互fo/是明日美/",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 655,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 485
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

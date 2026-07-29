@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1809876682129715315",
+    "created_at": "2024-07-07T10:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T11:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809897366289523100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563559065078595589",
+          "start": 0,
+          "username": "skmt26628703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809897366289523100",
+    "in_reply_to_user_id": "1563559065078595589",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809876682129715315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmt26628703 好喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1809876682129715315",
+        "created_at": "2024-07-07T10:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T11:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809897366289523100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563559065078595589",
+              "start": 0,
+              "username": "skmt26628703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809897366289523100",
+        "in_reply_to_user_id": "1563559065078595589",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809876682129715315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skmt26628703 好喝！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809876635975622656"
+          ]
+        },
+        "author_id": "1563559065078595589",
+        "conversation_id": "1809876682129715315",
+        "created_at": "2024-07-07T09:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T10:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809876682129715315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2KCcEJsDub",
+              "end": 39,
+              "expanded_url": "https://twitter.com/skmt26628703/status/1809876682129715315/photo/1",
+              "media_key": "3_1809876635975622656",
+              "start": 16,
+              "url": "https://t.co/2KCcEJsDub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809876682129715315",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘了是谁说白的好喝所以买来试试 https://t.co/2KCcEJsDub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1191,
+          "like_count": 13440,
+          "listed_count": 1,
+          "tweet_count": 2509
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T16:08:39.000Z",
+        "description": "活着的尸体/可以叫我小鸟/想要很多朋友 /互 fo 大欢迎！！🚪168 不当免费陪聊！！/Tg https://t.co/SAyu6fypz0 /@KandaceOma96973是我的发疯自留地，觉得跟我关系好可以申请。/ @BestHooker4Ever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KandaceOma96973"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "BestHooker4Ever"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Sakamoto233",
+                "end": 71,
+                "expanded_url": "https://t.me/Sakamoto233",
+                "start": 48,
+                "url": "https://t.co/SAyu6fypz0"
+              }
+            ]
+          }
+        },
+        "id": "1563559065078595589",
+        "name": "小戈鳥雨",
+        "pinned_tweet_id": "1805077019040055418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712597342103412736/1Q3RWfh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 268,
+          "like_count": 27595,
+          "listed_count": 5,
+          "tweet_count": 5259
+        },
+        "username": "skmt26628703",
+        "verified": false
+      }
+    ]
+  }
+}

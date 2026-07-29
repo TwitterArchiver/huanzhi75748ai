@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043873385508417536"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043873918721929434",
+    "created_at": "2026-04-14T02:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043873926766571570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U55pf58c4R",
+          "end": 93,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2043873926766571570/photo/1",
+          "media_key": "3_2043873385508417536",
+          "start": 70,
+          "url": "https://t.co/U55pf58c4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043873926766571570",
+    "in_reply_to_user_id": "1493643433499582474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043873921615966382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以当时我真的不知道该用什么表情面对这个场景了。我只能感觉到自己的嘴角是扬起的。幸好戴着口罩，不然人家家属肯定找我事。大概可能是这种表情： https://t.co/U55pf58c4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "3_2043873385508417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1MA-UasAAPcsx.png",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043873385508417536"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043873918721929434",
+        "created_at": "2026-04-14T02:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043873926766571570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U55pf58c4R",
+              "end": 93,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2043873926766571570/photo/1",
+              "media_key": "3_2043873385508417536",
+              "start": 70,
+              "url": "https://t.co/U55pf58c4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043873926766571570",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043873921615966382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以当时我真的不知道该用什么表情面对这个场景了。我只能感觉到自己的嘴角是扬起的。幸好戴着口罩，不然人家家属肯定找我事。大概可能是这种表情： https://t.co/U55pf58c4R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043873918721929434",
+        "created_at": "2026-04-14T02:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043873921615966382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043873921615966382",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043873918721929434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前实习时候，一个浑身是血的车祸伤病人来拍DR。受伤很重他也没什么钱，可能精神有点恍惚了。不谈车祸外伤，一直在说他跛了好久的脚。什么脚治不好车祸也治不好只能花钱活着有什么用，不花钱了直接死掉。我其实很想鼓掌因为我觉得他说的很棒很慷慨激昂。但是对着一个在血里崩溃的人好像不应该鼓掌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1396,
+          "like_count": 29366,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6027
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

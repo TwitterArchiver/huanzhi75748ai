@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1867111103190516070",
+    "created_at": "2024-12-12T07:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T08:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867111103190516070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quan37465/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/quan37465/status/1866789295136313680",
+          "start": 3,
+          "url": "https://t.co/Ydw1TCisD2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867111103190516070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866789295136313680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呵呵 https://t.co/Ydw1TCisD2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1867111103190516070",
+        "created_at": "2024-12-12T07:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867111103190516070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quan37465/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/quan37465/status/1866789295136313680",
+              "start": 3,
+              "url": "https://t.co/Ydw1TCisD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867111103190516070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866789295136313680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呵呵 https://t.co/Ydw1TCisD2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644320154954924033",
+        "conversation_id": "1866789295136313680",
+        "created_at": "2024-12-11T10:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866789295136313680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866789295136313680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 87615,
+          "like_count": 379,
+          "quote_count": 15,
+          "reply_count": 68,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "整天都说自己拜金 其实背地里都是倒贴  贴的还是河童"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1263,
+          "like_count": 19652,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 3930
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T12:44:22.000Z",
+        "description": "",
+        "id": "1644320154954924033",
+        "name": "泉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829341815834578944/cKD7pdjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24279,
+          "following_count": 263,
+          "like_count": 6659,
+          "listed_count": 39,
+          "media_count": 472,
+          "tweet_count": 6239
+        },
+        "username": "quan37465",
+        "verified": false
+      }
+    ]
+  }
+}

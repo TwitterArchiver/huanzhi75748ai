@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2039617074809757775",
+    "created_at": "2026-04-02T13:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039703944117842166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898370048542359552",
+          "start": 0,
+          "username": "hahayaaai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039703944117842166",
+    "in_reply_to_user_id": "1898370048542359552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039617074809757775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahayaaai 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2039617074809757775",
+        "created_at": "2026-04-02T13:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039703944117842166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898370048542359552",
+              "start": 0,
+              "username": "hahayaaai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039703944117842166",
+        "in_reply_to_user_id": "1898370048542359552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039617074809757775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahayaaai 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898370048542359552",
+        "conversation_id": "2039617074809757775",
+        "created_at": "2026-04-02T08:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039617074809757775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039617074809757775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求不吃压力教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1392,
+          "like_count": 27300,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 5637
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T13:48:00.000Z",
+        "description": "碎碎念|负能量偏多|感到不安所以经常删帖 没有任何恶意｜喜欢发昆虫以及到处留言｜关注你因为我觉得你是个很好的很有趣的人｜欢迎互fo和我聊天！",
+        "id": "1898370048542359552",
+        "name": "咪咪虾条",
+        "pinned_tweet_id": "2018344637614952613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022745772090085376/bHFzLJx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 131,
+          "like_count": 5959,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 482
+        },
+        "username": "hahayaaai",
+        "verified": false
+      }
+    ]
+  }
+}

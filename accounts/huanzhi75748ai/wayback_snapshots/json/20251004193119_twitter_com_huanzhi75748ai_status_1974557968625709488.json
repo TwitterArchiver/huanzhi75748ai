@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974557955338227712"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1974557968625709488",
+    "created_at": "2025-10-04T19:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T20:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974557968625709488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FJTDTmzSwD",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1974557968625709488/photo/1",
+          "media_key": "3_1974557955338227712",
+          "start": 14,
+          "url": "https://t.co/FJTDTmzSwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974557968625709488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闺昨晚在新买的椅子上睡着了 https://t.co/FJTDTmzSwD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974557968625709488].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974557968625709488",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974557968625709488"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974557955338227712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cJ_6xbUAAR2tV.jpg",
+        "width": 1483
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1346,
+          "like_count": 21715,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 4373
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

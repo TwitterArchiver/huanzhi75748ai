@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2077751257713020974",
+    "created_at": "2026-07-16T13:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077751257713020974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zjl66667777/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zjl66667777/status/2077317261883502868",
+          "start": 4,
+          "url": "https://t.co/Z7VRo11meV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077751257713020974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077317261883502868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/Z7VRo11meV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2077751257713020974",
+        "created_at": "2026-07-16T13:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077751257713020974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zjl66667777/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zjl66667777/status/2077317261883502868",
+              "start": 4,
+              "url": "https://t.co/Z7VRo11meV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077751257713020974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077317261883502868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/Z7VRo11meV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947793687158603778",
+        "conversation_id": "2077317261883502868",
+        "created_at": "2026-07-15T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077317261883502868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077317261883502868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 190302,
+          "like_count": 1020,
+          "quote_count": 5,
+          "reply_count": 636,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "看片的时候这网就没好过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31800,
+          "listed_count": 2,
+          "media_count": 585,
+          "tweet_count": 6719
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T22:59:49.000Z",
+        "description": "重生号 | 174 | 大学在读 | 关注我的私信都会回复",
+        "id": "1947793687158603778",
+        "location": "有🚪",
+        "name": "念念",
+        "pinned_tweet_id": "2043241270768988303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959636379878805504/GFLrcehn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5289,
+          "following_count": 85,
+          "like_count": 4711,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "zjl66667777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1943969350052093952"
+      ],
+      "media_source_tweet_id": [
+        "1944056153572618574"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1476121747724255232",
+          "name": "その着せ替え人形は恋をする"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997412845441724716",
+    "created_at": "2025-12-06T21:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T22:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997412845441724716"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 111,
+          "normalized_text": "Marin",
+          "probability": 0.4489,
+          "start": 107,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "972306037729628161",
+          "start": 3,
+          "username": "bestmangapost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NkC762xKTT",
+          "end": 136,
+          "expanded_url": "https://x.com/kisekoi_anime/status/1944056153572618574/video/1",
+          "media_key": "13_1943969350052093952",
+          "start": 113,
+          "url": "https://t.co/NkC762xKTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997412845441724716",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 513
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997179011479622108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bestmangapost: The new ending of My dress up darling is so perfect,love the visuals and new designs of Marin\nhttps://t.co/NkC762xKTT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90090,
+        "height": 1080,
+        "media_key": "13_1943969350052093952",
+        "preview_image_url": "https://pbs.twimg.com/media/GvpeYP3bsAIdSl3.png",
+        "public_metrics": {
+          "view_count": 1511043
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943969350052093952/vid/avc1/480x270/o5Mzb1yPqqsf_Q0U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943969350052093952/vid/avc1/640x360/vp4GalSZHQlXXqD2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943969350052093952/vid/avc1/1280x720/PbzNeNLl-eNUF9QU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943969350052093952/pl/T3GJXYUCoLiowAZ5.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943969350052093952"
+          ],
+          "media_source_tweet_id": [
+            "1944056153572618574"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121747724255232",
+              "name": "その着せ替え人形は恋をする"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997412845441724716",
+        "created_at": "2025-12-06T21:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T22:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997412845441724716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "Marin",
+              "probability": 0.4489,
+              "start": 107,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "972306037729628161",
+              "start": 3,
+              "username": "bestmangapost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkC762xKTT",
+              "end": 136,
+              "expanded_url": "https://x.com/kisekoi_anime/status/1944056153572618574/video/1",
+              "media_key": "13_1943969350052093952",
+              "start": 113,
+              "url": "https://t.co/NkC762xKTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997412845441724716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 513
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997179011479622108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bestmangapost: The new ending of My dress up darling is so perfect,love the visuals and new designs of Marin\nhttps://t.co/NkC762xKTT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943969350052093952"
+          ],
+          "media_source_tweet_id": [
+            "1944056153572618574"
+          ]
+        },
+        "author_id": "972306037729628161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121747724255232",
+              "name": "その着せ替え人形は恋をする"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997179011479622108",
+        "created_at": "2025-12-06T05:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997179011479622108"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 92,
+              "normalized_text": "Marin",
+              "probability": 0.4394,
+              "start": 88,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkC762xKTT",
+              "end": 117,
+              "expanded_url": "https://x.com/kisekoi_anime/status/1944056153572618574/video/1",
+              "media_key": "13_1943969350052093952",
+              "start": 94,
+              "url": "https://t.co/NkC762xKTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997179011479622108",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1126,
+          "impression_count": 80686,
+          "like_count": 6023,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 513
+        },
+        "reply_settings": "everyone",
+        "text": "The new ending of My dress up darling is so perfect,love the visuals and new designs of Marin\nhttps://t.co/NkC762xKTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1340,
+          "like_count": 21962,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4536
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-10T02:59:58.000Z",
+        "description": "I post clips of what im watching/playing.Not spoiler free. I dont own any of the content shown.          \nSponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "972306037729628161",
+        "name": "Kaneki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822469406129086464/auzFDal-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46531,
+          "following_count": 1419,
+          "like_count": 56136,
+          "listed_count": 144,
+          "media_count": 6953,
+          "tweet_count": 21056
+        },
+        "username": "bestmangapost",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2045746214457717084",
+    "created_at": "2026-04-19T09:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045802769878335827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        },
+        {
+          "end": 25,
+          "id": "1961098721963487232",
+          "start": 13,
+          "username": "PuffNeblina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045802769878335827",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045796096484737032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 @PuffNeblina 我的app版不能双取。感觉比网页版少点功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2045746214457717084",
+        "created_at": "2026-04-19T09:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045802769878335827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            },
+            {
+              "end": 25,
+              "id": "1961098721963487232",
+              "start": 13,
+              "username": "PuffNeblina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045802769878335827",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045796096484737032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 @PuffNeblina 我的app版不能双取。感觉比网页版少点功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2045746214457717084",
+        "created_at": "2026-04-19T09:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045796096484737032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961098721963487232",
+              "start": 0,
+              "username": "PuffNeblina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045796096484737032",
+        "in_reply_to_user_id": "1961098721963487232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045746214457717084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PuffNeblina 有什么说法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1390,
+          "like_count": 29539,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 6060
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只碎嘴且成分复杂的麻雀 ｜ all of love \n家有二孩 英短叫十一 彩狸叫七七\n善用屏蔽 ｜ 直男 ｜ 互关可扩联系 :P\n欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/ZNwVVb7OJq"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "2038646063733907850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 162,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 4634
+        },
+        "url": "https://t.co/ZNwVVb7OJq",
+        "username": "lingopark21",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T16:09:18.000Z",
+        "description": "来色色了\nhttps://t.co/8RnqZPeHL9\n小芙的提问箱↑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puff53754",
+                "end": 28,
+                "expanded_url": "https://ngl.link/puff53754",
+                "start": 5,
+                "url": "https://t.co/8RnqZPeHL9"
+              }
+            ]
+          }
+        },
+        "id": "1961098721963487232",
+        "name": "Puff",
+        "pinned_tweet_id": "1964242781645287888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961098841173929986/2qoGR-ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 11,
+          "like_count": 24,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 330
+        },
+        "username": "PuffNeblina",
+        "verified": false
+      }
+    ]
+  }
+}

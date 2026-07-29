@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1803026478235357541",
+    "created_at": "2024-06-18T14:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T15:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803077599146422429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781022238516613120",
+          "start": 0,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803077599146422429",
+    "in_reply_to_user_id": "1781022238516613120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803077548945162340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamo_19970327 好滴呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1803026478235357541",
+        "created_at": "2024-06-18T14:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803077599146422429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781022238516613120",
+              "start": 0,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803077599146422429",
+        "in_reply_to_user_id": "1781022238516613120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803077548945162340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamo_19970327 好滴呀"
+      },
+      {
+        "attachments": {},
+        "author_id": "1781022238516613120",
+        "conversation_id": "1803026478235357541",
+        "created_at": "2024-06-18T14:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803077548945162340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803077548945162340",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803072306471698844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 提前把相机和闪光灯开好放在支架上就好啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 1150,
+          "like_count": 12189,
+          "listed_count": 1,
+          "tweet_count": 2242
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "shtwt/LISA/SKZ/Lilies/STAY/CN/EN",
+        "id": "1781022238516613120",
+        "location": "0.1km",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1794754977719841077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799471101531025408/dqIFAKTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 218,
+          "like_count": 3332,
+          "listed_count": 0,
+          "tweet_count": 1987
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

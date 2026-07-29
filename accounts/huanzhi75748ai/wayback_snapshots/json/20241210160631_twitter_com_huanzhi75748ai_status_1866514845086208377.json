@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1866428158381343110",
+    "created_at": "2024-12-10T16:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T17:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866514845086208377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568585483814567939",
+          "start": 0,
+          "username": "dianziemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866514845086208377",
+    "in_reply_to_user_id": "1568585483814567939",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866514476465614850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianziemo 😚😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1866428158381343110",
+        "created_at": "2024-12-10T16:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T17:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866514845086208377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568585483814567939",
+              "start": 0,
+              "username": "dianziemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866514845086208377",
+        "in_reply_to_user_id": "1568585483814567939",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866514476465614850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianziemo 😚😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568585483814567939",
+        "conversation_id": "1866428158381343110",
+        "created_at": "2024-12-10T16:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T17:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866514476465614850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866514476465614850",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866509977806127251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 哦耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1265,
+          "like_count": 19583,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 3915
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T13:01:49.000Z",
+        "description": "我有精神暴漏癖    里世界@ic443_0401",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "ic443_0401"
+              }
+            ]
+          }
+        },
+        "id": "1568585483814567939",
+        "location": "ic443",
+        "name": "电子恶魔",
+        "pinned_tweet_id": "1863613344269353415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797936709549871106/Tbq8jyQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5575,
+          "following_count": 1217,
+          "like_count": 13813,
+          "listed_count": 10,
+          "media_count": 730,
+          "tweet_count": 21747
+        },
+        "username": "dianziemo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836106332438728704"
+      ],
+      "media_source_tweet_id": [
+        "1836106335525736851"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1836408635624488998",
+    "created_at": "2024-09-18T14:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T15:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836408635624488998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1566430838434430977",
+          "start": 3,
+          "username": "fallenrika1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gczgqvtfgj",
+          "end": 63,
+          "expanded_url": "https://twitter.com/fallenrika1/status/1836106335525736851/photo/1",
+          "media_key": "3_1836106332438728704",
+          "start": 40,
+          "url": "https://t.co/gCZGQVtfGj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836408635624488998",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836106335525736851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fallenrika1: 想被带我一起逃跑、救我出去的人关进新的牢笼🤤 https://t.co/gCZGQVtfGj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_1836106332438728704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXso-zLbEAAeki3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836106332438728704"
+          ],
+          "media_source_tweet_id": [
+            "1836106335525736851"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1836408635624488998",
+        "created_at": "2024-09-18T14:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T15:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836408635624488998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1566430838434430977",
+              "start": 3,
+              "username": "fallenrika1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gczgqvtfgj",
+              "end": 63,
+              "expanded_url": "https://twitter.com/fallenrika1/status/1836106335525736851/photo/1",
+              "media_key": "3_1836106332438728704",
+              "start": 40,
+              "url": "https://t.co/gCZGQVtfGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836408635624488998",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836106335525736851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fallenrika1: 想被带我一起逃跑、救我出去的人关进新的牢笼🤤 https://t.co/gCZGQVtfGj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836106332438728704"
+          ]
+        },
+        "author_id": "1566430838434430977",
+        "conversation_id": "1836106335525736851",
+        "created_at": "2024-09-17T18:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T19:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836106335525736851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gczgqvtfgj",
+              "end": 46,
+              "expanded_url": "https://twitter.com/fallenrika1/status/1836106335525736851/photo/1",
+              "media_key": "3_1836106332438728704",
+              "start": 23,
+              "url": "https://t.co/gCZGQVtfGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836106335525736851",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想被带我一起逃跑、救我出去的人关进新的牢笼🤤 https://t.co/gCZGQVtfGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1238,
+          "like_count": 15734,
+          "listed_count": 1,
+          "tweet_count": 3083
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "燕子来时新社，梨花落后清明",
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "雨淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722424196360507392/OB21JpqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 454,
+          "like_count": 23974,
+          "listed_count": 1,
+          "tweet_count": 1909
+        },
+        "username": "fallenrika1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835638847226642822",
+    "created_at": "2024-09-16T15:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T16:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835709389082431796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "snake_lesyeux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835709389082431796",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835638847226642822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake_lesyeux 找人投x加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835638847226642822",
+        "created_at": "2024-09-16T15:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T16:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835709389082431796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "snake_lesyeux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835709389082431796",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835638847226642822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake_lesyeux 找人投x加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "1835638847226642822",
+        "created_at": "2024-09-16T11:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T12:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835638847226642822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835638847226642822",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能成为大手子，想当大博主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1235,
+          "like_count": 15556,
+          "listed_count": 1,
+          "tweet_count": 3032
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "蛇瞳，04，mtf mtx流动，双相精分adhd。",
+        "id": "1754871332091682817",
+        "name": "因为这一切都不再真实",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815478737212932096/oO6rsR8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 767,
+          "like_count": 35141,
+          "listed_count": 0,
+          "tweet_count": 2788
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      }
+    ]
+  }
+}

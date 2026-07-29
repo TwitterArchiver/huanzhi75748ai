@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1914006248929821058",
+    "created_at": "2025-04-20T18:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T19:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914028484524986646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1536245915559677952",
+          "start": 0,
+          "username": "A601993078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914028484524986646",
+    "in_reply_to_user_id": "1536245915559677952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914006248929821058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A601993078 河南人太媚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1914006248929821058",
+        "created_at": "2025-04-20T18:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T19:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914028484524986646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1536245915559677952",
+              "start": 0,
+              "username": "A601993078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914028484524986646",
+        "in_reply_to_user_id": "1536245915559677952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914006248929821058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A601993078 河南人太媚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536245915559677952",
+        "conversation_id": "1914006248929821058",
+        "created_at": "2025-04-20T17:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914006248929821058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914006248929821058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人感觉河南入很可爱吗。。？拾走井盖的小动作就像偷偷叼走小鱼干的小猫。。。可能不知道小鱼干为什么晒在那里但小猫知道它需要这个。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1909297170261360648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1306,
+          "like_count": 20745,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 4044
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T07:15:52.000Z",
+        "description": "已经对任何事丧失了激情，我的心已经死了。主要记录生活了，买外烟可以私信我。",
+        "id": "1536245915559677952",
+        "location": "山东",
+        "name": "连落星",
+        "pinned_tweet_id": "1902379826171838727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797646287577440256/Gx7FyMUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1256,
+          "like_count": 94683,
+          "listed_count": 3,
+          "media_count": 6818,
+          "tweet_count": 27878
+        },
+        "username": "A601993078",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1936828161381343642",
+    "created_at": "2025-06-22T20:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T21:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936883560570650860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485268522074730497",
+          "start": 0,
+          "username": "jiulin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936883560570650860",
+    "in_reply_to_user_id": "1485268522074730497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936828161381343642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiulin2333 這樣好萌啊哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936828158109499392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuD-8rMXQAAiw_2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1936828161381343642",
+        "created_at": "2025-06-22T20:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T21:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936883560570650860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485268522074730497",
+              "start": 0,
+              "username": "jiulin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936883560570650860",
+        "in_reply_to_user_id": "1485268522074730497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936828161381343642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiulin2333 這樣好萌啊哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936828158109499392"
+          ]
+        },
+        "author_id": "1485268522074730497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1936828161381343642",
+        "created_at": "2025-06-22T16:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936828161381343642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlJpBSmbbh",
+              "end": 57,
+              "expanded_url": "https://x.com/jiulin2333/status/1936828161381343642/photo/1",
+              "media_key": "3_1936828158109499392",
+              "start": 34,
+              "url": "https://t.co/LlJpBSmbbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936828161381343642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我爹将他不要的华为gt3手表给我后，我很快的给它整成了这样\n:↓ https://t.co/LlJpBSmbbh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1356,
+          "like_count": 21934,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 4222
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。/\nenfp及infp/arcaea/ocart/喜欢水推文\n将来art相关将放在  #JiuLynn_ART",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 60,
+                "tag": "JiuLynn_ART"
+              }
+            ]
+          }
+        },
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910639864951037953/BFY2j0rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 3101,
+          "like_count": 29048,
+          "listed_count": 6,
+          "media_count": 1672,
+          "tweet_count": 22253
+        },
+        "username": "jiulin2333",
+        "verified": false
+      }
+    ]
+  }
+}

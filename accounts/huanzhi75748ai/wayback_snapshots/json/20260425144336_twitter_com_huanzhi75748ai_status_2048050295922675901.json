@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2048034701945037175",
+    "created_at": "2026-04-25T14:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048050295922675901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762470904829796352",
+          "start": 0,
+          "username": "I2_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048050295922675901",
+    "in_reply_to_user_id": "1762470904829796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048034701945037175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I2_1222 你都玩啥？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2048034701945037175",
+        "created_at": "2026-04-25T14:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048050295922675901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762470904829796352",
+              "start": 0,
+              "username": "I2_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048050295922675901",
+        "in_reply_to_user_id": "1762470904829796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048034701945037175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I2_1222 你都玩啥？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762470904829796352",
+        "conversation_id": "2048034701945037175",
+        "created_at": "2026-04-25T13:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048034701945037175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048034701945037175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁过会打游戏呀  我过会要去网吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1391,
+          "like_count": 29942,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 6157
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:33:13.000Z",
+        "description": "我的手臂铺满悲伤",
+        "id": "1762470904829796352",
+        "location": "死了",
+        "name": "12^",
+        "pinned_tweet_id": "1961401123690221671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997557035936653312/5g-HnECY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 3252,
+          "like_count": 142261,
+          "listed_count": 10,
+          "media_count": 1493,
+          "tweet_count": 18985
+        },
+        "username": "I2_1222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994503455764090881",
+        "7_1994503461174743044"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994503496780189872",
+    "created_at": "2025-11-28T20:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T21:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994503496780189872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6CbXiJMyaJ",
+          "end": 156,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1994503496780189872/video/1",
+          "media_key": "3_1994503455764090881",
+          "start": 133,
+          "url": "https://t.co/6CbXiJMyaJ"
+        },
+        {
+          "display_url": "pic.x.com/6CbXiJMyaJ",
+          "end": 156,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1994503496780189872/video/1",
+          "media_key": "7_1994503461174743044",
+          "start": 133,
+          "url": "https://t.co/6CbXiJMyaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994503496780189872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我曾经是坚定的猫派。我认为猫爱干净长的好看又省事，狗很臭经常要遛很麻烦很脏吃得多叫的也烦。现在都怪这个臭狗坏狗笨狗丑狗老狗，我莫名其妙地感觉猫又装又不真诚，就喜欢狗这种臭味。。。好吧其实我都喜欢，只是得不到我就要骂，因为我母亲不让养猫她说猫的尾巴摆动起来像蛇她害怕 https://t.co/6CbXiJMyaJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994503496780189872].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994503496780189872",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994503496780189872"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1381,
+        "media_key": "3_1994503455764090881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63mU2AbkAEDm6g.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 3343,
+        "height": 1280,
+        "media_key": "7_1994503461174743044",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994503461174743044/pu/img/fcrraTMyRqq2rXvJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994503461174743044/pu/vid/avc1/320x568/wgecoEDPbmMiSZTl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994503461174743044/pu/vid/avc1/480x852/jC1iCoevgabALFea.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994503461174743044/pu/vid/avc1/720x1280/aOFDD7QcnyFb4drr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994503461174743044/pu/pl/qFOf2Fi9ZvAQKfw9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1339,
+          "like_count": 21864,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4492
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

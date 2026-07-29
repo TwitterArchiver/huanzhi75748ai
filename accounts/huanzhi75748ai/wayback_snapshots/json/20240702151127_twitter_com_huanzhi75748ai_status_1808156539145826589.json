@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808156539145826589",
+    "created_at": "2024-07-02T15:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T16:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808156539145826589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "overspeedwiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808156539145826589",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807570483245895918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overspeedwiki: 为什么要割？不能好好当个正常人吗？妈妈好担心你,你这样以后有什么能力养活妈妈？！！你要是再这样妈妈就不理你了…… 怎么不说话了,嗯？是谁教你不尊重人的,是不是网上那些不正经的人教的？是不是？！你说话啊！ ……早知道不让你碰电子产品了,为什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808156539145826589",
+        "created_at": "2024-07-02T15:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T16:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808156539145826589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1747138924450029568",
+              "start": 3,
+              "username": "overspeedwiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808156539145826589",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807570483245895918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overspeedwiki: 为什么要割？不能好好当个正常人吗？妈妈好担心你,你这样以后有什么能力养活妈妈？！！你要是再这样妈妈就不理你了…… 怎么不说话了,嗯？是谁教你不尊重人的,是不是网上那些不正经的人教的？是不是？！你说话啊！ ……早知道不让你碰电子产品了,为什么…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1807570483245895918",
+        "created_at": "2024-07-01T00:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T01:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807570483245895918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807570483245895918",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4553,
+          "like_count": 93,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要割？不能好好当个正常人吗？妈妈好担心你,你这样以后有什么能力养活妈妈？！！你要是再这样妈妈就不理你了…… 怎么不说话了,嗯？是谁教你不尊重人的,是不是网上那些不正经的人教的？是不是？！你说话啊！ ……早知道不让你碰电子产品了,为什么还不说话,妈妈因为你都要疯了！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知\n傻逼@icnlovecn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "icnlovecn"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1179,
+          "like_count": 12955,
+          "listed_count": 1,
+          "tweet_count": 2362
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "🚀推荐我自己长期使用的喵叽VPN\n加速器 高速稳定强推! 🔗：https://t.co/7TW0NiCjw8\nR18/G 游戏分享:\nhttps://t.co/OXiOIO9QLM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=Y3gp0ruG",
+                "start": 31,
+                "url": "https://t.co/7TW0NiCjw8"
+              },
+              {
+                "display_url": "58game.xyz",
+                "end": 90,
+                "expanded_url": "https://58game.xyz/",
+                "start": 67,
+                "url": "https://t.co/OXiOIO9QLM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/1lgsYKvyJq"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "name": "overspeedwiki.",
+        "pinned_tweet_id": "1807412718380720183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807010733680627712/AdpxU3mW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5834,
+          "following_count": 3046,
+          "like_count": 1966,
+          "listed_count": 6,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/1lgsYKvyJq",
+        "username": "overspeedwiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1836383995447382353",
+    "created_at": "2024-09-18T14:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T15:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836408370242158607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "gasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836408370242158607",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836383995447382353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gasuiyuno 帅帅帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1836383995447382353",
+        "created_at": "2024-09-18T14:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T15:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836408370242158607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "gasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836408370242158607",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836383995447382353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gasuiyuno 帅帅帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1836383995447382353",
+        "created_at": "2024-09-18T12:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T13:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836383995447382353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gasuiyuno/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gasuiyuno/status/1836375688561201295",
+              "start": 24,
+              "url": "https://t.co/qldfeFo6zN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836383995447382353",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836375688561201295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么不给我点赞 我就这么丑吗 我真的要破防了 https://t.co/qldfeFo6zN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1238,
+          "like_count": 15731,
+          "listed_count": 1,
+          "tweet_count": 3082
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|这是我的日记|互关欢迎|od会发疯|对不起所有人‖🚪2000RMB 附赠半个我的右耳 ‖\n药物交流群tg:https://t.co/iZ85HBOkxO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYA000",
+                "end": 115,
+                "expanded_url": "http://t.me/OLAIYA000",
+                "start": 92,
+                "url": "https://t.co/iZ85HBOkxO"
+              }
+            ]
+          }
+        },
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟里森堡卢伦贝格精神病保护协会✟",
+        "pinned_tweet_id": "1760344867501482053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779770744685408256/RawVllkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 657,
+          "like_count": 7328,
+          "listed_count": 3,
+          "tweet_count": 8692
+        },
+        "username": "gasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

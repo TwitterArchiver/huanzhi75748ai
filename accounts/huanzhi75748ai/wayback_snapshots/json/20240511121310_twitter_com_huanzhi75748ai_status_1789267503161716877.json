@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1789263797615804906",
+    "created_at": "2024-05-11T12:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T13:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789267503161716877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781022238516613120",
+          "start": 0,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789267503161716877",
+    "in_reply_to_user_id": "1781022238516613120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789263797615804906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamo_19970327 老婆不是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1789263797615804906",
+        "created_at": "2024-05-11T12:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T13:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789267503161716877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781022238516613120",
+              "start": 0,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789267503161716877",
+        "in_reply_to_user_id": "1781022238516613120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789263797615804906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamo_19970327 老婆不是我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1781022238516613120",
+        "conversation_id": "1789263797615804906",
+        "created_at": "2024-05-11T11:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T12:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789263797615804906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789263797615804906",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁取关我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 1090,
+          "like_count": 7708,
+          "listed_count": 1,
+          "tweet_count": 1550
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "养在电解质溶液里的氯化蝴蝶",
+        "id": "1781022238516613120",
+        "location": "火星大气层",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1788534684592513152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787286745446551552/Gcm9Q3lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 98,
+          "like_count": 777,
+          "listed_count": 0,
+          "tweet_count": 502
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

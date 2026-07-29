@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2061872132678992290",
+    "created_at": "2026-06-02T18:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061872132678992290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unit0214/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/unit0214/status/2061493080784547847",
+          "start": 5,
+          "url": "https://t.co/eC3s24g9cF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061872132678992290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061493080784547847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这太帅吧 https://t.co/eC3s24g9cF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4600,
+        "height": 1102,
+        "media_key": "13_2061493028657790976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061493028657790976/img/ln1Py27Lw7Ng1kbc.jpg",
+        "public_metrics": {
+          "view_count": 728616
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061493028657790976/vid/avc1/320x488/QIei6q2nAEEzVgUh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061493028657790976/vid/avc1/480x734/nbAHwZUJyNnfWlOW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061493028657790976/vid/avc1/720x1102/V0fBZ0zvwX8g2sDo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061493028657790976/pl/TkoC5bxJgV2X-9z1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2061872132678992290",
+        "created_at": "2026-06-02T18:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061872132678992290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unit0214/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/unit0214/status/2061493080784547847",
+              "start": 5,
+              "url": "https://t.co/eC3s24g9cF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061872132678992290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061493080784547847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这太帅吧 https://t.co/eC3s24g9cF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061493028657790976"
+          ]
+        },
+        "author_id": "1129003377243971584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          }
+        ],
+        "conversation_id": "2061493080784547847",
+        "created_at": "2026-06-01T17:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061493080784547847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKwH7Dzqic",
+              "end": 32,
+              "expanded_url": "https://x.com/unit0214/status/2061493080784547847/video/1",
+              "media_key": "13_2061493028657790976",
+              "start": 9,
+              "url": "https://t.co/OKwH7Dzqic"
+            },
+            {
+              "display_url": "x.com/jonuwu_/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/jonuwu_/status/2061270799768523043",
+              "start": 33,
+              "url": "https://t.co/kzNW3DallI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061493080784547847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11886,
+          "impression_count": 5092481,
+          "like_count": 111261,
+          "quote_count": 1251,
+          "reply_count": 417,
+          "retweet_count": 9191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061270799768523043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "well yes https://t.co/OKwH7Dzqic https://t.co/kzNW3DallI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1385,
+          "like_count": 31315,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 6488
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T12:39:15.000Z",
+        "description": "ŪNIT half-robot interdisciplinary_artist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yunmago",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yunmago",
+                "start": 0,
+                "url": "https://t.co/kA1kJCiU91"
+              }
+            ]
+          }
+        },
+        "id": "1129003377243971584",
+        "name": "yūn",
+        "pinned_tweet_id": "1779233532361216131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779540846901362688/3jds8wWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157205,
+          "following_count": 343,
+          "like_count": 50710,
+          "listed_count": 363,
+          "media_count": 455,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/kA1kJCiU91",
+        "username": "unit0214",
+        "verified": false
+      }
+    ]
+  }
+}

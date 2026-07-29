@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841984507919929378",
+    "created_at": "2024-10-03T23:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T00:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841984507919929378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719362124898811904",
+          "start": 3,
+          "username": "1nloLny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841984507919929378",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841707554990391407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1nloLny: 最親密的事情不是脫掉上衣接吻\n而是在對方面前安靜的流淚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1841984507919929378",
+        "created_at": "2024-10-03T23:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T00:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841984507919929378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1719362124898811904",
+              "start": 3,
+              "username": "1nloLny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841984507919929378",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841707554990391407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1nloLny: 最親密的事情不是脫掉上衣接吻\n而是在對方面前安靜的流淚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719362124898811904",
+        "conversation_id": "1841707554990391407",
+        "created_at": "2024-10-03T05:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T06:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841707554990391407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841707554990391407",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1910,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最親密的事情不是脫掉上衣接吻\n而是在對方面前安靜的流淚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1249,
+          "like_count": 16692,
+          "listed_count": 1,
+          "tweet_count": 3157
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T14:34:18.000Z",
+        "description": "沒有漂亮的外觀誰他媽在乎你有趣的三觀",
+        "id": "1719362124898811904",
+        "location": "向夜晚奔去",
+        "name": "C",
+        "pinned_tweet_id": "1804903409755263235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803453208947466240/vHTbRApV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 146,
+          "like_count": 8595,
+          "listed_count": 1,
+          "tweet_count": 3251
+        },
+        "username": "1nloLny",
+        "verified": false
+      }
+    ]
+  }
+}

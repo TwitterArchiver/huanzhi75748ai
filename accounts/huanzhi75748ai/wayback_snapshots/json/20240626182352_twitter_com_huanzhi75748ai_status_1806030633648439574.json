@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1805951270265795038",
+    "created_at": "2024-06-26T18:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T19:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806030633648439574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1541224736214003712",
+          "start": 0,
+          "username": "tenshi_mo_0210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806030633648439574",
+    "in_reply_to_user_id": "1541224736214003712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805951270265795038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenshi_mo_0210 好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1805951270265795038",
+        "created_at": "2024-06-26T18:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T19:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806030633648439574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1541224736214003712",
+              "start": 0,
+              "username": "tenshi_mo_0210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806030633648439574",
+        "in_reply_to_user_id": "1541224736214003712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805951270265795038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenshi_mo_0210 好可爱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1805951253731745792"
+          ]
+        },
+        "author_id": "1541224736214003712",
+        "conversation_id": "1805951270265795038",
+        "created_at": "2024-06-26T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805951270265795038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0W0zr3JNaJ",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tenshi_mo_0210/status/1805951270265795038/video/1",
+              "media_key": "7_1805951253731745792",
+              "start": 12,
+              "url": "https://t.co/0W0zr3JNaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805951270265795038",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有櫻花鐵劉海 我開心 https://t.co/0W0zr3JNaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1164,
+          "like_count": 12640,
+          "listed_count": 1,
+          "tweet_count": 2323
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T01:00:39.000Z",
+        "description": "ネット上は 救い何て いないよ",
+        "id": "1541224736214003712",
+        "name": "ʚ (^っ ̫ ᴗ^) ɞ💉",
+        "pinned_tweet_id": "1791161920411910619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782098679291375616/zWWrwZRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 4082,
+          "like_count": 91722,
+          "listed_count": 5,
+          "tweet_count": 15167
+        },
+        "username": "tenshi_mo_0210",
+        "verified": false
+      }
+    ]
+  }
+}

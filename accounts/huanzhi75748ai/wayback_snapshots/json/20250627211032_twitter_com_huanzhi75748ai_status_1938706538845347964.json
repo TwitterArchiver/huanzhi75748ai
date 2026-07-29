@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1938706526270894080"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1938706538845347964",
+    "created_at": "2025-06-27T21:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T22:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938706538845347964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bd2QOipqX5",
+          "end": 32,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1938706538845347964/video/1",
+          "media_key": "7_1938706526270894080",
+          "start": 9,
+          "url": "https://t.co/Bd2QOipqX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938706538845347964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凌驾于孩子们之上 https://t.co/Bd2QOipqX5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938706538845347964].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938706538845347964",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938706538845347964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3033,
+        "height": 962,
+        "media_key": "7_1938706526270894080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1938706526270894080/pu/img/mqcD-kMVVFxdvCeH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938706526270894080/pu/vid/avc1/320x426/bTo6WYRNGdut8Ybo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938706526270894080/pu/vid/avc1/480x640/59n-3rrKx2v8dr2Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938706526270894080/pu/vid/avc1/720x962/UUJ3_Tz73QWo0VQr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1938706526270894080/pu/pl/DSFX0pBhSMHoUWiQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1356,
+          "like_count": 21936,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 4242
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

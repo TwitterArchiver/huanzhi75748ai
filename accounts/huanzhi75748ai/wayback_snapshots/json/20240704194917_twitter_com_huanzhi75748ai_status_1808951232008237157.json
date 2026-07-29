@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808749938547040448",
+    "created_at": "2024-07-04T19:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T20:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808951232008237157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781022238516613120",
+          "start": 0,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808951232008237157",
+    "in_reply_to_user_id": "1781022238516613120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808950663159976082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamo_19970327 好的！辛苦了🫂会给人力量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808749938547040448",
+        "created_at": "2024-07-04T19:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T20:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808951232008237157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781022238516613120",
+              "start": 0,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808951232008237157",
+        "in_reply_to_user_id": "1781022238516613120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808950663159976082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamo_19970327 好的！辛苦了🫂会给人力量"
+      },
+      {
+        "attachments": {},
+        "author_id": "1781022238516613120",
+        "conversation_id": "1808749938547040448",
+        "created_at": "2024-07-04T19:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T20:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808950663159976082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808950663159976082",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808947776941871239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我的亲妹妹 我要尽力先照顾她~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1189,
+          "like_count": 13312,
+          "listed_count": 1,
+          "tweet_count": 2474
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "shtwt/LISA/SKZ/Lilies/STAY/CN/EN                 \n          正常人格指路：@FREEDOM_0327 (备用号)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "FREEDOM_0327"
+              }
+            ]
+          }
+        },
+        "id": "1781022238516613120",
+        "location": "0.1km",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1794754977719841077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808551450307670016/egtKM7w1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 261,
+          "like_count": 3903,
+          "listed_count": 0,
+          "tweet_count": 2337
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

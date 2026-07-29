@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1802224042381856944",
+    "created_at": "2024-06-16T15:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T16:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802364460335546413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752783768002371584",
+          "start": 0,
+          "username": "kuwatorobajina9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802364460335546413",
+    "in_reply_to_user_id": "1752783768002371584",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802363040538751012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuwatorobajina9 OK哈哈哈哈好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1802224042381856944",
+        "created_at": "2024-06-16T15:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802364460335546413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752783768002371584",
+              "start": 0,
+              "username": "kuwatorobajina9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802364460335546413",
+        "in_reply_to_user_id": "1752783768002371584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802363040538751012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuwatorobajina9 OK哈哈哈哈好的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1752783768002371584",
+        "conversation_id": "1802224042381856944",
+        "created_at": "2024-06-16T15:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802363040538751012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802363040538751012",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802362290378818045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 去焦虑，镇静并有一定兴奋效果，欣快感，社交能力提升（类似吐真剂）话会很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1144,
+          "like_count": 11856,
+          "listed_count": 1,
+          "tweet_count": 2201
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T19:59:57.000Z",
+        "description": "仙人掌，开花了/⚠️言论极端注意⚠️/发点无意义动态或者日常，互fo的话会查成分（现在「大量」涉政的不会回了）/粉红自觉右上角给我发野爹证，建制派也滚，我一视同仁/逃生舱@kamiiyubidan9/喜欢b人，不顺眼就会b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "kamiiyubidan9"
+              }
+            ]
+          }
+        },
+        "id": "1752783768002371584",
+        "location": "side3 吉翁公国",
+        "name": "网友夏顺亚",
+        "pinned_tweet_id": "1786827718421590039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801483631497723904/gxG7pOuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 277,
+          "like_count": 13350,
+          "listed_count": 1,
+          "tweet_count": 2900
+        },
+        "username": "kuwatorobajina9",
+        "verified": false
+      }
+    ]
+  }
+}

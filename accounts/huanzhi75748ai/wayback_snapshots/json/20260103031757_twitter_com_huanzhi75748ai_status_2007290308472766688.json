@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2007290308472766688",
+    "created_at": "2026-01-03T03:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007290308472766688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885023465075597312",
+          "start": 3,
+          "username": "ciweibiaoben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007290308472766688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007064342664274286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciweibiaoben: 为什么你从不好奇我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2007290308472766688",
+        "created_at": "2026-01-03T03:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007290308472766688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885023465075597312",
+              "start": 3,
+              "username": "ciweibiaoben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007290308472766688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007064342664274286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciweibiaoben: 为什么你从不好奇我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885023465075597312",
+        "conversation_id": "2007064342664274286",
+        "created_at": "2026-01-02T12:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007064342664274286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007064342664274286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22007,
+          "like_count": 432,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你从不好奇我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1327,
+          "like_count": 22409,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 4650
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:53:29.000Z",
+        "description": "谢谢你能来看我",
+        "id": "1885023465075597312",
+        "location": "心脏",
+        "name": "刺猬标本",
+        "pinned_tweet_id": "2002289516749435297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005172899968417793/p2oJF-7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 170,
+          "like_count": 15922,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 5565
+        },
+        "username": "ciweibiaoben",
+        "verified": false
+      }
+    ]
+  }
+}

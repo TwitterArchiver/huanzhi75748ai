@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2052756014995570987",
+    "created_at": "2026-05-08T22:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052884744187289716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2704551668",
+          "start": 0,
+          "username": "LaplaceMio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052884744187289716",
+    "in_reply_to_user_id": "2704551668",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052775897326055597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaplaceMio hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2052756014995570987",
+        "created_at": "2026-05-08T22:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052884744187289716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2704551668",
+              "start": 0,
+              "username": "LaplaceMio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052884744187289716",
+        "in_reply_to_user_id": "2704551668",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052775897326055597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceMio hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2704551668",
+        "conversation_id": "2052756014995570987",
+        "created_at": "2026-05-08T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052775897326055597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052775897326055597",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052756014995570987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 任天堂里有死witch吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1395,
+          "like_count": 30775,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6333
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-03T17:25:55.000Z",
+        "description": "为什么不先介绍一下你自己呢",
+        "id": "2704551668",
+        "name": "LaplaceMio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025779362046644224/tTI17P-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 308,
+          "like_count": 19085,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 3373
+        },
+        "username": "LaplaceMio",
+        "verified": false
+      }
+    ]
+  }
+}

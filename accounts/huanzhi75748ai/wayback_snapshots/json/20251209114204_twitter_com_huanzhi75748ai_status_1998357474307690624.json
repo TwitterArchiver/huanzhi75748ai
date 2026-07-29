@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1998357474307690624",
+    "created_at": "2025-12-09T11:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998357474307690624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727284940394659840",
+          "start": 3,
+          "username": "YANFENG2049"
+        },
+        {
+          "end": 27,
+          "id": "1863439189909618688",
+          "start": 17,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998357474307690624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998345220162007327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YANFENG2049: @hsn8086xe 我就像是路边的一条野狗，发现马路牙子上有一大坨棕色的东西，我以为它是史，兴奋的甩着尾巴跑过去狠狠咬一大口才发现是巧克力，于是一边抽搐着一边在不属于自己的甜蜜中死去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1998357474307690624",
+        "created_at": "2025-12-09T11:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998357474307690624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727284940394659840",
+              "start": 3,
+              "username": "YANFENG2049"
+            },
+            {
+              "end": 27,
+              "id": "1863439189909618688",
+              "start": 17,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998357474307690624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998345220162007327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YANFENG2049: @hsn8086xe 我就像是路边的一条野狗，发现马路牙子上有一大坨棕色的东西，我以为它是史，兴奋的甩着尾巴跑过去狠狠咬一大口才发现是巧克力，于是一边抽搐着一边在不属于自己的甜蜜中死去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727284940394659840",
+        "conversation_id": "1998308200404422811",
+        "created_at": "2025-12-09T10:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998345220162007327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998345220162007327",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2599,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998308200404422811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 我就像是路边的一条野狗，发现马路牙子上有一大坨棕色的东西，我以为它是史，兴奋的甩着尾巴跑过去狠狠咬一大口才发现是巧克力，于是一边抽搐着一边在不属于自己的甜蜜中死去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1344,
+          "like_count": 22093,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 4554
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T11:17:20.000Z",
+        "description": "热爱导管好青年\n                                                                                  想对这个世界做出点能做的事发现自己只是路边一条                  所以只能当一个平等地既爱又恨每一个人的乐子人🥲",
+        "id": "1727284940394659840",
+        "location": "距你11.45Km",
+        "name": "炎风一一钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997895018498191360/CQMVvqxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 38,
+          "like_count": 797,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1126
+        },
+        "username": "YANFENG2049",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28691,
+          "following_count": 361,
+          "like_count": 62,
+          "listed_count": 86,
+          "media_count": 8428,
+          "tweet_count": 8457
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

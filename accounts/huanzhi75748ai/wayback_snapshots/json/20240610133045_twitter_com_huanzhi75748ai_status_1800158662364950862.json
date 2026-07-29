@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1800158662364950862",
+    "created_at": "2024-06-10T13:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T14:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800158662364950862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Luoning171774/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Luoning171774/status/1800034458852290565",
+          "start": 4,
+          "url": "https://t.co/Q15bvR7ekB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800158662364950862",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800034458852290565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。哎呦 https://t.co/Q15bvR7ekB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1800158662364950862",
+        "created_at": "2024-06-10T13:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T14:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800158662364950862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luoning171774/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Luoning171774/status/1800034458852290565",
+              "start": 4,
+              "url": "https://t.co/Q15bvR7ekB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800158662364950862",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800034458852290565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。哎呦 https://t.co/Q15bvR7ekB"
+      },
+      {
+        "attachments": {},
+        "author_id": "1728598638312738816",
+        "conversation_id": "1800034458852290565",
+        "created_at": "2024-06-10T05:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T06:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800034458852290565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800034458852290565",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好银荡的嘴，好贞洁的私生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1142,
+          "like_count": 11320,
+          "listed_count": 1,
+          "tweet_count": 2103
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T02:16:56.000Z",
+        "description": "INTP / 双子 / 日常推 / 废话很多请让让我",
+        "id": "1728598638312738816",
+        "location": "水晶球中的世界静悄悄",
+        "name": "凝凝凝凝凝",
+        "pinned_tweet_id": "1780245909538037973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790302488819904512/zfbDzadH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 210,
+          "like_count": 3778,
+          "listed_count": 6,
+          "tweet_count": 2590
+        },
+        "username": "Luoning171774",
+        "verified": false
+      }
+    ]
+  }
+}

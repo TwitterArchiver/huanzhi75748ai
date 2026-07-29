@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2036520804587020715",
+    "created_at": "2026-03-24T19:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T20:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036526507011744147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036526507011744147",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036520804587020715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 真的能赚钱吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2036520804587020715",
+        "created_at": "2026-03-24T19:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T20:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036526507011744147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036526507011744147",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036520804587020715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 真的能赚钱吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "2036520804587020715",
+        "created_at": "2026-03-24T19:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T20:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036520804587020715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036520804587020715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "互关你们介意我炒作的可以隐藏我不要双取拉黑吗😭我不想无缘无故被毕业双取，我只是想火想赚钱，我主要是希望我真的有流量了火起来了可以发红包的时候你们还在。\n\n我知道曦夜最早是一个社交账号，互关我的都是出于对真实的我的好感，才I愿意和我玩的。我一直都很感动。然后日常和碎碎念可以点我主页小号，锁推是防止烦到别人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关你们介意我炒作的可以隐藏我不要双取拉黑吗😭我不想无缘无故被毕业双取，我只是想火想赚钱，我主要是希望我真的有流量了火起来了可以发红包的时候你们还在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 1372,
+          "like_count": 24808,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 5172
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "账号内容皆为虚构！如果让您感到不适我很抱歉！匿名提问箱可以给我发消息！私信都回！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLUAkw"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Gladsheim ，Asgard",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "2036520804587020715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032562522243645440/zofg4AZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 900,
+          "like_count": 47002,
+          "listed_count": 10,
+          "media_count": 53,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/j6vldLUAkw",
+        "username": "8964_xy11",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866515192043192320"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1866515308682604711",
+    "created_at": "2024-12-10T16:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T17:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866515308682604711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXenU2hujO",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1866515308682604711/photo/1",
+          "media_key": "3_1866515192043192320",
+          "start": 14,
+          "url": "https://t.co/uXenU2hujO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866515308682604711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "此猫冷暴力我，网暴他😡😡😡 https://t.co/uXenU2hujO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1866515308682604711].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1866515308682604711",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1866515308682604711"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866515192043192320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GecxrY2awAAtyaO.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1265,
+          "like_count": 19583,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 3917
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

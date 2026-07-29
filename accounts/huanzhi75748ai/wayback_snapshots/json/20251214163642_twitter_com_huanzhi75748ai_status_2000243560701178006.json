@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2000243560701178006",
+    "created_at": "2025-12-14T16:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000243560701178006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Cldeop/status/1999632861520121937",
+          "start": 12,
+          "url": "https://t.co/6fZ2Nuirz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000243560701178006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999632861520121937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么鬼啊握草哈哈哈哈哈 https://t.co/6fZ2Nuirz7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_1999512234159144960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-xyHkagAAsH9f.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2000243560701178006",
+        "created_at": "2025-12-14T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000243560701178006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Cldeop/status/1999632861520121937",
+              "start": 12,
+              "url": "https://t.co/6fZ2Nuirz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000243560701178006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999632861520121937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么鬼啊握草哈哈哈哈哈 https://t.co/6fZ2Nuirz7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999512234159144960"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1999632861520121937",
+        "created_at": "2025-12-13T00:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T01:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999632861520121937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWz7Fp5zVG",
+              "end": 32,
+              "expanded_url": "https://x.com/Cldeop/status/1999632861520121937/photo/1",
+              "media_key": "3_1999512234159144960",
+              "start": 9,
+              "url": "https://t.co/iWz7Fp5zVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999632861520121937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 56151,
+          "like_count": 959,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "TFBoy都来了 https://t.co/iWz7Fp5zVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1328,
+          "like_count": 22094,
+          "listed_count": 2,
+          "media_count": 444,
+          "tweet_count": 4575
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998284551303598080/m9aPxfLI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93953,
+          "following_count": 661,
+          "like_count": 32788,
+          "listed_count": 271,
+          "media_count": 14022,
+          "tweet_count": 20213
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

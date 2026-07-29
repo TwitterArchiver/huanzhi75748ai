@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892168259245588678",
+    "created_at": "2025-02-19T22:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892347222441807908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_insky"
+        },
+        {
+          "end": 29,
+          "id": "1592433377143328768",
+          "start": 17,
+          "username": "SUZUdesu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892347222441807908",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892185908625182809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_insky @SUZUdesu111 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892168259245588678",
+        "created_at": "2025-02-19T22:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892347222441807908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            },
+            {
+              "end": 29,
+              "id": "1592433377143328768",
+              "start": 17,
+              "username": "SUZUdesu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892347222441807908",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892185908625182809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky @SUZUdesu111 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "1892168259245588678",
+        "created_at": "2025-02-19T12:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T13:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892185908625182809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592433377143328768",
+              "start": 0,
+              "username": "SUZUdesu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892185908625182809",
+        "in_reply_to_user_id": "1592433377143328768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1097,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892168259245588678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUZUdesu111 可以那我也要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1265,
+          "like_count": 19603,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3798
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历/小号@fishoutworld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "fishoutworld"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "迷你世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1884162950749118567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4370,
+          "following_count": 530,
+          "like_count": 11531,
+          "listed_count": 11,
+          "media_count": 1180,
+          "tweet_count": 11183
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T08:24:49.000Z",
+        "description": "随便发发，大号@lover_ning炸了可以来这边找我玩 / 推女性向的号@suibiankankan_6 / 牛子博物馆@yinxingyanjing_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "lover_ning"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "suibiankankan_6"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "yinxingyanjing_"
+              }
+            ]
+          }
+        },
+        "id": "1592433377143328768",
+        "name": "suzu",
+        "pinned_tweet_id": "1863365731771142534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717021718571814912/t82tDl5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200451,
+          "following_count": 30,
+          "like_count": 11997,
+          "listed_count": 214,
+          "media_count": 1347,
+          "tweet_count": 28426
+        },
+        "username": "SUZUdesu111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043008778975744196",
+    "created_at": "2026-04-12T15:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043352684665925648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985622481982664704",
+          "start": 0,
+          "username": "wegi0613_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043352684665925648",
+    "in_reply_to_user_id": "1985622481982664704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043008778975744196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wegi0613_ 不能光写猛猛凿怎么凿大力凿。要写两人的反应，写空气的粘稠，写湿漉的呼吸，写隐秘的快感，写环境的刺激。让人真的能感受到性张力才是好黄文。烂黄文好多都是在不同场景不同play使用同一种描写方法，很无趣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043008778975744196",
+        "created_at": "2026-04-12T15:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043352684665925648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985622481982664704",
+              "start": 0,
+              "username": "wegi0613_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043352684665925648",
+        "in_reply_to_user_id": "1985622481982664704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043008778975744196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wegi0613_ 不能光写猛猛凿怎么凿大力凿。要写两人的反应，写空气的粘稠，写湿漉的呼吸，写隐秘的快感，写环境的刺激。让人真的能感受到性张力才是好黄文。烂黄文好多都是在不同场景不同play使用同一种描写方法，很无趣。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985622481982664704",
+        "conversation_id": "2043008778975744196",
+        "created_at": "2026-04-11T16:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043008778975744196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043008778975744196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 345672,
+          "like_count": 3887,
+          "quote_count": 22,
+          "reply_count": 241,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "虽然黄文大差不差都是一些很重复的词，但为啥有些人写得特别牛逼我看着文字都看湿了，为啥有些我就完全无感根本冲不起来食之无味，好的黄文的优点到底在哪里，我还没总结出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1398,
+          "like_count": 29204,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 5977
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T08:18:24.000Z",
+        "description": "",
+        "id": "1985622481982664704",
+        "name": "wegi",
+        "pinned_tweet_id": "2038808765529764059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039172547250688000/5_-Bdobw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 119,
+          "like_count": 6006,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1439
+        },
+        "username": "wegi0613_",
+        "verified": false
+      }
+    ]
+  }
+}

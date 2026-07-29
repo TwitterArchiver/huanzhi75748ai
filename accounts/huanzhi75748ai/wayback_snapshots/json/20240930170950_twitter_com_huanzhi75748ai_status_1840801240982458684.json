@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840798730817323455",
+    "created_at": "2024-09-30T17:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T18:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840801240982458684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678443519378329604",
+          "start": 0,
+          "username": "caoluch95378220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840801240982458684",
+    "in_reply_to_user_id": "1678443519378329604",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840798730817323455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caoluch95378220 像是智障=_="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840798730817323455",
+        "created_at": "2024-09-30T17:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T18:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840801240982458684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678443519378329604",
+              "start": 0,
+              "username": "caoluch95378220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840801240982458684",
+        "in_reply_to_user_id": "1678443519378329604",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840798730817323455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caoluch95378220 像是智障=_="
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840798728355295232"
+          ]
+        },
+        "author_id": "1678443519378329604",
+        "conversation_id": "1840798730817323455",
+        "created_at": "2024-09-30T16:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T17:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840798730817323455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkopcqyq4d",
+              "end": 29,
+              "expanded_url": "https://twitter.com/caoluch95378220/status/1840798730817323455/photo/1",
+              "media_key": "3_1840798728355295232",
+              "start": 6,
+              "url": "https://t.co/pkOpcQYQ4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840798730817323455",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥意思 https://t.co/pkOpcQYQ4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16447,
+          "listed_count": 1,
+          "tweet_count": 3118
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T16:38:22.000Z",
+        "description": "叫我红薯/🚪29.9（让你知道什么叫便宜没好货）🚪88纯绿/不上学/自用紫鸟VPN：https://t.co/Yhul3XylhV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.cc/#/register?cod…",
+                "end": 65,
+                "expanded_url": "https://ziniao.cc/#/register?code=rf55nH9i",
+                "start": 42,
+                "url": "https://t.co/Yhul3XylhV"
+              }
+            ]
+          }
+        },
+        "id": "1678443519378329604",
+        "name": "芝士焗红薯",
+        "pinned_tweet_id": "1836394260469551217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840014379812827141/xEMzbZ6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 1040,
+          "like_count": 7025,
+          "listed_count": 0,
+          "tweet_count": 3822
+        },
+        "username": "caoluch95378220",
+        "verified": false
+      }
+    ]
+  }
+}

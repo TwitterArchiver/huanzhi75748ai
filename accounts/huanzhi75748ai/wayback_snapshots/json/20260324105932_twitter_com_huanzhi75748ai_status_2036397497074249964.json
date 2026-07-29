@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2036263218650427458",
+    "created_at": "2026-03-24T10:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036397497074249964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947287158148288513",
+          "start": 0,
+          "username": "hanhanmi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036397497074249964",
+    "in_reply_to_user_id": "1947287158148288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036263218650427458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanhanmi_ 可能觉得智商可以由性行为传染（）？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2036263218650427458",
+        "created_at": "2026-03-24T10:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036397497074249964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947287158148288513",
+              "start": 0,
+              "username": "hanhanmi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036397497074249964",
+        "in_reply_to_user_id": "1947287158148288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036263218650427458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanhanmi_ 可能觉得智商可以由性行为传染（）？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947287158148288513",
+        "conversation_id": "2036263218650427458",
+        "created_at": "2026-03-24T02:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036263218650427458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036263218650427458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14434,
+          "like_count": 128,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们月抛就月抛，带学历干啥，月一半看看学生证。？学生票可以打折还是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1371,
+          "like_count": 24701,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 5112
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T13:27:00.000Z",
+        "description": "有时候很想辩驳什么 但又觉得这样会让一切绵延不断 算了吧 只看到我坏的一面也行",
+        "id": "1947287158148288513",
+        "location": "我的心已经等你好多年",
+        "name": "恋虐",
+        "pinned_tweet_id": "2001622577190707499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031214284517289986/QTd9tE8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 150,
+          "like_count": 5066,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 85
+        },
+        "username": "hanhanmi_",
+        "verified": false
+      }
+    ]
+  }
+}

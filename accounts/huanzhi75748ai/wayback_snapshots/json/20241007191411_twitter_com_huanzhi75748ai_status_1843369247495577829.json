@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1843369247495577829",
+    "created_at": "2024-10-07T19:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T20:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843369247495577829"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843369247495577829",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我如果对一个人有好感就适合远远地看着。稍微了解一点点我就感觉破坏了我心中理想的形象，对方稍微主动一点点我就尖叫着aaa杀人啦然后跑着跳开。就这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1843369247495577829",
+        "created_at": "2024-10-07T19:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T20:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843369247495577829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843369247495577829",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我如果对一个人有好感就适合远远地看着。稍微了解一点点我就感觉破坏了我心中理想的形象，对方稍微主动一点点我就尖叫着aaa杀人啦然后跑着跳开。就这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1251,
+          "like_count": 16887,
+          "listed_count": 1,
+          "tweet_count": 3201
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

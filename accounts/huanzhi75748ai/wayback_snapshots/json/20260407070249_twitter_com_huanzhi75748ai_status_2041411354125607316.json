@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041277411908558898",
+    "created_at": "2026-04-07T07:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041411354125607316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041411354125607316",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041277411908558898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 😡不是说好要组一辈子乐队吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041277411908558898",
+        "created_at": "2026-04-07T07:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041411354125607316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041411354125607316",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041277411908558898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 😡不是说好要组一辈子乐队吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2041277411908558898",
+        "created_at": "2026-04-06T22:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041277411908558898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Aloevce/status/2041273690915021259",
+              "start": 106,
+              "url": "https://t.co/5lA9ro0LYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041277411908558898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041273690915021259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 对象哥有个之前跟他组乐队的男生 然后和他乐队里一个女生搅起了 然后对象哥的乐队就解散了 对象哥很愤怒和那个男生绝交了好几年 前几天又约那个男生出来喝酒 边喝边聊天突然来了一句 我恨你。 ←好像我说的话 https://t.co/5lA9ro0LYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1396,
+          "like_count": 28393,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 5829
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18024,
+          "following_count": 2302,
+          "like_count": 54001,
+          "listed_count": 22,
+          "media_count": 6558,
+          "tweet_count": 22812
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

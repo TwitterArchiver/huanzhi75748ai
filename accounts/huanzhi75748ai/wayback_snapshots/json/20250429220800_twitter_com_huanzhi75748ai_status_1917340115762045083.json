@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1917340115762045083",
+    "created_at": "2025-04-29T22:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T23:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917340115762045083"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917340115762045083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来今天我要去北京找我妈然后她请我吃海鲜自助大餐。我不知道抽什么风。凌晨两点订好闹钟准备美美入睡的时候突然犯病开始大哭，哭了三个小时我寻思割腿制止一下。止完血六点了。我突然哪都不想去。我不想呼吸。不想活着。把车票和团购全退了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1917340115762045083",
+        "created_at": "2025-04-29T22:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T23:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917340115762045083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917340115762045083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来今天我要去北京找我妈然后她请我吃海鲜自助大餐。我不知道抽什么风。凌晨两点订好闹钟准备美美入睡的时候突然犯病开始大哭，哭了三个小时我寻思割腿制止一下。止完血六点了。我突然哪都不想去。我不想呼吸。不想活着。把车票和团购全退了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1322,
+          "like_count": 20969,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 4069
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

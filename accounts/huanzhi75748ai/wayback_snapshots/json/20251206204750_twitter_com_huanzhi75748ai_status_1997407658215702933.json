@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996987379630878721"
+      ],
+      "media_source_tweet_id": [
+        "1996987399633592674"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1997407658215702933",
+    "created_at": "2025-12-06T20:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T21:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997407658215702933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761215255949037568",
+          "start": 3,
+          "username": "melancholicdol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5btFNnoDyM",
+          "end": 43,
+          "expanded_url": "https://x.com/melancholicdol/status/1996987399633592674/video/1",
+          "media_key": "7_1996987379630878721",
+          "start": 20,
+          "url": "https://t.co/5btFNnoDyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997407658215702933",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2885
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996987399633592674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @melancholicdol: https://t.co/5btFNnoDyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10665,
+        "height": 510,
+        "media_key": "7_1996987379630878721",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996987379630878721/pu/img/jxfSsiHQRdI_NBaf.jpg",
+        "public_metrics": {
+          "view_count": 116026
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996987379630878721/pu/vid/avc1/380x270/ENci1NDsYPRg4tDf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996987379630878721/pu/vid/avc1/508x360/oOYzU4YkPcOUqlok.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996987379630878721/pu/vid/avc1/720x510/0YaJE_knw8iEhQHD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996987379630878721/pu/pl/OdY6dOrPT5cu3cUC.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996987379630878721"
+          ],
+          "media_source_tweet_id": [
+            "1996987399633592674"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1997407658215702933",
+        "created_at": "2025-12-06T20:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T21:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997407658215702933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761215255949037568",
+              "start": 3,
+              "username": "melancholicdol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5btFNnoDyM",
+              "end": 43,
+              "expanded_url": "https://x.com/melancholicdol/status/1996987399633592674/video/1",
+              "media_key": "7_1996987379630878721",
+              "start": 20,
+              "url": "https://t.co/5btFNnoDyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997407658215702933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2885
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996987399633592674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @melancholicdol: https://t.co/5btFNnoDyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996987379630878721"
+          ]
+        },
+        "author_id": "1761215255949037568",
+        "conversation_id": "1996987399633592674",
+        "created_at": "2025-12-05T16:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996987399633592674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5btFNnoDyM",
+              "end": 23,
+              "expanded_url": "https://x.com/melancholicdol/status/1996987399633592674/video/1",
+              "media_key": "7_1996987379630878721",
+              "start": 0,
+              "url": "https://t.co/5btFNnoDyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996987399633592674",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2858,
+          "impression_count": 248897,
+          "like_count": 17446,
+          "quote_count": 141,
+          "reply_count": 0,
+          "retweet_count": 2885
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/5btFNnoDyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1338,
+          "like_count": 21949,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4527
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T02:23:58.000Z",
+        "description": "unicorns  r  real  in  my  world︎︎︎︎ ︎︎ ︎ ︎︎ ︎︎ ︎ ︎︎ ︎︎ ︎ ︎︎︎︎ ︎︎ ︎ ︎︎ ︎︎ ︎ ︎︎ ︎︎ ︎ ︎︎\nᅠᅠᅠᅠᅠ",
+        "id": "1761215255949037568",
+        "location": " 𔘓    ֪͏  🥛  ࣪     ׅ   ⊹    ",
+        "name": "꒰ ૮ ᥣαᥣαྀིა",
+        "pinned_tweet_id": "1976392234036785243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960722042065391616/HIirUDBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 227,
+          "like_count": 17577,
+          "listed_count": 12,
+          "media_count": 217,
+          "tweet_count": 1358
+        },
+        "username": "melancholicdol",
+        "verified": false
+      }
+    ]
+  }
+}

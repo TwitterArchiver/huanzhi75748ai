@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2031413753527545929",
+    "created_at": "2026-03-10T16:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031413753527545929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huanzhi75748ai…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/2028879402009018696",
+          "start": 60,
+          "url": "https://t.co/CKGtKQ2Agr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031413753527545929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028879402009018696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后选择的粉白色。因为买家实拍图里这个最好搭配。谢谢大家的建议。这是我买过最贵的钉子。真的好美我哭。等到了给大家看看。 https://t.co/CKGtKQ2Agr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2028879240310210562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgG62rawAICO0t.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2028879315027611648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgG_NBb0AAgMUE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2028879336481406978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgHAc8awAIR16N.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2028879376625065984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgHCyfaYAAMdIp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2031413753527545929",
+        "created_at": "2026-03-10T16:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031413753527545929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huanzhi75748ai…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/huanzhi75748ai/status/2028879402009018696",
+              "start": 60,
+              "url": "https://t.co/CKGtKQ2Agr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031413753527545929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028879402009018696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后选择的粉白色。因为买家实拍图里这个最好搭配。谢谢大家的建议。这是我买过最贵的钉子。真的好美我哭。等到了给大家看看。 https://t.co/CKGtKQ2Agr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028879240310210562",
+            "3_2028879315027611648",
+            "3_2028879336481406978",
+            "3_2028879376625065984"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2028879402009018696",
+        "created_at": "2026-03-03T17:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028879402009018696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3FPnuSQB1",
+              "end": 33,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2028879402009018696/photo/1",
+              "media_key": "3_2028879240310210562",
+              "start": 10,
+              "url": "https://t.co/y3FPnuSQB1"
+            },
+            {
+              "display_url": "pic.x.com/y3FPnuSQB1",
+              "end": 33,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2028879402009018696/photo/1",
+              "media_key": "3_2028879315027611648",
+              "start": 10,
+              "url": "https://t.co/y3FPnuSQB1"
+            },
+            {
+              "display_url": "pic.x.com/y3FPnuSQB1",
+              "end": 33,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2028879402009018696/photo/1",
+              "media_key": "3_2028879336481406978",
+              "start": 10,
+              "url": "https://t.co/y3FPnuSQB1"
+            },
+            {
+              "display_url": "pic.x.com/y3FPnuSQB1",
+              "end": 33,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2028879402009018696/photo/1",
+              "media_key": "3_2028879376625065984",
+              "start": 10,
+              "url": "https://t.co/y3FPnuSQB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028879402009018696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个好看？求评论！ https://t.co/y3FPnuSQB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1331,
+          "like_count": 23380,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 4977
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

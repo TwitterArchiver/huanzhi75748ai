@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1864003477011321238",
+    "created_at": "2024-12-03T17:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T18:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864003477011321238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787086493636521984",
+          "start": 3,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864003477011321238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863928790369603963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lucifers6x: 看到别人被包养四年得了100w，谁包养我趁我还年轻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1864003477011321238",
+        "created_at": "2024-12-03T17:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T18:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864003477011321238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787086493636521984",
+              "start": 3,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864003477011321238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863928790369603963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lucifers6x: 看到别人被包养四年得了100w，谁包养我趁我还年轻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787086493636521984",
+        "conversation_id": "1863928790369603963",
+        "created_at": "2024-12-03T12:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T13:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863928790369603963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863928790369603963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1116,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到别人被包养四年得了100w，谁包养我趁我还年轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1262,
+          "like_count": 19060,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 3789
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "这不公平的命指使我来的",
+        "id": "1787086493636521984",
+        "location": "🚪0.001元",
+        "name": "在你的脉搏上跳舞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859107489100558338/doBDb22E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 103,
+          "like_count": 1845,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1747
+        },
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

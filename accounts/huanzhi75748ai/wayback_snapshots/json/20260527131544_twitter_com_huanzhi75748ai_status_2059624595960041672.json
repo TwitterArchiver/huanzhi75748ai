@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2059624595960041672",
+    "created_at": "2026-05-27T13:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059624595960041672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538216024142540800",
+          "start": 3,
+          "username": "Pomelos_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059624595960041672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059391473720893851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pomelos_7: 生活想淡淡的就要断掉社交，你想要开心幸福你就得一个人生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2059624595960041672",
+        "created_at": "2026-05-27T13:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059624595960041672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538216024142540800",
+              "start": 3,
+              "username": "Pomelos_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059624595960041672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059391473720893851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pomelos_7: 生活想淡淡的就要断掉社交，你想要开心幸福你就得一个人生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538216024142540800",
+        "conversation_id": "2059391473720893851",
+        "created_at": "2026-05-26T21:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059391473720893851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059391473720893851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 816,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生活想淡淡的就要断掉社交，你想要开心幸福你就得一个人生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1383,
+          "like_count": 31045,
+          "listed_count": 2,
+          "media_count": 543,
+          "tweet_count": 6412
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T17:44:25.000Z",
+        "description": "k6k9/165/50kg",
+        "id": "1538216024142540800",
+        "location": "🚪388/除口令红包外不回",
+        "name": "Suki",
+        "pinned_tweet_id": "2052044336934891669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029191781133500421/F7IwV4iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 29,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 607
+        },
+        "username": "Pomelos_7",
+        "verified": false
+      }
+    ]
+  }
+}

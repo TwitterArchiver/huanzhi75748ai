@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808556423191933126",
+    "created_at": "2024-07-03T17:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T18:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808557953387032829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "gasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808557953387032829",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808556423191933126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gasuiyuno +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808556423191933126",
+        "created_at": "2024-07-03T17:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T18:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808557953387032829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "gasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808557953387032829",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808556423191933126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gasuiyuno +1"
+      },
+      {
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1808556423191933126",
+        "created_at": "2024-07-03T17:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T18:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808556423191933126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808556423191933126",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是哪种哪怕伤害我再深我也只要给我诚心道歉我就会接受然后用一两年磨平伤疤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1183,
+          "like_count": 13095,
+          "listed_count": 1,
+          "tweet_count": 2377
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|这是我的日记|互关欢迎|od会发疯|对不起所有人‖",
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟里森堡卢伦贝格精神病保护协会✟",
+        "pinned_tweet_id": "1772882146417406111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779770744685408256/RawVllkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 633,
+          "like_count": 6875,
+          "listed_count": 3,
+          "tweet_count": 8068
+        },
+        "username": "gasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

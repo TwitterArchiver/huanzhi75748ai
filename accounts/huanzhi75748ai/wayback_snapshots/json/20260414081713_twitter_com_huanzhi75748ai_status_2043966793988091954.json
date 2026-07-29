@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043966793988091954",
+    "created_at": "2026-04-14T08:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043966793988091954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1868205822511288320",
+          "start": 3,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043966793988091954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043781950817874005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vicoOci_Olvidar: 不要再拿自己的精神疾病去掩盖自己那惨不忍睹的道德了🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043966793988091954",
+        "created_at": "2026-04-14T08:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043966793988091954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1868205822511288320",
+              "start": 3,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043966793988091954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043781950817874005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vicoOci_Olvidar: 不要再拿自己的精神疾病去掩盖自己那惨不忍睹的道德了🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2043781950817874005",
+        "created_at": "2026-04-13T20:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043781950817874005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043781950817874005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2822,
+          "like_count": 103,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不要再拿自己的精神疾病去掩盖自己那惨不忍睹的道德了🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1397,
+          "like_count": 29390,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6032
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "喜欢你们 /区宝宝🍼@valentina748264 /好妈咪@acechiliyin @freequan2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "valentina748264"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "acechiliyin"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "freequan2025"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "啤酒厂",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2042842358858027084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 365,
+          "like_count": 24064,
+          "listed_count": 15,
+          "media_count": 1220,
+          "tweet_count": 16050
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

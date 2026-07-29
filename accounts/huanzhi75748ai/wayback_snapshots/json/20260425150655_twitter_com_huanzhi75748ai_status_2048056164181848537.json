@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2048056164181848537",
+    "created_at": "2026-04-25T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048056164181848537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cwchris_/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/cwchris_/status/2047699030340235521",
+          "start": 7,
+          "url": "https://t.co/yrPz1imiUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048056164181848537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047699030340235521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这谁能睡着？ https://t.co/yrPz1imiUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31648,
+        "height": 664,
+        "media_key": "13_2047698974044213248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047698974044213248/img/Jyw5T2Ub4F8lT8oT.jpg",
+        "public_metrics": {
+          "view_count": 433014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047698974044213248/vid/avc1/360x270/03-y2ewsLFTNO5W-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047698974044213248/vid/avc1/480x360/ZCxICkLkEjGlwdLv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047698974044213248/vid/avc1/886x664/xiUuVnSpCpm1xYCV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047698974044213248/pl/RQXID9ZXdu712X1A.m3u8?v=c9e"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2048056164181848537",
+        "created_at": "2026-04-25T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048056164181848537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cwchris_/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/cwchris_/status/2047699030340235521",
+              "start": 7,
+              "url": "https://t.co/yrPz1imiUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048056164181848537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047699030340235521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这谁能睡着？ https://t.co/yrPz1imiUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047698974044213248"
+          ]
+        },
+        "author_id": "1627190249678860289",
+        "conversation_id": "2047699030340235521",
+        "created_at": "2026-04-24T15:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047699030340235521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cG6kVRDqnA",
+              "end": 32,
+              "expanded_url": "https://x.com/cwchris_/status/2047699030340235521/video/1",
+              "media_key": "13_2047698974044213248",
+              "start": 9,
+              "url": "https://t.co/cG6kVRDqnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047699030340235521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8993,
+          "impression_count": 1122552,
+          "like_count": 27268,
+          "quote_count": 1250,
+          "reply_count": 121,
+          "retweet_count": 2841
+        },
+        "reply_settings": "everyone",
+        "text": "Nap time https://t.co/cG6kVRDqnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1392,
+          "like_count": 29987,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 6162
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T06:16:28.000Z",
+        "description": "the funniest outcome is the most likely",
+        "id": "1627190249678860289",
+        "name": "Chris 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046724242125787136/dg3hK76z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15505,
+          "following_count": 1973,
+          "like_count": 189634,
+          "listed_count": 12,
+          "media_count": 11055,
+          "tweet_count": 34262
+        },
+        "username": "cwchris_",
+        "verified": true
+      }
+    ]
+  }
+}

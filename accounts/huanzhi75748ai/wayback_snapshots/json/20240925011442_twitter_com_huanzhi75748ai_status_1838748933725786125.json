@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1838748933725786125",
+    "created_at": "2024-09-25T01:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T02:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838748933725786125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1584540323878907904",
+          "start": 3,
+          "username": "xiozhng70176766"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838748933725786125",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838455135854375028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiozhng70176766: “真正喜欢你的人根本舍不得长时间不理你，他会拼了命往你的世界里挤，无论以什么样的方式，都会主动联系你。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1838748933725786125",
+        "created_at": "2024-09-25T01:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T02:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838748933725786125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1584540323878907904",
+              "start": 3,
+              "username": "xiozhng70176766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838748933725786125",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838455135854375028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiozhng70176766: “真正喜欢你的人根本舍不得长时间不理你，他会拼了命往你的世界里挤，无论以什么样的方式，都会主动联系你。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584540323878907904",
+        "conversation_id": "1838455135854375028",
+        "created_at": "2024-09-24T05:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T06:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838455135854375028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838455135854375028",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13822,
+          "like_count": 210,
+          "quote_count": 16,
+          "reply_count": 15,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "“真正喜欢你的人根本舍不得长时间不理你，他会拼了命往你的世界里挤，无论以什么样的方式，都会主动联系你。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1244,
+          "like_count": 16014,
+          "listed_count": 1,
+          "tweet_count": 3148
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T13:40:54.000Z",
+        "description": "4i｜重度声控｜ENFP｜十八线gb🔞写手一枚｜圈地自萌｜温柔包容｜来推就是为了努力放开自己｜🚪88，互关可v ｜喜欢无病呻吟｜不关注不回私信🌹",
+        "id": "1584540323878907904",
+        "location": "Beijing",
+        "name": "Biubiu筝(爱学习爱背书爱青年音版)",
+        "pinned_tweet_id": "1829928041491099846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586043195431030785/e_QpS_pJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 296,
+          "like_count": 14925,
+          "listed_count": 1,
+          "tweet_count": 5249
+        },
+        "username": "xiozhng70176766",
+        "verified": false
+      }
+    ]
+  }
+}

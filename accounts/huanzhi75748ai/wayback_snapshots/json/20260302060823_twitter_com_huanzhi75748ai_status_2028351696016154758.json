@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2028351696016154758",
+    "created_at": "2026-03-02T06:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028351696016154758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GuiMengNya/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/GuiMengNya/status/2028156812990791775",
+          "start": 16,
+          "url": "https://t.co/OYaf5TnYGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028351696016154758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028156812990791775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了哈哈哈哈哈哈哈哈哈哈哈 https://t.co/OYaf5TnYGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2028150418115796992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVwD0baIAAz7nE.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2028351696016154758",
+        "created_at": "2026-03-02T06:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028351696016154758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GuiMengNya/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/GuiMengNya/status/2028156812990791775",
+              "start": 16,
+              "url": "https://t.co/OYaf5TnYGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028351696016154758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028156812990791775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了哈哈哈哈哈哈哈哈哈哈哈 https://t.co/OYaf5TnYGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028150418115796992"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2028156812990791775",
+        "created_at": "2026-03-01T17:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028156812990791775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBCnuuV0za",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2028156812990791775/photo/1",
+              "media_key": "3_2028150418115796992",
+              "start": 0,
+              "url": "https://t.co/aBCnuuV0za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028156812990791775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 178979,
+          "like_count": 1605,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aBCnuuV0za"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1316,
+          "like_count": 23004,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4885
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 701,
+          "like_count": 10393,
+          "listed_count": 28,
+          "media_count": 1422,
+          "tweet_count": 3615
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

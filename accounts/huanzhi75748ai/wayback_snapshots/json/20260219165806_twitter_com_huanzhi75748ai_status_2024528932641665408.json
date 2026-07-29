@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2024528932641665408",
+    "created_at": "2026-02-19T16:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024528932641665408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781693668208111616",
+          "start": 3,
+          "username": "ilovetoday10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528932641665408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024164277444088198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilovetoday10: 想老公。不知道老公是谁，但此时此刻有点想老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2024528932641665408",
+        "created_at": "2026-02-19T16:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024528932641665408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781693668208111616",
+              "start": 3,
+              "username": "ilovetoday10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528932641665408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024164277444088198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilovetoday10: 想老公。不知道老公是谁，但此时此刻有点想老公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781693668208111616",
+        "conversation_id": "2024164277444088198",
+        "created_at": "2026-02-18T16:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024164277444088198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024164277444088198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19554,
+          "like_count": 406,
+          "quote_count": 23,
+          "reply_count": 21,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "想老公。不知道老公是谁，但此时此刻有点想老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1320,
+          "like_count": 22799,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 4808
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T14:37:36.000Z",
+        "description": "这个世界我是来玩的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nico.okn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nico.okn1",
+                "start": 0,
+                "url": "https://t.co/5TYmc15uW6"
+              }
+            ]
+          }
+        },
+        "id": "1781693668208111616",
+        "location": "Sorry我不在，請在beep聲後留言 📩",
+        "name": "妮说什麽",
+        "pinned_tweet_id": "1921210081036718297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920504122479898624/CqIEsr97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 95,
+          "like_count": 13890,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 2653
+        },
+        "url": "https://t.co/5TYmc15uW6",
+        "username": "ilovetoday10",
+        "verified": false
+      }
+    ]
+  }
+}

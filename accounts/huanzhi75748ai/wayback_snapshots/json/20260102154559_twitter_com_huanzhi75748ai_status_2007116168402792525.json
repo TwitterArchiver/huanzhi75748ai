@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2007116168402792525",
+    "created_at": "2026-01-02T15:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007116168402792525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2006921713305768080",
+          "start": 8,
+          "url": "https://t.co/qrNbvIlyYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007116168402792525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006921713305768080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样贱嗖嗖 https://t.co/qrNbvIlyYp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2006921675435290627",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9oEoXRaMAMkqEw.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2007116168402792525",
+        "created_at": "2026-01-02T15:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007116168402792525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2006921713305768080",
+              "start": 8,
+              "url": "https://t.co/qrNbvIlyYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007116168402792525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006921713305768080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样贱嗖嗖 https://t.co/qrNbvIlyYp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006921675435290627"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006921713305768080",
+        "created_at": "2026-01-02T02:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T03:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006921713305768080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vBQpSTpRSH",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2006921713305768080/photo/1",
+              "media_key": "3_2006921675435290627",
+              "start": 0,
+              "url": "https://t.co/vBQpSTpRSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006921713305768080",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 50033,
+          "like_count": 584,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vBQpSTpRSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1327,
+          "like_count": 22337,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4637
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30603,
+          "following_count": 352,
+          "like_count": 77,
+          "listed_count": 90,
+          "media_count": 9324,
+          "tweet_count": 9362
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808787214110740713",
+    "created_at": "2024-07-04T17:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T18:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808917236134072789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "gasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808917236134072789",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808787214110740713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gasuiyuno 不是哥们？第一次8t，没感觉再加。空腹药效好。你人还好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808787214110740713",
+        "created_at": "2024-07-04T17:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T18:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808917236134072789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "gasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808917236134072789",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808787214110740713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gasuiyuno 不是哥们？第一次8t，没感觉再加。空腹药效好。你人还好吗？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1808787214110740713",
+        "created_at": "2024-07-04T08:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T09:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808787214110740713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808787214110740713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次普瑞该多少 24吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1189,
+          "like_count": 13143,
+          "listed_count": 1,
+          "tweet_count": 2420
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|这是我的日记|互关欢迎|od会发疯|对不起所有人‖",
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟里森堡卢伦贝格精神病保护协会✟",
+        "pinned_tweet_id": "1772882146417406111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779770744685408256/RawVllkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 634,
+          "like_count": 6888,
+          "listed_count": 3,
+          "tweet_count": 8077
+        },
+        "username": "gasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

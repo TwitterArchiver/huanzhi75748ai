@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996527428244553728"
+      ],
+      "media_source_tweet_id": [
+        "1996527462843326837"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997415887914107209",
+    "created_at": "2025-12-06T21:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T22:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997415887914107209"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Windows 7 Ad",
+          "probability": 0.8484,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Japan",
+          "probability": 0.9388,
+          "start": 28,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1370466691940036609",
+          "start": 3,
+          "username": "anime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dScJlXwnXA",
+          "end": 57,
+          "expanded_url": "https://x.com/anime_/status/1996527462843326837/video/1",
+          "media_key": "7_1996527428244553728",
+          "start": 34,
+          "url": "https://t.co/dScJlXwnXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997415887914107209",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3812
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996527462843326837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_: Windows 7 Ad in Japan https://t.co/dScJlXwnXA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64533,
+        "height": 398,
+        "media_key": "7_1996527428244553728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996527428244553728/pu/img/kd__cRtlTKXyHZPj.jpg",
+        "public_metrics": {
+          "view_count": 386373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996527428244553728/pu/vid/avc1/438x270/29fA7nflqp4jV9YG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996527428244553728/pu/vid/avc1/646x398/yJ-MyXoV0-Qmy4Zx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996527428244553728/pu/pl/QSHr4IxGuDFZgsYL.m3u8?tag=12&v=71f"
+          }
+        ],
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996527428244553728"
+          ],
+          "media_source_tweet_id": [
+            "1996527462843326837"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997415887914107209",
+        "created_at": "2025-12-06T21:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T22:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997415887914107209"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Windows 7 Ad",
+              "probability": 0.8484,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Japan",
+              "probability": 0.9388,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1370466691940036609",
+              "start": 3,
+              "username": "anime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dScJlXwnXA",
+              "end": 57,
+              "expanded_url": "https://x.com/anime_/status/1996527462843326837/video/1",
+              "media_key": "7_1996527428244553728",
+              "start": 34,
+              "url": "https://t.co/dScJlXwnXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997415887914107209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3812
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996527462843326837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_: Windows 7 Ad in Japan https://t.co/dScJlXwnXA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996527428244553728"
+          ]
+        },
+        "author_id": "1370466691940036609",
+        "conversation_id": "1996527462843326837",
+        "created_at": "2025-12-04T10:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996527462843326837"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Windows 7 Ad",
+              "probability": 0.8637,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "Japan",
+              "probability": 0.9502,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dScJlXwnXA",
+              "end": 45,
+              "expanded_url": "https://x.com/anime_/status/1996527462843326837/video/1",
+              "media_key": "7_1996527428244553728",
+              "start": 22,
+              "url": "https://t.co/dScJlXwnXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996527462843326837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7254,
+          "impression_count": 1128010,
+          "like_count": 27903,
+          "quote_count": 311,
+          "reply_count": 163,
+          "retweet_count": 3812
+        },
+        "reply_settings": "everyone",
+        "text": "Windows 7 Ad in Japan https://t.co/dScJlXwnXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1341,
+          "like_count": 21981,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4540
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T20:08:48.000Z",
+        "description": "aesthetic anime clips & images",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/animes_aesthet…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/animes_aesthetic",
+                "start": 0,
+                "url": "https://t.co/xTuYW5oALy"
+              }
+            ]
+          }
+        },
+        "id": "1370466691940036609",
+        "name": "Anime Aesthetics",
+        "pinned_tweet_id": "1996995561849811321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879794189543559168/DGGYw4iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830580,
+          "following_count": 97,
+          "like_count": 5426,
+          "listed_count": 2461,
+          "media_count": 11045,
+          "tweet_count": 11607
+        },
+        "url": "https://t.co/xTuYW5oALy",
+        "username": "anime_",
+        "verified": true
+      }
+    ]
+  }
+}

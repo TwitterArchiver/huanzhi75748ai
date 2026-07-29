@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037847790806802547",
+    "created_at": "2026-03-28T11:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037847790806802547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NGNGVXX/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/NGNGVXX/status/2037510405422276865",
+          "start": 13,
+          "url": "https://t.co/Zdb9DBelHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037847790806802547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037510405422276865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实话啊别把伤痛当做心动。 https://t.co/Zdb9DBelHi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037847790806802547",
+        "created_at": "2026-03-28T11:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037847790806802547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2037510405422276865",
+              "start": 13,
+              "url": "https://t.co/Zdb9DBelHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037847790806802547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037510405422276865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实话啊别把伤痛当做心动。 https://t.co/Zdb9DBelHi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2037510405422276865",
+        "created_at": "2026-03-27T12:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037510405422276865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037510405422276865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 44099,
+          "like_count": 1259,
+          "quote_count": 32,
+          "reply_count": 28,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "童年有创伤的人对感情千万不要卡“感觉”，因为神经系统会更倾向于选择你熟悉的创伤模式，那些让你感觉到难以控制的冲动以及强烈的情绪的人，也许只是激发了你深层的创伤，迷恋的本质是创伤吸引。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1380,
+          "like_count": 25275,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 5344
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8041,
+          "following_count": 5,
+          "like_count": 983,
+          "listed_count": 23,
+          "media_count": 97,
+          "tweet_count": 1704
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

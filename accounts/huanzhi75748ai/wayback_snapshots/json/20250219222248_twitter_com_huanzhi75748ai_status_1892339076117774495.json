@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892339073466900480"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892270527634358683",
+    "created_at": "2025-02-19T22:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892339076117774495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563559065078595589",
+          "start": 0,
+          "username": "skmt26628703"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CyD75wbLd",
+          "end": 48,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1892339076117774495/photo/1",
+          "media_key": "3_1892339073466900480",
+          "start": 25,
+          "url": "https://t.co/9CyD75wbLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892339076117774495",
+    "in_reply_to_user_id": "1563559065078595589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892270527634358683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmt26628703 存的图派上用场哈哈哈 https://t.co/9CyD75wbLd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892339076117774495].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892339076117774495",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892339076117774495"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 261,
+        "media_key": "3_1892339073466900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkLwXHyWIAAdZw2.jpg",
+        "width": 261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563559065078595589",
+        "conversation_id": "1892270527634358683",
+        "created_at": "2025-02-19T17:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T18:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892270527634358683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892270527634358683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了，擇偶標準就是找個不管我的媽得了，有嗎，有沒有富婆包養我，好睏好餓，點個外賣吧，這屌絲日子過的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1262,
+          "like_count": 19543,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3793
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T16:08:39.000Z",
+        "description": "由宜家開始我哋就係一分鐘㗎朋友。",
+        "id": "1563559065078595589",
+        "location": "阿兹卡班",
+        "name": "小戈鳥雨",
+        "pinned_tweet_id": "1823003101160440077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712597342103412736/1Q3RWfh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 290,
+          "like_count": 33710,
+          "listed_count": 5,
+          "media_count": 736,
+          "tweet_count": 8381
+        },
+        "username": "skmt26628703",
+        "verified": false
+      }
+    ]
+  }
+}

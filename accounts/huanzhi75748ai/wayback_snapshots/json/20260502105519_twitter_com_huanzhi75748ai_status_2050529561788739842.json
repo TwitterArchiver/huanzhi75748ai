@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2050529561788739842",
+    "created_at": "2026-05-02T10:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050529561788739842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Khriot/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Khriot/status/2050403463595487679",
+          "start": 10,
+          "url": "https://t.co/OdhIQHsnRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050529561788739842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050403463595487679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。我就这么上厕所 https://t.co/OdhIQHsnRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2050403461494087680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR_FbCWIAAxDJS.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2050529561788739842",
+        "created_at": "2026-05-02T10:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050529561788739842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Khriot/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Khriot/status/2050403463595487679",
+              "start": 10,
+              "url": "https://t.co/OdhIQHsnRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050529561788739842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050403463595487679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。我就这么上厕所 https://t.co/OdhIQHsnRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050403461494087680"
+          ]
+        },
+        "author_id": "217385840",
+        "conversation_id": "2050195727452877127",
+        "created_at": "2026-05-02T02:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050403463595487679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960486730039222273",
+              "start": 0,
+              "username": "Count_medals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxXnQvshPU",
+              "end": 77,
+              "expanded_url": "https://x.com/Khriot/status/2050403463595487679/photo/1",
+              "media_key": "3_2050403461494087680",
+              "start": 54,
+              "url": "https://t.co/yxXnQvshPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050403463595487679",
+        "in_reply_to_user_id": "1960486730039222273",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 513836,
+          "like_count": 7798,
+          "quote_count": 21,
+          "reply_count": 26,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050195727452877127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Count_medals A melhor solução é apoiar ele no ombro. https://t.co/yxXnQvshPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1404,
+          "like_count": 30476,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6246
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-19T11:34:28.000Z",
+        "description": "Eu estava sem o que fazer e inventei de criar um perfil no twitter =P\nカリオティ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqwcangaceiros.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://aqwcangaceiros.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/asnMucdAj4"
+              }
+            ]
+          }
+        },
+        "id": "217385840",
+        "location": "Lore",
+        "name": "Khriot Fawkes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3213627038/d163d57dce063842792cbc6161a5a567_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 842,
+          "like_count": 203109,
+          "listed_count": 5,
+          "media_count": 23692,
+          "tweet_count": 122646
+        },
+        "url": "https://t.co/asnMucdAj4",
+        "username": "Khriot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068278837272879104",
+        "3_2068278837419679744"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2068278869602484648",
+    "created_at": "2026-06-20T10:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068278869602484648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9S6ImFasiB",
+          "end": 35,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2068278869602484648/photo/1",
+          "media_key": "3_2068278837272879104",
+          "start": 12,
+          "url": "https://t.co/9S6ImFasiB"
+        },
+        {
+          "display_url": "pic.x.com/9S6ImFasiB",
+          "end": 35,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2068278869602484648/photo/1",
+          "media_key": "3_2068278837419679744",
+          "start": 12,
+          "url": "https://t.co/9S6ImFasiB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068278869602484648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大手子来了，有感觉吗？ https://t.co/9S6ImFasiB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2068278837272879104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQApPAboAA6M0F.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068278837419679744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQApPjboAAQCGh.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068278837272879104",
+            "3_2068278837419679744"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2068278869602484648",
+        "created_at": "2026-06-20T10:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068278869602484648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9S6ImFasiB",
+              "end": 35,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2068278869602484648/photo/1",
+              "media_key": "3_2068278837272879104",
+              "start": 12,
+              "url": "https://t.co/9S6ImFasiB"
+            },
+            {
+              "display_url": "pic.x.com/9S6ImFasiB",
+              "end": 35,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2068278869602484648/photo/1",
+              "media_key": "3_2068278837419679744",
+              "start": 12,
+              "url": "https://t.co/9S6ImFasiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068278869602484648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大手子来了，有感觉吗？ https://t.co/9S6ImFasiB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1385,
+          "like_count": 31484,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 6576
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

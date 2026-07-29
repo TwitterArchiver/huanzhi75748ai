@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1810348338547454259",
+    "created_at": "2024-07-08T18:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T19:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810374256246796444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758394948918067200",
+          "start": 0,
+          "username": "Doll00709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810374256246796444",
+    "in_reply_to_user_id": "1758394948918067200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810348338547454259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll00709 生日快樂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1810348338547454259",
+        "created_at": "2024-07-08T18:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T19:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810374256246796444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758394948918067200",
+              "start": 0,
+              "username": "Doll00709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810374256246796444",
+        "in_reply_to_user_id": "1758394948918067200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810348338547454259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll00709 生日快樂🫂"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810348296885465088"
+          ]
+        },
+        "author_id": "1758394948918067200",
+        "conversation_id": "1810348338547454259",
+        "created_at": "2024-07-08T16:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T17:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810348338547454259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JquCVODKRK",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Doll00709/status/1810348338547454259/photo/1",
+              "media_key": "3_1810348296885465088",
+              "start": 15,
+              "url": "https://t.co/JquCVODKRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810348338547454259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日，但是没人记得 https://t.co/JquCVODKRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1192,
+          "like_count": 13501,
+          "listed_count": 1,
+          "tweet_count": 2521
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:36:52.000Z",
+        "description": "",
+        "id": "1758394948918067200",
+        "name": "yd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788178566942732290/SZispvyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 12,
+          "like_count": 59,
+          "listed_count": 2,
+          "tweet_count": 99
+        },
+        "username": "Doll00709",
+        "verified": false
+      }
+    ]
+  }
+}

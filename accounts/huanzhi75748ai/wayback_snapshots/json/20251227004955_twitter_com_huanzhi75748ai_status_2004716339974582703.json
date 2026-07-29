@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2004596193989689603",
+    "created_at": "2025-12-27T00:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T01:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004716339974582703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1730288727271075840",
+          "start": 0,
+          "username": "zwzsbytt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004716339974582703",
+    "in_reply_to_user_id": "1730288727271075840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004596193989689603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwzsbytt 好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2004596145549672448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HBktWbAAAM39O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2004596145570648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HBktbbEAAWm8g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2004596145553891328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HBktXbYAAbBT8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2004596193989689603",
+        "created_at": "2025-12-27T00:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T01:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004716339974582703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1730288727271075840",
+              "start": 0,
+              "username": "zwzsbytt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004716339974582703",
+        "in_reply_to_user_id": "1730288727271075840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004596193989689603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwzsbytt 好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004596145549672448",
+            "3_2004596145570648064",
+            "3_2004596145553891328"
+          ]
+        },
+        "author_id": "1730288727271075840",
+        "conversation_id": "2004596193989689603",
+        "created_at": "2025-12-26T16:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004596193989689603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A98Oqwe92Q",
+              "end": 32,
+              "expanded_url": "https://x.com/zwzsbytt/status/2004596193989689603/photo/1",
+              "media_key": "3_2004596145549672448",
+              "start": 9,
+              "url": "https://t.co/A98Oqwe92Q"
+            },
+            {
+              "display_url": "pic.x.com/A98Oqwe92Q",
+              "end": 32,
+              "expanded_url": "https://x.com/zwzsbytt/status/2004596193989689603/photo/1",
+              "media_key": "3_2004596145570648064",
+              "start": 9,
+              "url": "https://t.co/A98Oqwe92Q"
+            },
+            {
+              "display_url": "pic.x.com/A98Oqwe92Q",
+              "end": 32,
+              "expanded_url": "https://x.com/zwzsbytt/status/2004596193989689603/photo/1",
+              "media_key": "3_2004596145553891328",
+              "start": 9,
+              "url": "https://t.co/A98Oqwe92Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004596193989689603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快夸我 我画的头 https://t.co/A98Oqwe92Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1324,
+          "like_count": 22361,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 4624
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T18:12:43.000Z",
+        "description": "称呼我为121，休学中。精品神药品鉴者，od妹餐券女精神病百合豚滴泪系外星人同类小女孩可直fo。 …祝大家都永远幸福，永远永远幸福。以及我不会打任何预警的，请不要约束我，请安静认识我吧",
+        "id": "1730288727271075840",
+        "location": "ip：天国  🚪88/188/520/1314",
+        "name": "徒步上天堂",
+        "pinned_tweet_id": "1992588634982383839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988988087721160707/ZYifVWy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 401,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 502,
+          "tweet_count": 4037
+        },
+        "username": "zwzsbytt",
+        "verified": false
+      }
+    ]
+  }
+}

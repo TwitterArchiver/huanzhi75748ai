@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1855437559549288769",
+    "created_at": "2024-11-10T02:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T03:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855437559549288769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595700376203771904",
+          "start": 3,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855437559549288769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855201015949308153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user88881102: 我感受到你对爱和被爱的恐惧\n你把你的一切带来到这个非常地时刻\n\n它们会说“让它去吧”\n但你怎么能放下一个伤疤？\n\n疤痕总是存在于你的皮肤上或者你的心门上\n所有进入的人都必须看到它并知道它在那里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1855437559549288769",
+        "created_at": "2024-11-10T02:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T03:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855437559549288769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595700376203771904",
+              "start": 3,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855437559549288769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855201015949308153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user88881102: 我感受到你对爱和被爱的恐惧\n你把你的一切带来到这个非常地时刻\n\n它们会说“让它去吧”\n但你怎么能放下一个伤疤？\n\n疤痕总是存在于你的皮肤上或者你的心门上\n所有进入的人都必须看到它并知道它在那里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595700376203771904",
+        "conversation_id": "1855201015949308153",
+        "created_at": "2024-11-09T10:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T11:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855201015949308153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855201015949308153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1002,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我感受到你对爱和被爱的恐惧\n你把你的一切带来到这个非常地时刻\n\n它们会说“让它去吧”\n但你怎么能放下一个伤疤？\n\n疤痕总是存在于你的皮肤上或者你的心门上\n所有进入的人都必须看到它并知道它在那里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1261,
+          "like_count": 18647,
+          "listed_count": 1,
+          "tweet_count": 3648
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字",
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 2794,
+          "like_count": 4313,
+          "listed_count": 6,
+          "tweet_count": 2582
+        },
+        "username": "user88881102",
+        "verified": false
+      }
+    ]
+  }
+}

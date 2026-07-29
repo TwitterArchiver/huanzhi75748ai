@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1896181230728798241",
+    "created_at": "2025-03-02T19:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T20:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896278156052767198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522862031795372032",
+          "start": 0,
+          "username": "Alouette_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896278156052767198",
+    "in_reply_to_user_id": "1522862031795372032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896277119996748206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alouette_zzz 😫我也😿只要说上话了马上就把曾经的伤害抛之脑后了。下一次被伤害就发誓再也不心软。然后就发誓→心软→被伤害→再发誓。这样。苦哈哈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1896181230728798241",
+        "created_at": "2025-03-02T19:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T20:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896278156052767198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522862031795372032",
+              "start": 0,
+              "username": "Alouette_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896278156052767198",
+        "in_reply_to_user_id": "1522862031795372032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896277119996748206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alouette_zzz 😫我也😿只要说上话了马上就把曾经的伤害抛之脑后了。下一次被伤害就发誓再也不心软。然后就发誓→心软→被伤害→再发誓。这样。苦哈哈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522862031795372032",
+        "conversation_id": "1896181230728798241",
+        "created_at": "2025-03-02T19:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T20:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896277119996748206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896277119996748206",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896276333845688704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 😭😭😭我不能接受我在一个人身上栽了两三次 我当时真的有打算把她当朋友 但她背地里说了我好多好多坏话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1275,
+          "like_count": 20187,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3860
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "聊天/分享日常 \n宝宝@wslcdg20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "location": "里八华",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872653372173512704/cTCEH8j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 298,
+          "like_count": 37186,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 6218
+        },
+        "username": "Alouette_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

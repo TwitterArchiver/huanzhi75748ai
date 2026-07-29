@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1838749856116150730",
+    "created_at": "2024-09-25T01:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T02:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838749856116150730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1419277488342011906",
+          "start": 3,
+          "username": "limbo_jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838749856116150730",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838492988894515544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @limbo_jiang: 要玩就玩我的乳头吧，因为我有两颗，别玩我的心我就这一颗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1838749856116150730",
+        "created_at": "2024-09-25T01:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T02:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838749856116150730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1419277488342011906",
+              "start": 3,
+              "username": "limbo_jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838749856116150730",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838492988894515544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @limbo_jiang: 要玩就玩我的乳头吧，因为我有两颗，别玩我的心我就这一颗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419277488342011906",
+        "conversation_id": "1838492988894515544",
+        "created_at": "2024-09-24T08:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T09:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838492988894515544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838492988894515544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10836,
+          "like_count": 117,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "要玩就玩我的乳头吧，因为我有两颗，别玩我的心我就这一颗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1244,
+          "like_count": 16021,
+          "listed_count": 1,
+          "tweet_count": 3152
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T12:45:04.000Z",
+        "description": "小小号@Bukuaile_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "Bukuaile_"
+              }
+            ]
+          }
+        },
+        "id": "1419277488342011906",
+        "location": "漂浮在太空 飞起来",
+        "name": "一个小号（恋爱中）",
+        "pinned_tweet_id": "1832034119087460818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785017626626023430/MY7d9Y5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 435,
+          "like_count": 9439,
+          "listed_count": 12,
+          "tweet_count": 6649
+        },
+        "username": "limbo_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

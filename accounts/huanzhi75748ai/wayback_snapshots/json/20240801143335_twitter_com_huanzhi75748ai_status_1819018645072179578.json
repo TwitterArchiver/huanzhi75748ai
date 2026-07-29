@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1819015804370964556",
+    "created_at": "2024-08-01T14:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T15:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819018645072179578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773814776390713344",
+          "start": 0,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819018645072179578",
+    "in_reply_to_user_id": "1773814776390713344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819015804370964556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Xiaoliaomcy 我舔舔就干净了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1819015804370964556",
+        "created_at": "2024-08-01T14:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819018645072179578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773814776390713344",
+              "start": 0,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819018645072179578",
+        "in_reply_to_user_id": "1773814776390713344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819015804370964556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Xiaoliaomcy 我舔舔就干净了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773814776390713344",
+        "conversation_id": "1819015804370964556",
+        "created_at": "2024-08-01T14:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819015804370964556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819015804370964556",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "求拉屎拉干净教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1222,
+          "like_count": 14808,
+          "listed_count": 1,
+          "tweet_count": 2812
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "那是你自己的问题",
+        "id": "1773814776390713344",
+        "location": "你妈",
+        "name": "Lazy Dog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818728524888653826/Vc4lKWvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 349,
+          "like_count": 29738,
+          "listed_count": 2,
+          "tweet_count": 4594
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

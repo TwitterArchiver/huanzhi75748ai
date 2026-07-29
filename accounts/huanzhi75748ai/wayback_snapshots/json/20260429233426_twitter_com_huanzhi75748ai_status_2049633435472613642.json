@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2049633435472613642",
+    "created_at": "2026-04-29T23:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049633435472613642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990306770762555392",
+          "start": 3,
+          "username": "menggy0624"
+        },
+        {
+          "end": 31,
+          "id": "1942995969043501056",
+          "start": 16,
+          "username": "XIAOMAIMI_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049633435472613642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049524686531555772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @menggy0624: @XIAOMAIMI_miao 没有人觉得拍一拍对方很萌吗……有时候拍拍对方感觉是摸了摸对方的头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2049633435472613642",
+        "created_at": "2026-04-29T23:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049633435472613642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990306770762555392",
+              "start": 3,
+              "username": "menggy0624"
+            },
+            {
+              "end": 31,
+              "id": "1942995969043501056",
+              "start": 16,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049633435472613642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049524686531555772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @menggy0624: @XIAOMAIMI_miao 没有人觉得拍一拍对方很萌吗……有时候拍拍对方感觉是摸了摸对方的头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990306770762555392",
+        "conversation_id": "2049377069214376040",
+        "created_at": "2026-04-29T16:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049524686531555772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049524686531555772",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049377069214376040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 没有人觉得拍一拍对方很萌吗……有时候拍拍对方感觉是摸了摸对方的头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1404,
+          "like_count": 30298,
+          "listed_count": 2,
+          "media_count": 533,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T06:31:42.000Z",
+        "description": "我活的好懵逼",
+        "id": "1990306770762555392",
+        "location": "404",
+        "name": "伪爱题",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031757283986706432/ZslQ7CMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 28,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 244
+        },
+        "username": "menggy0624",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎提问箱→https://t.co/JRr7GidAPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomaimi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/xiaomaimi",
+                "start": 46,
+                "url": "https://t.co/JRr7GidAPQ"
+              }
+            ]
+          }
+        },
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6255,
+          "following_count": 190,
+          "like_count": 15307,
+          "listed_count": 27,
+          "media_count": 92,
+          "tweet_count": 1450
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

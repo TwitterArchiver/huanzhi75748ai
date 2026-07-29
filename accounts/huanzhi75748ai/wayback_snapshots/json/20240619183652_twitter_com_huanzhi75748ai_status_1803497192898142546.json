@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1803472464808136792",
+    "created_at": "2024-06-19T18:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T19:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803497192898142546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568585483814567939",
+          "start": 0,
+          "username": "dianziemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803497192898142546",
+    "in_reply_to_user_id": "1568585483814567939",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803472464808136792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianziemo 接住🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1803472464808136792",
+        "created_at": "2024-06-19T18:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T19:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803497192898142546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568585483814567939",
+              "start": 0,
+              "username": "dianziemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803497192898142546",
+        "in_reply_to_user_id": "1568585483814567939",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803472464808136792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianziemo 接住🫂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1568585483814567939",
+        "conversation_id": "1803472464808136792",
+        "created_at": "2024-06-19T16:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T17:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803472464808136792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803472464808136792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飞扑每一个推友🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1150,
+          "like_count": 12390,
+          "listed_count": 1,
+          "tweet_count": 2270
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T13:01:49.000Z",
+        "description": "平平无奇/发画用：@ic443_0401",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "ic443_0401"
+              }
+            ]
+          }
+        },
+        "id": "1568585483814567939",
+        "location": "ic443",
+        "name": "电子恶魔",
+        "pinned_tweet_id": "1800482487749190078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797936709549871106/Tbq8jyQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 918,
+          "like_count": 12915,
+          "listed_count": 8,
+          "tweet_count": 19523
+        },
+        "username": "dianziemo",
+        "verified": false
+      }
+    ]
+  }
+}

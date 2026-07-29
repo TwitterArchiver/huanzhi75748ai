@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1793514917938794566",
+    "created_at": "2024-05-23T05:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T06:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793516409055826090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678773839403319302",
+          "start": 0,
+          "username": "shenchun14496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793516409055826090",
+    "in_reply_to_user_id": "1678773839403319302",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793516059691258159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenchun14496 🤔😯👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1793514917938794566",
+        "created_at": "2024-05-23T05:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T06:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793516409055826090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678773839403319302",
+              "start": 0,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793516409055826090",
+        "in_reply_to_user_id": "1678773839403319302",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793516059691258159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenchun14496 🤔😯👌🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1678773839403319302",
+        "conversation_id": "1793514917938794566",
+        "created_at": "2024-05-23T05:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T06:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793516059691258159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793516059691258159",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793514917938794566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我买的右边的，白兔不是只有84粒和60粒的吗，72粒是什么鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1129,
+          "like_count": 8991,
+          "listed_count": 1,
+          "tweet_count": 1766
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:30:59.000Z",
+        "description": "一个废物大一学生，大概活不过这学期了",
+        "id": "1678773839403319302",
+        "location": "基沃托斯",
+        "name": "浦岛隧道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781694386117689345/oAiJ8KYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 102,
+          "like_count": 4447,
+          "listed_count": 0,
+          "tweet_count": 1722
+        },
+        "username": "shenchun14496",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1788801538678477308",
+    "created_at": "2024-05-10T05:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T06:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788801538678477308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1776452300816719872",
+          "start": 3,
+          "username": "VoiceMemoNo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788801538678477308",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788254640787841412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VoiceMemoNo_7: 我这种穷逼妄图用购物填补空虚的自己结果看了半天啥也没买😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1788801538678477308",
+        "created_at": "2024-05-10T05:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T06:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788801538678477308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1776452300816719872",
+              "start": 3,
+              "username": "VoiceMemoNo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788801538678477308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788254640787841412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VoiceMemoNo_7: 我这种穷逼妄图用购物填补空虚的自己结果看了半天啥也没买😂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1776452300816719872",
+        "conversation_id": "1788254640787841412",
+        "created_at": "2024-05-08T17:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T18:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788254640787841412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788254640787841412",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8569,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我这种穷逼妄图用购物填补空虚的自己结果看了半天啥也没买😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1074,
+          "like_count": 7423,
+          "listed_count": 1,
+          "tweet_count": 1507
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "前世@VoiceMemoNo_4｜神の陨落｜抽象的脚推｜极端平等主义者｜因为是人类 所以要去码头整点薯条｜理神分身@VoiceMemoNo_9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "VoiceMemoNo_4"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "VoiceMemoNo_9"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "理江2.0",
+        "pinned_tweet_id": "1786678040141172874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 92,
+          "like_count": 1649,
+          "listed_count": 2,
+          "tweet_count": 603
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      }
+    ]
+  }
+}

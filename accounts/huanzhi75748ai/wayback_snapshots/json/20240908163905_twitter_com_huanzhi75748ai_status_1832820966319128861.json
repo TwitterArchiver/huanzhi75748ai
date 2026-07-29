@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1832786784859615705",
+    "created_at": "2024-09-08T16:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T17:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832820966319128861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832820966319128861",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832794812870979710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ 🥺謝謝你不嫌棄我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1832786784859615705",
+        "created_at": "2024-09-08T16:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T17:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832820966319128861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832820966319128861",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832794812870979710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 🥺謝謝你不嫌棄我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1832794739281928192"
+          ]
+        },
+        "author_id": "1667129907795886081",
+        "conversation_id": "1832786784859615705",
+        "created_at": "2024-09-08T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832794812870979710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzbb5c9bxl",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mods999_/status/1832794812870979710/photo/1",
+              "media_key": "16_1832794739281928192",
+              "start": 16,
+              "url": "https://t.co/hZbB5C9Bxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832794812870979710",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832786784859615705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai https://t.co/hZbB5C9Bxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1223,
+          "like_count": 15172,
+          "listed_count": 1,
+          "tweet_count": 2927
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "查成分互fo，不过除了粉蛆基本都过",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "mods999「💮」",
+        "pinned_tweet_id": "1810691098865725941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830113764047536128/ZhmextcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 189,
+          "like_count": 6062,
+          "listed_count": 0,
+          "tweet_count": 1225
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

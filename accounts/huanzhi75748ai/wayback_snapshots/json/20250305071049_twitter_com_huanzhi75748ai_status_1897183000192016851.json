@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1896695312397603269",
+    "created_at": "2025-03-05T07:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T08:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897183000192016851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891175268859174912",
+          "start": 0,
+          "username": "Asp1re23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897183000192016851",
+    "in_reply_to_user_id": "1891175268859174912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896810315859521795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asp1re23 坎公骑冠剑(全名太长我忘记了)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1896695312397603269",
+        "created_at": "2025-03-05T07:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T08:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897183000192016851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891175268859174912",
+              "start": 0,
+              "username": "Asp1re23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897183000192016851",
+        "in_reply_to_user_id": "1891175268859174912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896810315859521795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asp1re23 坎公骑冠剑(全名太长我忘记了)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891175268859174912",
+        "conversation_id": "1896695312397603269",
+        "created_at": "2025-03-04T06:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896810315859521795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896810315859521795",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896695312397603269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 什么游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1275,
+          "like_count": 20329,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 3869
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T17:18:23.000Z",
+        "description": "¿emo boy",
+        "id": "1891175268859174912",
+        "name": "A湯圓仔23",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891181647997132800/jNV0CEHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "Asp1re23",
+        "verified": false
+      }
+    ]
+  }
+}

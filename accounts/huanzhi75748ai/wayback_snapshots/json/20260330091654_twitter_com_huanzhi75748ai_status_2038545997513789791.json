@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038316417959997659",
+    "created_at": "2026-03-30T09:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038545997513789791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038545997513789791",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038316417959997659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 哇还有汉尼拔（吃边角料版）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2038316412587130880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmN-lAawAAaKsl.jpg",
+        "width": 473
+      },
+      {
+        "height": 509,
+        "media_key": "3_2038316412595507200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmN-lCakAAkwVe.jpg",
+        "width": 828
+      },
+      {
+        "height": 341,
+        "media_key": "3_2038316412599762944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmN-lDbgAA0Nz0.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038316417959997659",
+        "created_at": "2026-03-30T09:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038545997513789791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038545997513789791",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038316417959997659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 哇还有汉尼拔（吃边角料版）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038316412587130880",
+            "3_2038316412595507200",
+            "3_2038316412599762944"
+          ]
+        },
+        "author_id": "1820594914339799040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038316417959997659",
+        "created_at": "2026-03-29T18:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038316417959997659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmYZp5M08f",
+              "end": 30,
+              "expanded_url": "https://x.com/2CROW19/status/2038316417959997659/photo/1",
+              "media_key": "3_2038316412587130880",
+              "start": 7,
+              "url": "https://t.co/XmYZp5M08f"
+            },
+            {
+              "display_url": "pic.x.com/XmYZp5M08f",
+              "end": 30,
+              "expanded_url": "https://x.com/2CROW19/status/2038316417959997659/photo/1",
+              "media_key": "3_2038316412595507200",
+              "start": 7,
+              "url": "https://t.co/XmYZp5M08f"
+            },
+            {
+              "display_url": "pic.x.com/XmYZp5M08f",
+              "end": 30,
+              "expanded_url": "https://x.com/2CROW19/status/2038316417959997659/photo/1",
+              "media_key": "3_2038316412599762944",
+              "start": 7,
+              "url": "https://t.co/XmYZp5M08f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038316417959997659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21647,
+          "like_count": 178,
+          "quote_count": 4,
+          "reply_count": 76,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁，他妈的谁 https://t.co/XmYZp5M08f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1383,
+          "like_count": 26052,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5443
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "想谴责想骂我的人可以滚了，我只想和无论我变成什么样都会跟我一起玩的人玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2038318273973178519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 132,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

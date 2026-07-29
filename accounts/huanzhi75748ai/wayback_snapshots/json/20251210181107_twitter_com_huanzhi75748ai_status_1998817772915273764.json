@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998817756553293824"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1998817772915273764",
+    "created_at": "2025-12-10T18:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T19:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998817772915273764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdzxgNwDBT",
+          "end": 53,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1998817772915273764/photo/1",
+          "media_key": "3_1998817756553293824",
+          "start": 30,
+          "url": "https://t.co/vdzxgNwDBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998817772915273764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们nico又出神图啦尔等凡人膜拜罢！😉😋😊🤫😼😈😍🙏🏻🔥 https://t.co/vdzxgNwDBT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998817772915273764].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998817772915273764",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998817772915273764"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1998817756553293824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G706KM4aMAA9lMe.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1344,
+          "like_count": 22071,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 4565
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

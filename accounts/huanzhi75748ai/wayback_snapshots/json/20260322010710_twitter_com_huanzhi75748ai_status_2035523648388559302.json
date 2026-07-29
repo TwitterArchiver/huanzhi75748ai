@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2035523648388559302",
+    "created_at": "2026-03-22T01:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035523648388559302"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035523648388559302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的不知道坐在商场按摩椅上的人是怎么面无表情甚至舒服放松坐在那里的。我补考的时候中午没地方去想坐按摩椅休息下。我靠这么这样怪，我坐在上面感觉像被按摩椅强健了一样。又疼又有点舒服，搞得我刺眼咧嘴差点没叫出来，还有人往按摩仓里看。我靠好羞耻怪怪的。我用衣服挡住脸，好像更怪了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2035523648388559302",
+        "created_at": "2026-03-22T01:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035523648388559302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035523648388559302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不知道坐在商场按摩椅上的人是怎么面无表情甚至舒服放松坐在那里的。我补考的时候中午没地方去想坐按摩椅休息下。我靠这么这样怪，我坐在上面感觉像被按摩椅强健了一样。又疼又有点舒服，搞得我刺眼咧嘴差点没叫出来，还有人往按摩仓里看。我靠好羞耻怪怪的。我用衣服挡住脸，好像更怪了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1347,
+          "like_count": 24159,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 5053
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

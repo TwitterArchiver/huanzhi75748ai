@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1804091962628411632",
+    "created_at": "2024-06-21T10:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T11:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804091962628411632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hosinomeiya/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/hosinomeiya/status/1803775582435717321",
+          "start": 17,
+          "url": "https://t.co/qHdLOVfVia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804091962628411632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803775582435717321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在山东打工的时候发现同事全是党员 https://t.co/qHdLOVfVia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1804091962628411632",
+        "created_at": "2024-06-21T10:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T11:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804091962628411632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hosinomeiya/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hosinomeiya/status/1803775582435717321",
+              "start": 17,
+              "url": "https://t.co/qHdLOVfVia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804091962628411632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803775582435717321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在山东打工的时候发现同事全是党员 https://t.co/qHdLOVfVia"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803775568661594112",
+            "3_1803775568661663745",
+            "3_1803775568657473536",
+            "3_1803775568674279424"
+          ]
+        },
+        "author_id": "1598006509748690944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1803775582435717321",
+        "created_at": "2024-06-20T13:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T14:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803775582435717321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3q9QbQEAoS",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hosinomeiya/status/1803775582435717321/photo/1",
+              "media_key": "3_1803775568661594112",
+              "start": 12,
+              "url": "https://t.co/3q9QbQEAoS"
+            },
+            {
+              "display_url": "pic.twitter.com/3q9QbQEAoS",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hosinomeiya/status/1803775582435717321/photo/1",
+              "media_key": "3_1803775568661663745",
+              "start": 12,
+              "url": "https://t.co/3q9QbQEAoS"
+            },
+            {
+              "display_url": "pic.twitter.com/3q9QbQEAoS",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hosinomeiya/status/1803775582435717321/photo/1",
+              "media_key": "3_1803775568657473536",
+              "start": 12,
+              "url": "https://t.co/3q9QbQEAoS"
+            },
+            {
+              "display_url": "pic.twitter.com/3q9QbQEAoS",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hosinomeiya/status/1803775582435717321/photo/1",
+              "media_key": "3_1803775568674279424",
+              "start": 12,
+              "url": "https://t.co/3q9QbQEAoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803775582435717321",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 383534,
+          "like_count": 2107,
+          "quote_count": 32,
+          "reply_count": 140,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "你们山东人差不多得了😅 https://t.co/3q9QbQEAoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1163,
+          "like_count": 12555,
+          "listed_count": 1,
+          "tweet_count": 2302
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T17:30:23.000Z",
+        "description": "不自由，毋宁死！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hoshinonoie",
+                "end": 23,
+                "expanded_url": "http://t.me/hoshinonoie",
+                "start": 0,
+                "url": "https://t.co/gv4l6BFiL7"
+              }
+            ]
+          }
+        },
+        "id": "1598006509748690944",
+        "location": "强国？墙国！",
+        "name": "星野めいや🏴‍☠️",
+        "pinned_tweet_id": "1767602740417761718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715231994110758912/Z-vuG01K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 158,
+          "like_count": 37032,
+          "listed_count": 12,
+          "tweet_count": 4701
+        },
+        "url": "https://t.co/gv4l6BFiL7",
+        "username": "hosinomeiya",
+        "verified": false
+      }
+    ]
+  }
+}

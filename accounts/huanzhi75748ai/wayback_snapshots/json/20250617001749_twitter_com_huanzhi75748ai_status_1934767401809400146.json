@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1933231732842770432",
+    "created_at": "2025-06-17T00:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934767401809400146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924348964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934767401809400146",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934266376212152677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924348964 我是你的唯粉👁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1933231732842770432",
+        "created_at": "2025-06-17T00:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T01:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934767401809400146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924348964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934767401809400146",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934266376212152677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924348964 我是你的唯粉👁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647182072723959808",
+        "conversation_id": "1933231732842770432",
+        "created_at": "2025-06-15T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934266376212152677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934266376212152677",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934002939603141070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我是你的小粉丝（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1350,
+          "like_count": 21808,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 4198
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "留下了zZ zZ zZ",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "pinned_tweet_id": "1841792332691083412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923415152071974912/3mqFnXWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 842,
+          "like_count": 163687,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 6030
+        },
+        "username": "s3450924348964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1839346940565475523",
+    "created_at": "2024-09-26T16:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T17:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839346940565475523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713492000568467456",
+          "start": 3,
+          "username": "shi_li3602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839346940565475523",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838981458746106074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shi_li3602: 我操你妈的，你身边怎么这么多人，这个也聊天那个也说话，我操你妈，我真应该给你他妈的锁起来，天天喂你吃春药，养狗一样养着你，操。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1839346940565475523",
+        "created_at": "2024-09-26T16:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T17:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839346940565475523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713492000568467456",
+              "start": 3,
+              "username": "shi_li3602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839346940565475523",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838981458746106074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shi_li3602: 我操你妈的，你身边怎么这么多人，这个也聊天那个也说话，我操你妈，我真应该给你他妈的锁起来，天天喂你吃春药，养狗一样养着你，操。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713492000568467456",
+        "conversation_id": "1838981458746106074",
+        "created_at": "2024-09-25T16:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T17:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838981458746106074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838981458746106074",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 56832,
+          "like_count": 548,
+          "quote_count": 19,
+          "reply_count": 42,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈的，你身边怎么这么多人，这个也聊天那个也说话，我操你妈，我真应该给你他妈的锁起来，天天喂你吃春药，养狗一样养着你，操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1243,
+          "like_count": 16046,
+          "listed_count": 1,
+          "tweet_count": 3171
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T09:48:38.000Z",
+        "description": "最好的礼物 ₍˄·͈༝·͈˄₎ฅ˒˒/推广自辩",
+        "id": "1713492000568467456",
+        "name": "秋秋秋诗漓",
+        "pinned_tweet_id": "1839326133336350804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838068290930757632/IunCajBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9874,
+          "following_count": 322,
+          "like_count": 28874,
+          "listed_count": 18,
+          "tweet_count": 9064
+        },
+        "username": "shi_li3602",
+        "verified": false
+      }
+    ]
+  }
+}

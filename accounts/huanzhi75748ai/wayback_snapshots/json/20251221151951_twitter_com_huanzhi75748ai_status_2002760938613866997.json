@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2002694484673581285",
+    "created_at": "2025-12-21T15:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T16:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002760938613866997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002760938613866997",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002694484673581285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike 视觉系→od→男女通吃→单双→拉粑粑→水果→打瓦→圣罗兰。打瓦打的还是圣罗兰。这没od的语言系统还不如我。好好笑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89507,
+        "height": 1280,
+        "media_key": "7_2002694273846902784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002694273846902784/pu/img/1SyH2Zc1JgAZ78fm.jpg",
+        "public_metrics": {
+          "view_count": 216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002694273846902784/pu/vid/avc1/320x568/PHdnbFhvugWIKkQt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002694273846902784/pu/vid/avc1/480x852/O_dihGG67-vbXcV7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002694273846902784/pu/vid/avc1/720x1280/SXGTbto6reic452z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002694273846902784/pu/pl/A7zvKaobAJcHNsot.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2002694484673581285",
+        "created_at": "2025-12-21T15:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002760938613866997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002760938613866997",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002694484673581285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 视觉系→od→男女通吃→单双→拉粑粑→水果→打瓦→圣罗兰。打瓦打的还是圣罗兰。这没od的语言系统还不如我。好好笑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002694273846902784"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "2002694484673581285",
+        "created_at": "2025-12-21T10:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002694484673581285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFRkdSKYhX",
+              "end": 23,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2002694484673581285/video/1",
+              "media_key": "7_2002694273846902784",
+              "start": 0,
+              "url": "https://t.co/gFRkdSKYhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002694484673581285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 424,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gFRkdSKYhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1326,
+          "like_count": 22331,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 4618
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28\n社区:https://t.co/JwQ9mOTHUy\n官方直推交流群:https://t.co/MpXjzzSiT5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 113,
+                "expanded_url": "https://pr80.bid/",
+                "start": 90,
+                "url": "https://t.co/JwQ9mOTHUy"
+              },
+              {
+                "display_url": "wwbwm.lanzouq.com/imtjv3e",
+                "end": 145,
+                "expanded_url": "https://wwbwm.lanzouq.com/imtjv3e",
+                "start": 122,
+                "url": "https://t.co/MpXjzzSiT5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "2002699618057076799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 1572,
+          "like_count": 982,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

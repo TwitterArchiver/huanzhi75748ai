@@ -1,0 +1,114 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1791138352730886144"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1791138658273399224",
+    "created_at": "2024-05-16T16:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T17:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791138658273399224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/S2qEGtfkAh",
+          "end": 35,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1791138658273399224/video/1",
+          "media_key": "7_1791138352730886144",
+          "start": 12,
+          "url": "https://t.co/S2qEGtfkAh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791138658273399224",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纯小丑来的\n包不被爱的 https://t.co/S2qEGtfkAh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1791138658273399224].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1791138658273399224",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1791138658273399224"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5067,
+        "height": 1396,
+        "media_key": "7_1791138352730886144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1791138352730886144/pu/img/-aq-UgRMBgIfcLpi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791138352730886144/pu/vid/avc1/320x412/NNHHBMWgV-gP3xhc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791138352730886144/pu/vid/avc1/480x620/N9kmHF7FoNxIyHHO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791138352730886144/pu/vid/avc1/720x930/RMNuSEkxriecZSEa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1791138352730886144/pu/pl/vuAOyP54NHbgwdij.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1091,
+          "like_count": 7941,
+          "listed_count": 1,
+          "tweet_count": 1595
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1864354426237882765",
+    "created_at": "2024-12-04T17:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T18:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864354426237882765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864354426237882765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那种目的不明的热情让我充满不安和恐惧。就像前任一样一开始很热情然后不需要了就恶语相向地抛弃。这种剧本好像已经是固定。一点苗头都让我痛不欲生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1864354426237882765",
+        "created_at": "2024-12-04T17:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864354426237882765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864354426237882765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那种目的不明的热情让我充满不安和恐惧。就像前任一样一开始很热情然后不需要了就恶语相向地抛弃。这种剧本好像已经是固定。一点苗头都让我痛不欲生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1262,
+          "like_count": 19092,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 3805
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

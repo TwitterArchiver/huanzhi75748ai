@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2012970064371191919",
+    "created_at": "2026-01-18T19:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T20:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012970064371191919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852390818390450176",
+          "start": 3,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012970064371191919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012850128952983556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lrmc4e: 推特就像日记本 屁大点事都往上写 鸡毛蒜皮的小事也要发 不为什么 为的就是自己开心 发完之后觉得舒服了 不重要的内容就删了 重要的也许会留着 代表的只是一时的心情而不是整个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2012970064371191919",
+        "created_at": "2026-01-18T19:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012970064371191919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852390818390450176",
+              "start": 3,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012970064371191919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012850128952983556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lrmc4e: 推特就像日记本 屁大点事都往上写 鸡毛蒜皮的小事也要发 不为什么 为的就是自己开心 发完之后觉得舒服了 不重要的内容就删了 重要的也许会留着 代表的只是一时的心情而不是整个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2012850128952983556",
+        "created_at": "2026-01-18T11:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012850128952983556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012850128952983556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9085,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "推特就像日记本 屁大点事都往上写 鸡毛蒜皮的小事也要发 不为什么 为的就是自己开心 发完之后觉得舒服了 不重要的内容就删了 重要的也许会留着 代表的只是一时的心情而不是整个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1327,
+          "like_count": 22512,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 4681
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "@ditchn2c 小号｜玩x只是满足自己的分享欲｜ig: lrmc4e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2003482005892399608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13590,
+          "following_count": 97,
+          "like_count": 18352,
+          "listed_count": 29,
+          "media_count": 210,
+          "tweet_count": 4948
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

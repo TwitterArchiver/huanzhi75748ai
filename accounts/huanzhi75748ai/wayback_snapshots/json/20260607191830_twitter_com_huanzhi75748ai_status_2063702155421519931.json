@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2063384387455275332",
+    "created_at": "2026-06-07T19:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063702155421519931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2704551668",
+          "start": 0,
+          "username": "LaplaceMio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063702155421519931",
+    "in_reply_to_user_id": "2704551668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063572791648293099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaplaceMio 应该不会打的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2063384387455275332",
+        "created_at": "2026-06-07T19:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063702155421519931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2704551668",
+              "start": 0,
+              "username": "LaplaceMio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063702155421519931",
+        "in_reply_to_user_id": "2704551668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063572791648293099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceMio 应该不会打的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2704551668",
+        "conversation_id": "2063384387455275332",
+        "created_at": "2026-06-07T10:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063572791648293099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063572791648293099",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063384387455275332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 打了记得给我看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1384,
+          "like_count": 31521,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 6544
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-03T17:25:55.000Z",
+        "description": "为什么不先介绍一下你自己呢",
+        "id": "2704551668",
+        "name": "LaplaceMio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025779362046644224/tTI17P-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 309,
+          "like_count": 19937,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3501
+        },
+        "username": "LaplaceMio",
+        "verified": false
+      }
+    ]
+  }
+}

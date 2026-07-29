@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2044440626247401559",
+    "created_at": "2026-04-16T07:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044675769037996376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044675769037996376",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044440626247401559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetiekittylol 当黑客说要泄露我相册里的照片，我的相册：🐶🐕🐩🦮🐕‍🦺🐈🐈‍⬛🐓🐀🦔🐾🐱🐶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2044440626247401559",
+        "created_at": "2026-04-16T07:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044675769037996376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044675769037996376",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044440626247401559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetiekittylol 当黑客说要泄露我相册里的照片，我的相册：🐶🐕🐩🦮🐕‍🦺🐈🐈‍⬛🐓🐀🦔🐾🐱🐶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512373779933978626",
+        "conversation_id": "2044440626247401559",
+        "created_at": "2026-04-15T15:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044440626247401559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044440626247401559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相册里，狗的照片和视频是我照片的十倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1393,
+          "like_count": 29458,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6051
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/L280UkBu",
+                "end": 23,
+                "expanded_url": "https://www.pome.vip/L280UkBu",
+                "start": 0,
+                "url": "https://t.co/9rD350Ty18"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24891,
+          "following_count": 666,
+          "like_count": 16146,
+          "listed_count": 54,
+          "media_count": 1146,
+          "tweet_count": 9500
+        },
+        "url": "https://t.co/9rD350Ty18",
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

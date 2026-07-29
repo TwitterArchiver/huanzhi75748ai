@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2035295555568771535",
+    "created_at": "2026-03-22T01:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035535907483451399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965457223636975617",
+          "start": 0,
+          "username": "Thymol_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035535907483451399",
+    "in_reply_to_user_id": "1965457223636975617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035295555568771535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thymol_11 愈美吐。我右美只吐过一次还可能是因为吃多了撑得。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2035295555568771535",
+        "created_at": "2026-03-22T01:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035535907483451399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035535907483451399",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035295555568771535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 愈美吐。我右美只吐过一次还可能是因为吃多了撑得。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2035295555568771535",
+        "created_at": "2026-03-21T10:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035295555568771535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035295555568771535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2405,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愈美容易吐还是右美容易吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 1349,
+          "like_count": 24190,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 5058
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ🎀★ 🔪 𓉸ྀི☕ ♫ྀི🎹⋆⑅ 🤍 ｜09｜intp5w4｜自伤od｜LGBTQ+全友好｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 173,
+          "like_count": 3003,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

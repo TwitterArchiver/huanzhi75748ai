@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2022912390116053434",
+    "created_at": "2026-02-15T05:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022912390116053434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1929464299115679745",
+          "start": 3,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022912390116053434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022392971598139491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Devastated1726: 家人们，我为什么不能是个蛋仔...就整天在蛋仔岛上瞎逛，快乐的滚动，穿可爱的衣服和可爱的人嘎达嘎达...…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2022912390116053434",
+        "created_at": "2026-02-15T05:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022912390116053434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1929464299115679745",
+              "start": 3,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022912390116053434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022392971598139491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Devastated1726: 家人们，我为什么不能是个蛋仔...就整天在蛋仔岛上瞎逛，快乐的滚动，穿可爱的衣服和可爱的人嘎达嘎达...…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929464299115679745",
+        "conversation_id": "2022392971598139491",
+        "created_at": "2026-02-13T19:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022392971598139491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022392971598139491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38695,
+          "like_count": 972,
+          "quote_count": 8,
+          "reply_count": 68,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "家人们，我为什么不能是个蛋仔...就整天在蛋仔岛上瞎逛，快乐的滚动，穿可爱的衣服和可爱的人嘎达嘎达...…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1320,
+          "like_count": 22817,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 4806
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "唉 疲惫大姐发牢骚 不必在意\n天使来互fo            \n不聊骚 很恶心  发自内心的想吐",
+        "id": "1929464299115679745",
+        "location": "天国",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2018006082413871555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017999714143371264/LcQw6Jjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 93,
+          "like_count": 790,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 944
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

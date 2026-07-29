@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1919086206366756941",
+    "created_at": "2025-05-04T17:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T18:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919086206366756941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864468641305251844",
+          "start": 3,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919086206366756941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918701140088070366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaNpc: 睡了（退出所有聊天+玩半小时游戏+刷半小时微博微信朋友圈+看一会儿视频+手莫名往下面伸+产生了负面情绪试图和自己和解+失眠）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1919086206366756941",
+        "created_at": "2025-05-04T17:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T18:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919086206366756941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864468641305251844",
+              "start": 3,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919086206366756941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918701140088070366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaNpc: 睡了（退出所有聊天+玩半小时游戏+刷半小时微博微信朋友圈+看一会儿视频+手莫名往下面伸+产生了负面情绪试图和自己和解+失眠）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1918701140088070366",
+        "created_at": "2025-05-03T16:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T17:13:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918700492147876099",
+          "1918701140088070366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918701140088070366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 26149,
+          "like_count": 358,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "睡了（退出所有聊天+玩半小时游戏+刷半小时微博微信朋友圈+看一会儿视频+手莫名往下面伸+产生了负面情绪试图和自己和解+失眠）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1332,
+          "like_count": 21110,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4100
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜国/粤｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/AM3r3Y",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/AM3r3Y",
+                "start": 0,
+                "url": "https://t.co/xpg16bPUIl"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "1909985102790349042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918971221976506368/fLg9kgHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7645,
+          "following_count": 110,
+          "like_count": 9160,
+          "listed_count": 8,
+          "media_count": 81,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/xpg16bPUIl",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

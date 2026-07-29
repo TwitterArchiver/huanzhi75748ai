@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1891187648720417137",
+    "created_at": "2025-02-16T18:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T19:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891187648720417137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1607593748678021121",
+          "start": 3,
+          "username": "IUoUooo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891187648720417137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891009164282896843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IUoUooo_: 不是说做狗爽吗，怎么掉那么多眼泪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1891187648720417137",
+        "created_at": "2025-02-16T18:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T19:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891187648720417137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1607593748678021121",
+              "start": 3,
+              "username": "IUoUooo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891187648720417137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891009164282896843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IUoUooo_: 不是说做狗爽吗，怎么掉那么多眼泪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607593748678021121",
+        "conversation_id": "1891009164282896843",
+        "created_at": "2025-02-16T06:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T07:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891009164282896843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891009164282896843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11712,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "不是说做狗爽吗，怎么掉那么多眼泪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1255,
+          "like_count": 19307,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 3762
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-27T04:26:40.000Z",
+        "description": "lesbian｜自用🪜⬇️｜提问箱 https://t.co/8y3mc4N3ue",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuouooo_w",
+                "end": 41,
+                "expanded_url": "https://ngl.link/iuouooo_w",
+                "start": 18,
+                "url": "https://t.co/8y3mc4N3ue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=ULQekjyT",
+                "start": 0,
+                "url": "https://t.co/aT8HSayzNJ"
+              }
+            ]
+          }
+        },
+        "id": "1607593748678021121",
+        "name": "Www",
+        "pinned_tweet_id": "1755625745622446289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828568536186257408/d4reSBBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42459,
+          "following_count": 185,
+          "like_count": 907,
+          "listed_count": 79,
+          "media_count": 30,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/aT8HSayzNJ",
+        "username": "IUoUooo_",
+        "verified": false
+      }
+    ]
+  }
+}

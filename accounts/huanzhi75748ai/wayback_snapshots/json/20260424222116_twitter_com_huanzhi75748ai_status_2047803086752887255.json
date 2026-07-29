@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047489611358728192"
+      ],
+      "media_source_tweet_id": [
+        "2047489613934031033"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2047803086752887255",
+    "created_at": "2026-04-24T22:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047803086752887255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lglP6MgXkv",
+          "end": 48,
+          "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+          "media_key": "3_2047489611358728192",
+          "start": 25,
+          "url": "https://t.co/lglP6MgXkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047803086752887255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047489613934031033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 谢谢你们！🫰 https://t.co/lglP6MgXkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_2047489611358728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGok9BZW8AARZUK.jpg",
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489611358728192"
+          ],
+          "media_source_tweet_id": [
+            "2047489613934031033"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2047803086752887255",
+        "created_at": "2026-04-24T22:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047803086752887255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782932905419046912",
+              "start": 3,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lglP6MgXkv",
+              "end": 48,
+              "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+              "media_key": "3_2047489611358728192",
+              "start": 25,
+              "url": "https://t.co/lglP6MgXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047803086752887255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047489613934031033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratshelprats: 谢谢你们！🫰 https://t.co/lglP6MgXkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489611358728192"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2047489613934031033",
+        "created_at": "2026-04-24T01:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047489613934031033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lglP6MgXkv",
+              "end": 30,
+              "expanded_url": "https://x.com/ratshelprats/status/2047489613934031033/photo/1",
+              "media_key": "3_2047489611358728192",
+              "start": 7,
+              "url": "https://t.co/lglP6MgXkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047489613934031033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 14310,
+          "like_count": 876,
+          "quote_count": 6,
+          "reply_count": 59,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们！🫰 https://t.co/lglP6MgXkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1388,
+          "like_count": 29789,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 6132
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2039406392768131266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102834,
+          "following_count": 505,
+          "like_count": 87092,
+          "listed_count": 153,
+          "media_count": 633,
+          "tweet_count": 1481
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

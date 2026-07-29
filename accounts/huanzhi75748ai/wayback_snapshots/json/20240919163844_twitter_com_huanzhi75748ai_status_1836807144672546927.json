@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1836807144672546927",
+    "created_at": "2024-09-19T16:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T17:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836807144672546927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horrorsthetics…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/horrorsthetics/status/1836485017700278410",
+          "start": 5,
+          "url": "https://t.co/7RiPP2cax1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836807144672546927",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836485017700278410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "like https://t.co/7RiPP2cax1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1836807144672546927",
+        "created_at": "2024-09-19T16:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T17:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836807144672546927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horrorsthetics…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/horrorsthetics/status/1836485017700278410",
+              "start": 5,
+              "url": "https://t.co/7RiPP2cax1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836807144672546927",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836485017700278410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "like https://t.co/7RiPP2cax1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836485009252720640",
+            "3_1836485009261146112"
+          ]
+        },
+        "author_id": "1403120401199341571",
+        "conversation_id": "1836485017700278410",
+        "created_at": "2024-09-18T19:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T20:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836485017700278410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yr4o7i7fws",
+              "end": 29,
+              "expanded_url": "https://twitter.com/horrorsthetics/status/1836485017700278410/photo/1",
+              "media_key": "3_1836485009252720640",
+              "start": 6,
+              "url": "https://t.co/yr4O7i7fwS"
+            },
+            {
+              "display_url": "pic.x.com/yr4o7i7fws",
+              "end": 29,
+              "expanded_url": "https://twitter.com/horrorsthetics/status/1836485017700278410/photo/1",
+              "media_key": "3_1836485009261146112",
+              "start": 6,
+              "url": "https://t.co/yr4O7i7fwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836485017700278410",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16323,
+          "impression_count": 5154872,
+          "like_count": 161897,
+          "quote_count": 1837,
+          "reply_count": 299,
+          "retweet_count": 15901
+        },
+        "reply_settings": "everyone",
+        "text": "NEED. https://t.co/yr4O7i7fwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1244,
+          "like_count": 15921,
+          "listed_count": 1,
+          "tweet_count": 3123
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T22:42:41.000Z",
+        "description": "⚰️ 𝐞𝐧𝐭𝐞𝐫 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤! • follow if you 🖤 daily 𝗵𝗼𝗿𝗿𝗼𝗿 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 🦇 𝘁𝘄: fake BLOOD & GORE 🫀 backup acc: @horrorsthetics2 🪦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 104,
+                "username": "horrorsthetics2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/horrorsthetics",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/horrorsthetics",
+                "start": 0,
+                "url": "https://t.co/I0X0fbQILB"
+              }
+            ]
+          }
+        },
+        "id": "1403120401199341571",
+        "location": "your local cemetery",
+        "name": "𝐭𝐡𝐞 𝐯𝐚𝐦𝐩𝐢𝐫𝐚 𝐬𝐡𝐨𝐰 🪦",
+        "pinned_tweet_id": "1834246830390923449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762175283107442688/OqmBIgEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165205,
+          "following_count": 2955,
+          "like_count": 29815,
+          "listed_count": 314,
+          "tweet_count": 18289
+        },
+        "url": "https://t.co/I0X0fbQILB",
+        "username": "horrorsthetics",
+        "verified": true
+      }
+    ]
+  }
+}

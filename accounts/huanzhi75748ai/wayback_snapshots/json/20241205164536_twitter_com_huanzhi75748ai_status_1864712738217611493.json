@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1864584368305394009",
+    "created_at": "2024-12-05T16:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T17:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864712738217611493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695515581192278016",
+          "start": 0,
+          "username": "xingchen_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864712738217611493",
+    "in_reply_to_user_id": "1695515581192278016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864584368305394009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingchen_gu 头一次有认识的人开摊位诶，比较好奇会摆些什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1864584368305394009",
+        "created_at": "2024-12-05T16:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T17:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864712738217611493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695515581192278016",
+              "start": 0,
+              "username": "xingchen_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864712738217611493",
+        "in_reply_to_user_id": "1695515581192278016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864584368305394009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchen_gu 头一次有认识的人开摊位诶，比较好奇会摆些什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864584354640310272"
+          ]
+        },
+        "author_id": "1695515581192278016",
+        "conversation_id": "1864584368305394009",
+        "created_at": "2024-12-05T08:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T09:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864584368305394009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8WLqLHlNV",
+              "end": 47,
+              "expanded_url": "https://x.com/xingchen_gu/status/1864584368305394009/photo/1",
+              "media_key": "3_1864584354640310272",
+              "start": 24,
+              "url": "https://t.co/b8WLqLHlNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864584368305394009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要来的大家记得光顾一下我的J8和J9摊位😹😹😹 https://t.co/b8WLqLHlNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1260,
+          "like_count": 19202,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 3827
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T19:16:40.000Z",
+        "description": "Who knows me？\nWho understands me？\nWho needs me？\nWho am I？",
+        "id": "1695515581192278016",
+        "location": "未知星云",
+        "name": "一粒小星尘（thinking）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860199518890848256/qIG4Roup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 784,
+          "like_count": 5718,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 4334
+        },
+        "username": "xingchen_gu",
+        "verified": false
+      }
+    ]
+  }
+}

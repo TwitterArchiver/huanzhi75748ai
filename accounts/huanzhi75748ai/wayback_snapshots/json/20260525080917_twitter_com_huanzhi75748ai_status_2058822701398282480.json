@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2058725307276992915",
+    "created_at": "2026-05-25T08:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058822701398282480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058822701398282480",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058725307276992915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 我靠这是啥啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2058725299190390784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIPwIRaYAAzl8Z.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2058725299198783488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIPwITacAANbkO.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2058725307276992915",
+        "created_at": "2026-05-25T08:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058822701398282480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058822701398282480",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058725307276992915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 我靠这是啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058725299190390784",
+            "3_2058725299198783488"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058725307276992915",
+        "created_at": "2026-05-25T01:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058725307276992915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzlWePu5a8",
+              "end": 45,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058725307276992915/photo/1",
+              "media_key": "3_2058725299190390784",
+              "start": 22,
+              "url": "https://t.co/nzlWePu5a8"
+            },
+            {
+              "display_url": "pic.x.com/nzlWePu5a8",
+              "end": 45,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058725307276992915/photo/1",
+              "media_key": "3_2058725299198783488",
+              "start": 22,
+              "url": "https://t.co/nzlWePu5a8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058725307276992915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 392767,
+          "like_count": 2438,
+          "quote_count": 148,
+          "reply_count": 216,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我对ckw没兴趣但是这样有点太恶心了吧 https://t.co/nzlWePu5a8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1384,
+          "like_count": 30977,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 6404
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 523,
+          "like_count": 7684,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 4347
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

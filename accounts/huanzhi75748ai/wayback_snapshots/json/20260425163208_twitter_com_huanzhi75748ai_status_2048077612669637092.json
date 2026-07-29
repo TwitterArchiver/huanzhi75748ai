@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2047546700911493546",
+    "created_at": "2026-04-25T16:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048077612669637092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1172025810007539713",
+          "start": 0,
+          "username": "Rui_evol_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048077612669637092",
+    "in_reply_to_user_id": "1172025810007539713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047546700911493546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rui_evol_ 饭店的中餐有时候为了调味搞得很重口，我在外面吃一顿得喝将近一壶水。还真不如搞点白人饭吃吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2047546700911493546",
+        "created_at": "2026-04-25T16:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048077612669637092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1172025810007539713",
+              "start": 0,
+              "username": "Rui_evol_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048077612669637092",
+        "in_reply_to_user_id": "1172025810007539713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047546700911493546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rui_evol_ 饭店的中餐有时候为了调味搞得很重口，我在外面吃一顿得喝将近一壶水。还真不如搞点白人饭吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1172025810007539713",
+        "conversation_id": "2047546700911493546",
+        "created_at": "2026-04-24T05:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047546700911493546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047546700911493546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有异食癖，大家喜欢的中餐我都觉得太甜了/太咸了/太辣了，然后扭头去选了味同嚼蜡的一些白人饭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1392,
+          "like_count": 29993,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 6164
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-12T05:55:11.000Z",
+        "description": "02 ♌| Bisexuality | switch ㅠㅅㅠ\n📩：https://t.co/l9isl8Gdlm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/icantmakeuluvm…",
+                "end": 56,
+                "expanded_url": "https://ngl.link/icantmakeuluvmeanymore",
+                "start": 33,
+                "url": "https://t.co/l9isl8Gdlm"
+              }
+            ]
+          }
+        },
+        "id": "1172025810007539713",
+        "location": "🖤",
+        "name": "ゆ め",
+        "pinned_tweet_id": "2043890764346995092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043902860807811074/4utZ6CoB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 220,
+          "like_count": 12622,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 604
+        },
+        "username": "Rui_evol_",
+        "verified": false
+      }
+    ]
+  }
+}

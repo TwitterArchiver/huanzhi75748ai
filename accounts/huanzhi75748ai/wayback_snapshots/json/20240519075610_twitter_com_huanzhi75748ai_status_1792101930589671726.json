@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792040287826845879",
+    "created_at": "2024-05-19T07:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T08:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792101930589671726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684456606623571968",
+          "start": 0,
+          "username": "er_mei74034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792101930589671726",
+    "in_reply_to_user_id": "1684456606623571968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792040287826845879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_mei74034 不想做朋友了，做一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792040287826845879",
+        "created_at": "2024-05-19T07:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T08:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792101930589671726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684456606623571968",
+              "start": 0,
+              "username": "er_mei74034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792101930589671726",
+        "in_reply_to_user_id": "1684456606623571968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792040287826845879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_mei74034 不想做朋友了，做一个"
+      },
+      {
+        "attachments": {},
+        "author_id": "1684456606623571968",
+        "conversation_id": "1792040287826845879",
+        "created_at": "2024-05-19T03:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T04:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792040287826845879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792040287826845879",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友就是朋友和朋友做了爱就再也不能是朋友了😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1097,
+          "like_count": 8155,
+          "listed_count": 1,
+          "tweet_count": 1625
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T06:52:15.000Z",
+        "description": "攻击我的手机自动下载原神",
+        "id": "1684456606623571968",
+        "name": "梅尔菲",
+        "pinned_tweet_id": "1791740648875593838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732031658621313024/1br63z34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1080,
+          "like_count": 16902,
+          "listed_count": 9,
+          "tweet_count": 11853
+        },
+        "username": "er_mei74034",
+        "verified": false
+      }
+    ]
+  }
+}

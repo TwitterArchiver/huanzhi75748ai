@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917349884606263296",
+        "3_1917349885264670721"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1917349889018577051",
+    "created_at": "2025-04-29T22:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T23:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917349889018577051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1flsPmzFjV",
+          "end": 34,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1917349889018577051/photo/1",
+          "media_key": "3_1917349884606263296",
+          "start": 11,
+          "url": "https://t.co/1flsPmzFjV"
+        },
+        {
+          "display_url": "pic.x.com/1flsPmzFjV",
+          "end": 34,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1917349889018577051/photo/1",
+          "media_key": "3_1917349885264670721",
+          "start": 11,
+          "url": "https://t.co/1flsPmzFjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917349889018577051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧焯铝轨口牙窝妖抱景 https://t.co/1flsPmzFjV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917349889018577051].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917349889018577051",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917349889018577051"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917349884606263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvLj74XsAAtbHk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917349885264670721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvLj-VWMAEqS3s.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1322,
+          "like_count": 20969,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 4073
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

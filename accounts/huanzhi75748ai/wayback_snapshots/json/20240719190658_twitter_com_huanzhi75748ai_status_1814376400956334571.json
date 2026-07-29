@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1813863492191216015",
+    "created_at": "2024-07-19T19:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T20:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814376400956334571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764251918199873536",
+          "start": 0,
+          "username": "M_Lucas_08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814376400956334571",
+    "in_reply_to_user_id": "1764251918199873536",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813888572312768638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M_Lucas_08 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1813863492191216015",
+        "created_at": "2024-07-19T19:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T20:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814376400956334571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764251918199873536",
+              "start": 0,
+              "username": "M_Lucas_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814376400956334571",
+        "in_reply_to_user_id": "1764251918199873536",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813888572312768638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M_Lucas_08 好耶！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1764251918199873536",
+        "conversation_id": "1813863492191216015",
+        "created_at": "2024-07-18T10:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T11:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813888572312768638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813888572312768638",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813863492191216015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 是的，但是我有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1219,
+          "like_count": 14487,
+          "listed_count": 1,
+          "tweet_count": 2690
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T11:30:28.000Z",
+        "description": "你好，这里的管理者是08或者@DeeeKuu0704，中之人15岁，INTJ-OH，精神状态极度不稳定，如果你愿意和08做朋友的话，08会很开心的/里推@M_Lucas_06，我的宝宝@DeeeKuu0704好哥哥@MagmaBath 欢迎灌注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "DeeeKuu0704"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "M_Lucas_06"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "DeeeKuu0704"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "MagmaBath"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/87amjXO",
+                "end": 23,
+                "expanded_url": "https://b23.tv/87amjXO",
+                "start": 0,
+                "url": "https://t.co/zcB2sdKoNX"
+              }
+            ]
+          }
+        },
+        "id": "1764251918199873536",
+        "location": "A巢",
+        "name": "喵喵喵nei(有男朋友版)",
+        "pinned_tweet_id": "1781953518200357197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774213031230320640/99DnQ5f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 728,
+          "like_count": 69139,
+          "listed_count": 0,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/zcB2sdKoNX",
+        "username": "M_Lucas_08",
+        "verified": false
+      }
+    ]
+  }
+}

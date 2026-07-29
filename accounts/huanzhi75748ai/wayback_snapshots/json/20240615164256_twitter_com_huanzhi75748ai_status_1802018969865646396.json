@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1801982430284599667",
+    "created_at": "2024-06-15T16:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T17:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802018969865646396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1163808367166537728",
+          "start": 0,
+          "username": "EusctKV7Hh7TMn4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802018969865646396",
+    "in_reply_to_user_id": "1163808367166537728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801994290564137150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EusctKV7Hh7TMn4 谢谢🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1801982430284599667",
+        "created_at": "2024-06-15T16:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T17:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802018969865646396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1163808367166537728",
+              "start": 0,
+              "username": "EusctKV7Hh7TMn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802018969865646396",
+        "in_reply_to_user_id": "1163808367166537728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801994290564137150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EusctKV7Hh7TMn4 谢谢🥺🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1163808367166537728",
+        "conversation_id": "1801982430284599667",
+        "created_at": "2024-06-15T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801994290564137150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801994290564137150",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801982430284599667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1142,
+          "like_count": 11651,
+          "listed_count": 1,
+          "tweet_count": 2170
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T13:42:00.000Z",
+        "description": "二刺猿人 车万人 水平低的哲b  顺直长发男 雷批 人比较友善好说话\nmuv-luv和混沌之子是我爹 02年出生",
+        "id": "1163808367166537728",
+        "location": "🇨🇳",
+        "name": "纯夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792948706138116096/dDoQgbpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 633,
+          "like_count": 10118,
+          "listed_count": 0,
+          "tweet_count": 3898
+        },
+        "username": "EusctKV7Hh7TMn4",
+        "verified": false
+      }
+    ]
+  }
+}

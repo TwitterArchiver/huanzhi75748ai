@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841515403018989993",
+    "created_at": "2024-10-02T16:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T17:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841515403018989993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds520/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hgds520/status/1841342047736988018",
+          "start": 9,
+          "url": "https://t.co/pTNKj3xwra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841515403018989993",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841342047736988018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我前闺蜜说过这个 https://t.co/pTNKj3xwra"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1841515403018989993",
+        "created_at": "2024-10-02T16:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T17:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841515403018989993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds520/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hgds520/status/1841342047736988018",
+              "start": 9,
+              "url": "https://t.co/pTNKj3xwra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841515403018989993",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841342047736988018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我前闺蜜说过这个 https://t.co/pTNKj3xwra"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507396901594820608",
+        "conversation_id": "1841342047736988018",
+        "created_at": "2024-10-02T04:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841342047736988018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841342047736988018",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22841,
+          "like_count": 374,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "那个…提醒一下你啊…你每天共情这个，共情那个的，不要忘记自己才是最惨的一个啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1250,
+          "like_count": 16596,
+          "listed_count": 1,
+          "tweet_count": 3136
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️自辨置顶关评广告‼️侵权请私信🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=sBjJBEk7",
+                "start": 0,
+                "url": "https://t.co/fwO0bCPUND"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "location": "抽象的秘诀👇👇👇自用VPN",
+        "name": "渔",
+        "pinned_tweet_id": "1841461329527525641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722306263881797633/y6gEaktC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43812,
+          "following_count": 3003,
+          "like_count": 38273,
+          "listed_count": 52,
+          "tweet_count": 4683
+        },
+        "url": "https://t.co/fwO0bCPUND",
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

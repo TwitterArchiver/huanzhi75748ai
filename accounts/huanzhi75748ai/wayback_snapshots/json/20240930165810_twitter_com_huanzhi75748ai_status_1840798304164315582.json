@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835559334933311733",
+    "created_at": "2024-09-30T16:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T17:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840798304164315582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840798304164315582",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835559334933311733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 分我一小袋行不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835559334933311733",
+        "created_at": "2024-09-30T16:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T17:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840798304164315582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840798304164315582",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835559334933311733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 分我一小袋行不"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835559304818229248"
+          ]
+        },
+        "author_id": "1647182072723959808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1835559334933311733",
+        "created_at": "2024-09-16T06:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T07:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835559334933311733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2uh4b54fb",
+              "end": 27,
+              "expanded_url": "https://twitter.com/s3450924340204/status/1835559334933311733/photo/1",
+              "media_key": "3_1835559304818229248",
+              "start": 4,
+              "url": "https://t.co/J2uH4B54Fb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835559334933311733",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 734,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃🤤 https://t.co/J2uH4B54Fb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16433,
+          "listed_count": 1,
+          "tweet_count": 3114
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "08年 infp-T 休学💤💤💤",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833979107346186241/iJ0xKJha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 505,
+          "like_count": 84452,
+          "listed_count": 1,
+          "tweet_count": 1125
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

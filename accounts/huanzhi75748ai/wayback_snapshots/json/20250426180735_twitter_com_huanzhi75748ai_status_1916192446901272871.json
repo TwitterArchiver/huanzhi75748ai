@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1915422446292992332",
+    "created_at": "2025-04-26T18:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T19:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916192446901272871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719787399545532416",
+          "start": 0,
+          "username": "uriisin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916192446901272871",
+    "in_reply_to_user_id": "1719787399545532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915671926842036727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uriisin 豪！🥰😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1915422446292992332",
+        "created_at": "2025-04-26T18:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T19:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916192446901272871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719787399545532416",
+              "start": 0,
+              "username": "uriisin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916192446901272871",
+        "in_reply_to_user_id": "1719787399545532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915671926842036727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uriisin 豪！🥰😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719787399545532416",
+        "conversation_id": "1915422446292992332",
+        "created_at": "2025-04-25T07:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T08:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915671926842036727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915671926842036727",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915462780431589645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 感觉娃娃脸特别可爱😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1319,
+          "like_count": 20944,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 4057
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T18:44:19.000Z",
+        "description": "欢迎互fo可以叫我劲凉，170cm/55kg，摩羯座intp，精病患者服药中已戒自伤戒od，我在试着过看起来正常的生活但我已经坚持不住了",
+        "id": "1719787399545532416",
+        "name": "GOODWOMAN^^",
+        "pinned_tweet_id": "1896921535161815140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798724510801354752/AlF1eIpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 451,
+          "like_count": 6295,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1780
+        },
+        "username": "uriisin",
+        "verified": false
+      }
+    ]
+  }
+}

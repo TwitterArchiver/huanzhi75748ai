@@ -1,0 +1,273 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1816021634844647424",
+        "3_1816021646613831680"
+      ],
+      "media_source_tweet_id": [
+        "1816021780542238793",
+        "1816021780542238793"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1816536420779196769",
+    "created_at": "2024-07-25T18:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T19:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816536420779196769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "921716624327143424",
+          "start": 3,
+          "username": "rosioire"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/6Dz4rUNr26",
+          "end": 37,
+          "expanded_url": "https://twitter.com/rosioire/status/1816021780542238793/photo/1",
+          "media_key": "3_1816021634844647424",
+          "start": 14,
+          "url": "https://t.co/6Dz4rUNr26"
+        },
+        {
+          "display_url": "pic.twitter.com/6Dz4rUNr26",
+          "end": 37,
+          "expanded_url": "https://twitter.com/rosioire/status/1816021780542238793/photo/1",
+          "media_key": "3_1816021646613831680",
+          "start": 14,
+          "url": "https://t.co/6Dz4rUNr26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816536420779196769",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2817
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816021780542238793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @rosioire: https://t.co/6Dz4rUNr26"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1816021634844647424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTPODiFW4AAekda.jpg",
+        "width": 1032
+      },
+      {
+        "height": 1085,
+        "media_key": "3_1816021646613831680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTPOEN7WYAAjHKz.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816021634844647424",
+            "3_1816021646613831680"
+          ],
+          "media_source_tweet_id": [
+            "1816021780542238793",
+            "1816021780542238793"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1816536420779196769",
+        "created_at": "2024-07-25T18:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816536420779196769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "921716624327143424",
+              "start": 3,
+              "username": "rosioire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6Dz4rUNr26",
+              "end": 37,
+              "expanded_url": "https://twitter.com/rosioire/status/1816021780542238793/photo/1",
+              "media_key": "3_1816021634844647424",
+              "start": 14,
+              "url": "https://t.co/6Dz4rUNr26"
+            },
+            {
+              "display_url": "pic.twitter.com/6Dz4rUNr26",
+              "end": 37,
+              "expanded_url": "https://twitter.com/rosioire/status/1816021780542238793/photo/1",
+              "media_key": "3_1816021646613831680",
+              "start": 14,
+              "url": "https://t.co/6Dz4rUNr26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816536420779196769",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2817
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816021780542238793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @rosioire: https://t.co/6Dz4rUNr26"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816021634844647424",
+            "3_1816021646613831680"
+          ]
+        },
+        "author_id": "921716624327143424",
+        "conversation_id": "1816021780542238793",
+        "created_at": "2024-07-24T08:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T09:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816021780542238793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6Dz4rUNr26",
+              "end": 23,
+              "expanded_url": "https://twitter.com/rosioire/status/1816021780542238793/photo/1",
+              "media_key": "3_1816021634844647424",
+              "start": 0,
+              "url": "https://t.co/6Dz4rUNr26"
+            },
+            {
+              "display_url": "pic.twitter.com/6Dz4rUNr26",
+              "end": 23,
+              "expanded_url": "https://twitter.com/rosioire/status/1816021780542238793/photo/1",
+              "media_key": "3_1816021646613831680",
+              "start": 0,
+              "url": "https://t.co/6Dz4rUNr26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816021780542238793",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1404,
+          "impression_count": 324683,
+          "like_count": 17633,
+          "quote_count": 108,
+          "reply_count": 0,
+          "retweet_count": 2817
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/6Dz4rUNr26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1218,
+          "like_count": 14540,
+          "listed_count": 1,
+          "tweet_count": 2737
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-21T12:35:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/rosioi…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/gallery/rosioire/",
+                "start": 0,
+                "url": "https://t.co/indwPPanKR"
+              }
+            ]
+          }
+        },
+        "id": "921716624327143424",
+        "location": "✉️ rocioirene.info@gmail.com",
+        "name": "*",
+        "pinned_tweet_id": "1810898161164042429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813974565703270400/mlvIIQxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110686,
+          "following_count": 548,
+          "like_count": 8525,
+          "listed_count": 654,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/indwPPanKR",
+        "username": "rosioire",
+        "verified": false
+      }
+    ]
+  }
+}

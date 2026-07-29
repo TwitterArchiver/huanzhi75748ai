@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2001011940634845367",
+    "created_at": "2025-12-16T19:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T20:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001011940634845367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acid666host/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/acid666host/status/2000914306687173117",
+          "start": 19,
+          "url": "https://t.co/1lABxIM6TD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001011940634845367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000914306687173117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2这个手势自带一种涩感1根本比不了。 https://t.co/1lABxIM6TD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2000642613804769292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8O1235XoAwj3t5.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2001011940634845367",
+        "created_at": "2025-12-16T19:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T20:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001011940634845367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acid666host/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/acid666host/status/2000914306687173117",
+              "start": 19,
+              "url": "https://t.co/1lABxIM6TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001011940634845367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000914306687173117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2这个手势自带一种涩感1根本比不了。 https://t.co/1lABxIM6TD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000642613804769292"
+          ]
+        },
+        "author_id": "1304513815992729601",
+        "conversation_id": "2000914306687173117",
+        "created_at": "2025-12-16T13:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000914306687173117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBbxY0EHnd",
+              "end": 31,
+              "expanded_url": "https://x.com/acid666host/status/2000914306687173117/photo/1",
+              "media_key": "3_2000642613804769292",
+              "start": 8,
+              "url": "https://t.co/LBbxY0EHnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000914306687173117",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6455,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1 or 2? https://t.co/LBbxY0EHnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1329,
+          "like_count": 22234,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 4597
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T20:15:12.000Z",
+        "description": "visual archive gallery",
+        "id": "1304513815992729601",
+        "location": "content isn't mine",
+        "name": "S H I N I G A M I",
+        "pinned_tweet_id": "1996820168576848110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860991463867203584/5bUUKKOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724847,
+          "following_count": 14,
+          "like_count": 5109,
+          "listed_count": 1717,
+          "media_count": 2744,
+          "tweet_count": 4995
+        },
+        "username": "acid666host",
+        "verified": true
+      }
+    ]
+  }
+}

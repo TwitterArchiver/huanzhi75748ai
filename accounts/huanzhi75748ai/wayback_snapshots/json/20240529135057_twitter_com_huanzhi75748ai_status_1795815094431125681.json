@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1795815094431125681",
+    "created_at": "2024-05-29T13:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T14:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795815094431125681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673910841010446336",
+          "start": 3,
+          "username": "bluebb07_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795815094431125681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795752548865122582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluebb07_: 稍微一幸福点就觉得肯定有诈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1795815094431125681",
+        "created_at": "2024-05-29T13:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T14:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795815094431125681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673910841010446336",
+              "start": 3,
+              "username": "bluebb07_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795815094431125681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795752548865122582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluebb07_: 稍微一幸福点就觉得肯定有诈"
+      },
+      {
+        "attachments": {},
+        "author_id": "1673910841010446336",
+        "conversation_id": "1795752548865122582",
+        "created_at": "2024-05-29T09:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T10:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795752548865122582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795752548865122582",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3548,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "稍微一幸福点就觉得肯定有诈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1147,
+          "like_count": 10364,
+          "listed_count": 1,
+          "tweet_count": 1982
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T04:27:06.000Z",
+        "description": "我只是想和我的小手机说说话",
+        "id": "1673910841010446336",
+        "location": "🚪188",
+        "name": "我眼底的蓝色不是忧郁",
+        "pinned_tweet_id": "1793655822679245000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756044816746713088/NLRy2oCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18431,
+          "following_count": 85,
+          "like_count": 641,
+          "listed_count": 24,
+          "tweet_count": 2384
+        },
+        "username": "bluebb07_",
+        "verified": false
+      }
+    ]
+  }
+}

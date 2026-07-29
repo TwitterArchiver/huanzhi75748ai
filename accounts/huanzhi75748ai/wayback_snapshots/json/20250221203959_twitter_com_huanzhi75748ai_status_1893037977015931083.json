@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892877868335591563",
+    "created_at": "2025-02-21T20:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T21:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893037977015931083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568585483814567939",
+          "start": 0,
+          "username": "dianziemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893037977015931083",
+    "in_reply_to_user_id": "1568585483814567939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892877868335591563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianziemo 歪腻我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1892877848441966592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTaX8-W0AACKYI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892877868335591563",
+        "created_at": "2025-02-21T20:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T21:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893037977015931083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568585483814567939",
+              "start": 0,
+              "username": "dianziemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893037977015931083",
+        "in_reply_to_user_id": "1568585483814567939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892877868335591563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianziemo 歪腻我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892877848441966592"
+          ]
+        },
+        "author_id": "1568585483814567939",
+        "conversation_id": "1892877868335591563",
+        "created_at": "2025-02-21T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892877868335591563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uYfW0cyQZ",
+              "end": 41,
+              "expanded_url": "https://x.com/dianziemo/status/1892877868335591563/photo/1",
+              "media_key": "3_1892877848441966592",
+              "start": 18,
+              "url": "https://t.co/6uYfW0cyQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892877868335591563",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4999,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "kisskiss shy shy* https://t.co/6uYfW0cyQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1272,
+          "like_count": 19685,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 3806
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T13:01:49.000Z",
+        "description": "我们一起去探索这个世界吧！！",
+        "id": "1568585483814567939",
+        "location": "ic443",
+        "name": "电子恶魔",
+        "pinned_tweet_id": "1882128628496191749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869285605517258753/C87KbGZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7536,
+          "following_count": 1435,
+          "like_count": 15164,
+          "listed_count": 14,
+          "media_count": 871,
+          "tweet_count": 26170
+        },
+        "username": "dianziemo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2077353631461069300",
+    "created_at": "2026-07-16T12:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077732850137473203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077732850137473203",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077353631461069300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 可以可以好起来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24828,
+        "height": 1280,
+        "media_key": "13_2077353545381421056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077353545381421056/img/FDcggs5EON5fNsW5.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077353545381421056/vid/avc1/320x568/tjUlRT_I88fqzusX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077353545381421056/vid/avc1/480x852/ZCV4NsbVBj45kh3Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077353545381421056/vid/avc1/720x1280/7TRg3zRVZvokHJ_e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077353545381421056/pl/l76bS-2Xm1Trol_9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2077353631461069300",
+        "created_at": "2026-07-16T12:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077732850137473203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077732850137473203",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077353631461069300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 可以可以好起来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077353545381421056"
+          ]
+        },
+        "author_id": "1757105459356704768",
+        "conversation_id": "2077353631461069300",
+        "created_at": "2026-07-15T11:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077353631461069300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5CiXORnk3",
+              "end": 32,
+              "expanded_url": "https://x.com/lingopark21/status/2077353631461069300/video/1",
+              "media_key": "13_2077353545381421056",
+              "start": 9,
+              "url": "https://t.co/n5CiXORnk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077353631461069300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "11胃口好起来了 https://t.co/n5CiXORnk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31717,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 6702
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "咕咕咕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/ZNwVVb7OJq"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "麻雀亡命天涯",
+        "pinned_tweet_id": "2038646063733907850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 169,
+          "like_count": 3299,
+          "listed_count": 3,
+          "media_count": 404,
+          "tweet_count": 5561
+        },
+        "url": "https://t.co/ZNwVVb7OJq",
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

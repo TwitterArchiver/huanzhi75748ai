@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2069096478275203182",
+    "created_at": "2026-06-22T16:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069096478275203182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3177706293",
+          "start": 3,
+          "username": "sorrymoom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069096478275203182",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068423974577418665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sorrymoom: Siempre me quiero ir, de la casa, de la escuela, del trabajo, de la calle, pero lo raro es que no sé ni a donde, solo me qui…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2069096478275203182",
+        "created_at": "2026-06-22T16:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069096478275203182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3177706293",
+              "start": 3,
+              "username": "sorrymoom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069096478275203182",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068423974577418665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sorrymoom: Siempre me quiero ir, de la casa, de la escuela, del trabajo, de la calle, pero lo raro es que no sé ni a donde, solo me qui…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3177706293",
+        "conversation_id": "2068423974577418665",
+        "created_at": "2026-06-20T20:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068423974577418665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068423974577418665",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3520,
+          "impression_count": 1046204,
+          "like_count": 81123,
+          "quote_count": 403,
+          "reply_count": 113,
+          "retweet_count": 20195
+        },
+        "reply_settings": "everyone",
+        "text": "Siempre me quiero ir, de la casa, de la escuela, del trabajo, de la calle, pero lo raro es que no sé ni a donde, solo me quiero ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31533,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 6600
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-17T19:10:20.000Z",
+        "description": "Siempre he dicho que en las pedas se conocen los verdaderos amigos.",
+        "id": "3177706293",
+        "name": "fuck",
+        "pinned_tweet_id": "1572744282720862208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1370245965844783105/C6EZsvNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49127,
+          "following_count": 6510,
+          "like_count": 3228,
+          "listed_count": 43,
+          "media_count": 85,
+          "tweet_count": 5186
+        },
+        "url": "",
+        "username": "sorrymoom",
+        "verified": false
+      }
+    ]
+  }
+}

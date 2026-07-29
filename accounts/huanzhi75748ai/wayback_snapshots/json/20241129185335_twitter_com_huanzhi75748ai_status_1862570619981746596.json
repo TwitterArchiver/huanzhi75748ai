@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1862570619981746596",
+    "created_at": "2024-11-29T18:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T19:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862570619981746596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1602914591435956226",
+          "start": 3,
+          "username": "hikwu0206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862570619981746596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862101086703927302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikwu0206: 求求你们了 跟亲近的人朝夕相处 不要说反话不要说气话不要不说话 我不想要大家都难过 好不好 求求你们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1862570619981746596",
+        "created_at": "2024-11-29T18:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T19:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862570619981746596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1602914591435956226",
+              "start": 3,
+              "username": "hikwu0206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862570619981746596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862101086703927302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikwu0206: 求求你们了 跟亲近的人朝夕相处 不要说反话不要说气话不要不说话 我不想要大家都难过 好不好 求求你们了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602914591435956226",
+        "conversation_id": "1862101086703927302",
+        "created_at": "2024-11-28T11:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862101086703927302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862101086703927302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 30287,
+          "like_count": 336,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们了 跟亲近的人朝夕相处 不要说反话不要说气话不要不说话 我不想要大家都难过 好不好 求求你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1260,
+          "like_count": 18900,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 3721
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T06:33:31.000Z",
+        "description": "call me@cc｜止于推 不加v｜一切美食优先｜置顶推广自辨❗️关评是广｜投稿如有侵权 联系秒删",
+        "id": "1602914591435956226",
+        "location": "📍 𝐖𝐎𝐑𝐋𝐃 𝐎𝐘𝐒𝐓𝐄𝐑",
+        "name": "cc",
+        "pinned_tweet_id": "1861460829646004592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840184478481952768/8yU9Q6-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6357,
+          "following_count": 481,
+          "like_count": 4994,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 1886
+        },
+        "username": "hikwu0206",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1913337157730635776"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1913337200286089539",
+    "created_at": "2025-04-18T21:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T22:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913337200286089539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRgDrorxrc",
+          "end": 47,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1913337200286089539/video/1",
+          "media_key": "7_1913337157730635776",
+          "start": 24,
+          "url": "https://t.co/xRgDrorxrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913337200286089539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "超市偶遇母鸡下蛋，拼尽全力无法抵挡。可爱，抚摸 https://t.co/xRgDrorxrc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913337200286089539].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913337200286089539",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913337200286089539"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2021,
+        "height": 720,
+        "media_key": "7_1913337157730635776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1913337157730635776/pu/img/mExJ_tdP5O5vXP4o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913337157730635776/pu/vid/avc1/320x320/p82PuNhNa1xKH_Rw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913337157730635776/pu/vid/avc1/540x540/kWxFH9JCgG3ZMdyk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913337157730635776/pu/vid/avc1/720x720/vCKQBsUcY6cUi2k6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1913337157730635776/pu/pl/ZRG0PStjeQ1JQrck.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1909297170261360648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 1306,
+          "like_count": 20705,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 4026
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

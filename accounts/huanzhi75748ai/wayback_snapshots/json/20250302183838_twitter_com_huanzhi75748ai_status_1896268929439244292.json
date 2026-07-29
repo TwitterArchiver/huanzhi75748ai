@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896268926364925952",
+        "3_1896268925123354624",
+        "3_1896268925110726656"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896268929439244292",
+    "created_at": "2025-03-02T18:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T19:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896268929439244292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqNmPYPtsN",
+          "end": 40,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1896268929439244292/photo/1",
+          "media_key": "3_1896268926364925952",
+          "start": 17,
+          "url": "https://t.co/mqNmPYPtsN"
+        },
+        {
+          "display_url": "pic.x.com/mqNmPYPtsN",
+          "end": 40,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1896268929439244292/photo/1",
+          "media_key": "3_1896268925123354624",
+          "start": 17,
+          "url": "https://t.co/mqNmPYPtsN"
+        },
+        {
+          "display_url": "pic.x.com/mqNmPYPtsN",
+          "end": 40,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1896268929439244292/photo/1",
+          "media_key": "3_1896268925110726656",
+          "start": 17,
+          "url": "https://t.co/mqNmPYPtsN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896268929439244292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天才如我\n速度画技才华有梗集一身 https://t.co/mqNmPYPtsN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896268929439244292].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896268929439244292",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896268929439244292"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2008,
+        "media_key": "3_1896268926364925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDmiqqXwAACDsi.jpg",
+        "width": 924
+      },
+      {
+        "height": 2120,
+        "media_key": "3_1896268925123354624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDmimCW4AAQ2MK.jpg",
+        "width": 912
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1896268925110726656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDmil_WMAAx6IQ.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1272,
+          "like_count": 20165,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3855
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

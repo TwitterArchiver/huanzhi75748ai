@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1813413502796599406",
+    "created_at": "2024-07-17T03:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T04:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813420958096687239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813420958096687239",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813413502796599406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_insky 语言专家拿你推文出阅读理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1813413502796599406",
+        "created_at": "2024-07-17T03:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T04:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813420958096687239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813420958096687239",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813413502796599406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 语言专家拿你推文出阅读理解"
+      },
+      {
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "1813413502796599406",
+        "created_at": "2024-07-17T03:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T04:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813413502796599406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813413502796599406",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相信后人会把我的推当成圣经一般拜读理解二创并给本人建造纪念碑皇宫已本人的名字命名路和奖项"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1207,
+          "like_count": 14358,
+          "listed_count": 1,
+          "tweet_count": 2674
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以凡人的身份在地球游历 ｜🚪10000000",
+        "id": "1244543552652054528",
+        "location": "异世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1813105254696710158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796457507369652225/H-J0Fpp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 339,
+          "like_count": 6259,
+          "listed_count": 5,
+          "tweet_count": 5225
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

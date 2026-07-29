@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1917376351549747612",
+    "created_at": "2025-04-30T00:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T01:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917381321065746625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635640229246951425",
+          "start": 0,
+          "username": "Quadrant__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917381321065746625",
+    "in_reply_to_user_id": "1635640229246951425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917376351549747612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quadrant__3 这个是怎么弄的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1917376351549747612",
+        "created_at": "2025-04-30T00:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T01:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917381321065746625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635640229246951425",
+              "start": 0,
+              "username": "Quadrant__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917381321065746625",
+        "in_reply_to_user_id": "1635640229246951425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917376351549747612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quadrant__3 这个是怎么弄的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635640229246951425",
+        "conversation_id": "1917376351549747612",
+        "created_at": "2025-04-30T00:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T01:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917376351549747612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/turybo/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/turybo/status/1917158490059268453",
+              "start": 8,
+              "url": "https://t.co/iRRcurneRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917376351549747612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917158490059268453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超愛幹這種事 https://t.co/iRRcurneRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1322,
+          "like_count": 21058,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 4079
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T13:53:42.000Z",
+        "description": "合作歡迎私訊小盒子/無使用交友軟體/18y/軟飯男/145cm150kg/高中沒畢業/娛樂城/買精品找我/菸彈/化學組/自然組/k仔/狀況愛/音樂課/廟會孩子並不壞/陣頭囝仔/會考5c/模板學徒/莫忘初衷/百善孝為先/搞錢/沒刺青不代表沒故事 年紀輕不代表沒實力/愛妳真的梅辦法/出門當8+9/全國可✈️/🚪50",
+        "id": "1635640229246951425",
+        "location": "大安森林公園籃球場三號長椅",
+        "name": "負負得負的二次方再一個二次方",
+        "pinned_tweet_id": "1795840843741646859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816389304891105281/ghnAvC_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 861,
+          "like_count": 49406,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 10899
+        },
+        "username": "Quadrant__3",
+        "verified": false
+      }
+    ]
+  }
+}

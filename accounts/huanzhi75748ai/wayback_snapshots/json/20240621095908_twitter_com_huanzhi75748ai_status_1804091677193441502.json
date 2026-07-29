@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1804091677193441502",
+    "created_at": "2024-06-21T09:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T10:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804091677193441502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1631680162797613056",
+          "start": 3,
+          "username": "KKK011223344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804091677193441502",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803806122077544480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKK011223344: 视奸最爽的就是，你知道你视奸的人也在视奸你。\n她也没有关注你，只是偶尔给你点赞。\n她不介意被你发现她的存在，嚣张地留下视奸痕迹。\n因为她很清楚，你也正在偷偷看她。\n你们返回各自主页后，收到对方的点赞通知，仍是什么也不问。\n你们不是互关，却时刻…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1804091677193441502",
+        "created_at": "2024-06-21T09:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804091677193441502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1631680162797613056",
+              "start": 3,
+              "username": "KKK011223344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804091677193441502",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803806122077544480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKK011223344: 视奸最爽的就是，你知道你视奸的人也在视奸你。\n她也没有关注你，只是偶尔给你点赞。\n她不介意被你发现她的存在，嚣张地留下视奸痕迹。\n因为她很清楚，你也正在偷偷看她。\n你们返回各自主页后，收到对方的点赞通知，仍是什么也不问。\n你们不是互关，却时刻…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1631680162797613056",
+        "conversation_id": "1803806122077544480",
+        "created_at": "2024-06-20T15:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803806122077544480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803806122077544480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17273,
+          "like_count": 338,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "视奸最爽的就是，你知道你视奸的人也在视奸你。\n她也没有关注你，只是偶尔给你点赞。\n她不介意被你发现她的存在，嚣张地留下视奸痕迹。\n因为她很清楚，你也正在偷偷看她。\n你们返回各自主页后，收到对方的点赞通知，仍是什么也不问。\n你们不是互关，却时刻留意对方动态。\n只有你们知道，你们私下认识。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1163,
+          "like_count": 12552,
+          "listed_count": 1,
+          "tweet_count": 2301
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T15:37:35.000Z",
+        "description": "啥都会发，谨慎关注/私信不开/不礼貌回关",
+        "id": "1631680162797613056",
+        "name": "橘色周期",
+        "pinned_tweet_id": "1802791382123454832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803843224496427008/EHH3V38Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4259,
+          "following_count": 17,
+          "like_count": 2150,
+          "listed_count": 8,
+          "tweet_count": 1582
+        },
+        "username": "KKK011223344",
+        "verified": false
+      }
+    ]
+  }
+}

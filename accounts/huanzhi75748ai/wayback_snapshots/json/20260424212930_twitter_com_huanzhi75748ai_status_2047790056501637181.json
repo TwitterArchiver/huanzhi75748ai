@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2047763281595756990",
+    "created_at": "2026-04-24T21:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T22:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047790056501637181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047790056501637181",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047763281595756990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047763272418705408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsd2MSbwAAe9Wu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2047763281595756990",
+        "created_at": "2026-04-24T21:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047790056501637181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047790056501637181",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047763281595756990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047763272418705408"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "2047763281595756990",
+        "created_at": "2026-04-24T19:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047763281595756990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8lRsyd5we",
+              "end": 26,
+              "expanded_url": "https://x.com/shu_fan0228/status/2047763281595756990/photo/1",
+              "media_key": "3_2047763272418705408",
+              "start": 3,
+              "url": "https://t.co/c8lRsyd5we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047763281595756990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗翅 https://t.co/c8lRsyd5we"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1387,
+          "like_count": 29708,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 6122
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "不要埋没！",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 167,
+          "like_count": 3434,
+          "listed_count": 3,
+          "media_count": 706,
+          "tweet_count": 4305
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

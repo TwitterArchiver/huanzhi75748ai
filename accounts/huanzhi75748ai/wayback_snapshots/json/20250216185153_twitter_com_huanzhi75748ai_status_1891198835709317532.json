@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1891198835709317532",
+    "created_at": "2025-02-16T18:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T19:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891198835709317532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1890660573580255607",
+          "start": 6,
+          "url": "https://t.co/wDtOg0lMgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891198835709317532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890660573580255607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌的没边了 https://t.co/wDtOg0lMgj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1891198835709317532",
+        "created_at": "2025-02-16T18:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T19:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891198835709317532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1890660573580255607",
+              "start": 6,
+              "url": "https://t.co/wDtOg0lMgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891198835709317532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890660573580255607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌的没边了 https://t.co/wDtOg0lMgj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890660563535163392"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1890660573580255607",
+        "created_at": "2025-02-15T07:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T08:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890660573580255607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpwLYMjjb3",
+              "end": 34,
+              "expanded_url": "https://x.com/sakura2333owo/status/1890660573580255607/photo/1",
+              "media_key": "3_1890660563535163392",
+              "start": 11,
+              "url": "https://t.co/WpwLYMjjb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890660573580255607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1821,
+          "impression_count": 272698,
+          "like_count": 16763,
+          "quote_count": 42,
+          "reply_count": 52,
+          "retweet_count": 1028
+        },
+        "reply_settings": "everyone",
+        "text": "☆オタク=⩌ω⩌=. https://t.co/WpwLYMjjb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1258,
+          "like_count": 19346,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 3775
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30148,
+          "following_count": 279,
+          "like_count": 6897,
+          "listed_count": 50,
+          "media_count": 988,
+          "tweet_count": 4520
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

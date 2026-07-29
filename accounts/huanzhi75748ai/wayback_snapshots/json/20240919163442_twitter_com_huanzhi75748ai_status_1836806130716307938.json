@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1836806130716307938",
+    "created_at": "2024-09-19T16:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T17:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836806130716307938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775563067121696768",
+          "start": 3,
+          "username": "sourrrrrrrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836806130716307938",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836777547432169717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sourrrrrrrr_: 你哪是没张开，你是太挑了。长得不好看的不想开，身材不好的不想开，声音不好听的不想开，喘的不好听的不想开，三观不正的不想开，xp不合的不想开，聊不来的不想开。你这辈子也别想开张了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1836806130716307938",
+        "created_at": "2024-09-19T16:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T17:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836806130716307938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775563067121696768",
+              "start": 3,
+              "username": "sourrrrrrrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836806130716307938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836777547432169717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sourrrrrrrr_: 你哪是没张开，你是太挑了。长得不好看的不想开，身材不好的不想开，声音不好听的不想开，喘的不好听的不想开，三观不正的不想开，xp不合的不想开，聊不来的不想开。你这辈子也别想开张了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775563067121696768",
+        "conversation_id": "1836777547432169717",
+        "created_at": "2024-09-19T14:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836777547432169717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836777547432169717",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3638,
+          "like_count": 84,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你哪是没张开，你是太挑了。长得不好看的不想开，身材不好的不想开，声音不好听的不想开，喘的不好听的不想开，三观不正的不想开，xp不合的不想开，聊不来的不想开。你这辈子也别想开张了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1242,
+          "like_count": 15901,
+          "listed_count": 1,
+          "tweet_count": 3121
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:36:55.000Z",
+        "description": "｜⚠️#颜控#⚠️| 泛偏4i | dom | 高三｜ 心血來潮随便发点📝(*^^*) ｜ 防走丢小分身： @sour_rrrrrrr 🐈🚪88好友位108没区别我生日而已 🌊❗️给我发匿名‼️：https://t.co/nhQttWmnBT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "sour_rrrrrrr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sourrrrrrrr_",
+                "end": 121,
+                "expanded_url": "https://ngl.link/sourrrrrrrr_",
+                "start": 98,
+                "url": "https://t.co/nhQttWmnBT"
+              }
+            ]
+          }
+        },
+        "id": "1775563067121696768",
+        "location": "🚪88/108｜纯绿",
+        "name": "乳᳐酸᳐_sour ੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775564151210778624/H_JKOhdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3938,
+          "following_count": 237,
+          "like_count": 7080,
+          "listed_count": 8,
+          "tweet_count": 1834
+        },
+        "username": "sourrrrrrrr_",
+        "verified": false
+      }
+    ]
+  }
+}

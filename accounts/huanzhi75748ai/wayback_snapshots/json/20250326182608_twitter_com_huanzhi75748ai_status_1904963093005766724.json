@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1904821172732387685",
+    "created_at": "2025-03-26T18:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T19:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904963093005766724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1719787399545532416",
+          "start": 0,
+          "username": "uriisin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904963093005766724",
+    "in_reply_to_user_id": "1719787399545532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904821172732387685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uriisin 哇塞好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1904821129501675520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gm9IuaCbEAAhYUr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gm9IuaCbEAAhYUr.mp4"
+          }
+        ],
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1904821172732387685",
+        "created_at": "2025-03-26T18:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T19:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904963093005766724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1719787399545532416",
+              "start": 0,
+              "username": "uriisin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904963093005766724",
+        "in_reply_to_user_id": "1719787399545532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904821172732387685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uriisin 哇塞好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1904821129501675520"
+          ]
+        },
+        "author_id": "1719787399545532416",
+        "conversation_id": "1904821172732387685",
+        "created_at": "2025-03-26T09:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T10:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904821172732387685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NupOqhWmaF",
+              "end": 40,
+              "expanded_url": "https://x.com/uriisin/status/1904821172732387685/photo/1",
+              "media_key": "16_1904821129501675520",
+              "start": 17,
+              "url": "https://t.co/NupOqhWmaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904821172732387685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑叉live图为什么不能添加警告 https://t.co/NupOqhWmaF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1273,
+          "like_count": 20560,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 3929
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T18:44:19.000Z",
+        "description": "欢迎互fo可以叫我小g或者劲凉，170cm/55kg，摩羯座intp，精病患者服药中已戒自伤戒od，我在试着过看起来正常的生活但我已经坚持不住了",
+        "id": "1719787399545532416",
+        "name": "GOODMAN^^",
+        "pinned_tweet_id": "1896921535161815140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798724510801354752/AlF1eIpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 401,
+          "like_count": 4978,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1317
+        },
+        "username": "uriisin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1804025148380713242",
+    "created_at": "2024-06-21T09:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T10:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804084456753393747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773814776390713344",
+          "start": 0,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804084456753393747",
+    "in_reply_to_user_id": "1773814776390713344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804025148380713242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoliaomcy 两个小茄子不高兴不高兴不高兴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1804025148380713242",
+        "created_at": "2024-06-21T09:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804084456753393747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773814776390713344",
+              "start": 0,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804084456753393747",
+        "in_reply_to_user_id": "1773814776390713344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804025148380713242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoliaomcy 两个小茄子不高兴不高兴不高兴"
+      },
+      {
+        "attachments": {},
+        "author_id": "1773814776390713344",
+        "conversation_id": "1804025148380713242",
+        "created_at": "2024-06-21T05:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T06:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804025148380713242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804025148380713242",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个小茄子笑眯眯笑眯眯笑眯眯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1161,
+          "like_count": 12499,
+          "listed_count": 1,
+          "tweet_count": 2294
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "滚@yununouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "yununouo"
+              }
+            ]
+          }
+        },
+        "id": "1773814776390713344",
+        "location": "对不起行了吗",
+        "name": "我咋你了",
+        "pinned_tweet_id": "1802989521346420749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803000151180800000/pJ2gUp4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 229,
+          "like_count": 24604,
+          "listed_count": 2,
+          "tweet_count": 2470
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2052925039985426584",
+    "created_at": "2026-05-09T14:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053121631518916777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762470904829796352",
+          "start": 0,
+          "username": "I2_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053121631518916777",
+    "in_reply_to_user_id": "1762470904829796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052925039985426584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I2_1222 这个文案我复制走了☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2052925039985426584",
+        "created_at": "2026-05-09T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053121631518916777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762470904829796352",
+              "start": 0,
+              "username": "I2_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053121631518916777",
+        "in_reply_to_user_id": "1762470904829796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052925039985426584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I2_1222 这个文案我复制走了☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762470904829796352",
+        "conversation_id": "2052925039985426584",
+        "created_at": "2026-05-09T01:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052925039985426584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052925039985426584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从现在开始你是我妈妈，我老婆，我媳妇，我娃娃亲，我童养媳，我青梅芝麻，我一生挚爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1395,
+          "like_count": 30797,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6335
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:33:13.000Z",
+        "description": "我的手臂铺满悲伤",
+        "id": "1762470904829796352",
+        "location": "死了",
+        "name": "12^",
+        "pinned_tweet_id": "1961401123690221671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997557035936653312/5g-HnECY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 3264,
+          "like_count": 145852,
+          "listed_count": 9,
+          "media_count": 1548,
+          "tweet_count": 19349
+        },
+        "username": "I2_1222",
+        "verified": false
+      }
+    ]
+  }
+}

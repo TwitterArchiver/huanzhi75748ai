@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2053695412893261900",
+    "created_at": "2026-05-11T04:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053695412893261900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1655514709733302273",
+          "start": 3,
+          "username": "Destiny_26X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053695412893261900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053023998221730061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Destiny_26X: 我的少女时代有严重的骑士病\n喜欢给别人撑伞时偷偷把伞偏向对方那边，喜欢给别人递剪刀时悄悄把刀尖对准自己，喜欢在同桌俯身捡笔的时候装作不经意的护住桌角，也喜欢在别人尴尬的时候给她找台阶下。或者我会主动和一些不爱和别人说话的内向同学搭话 \n但其实我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2053695412893261900",
+        "created_at": "2026-05-11T04:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053695412893261900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1655514709733302273",
+              "start": 3,
+              "username": "Destiny_26X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053695412893261900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053023998221730061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Destiny_26X: 我的少女时代有严重的骑士病\n喜欢给别人撑伞时偷偷把伞偏向对方那边，喜欢给别人递剪刀时悄悄把刀尖对准自己，喜欢在同桌俯身捡笔的时候装作不经意的护住桌角，也喜欢在别人尴尬的时候给她找台阶下。或者我会主动和一些不爱和别人说话的内向同学搭话 \n但其实我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655514709733302273",
+        "conversation_id": "2053023998221730061",
+        "created_at": "2026-05-09T08:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053023998221730061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053023998221730061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 76576,
+          "like_count": 2662,
+          "quote_count": 45,
+          "reply_count": 95,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "我的少女时代有严重的骑士病\n喜欢给别人撑伞时偷偷把伞偏向对方那边，喜欢给别人递剪刀时悄悄把刀尖对准自己，喜欢在同桌俯身捡笔的时候装作不经意的护住桌角，也喜欢在别人尴尬的时候给她找台阶下。或者我会主动和一些不爱和别人说话的内向同学搭话 \n但其实我就是一个装货而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1392,
+          "like_count": 30895,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6362
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T10:07:30.000Z",
+        "description": "🐱  intj   sw  brat，脾气不好，不回无意义私信，看不惯我你就去死，讨厌我那建议你自剜双目 (防走失@Wildcat_YRX)   提问箱https://t.co/PvT7Hhql2q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Wildcat_YRX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xueye",
+                "end": 99,
+                "expanded_url": "https://ngl.link/xueye",
+                "start": 76,
+                "url": "https://t.co/PvT7Hhql2q"
+              }
+            ]
+          }
+        },
+        "id": "1655514709733302273",
+        "location": "自由",
+        "name": "等雪夜",
+        "pinned_tweet_id": "2048098102998147323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025251643194015745/gdqD9fF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 132,
+          "like_count": 1405,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1209
+        },
+        "username": "Destiny_26X",
+        "verified": false
+      }
+    ]
+  }
+}

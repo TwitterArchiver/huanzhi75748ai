@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840054860332331008"
+      ],
+      "media_source_tweet_id": [
+        "1840054869748560066"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840445414233043365",
+    "created_at": "2024-09-29T17:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T18:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840445414233043365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574018856640618497",
+          "start": 3,
+          "username": "HIKARI_LKC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/emt9sfop3y",
+          "end": 39,
+          "expanded_url": "https://twitter.com/HIKARI_LKC/status/1840054869748560066/photo/1",
+          "media_key": "3_1840054860332331008",
+          "start": 16,
+          "url": "https://t.co/eMT9sFOp3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840445414233043365",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2904
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840054869748560066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HIKARI_LKC: https://t.co/eMT9sFOp3Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_1840054860332331008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYkwJX1W8AARajY.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840054860332331008"
+          ],
+          "media_source_tweet_id": [
+            "1840054869748560066"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840445414233043365",
+        "created_at": "2024-09-29T17:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T18:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840445414233043365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574018856640618497",
+              "start": 3,
+              "username": "HIKARI_LKC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emt9sfop3y",
+              "end": 39,
+              "expanded_url": "https://twitter.com/HIKARI_LKC/status/1840054869748560066/photo/1",
+              "media_key": "3_1840054860332331008",
+              "start": 16,
+              "url": "https://t.co/eMT9sFOp3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840445414233043365",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2904
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840054869748560066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HIKARI_LKC: https://t.co/eMT9sFOp3Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840054860332331008"
+          ]
+        },
+        "author_id": "1574018856640618497",
+        "conversation_id": "1840054869748560066",
+        "created_at": "2024-09-28T15:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T16:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840054869748560066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emt9sfop3y",
+              "end": 23,
+              "expanded_url": "https://twitter.com/HIKARI_LKC/status/1840054869748560066/photo/1",
+              "media_key": "3_1840054860332331008",
+              "start": 0,
+              "url": "https://t.co/eMT9sFOp3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840054869748560066",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 503,
+          "impression_count": 92913,
+          "like_count": 9168,
+          "quote_count": 107,
+          "reply_count": 11,
+          "retweet_count": 2904
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eMT9sFOp3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16291,
+          "listed_count": 1,
+          "tweet_count": 3086
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T12:52:12.000Z",
+        "description": "我在澳門悄無聲息搞渚薰和碇真嗣同人         raison d'être",
+        "id": "1574018856640618497",
+        "name": "HIKARI",
+        "pinned_tweet_id": "1738876902759428467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791045595496583168/yGj3HCbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 141,
+          "like_count": 3296,
+          "listed_count": 3,
+          "tweet_count": 3814
+        },
+        "username": "HIKARI_LKC",
+        "verified": false
+      }
+    ]
+  }
+}

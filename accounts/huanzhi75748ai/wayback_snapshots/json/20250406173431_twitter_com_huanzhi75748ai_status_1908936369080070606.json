@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1908918670988079353",
+    "created_at": "2025-04-06T17:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T18:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908936369080070606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764866850847080448",
+          "start": 0,
+          "username": "Takemet0theMo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908936369080070606",
+    "in_reply_to_user_id": "1764866850847080448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908918670988079353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takemet0theMo0n 妈妈妈妈妈妈妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_1908918661026611200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn3XaIebAAAaUnW.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1908918670988079353",
+        "created_at": "2025-04-06T17:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T18:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908936369080070606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764866850847080448",
+              "start": 0,
+              "username": "Takemet0theMo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908936369080070606",
+        "in_reply_to_user_id": "1764866850847080448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908918670988079353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takemet0theMo0n 妈妈妈妈妈妈妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908918661026611200"
+          ]
+        },
+        "author_id": "1764866850847080448",
+        "conversation_id": "1908918670988079353",
+        "created_at": "2025-04-06T16:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T17:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908918670988079353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RlYnCf0N8K",
+              "end": 23,
+              "expanded_url": "https://x.com/Takemet0theMo0n/status/1908918670988079353/photo/1",
+              "media_key": "3_1908918661026611200",
+              "start": 0,
+              "url": "https://t.co/RlYnCf0N8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908918670988079353",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RlYnCf0N8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 1275,
+          "like_count": 20745,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3962
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T04:14:15.000Z",
+        "description": "冷也好热也好活着就好@yongchuyuyu @bieshijian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "yongchuyuyu"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "bieshijian"
+              }
+            ]
+          }
+        },
+        "id": "1764866850847080448",
+        "name": "食色性也",
+        "pinned_tweet_id": "1790807497978298649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908594380388392961/7Lxk3plc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2545,
+          "following_count": 118,
+          "like_count": 3040,
+          "listed_count": 6,
+          "media_count": 12,
+          "tweet_count": 24
+        },
+        "username": "Takemet0theMo0n",
+        "verified": false
+      }
+    ]
+  }
+}

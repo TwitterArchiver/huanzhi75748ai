@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792858615327654183",
+    "created_at": "2024-05-21T18:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T19:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792990643356070323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781022238516613120",
+          "start": 0,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792990643356070323",
+    "in_reply_to_user_id": "1781022238516613120",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792858615327654183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamo_19970327 美💖但是美中不足的是不是我的😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792858615327654183",
+        "created_at": "2024-05-21T18:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T19:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792990643356070323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781022238516613120",
+              "start": 0,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792990643356070323",
+        "in_reply_to_user_id": "1781022238516613120",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792858615327654183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamo_19970327 美💖但是美中不足的是不是我的😢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792858578291982336",
+            "3_1792858579076321280"
+          ]
+        },
+        "author_id": "1781022238516613120",
+        "conversation_id": "1792858615327654183",
+        "created_at": "2024-05-21T10:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T11:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792858615327654183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yACrMlVYrw",
+              "end": 98,
+              "expanded_url": "https://twitter.com/yamo_19970327/status/1792858615327654183/photo/1",
+              "media_key": "3_1792858578291982336",
+              "start": 75,
+              "url": "https://t.co/yACrMlVYrw"
+            },
+            {
+              "display_url": "pic.twitter.com/yACrMlVYrw",
+              "end": 98,
+              "expanded_url": "https://twitter.com/yamo_19970327/status/1792858615327654183/photo/1",
+              "media_key": "3_1792858579076321280",
+              "start": 75,
+              "url": "https://t.co/yACrMlVYrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792858615327654183",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好强，但是有点弱，不过也是很强的，可惜有时候来说比较弱，只是太强了，没体现出弱的感觉，所以相对强来说，有点弱，总体来说还是强的，强中不足就是弱了点。 https://t.co/yACrMlVYrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 1113,
+          "like_count": 8700,
+          "listed_count": 1,
+          "tweet_count": 1724
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "养在电解质溶液里的氯化蝴蝶",
+        "id": "1781022238516613120",
+        "location": "mutuals pls send message",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1788534684592513152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791219227199668224/7bD9ksxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 142,
+          "like_count": 1701,
+          "listed_count": 0,
+          "tweet_count": 1066
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

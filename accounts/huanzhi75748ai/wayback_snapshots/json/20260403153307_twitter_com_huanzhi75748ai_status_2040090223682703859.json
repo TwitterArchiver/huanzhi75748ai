@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040074979216380076",
+    "created_at": "2026-04-03T15:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040090223682703859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        },
+        {
+          "end": 26,
+          "id": "2015087781744443393",
+          "start": 13,
+          "username": "31666888love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040090223682703859",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040077493416366266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 @31666888love 我觉得还是挺有必要的，不然容易干枯毛燥分叉打结。不过主要看发质吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040074979216380076",
+        "created_at": "2026-04-03T15:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040090223682703859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            },
+            {
+              "end": 26,
+              "id": "2015087781744443393",
+              "start": 13,
+              "username": "31666888love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040090223682703859",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040077493416366266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 @31666888love 我觉得还是挺有必要的，不然容易干枯毛燥分叉打结。不过主要看发质吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2040074979216380076",
+        "created_at": "2026-04-03T14:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040077493416366266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015087781744443393",
+              "start": 0,
+              "username": "31666888love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040077493416366266",
+        "in_reply_to_user_id": "2015087781744443393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040074979216380076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@31666888love 长发一定要用护发素吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1395,
+          "like_count": 27678,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 5697
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只碎嘴且成分复杂的麻雀 ｜ all of love \n家有二孩 英短叫十一 三花叫七七\n尽量平和 ｜ 直男 ｜ 互关可扩联系 :P",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "2038646063733907850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 133,
+          "like_count": 2503,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 4051
+        },
+        "username": "lingopark21",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T15:42:35.000Z",
+        "description": "intp | 推止于推 | 纯分享 |发想发的 裸体预警 | m/sub/brat 只是倾向 | 私信请礼貌 | 谢谢你的关注",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/3131407",
+                "end": 23,
+                "expanded_url": "https://ngl.link/3131407",
+                "start": 0,
+                "url": "https://t.co/3EL9T1gUYu"
+              }
+            ]
+          }
+        },
+        "id": "2015087781744443393",
+        "location": "床上",
+        "name": "我要一直睡睡睡",
+        "pinned_tweet_id": "2038561934535213283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030658391824379904/rrronifC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 139,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/3EL9T1gUYu",
+        "username": "31666888love",
+        "verified": false
+      }
+    ]
+  }
+}

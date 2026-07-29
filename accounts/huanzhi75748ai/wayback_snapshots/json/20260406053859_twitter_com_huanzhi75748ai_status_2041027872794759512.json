@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040865330910925048",
+    "created_at": "2026-04-06T05:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041027872794759512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900706496121602048",
+          "start": 0,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041027872794759512",
+    "in_reply_to_user_id": "1900706496121602048",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040865330910925048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN100222 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040865330910925048",
+        "created_at": "2026-04-06T05:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041027872794759512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900706496121602048",
+              "start": 0,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041027872794759512",
+        "in_reply_to_user_id": "1900706496121602048",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040865330910925048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN100222 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2040865330910925048",
+        "created_at": "2026-04-05T18:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040865330910925048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040865330910925048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5961,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在推特看到仇人在人机底下评论111一切都欣慰了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1395,
+          "like_count": 28208,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 5798
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好/非正常人/皮下男/性取向和父亲一样\n正常人格@JIAN222100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "JIAN222100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽（婊子人格）",
+        "pinned_tweet_id": "2039294646216741087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 170,
+          "like_count": 5371,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

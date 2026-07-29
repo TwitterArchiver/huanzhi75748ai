@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1893713012172726554",
+    "created_at": "2025-02-23T17:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T18:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893713012172726554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765034185448636416",
+          "start": 3,
+          "username": "camille8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893713012172726554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893374084760662021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @camille8964: 宝宝你能告诉我我是你在互联网上的第多少个宝宝吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1893713012172726554",
+        "created_at": "2025-02-23T17:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T18:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893713012172726554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1765034185448636416",
+              "start": 3,
+              "username": "camille8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893713012172726554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893374084760662021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @camille8964: 宝宝你能告诉我我是你在互联网上的第多少个宝宝吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765034185448636416",
+        "conversation_id": "1893374084760662021",
+        "created_at": "2025-02-22T18:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T19:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893374084760662021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893374084760662021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2057,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你能告诉我我是你在互联网上的第多少个宝宝吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1275,
+          "like_count": 19804,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 3813
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T15:19:03.000Z",
+        "description": "//精神錯亂//",
+        "id": "1765034185448636416",
+        "location": "潮酷騷孩共和國",
+        "name": "ଳ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892917591858880512/HauaLiV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 553,
+          "like_count": 20332,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 16070
+        },
+        "username": "camille8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043749695382859786",
+    "created_at": "2026-04-13T18:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043759186237108260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540455959986081792",
+          "start": 0,
+          "username": "lulanglinhai3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043759186237108260",
+    "in_reply_to_user_id": "1540455959986081792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043749695382859786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulanglinhai3 这里的纯爱应该是纯纯性爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043749695382859786",
+        "created_at": "2026-04-13T18:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043759186237108260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540455959986081792",
+              "start": 0,
+              "username": "lulanglinhai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043759186237108260",
+        "in_reply_to_user_id": "1540455959986081792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043749695382859786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulanglinhai3 这里的纯爱应该是纯纯性爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540455959986081792",
+        "conversation_id": "2043749695382859786",
+        "created_at": "2026-04-13T17:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043749695382859786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043749695382859786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我很纳闷怎么会有人明明拥有多个炮友的经历还会说自己是纯爱？指的是只跟伴侣纯爱，跟别人就性爱自由是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1396,
+          "like_count": 29351,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 6012
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T22:05:06.000Z",
+        "description": "1234",
+        "id": "1540455959986081792",
+        "location": "坟里",
+        "name": "🐸🐸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620375906517946369/8OSPd1Ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 249,
+          "like_count": 46596,
+          "listed_count": 4,
+          "media_count": 1135,
+          "tweet_count": 32105
+        },
+        "username": "lulanglinhai3",
+        "verified": false
+      }
+    ]
+  }
+}

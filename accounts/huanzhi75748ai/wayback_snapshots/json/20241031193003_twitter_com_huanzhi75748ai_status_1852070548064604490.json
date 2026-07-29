@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1852070548064604490",
+    "created_at": "2024-10-31T19:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T20:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852070548064604490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1531971331902050304",
+          "start": 3,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852070548064604490",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851720659443028385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liangbuxiangchi: 所以才不想随便和人交什么朋友聊什么天，有些畜生就喜欢把人当一次性飞机杯用完就扔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1852070548064604490",
+        "created_at": "2024-10-31T19:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T20:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852070548064604490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1531971331902050304",
+              "start": 3,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852070548064604490",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851720659443028385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liangbuxiangchi: 所以才不想随便和人交什么朋友聊什么天，有些畜生就喜欢把人当一次性飞机杯用完就扔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531971331902050304",
+        "conversation_id": "1851720659443028385",
+        "created_at": "2024-10-30T20:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T21:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851720659443028385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851720659443028385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 855,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以才不想随便和人交什么朋友聊什么天，有些畜生就喜欢把人当一次性飞机杯用完就扔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1257,
+          "like_count": 18233,
+          "listed_count": 1,
+          "tweet_count": 3505
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "od/ed  不线下 取关请双取",
+        "id": "1531971331902050304",
+        "location": "好友位100",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1606159169849298944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851718456552624128/1AMiDsi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 410,
+          "like_count": 14414,
+          "listed_count": 4,
+          "tweet_count": 4043
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

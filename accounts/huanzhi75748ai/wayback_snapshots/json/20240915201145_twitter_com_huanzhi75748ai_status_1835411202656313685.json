@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835411202656313685",
+    "created_at": "2024-09-15T20:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T21:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835411202656313685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1520006097385693185",
+          "start": 3,
+          "username": "wowmanypeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835411202656313685",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834988906477240357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowmanypeople: 大家好像都是用尽一切换了点乱七八糟的爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835411202656313685",
+        "created_at": "2024-09-15T20:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T21:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835411202656313685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1520006097385693185",
+              "start": 3,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835411202656313685",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834988906477240357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowmanypeople: 大家好像都是用尽一切换了点乱七八糟的爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520006097385693185",
+        "conversation_id": "1834988906477240357",
+        "created_at": "2024-09-14T16:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T17:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834988906477240357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834988906477240357",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25383,
+          "like_count": 428,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "大家好像都是用尽一切换了点乱七八糟的爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1230,
+          "like_count": 15426,
+          "listed_count": 1,
+          "tweet_count": 2998
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "“真实地活下去，不忘记看每天的月亮”",
+        "id": "1520006097385693185",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624967495366086657/vq9zPiO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 272,
+          "like_count": 23905,
+          "listed_count": 1,
+          "tweet_count": 4685
+        },
+        "username": "wowmanypeople",
+        "verified": false
+      }
+    ]
+  }
+}

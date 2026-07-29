@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2068285671647936690",
+    "created_at": "2026-06-20T11:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068297005613637632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068297005613637632",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068285671647936690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 我初中的时候，朋友叫我出去玩。就在本地，五六个人很安全。我当时没有手机，刚出门两个小时，我妈就疯狂电话轰炸我朋友我同学，还给人家家长打电话。后来我都没有朋友愿意和我一起玩了。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1872,
+        "media_key": "3_2068285642845679616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQG1XvbcAAv-Aw.jpg",
+        "width": 1043
+      },
+      {
+        "height": 1899,
+        "media_key": "3_2068285642853998592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQG1XxaYAAz4bS.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2068285671647936690",
+        "created_at": "2026-06-20T11:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068297005613637632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068297005613637632",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068285671647936690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 我初中的时候，朋友叫我出去玩。就在本地，五六个人很安全。我当时没有手机，刚出门两个小时，我妈就疯狂电话轰炸我朋友我同学，还给人家家长打电话。后来我都没有朋友愿意和我一起玩了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068285642845679616",
+            "3_2068285642853998592"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2068285671647936690",
+        "created_at": "2026-06-20T10:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068285671647936690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M564c1OB5O",
+              "end": 154,
+              "expanded_url": "https://x.com/QwQIO3O/status/2068285671647936690/photo/1",
+              "media_key": "3_2068285642845679616",
+              "start": 131,
+              "url": "https://t.co/M564c1OB5O"
+            },
+            {
+              "display_url": "pic.x.com/M564c1OB5O",
+              "end": 154,
+              "expanded_url": "https://x.com/QwQIO3O/status/2068285671647936690/photo/1",
+              "media_key": "3_2068285642853998592",
+              "start": 131,
+              "url": "https://t.co/M564c1OB5O"
+            },
+            {
+              "display_url": "x.com/apipleeeee/sta…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/apipleeeee/status/2068251453928706122",
+              "start": 155,
+              "url": "https://t.co/SY1y8SQxOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068285671647936690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068251453928706122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次我晚上八点和朋友在一起逛学校时候没接我妈视频，她就以为我和之前去看林俊杰的同担在一起，还各种侮辱她们\n然后说是逛学校的之后才消停，但是之后又犯病，还拿结婚这种事吓唬我，我觉得完全不能原谅，我之前因为相亲大哭过，所以她之后一次次拿这个来威胁我，真的特别特别恶 https://t.co/M564c1OB5O https://t.co/SY1y8SQxOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1385,
+          "like_count": 31507,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 6580
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "只是一位单亲拓麻妈妈\n@gjfgift 减肥打卡日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "gjfgift"
+              }
+            ]
+          }
+        },
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 284,
+          "like_count": 10883,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

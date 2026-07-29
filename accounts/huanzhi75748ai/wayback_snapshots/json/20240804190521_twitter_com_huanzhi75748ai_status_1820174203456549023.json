@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1820174203456549023",
+    "created_at": "2024-08-04T19:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T20:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820174203456549023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1725561349261139970",
+          "start": 3,
+          "username": "OPHELIA04691386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820174203456549023",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819974087982096693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OPHELIA04691386: 一个女的脑子蠢还是骚货的话简直就是世纪大灾难，很不幸这样的世纪大灾难降临在我头上了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1820174203456549023",
+        "created_at": "2024-08-04T19:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T20:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820174203456549023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1725561349261139970",
+              "start": 3,
+              "username": "OPHELIA04691386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820174203456549023",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819974087982096693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OPHELIA04691386: 一个女的脑子蠢还是骚货的话简直就是世纪大灾难，很不幸这样的世纪大灾难降临在我头上了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725561349261139970",
+        "conversation_id": "1819974087982096693",
+        "created_at": "2024-08-04T05:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T06:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819974087982096693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819974087982096693",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7744,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一个女的脑子蠢还是骚货的话简直就是世纪大灾难，很不幸这样的世纪大灾难降临在我头上了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1223,
+          "like_count": 14926,
+          "listed_count": 1,
+          "tweet_count": 2843
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T17:07:52.000Z",
+        "description": "INFP/03/不回男的私信",
+        "id": "1725561349261139970",
+        "name": "Blueblueblueee",
+        "pinned_tweet_id": "1772613065873162483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728097661826527232/jo4skBdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 297,
+          "like_count": 3253,
+          "listed_count": 0,
+          "tweet_count": 729
+        },
+        "username": "OPHELIA04691386",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835414252452225440",
+    "created_at": "2024-09-15T20:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T21:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835414252452225440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/od_wiki/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/od_wiki/status/1834898108339106214",
+          "start": 10,
+          "url": "https://t.co/BywnUKRGf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835414252452225440",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834898108339106214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行，我有处药情节 https://t.co/BywnUKRGf4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835414252452225440",
+        "created_at": "2024-09-15T20:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T21:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835414252452225440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/od_wiki/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/od_wiki/status/1834898108339106214",
+              "start": 10,
+              "url": "https://t.co/BywnUKRGf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835414252452225440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834898108339106214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行，我有处药情节 https://t.co/BywnUKRGf4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834898097694224384"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834898108339106214",
+        "created_at": "2024-09-14T10:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T11:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834898108339106214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7z4wete09g",
+              "end": 30,
+              "expanded_url": "https://twitter.com/od_wiki/status/1834898108339106214/photo/1",
+              "media_key": "3_1834898097694224384",
+              "start": 7,
+              "url": "https://t.co/7z4WeTe09g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834898108339106214",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 50394,
+          "like_count": 394,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "历史性的一刻 https://t.co/7z4WeTe09g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1231,
+          "like_count": 15432,
+          "listed_count": 1,
+          "tweet_count": 3002
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ胖猫ɞ°✟",
+        "pinned_tweet_id": "1825493982753017955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11120,
+          "following_count": 5601,
+          "like_count": 5051,
+          "listed_count": 12,
+          "tweet_count": 3542
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

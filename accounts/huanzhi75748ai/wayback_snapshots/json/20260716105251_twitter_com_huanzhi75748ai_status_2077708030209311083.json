@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2077708030209311083",
+    "created_at": "2026-07-16T10:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077708030209311083"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077708030209311083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青少年时期其实是最需要陪伴和诉说的，因此对于感情会容易产生向往和依赖。\n而在现实生活的逼迫下，会更容易将这份期待转向网恋。\n可是网络太不真实。这恰恰是我所担心的。\n我并不反对网恋，她觉得幸福开心就好。可是我妹妹还小。只是有点担心。一点点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2077708030209311083",
+        "created_at": "2026-07-16T10:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077708030209311083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077708030209311083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青少年时期其实是最需要陪伴和诉说的，因此对于感情会容易产生向往和依赖。\n而在现实生活的逼迫下，会更容易将这份期待转向网恋。\n可是网络太不真实。这恰恰是我所担心的。\n我并不反对网恋，她觉得幸福开心就好。可是我妹妹还小。只是有点担心。一点点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31649,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 6679
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

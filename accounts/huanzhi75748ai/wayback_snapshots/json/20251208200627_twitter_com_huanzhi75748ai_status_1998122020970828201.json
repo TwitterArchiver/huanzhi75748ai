@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1998122020970828201",
+    "created_at": "2025-12-08T20:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T21:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998122020970828201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sexywoman0/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sexywoman0/status/1997666064071643470",
+          "start": 4,
+          "url": "https://t.co/Zcjw15ZjQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998122020970828201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997666064071643470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还挺帅 https://t.co/Zcjw15ZjQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1997665647946555393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kiUp3a4AE7pw5.jpg",
+        "width": 3162
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1997665653940219904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kiVAMa8AAgy17.jpg",
+        "width": 3153
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1997665659799683072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kiVWBbQAAHKoz.jpg",
+        "width": 3276
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1997665665898213376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kiVsvbcAAa_h5.jpg",
+        "width": 3275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1998122020970828201",
+        "created_at": "2025-12-08T20:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T21:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998122020970828201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sexywoman0/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sexywoman0/status/1997666064071643470",
+              "start": 4,
+              "url": "https://t.co/Zcjw15ZjQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998122020970828201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997666064071643470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还挺帅 https://t.co/Zcjw15ZjQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997665647946555393",
+            "3_1997665653940219904",
+            "3_1997665659799683072",
+            "3_1997665665898213376"
+          ]
+        },
+        "author_id": "1968696176955506688",
+        "conversation_id": "1997666064071643470",
+        "created_at": "2025-12-07T13:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997666064071643470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "反差cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/doDPnQrYVQ",
+              "end": 36,
+              "expanded_url": "https://x.com/sexywoman0/status/1997666064071643470/photo/1",
+              "media_key": "3_1997665647946555393",
+              "start": 13,
+              "url": "https://t.co/doDPnQrYVQ"
+            },
+            {
+              "display_url": "pic.x.com/doDPnQrYVQ",
+              "end": 36,
+              "expanded_url": "https://x.com/sexywoman0/status/1997666064071643470/photo/1",
+              "media_key": "3_1997665653940219904",
+              "start": 13,
+              "url": "https://t.co/doDPnQrYVQ"
+            },
+            {
+              "display_url": "pic.x.com/doDPnQrYVQ",
+              "end": 36,
+              "expanded_url": "https://x.com/sexywoman0/status/1997666064071643470/photo/1",
+              "media_key": "3_1997665659799683072",
+              "start": 13,
+              "url": "https://t.co/doDPnQrYVQ"
+            },
+            {
+              "display_url": "pic.x.com/doDPnQrYVQ",
+              "end": 36,
+              "expanded_url": "https://x.com/sexywoman0/status/1997666064071643470/photo/1",
+              "media_key": "3_1997665665898213376",
+              "start": 13,
+              "url": "https://t.co/doDPnQrYVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997666064071643470",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1019,
+          "impression_count": 533912,
+          "like_count": 2919,
+          "quote_count": 7,
+          "reply_count": 64,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa #反差cos https://t.co/doDPnQrYVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1343,
+          "like_count": 22005,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4541
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T15:18:51.000Z",
+        "description": "🈲🔞 NSFW\n推荐两个看视频网站 👇👇\n萝莉岛:https://t.co/ogiJMd1UaQ\n91暗网 : https://t.co/AMK3vjoPc6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s408v.com",
+                "end": 48,
+                "expanded_url": "http://s408v.com",
+                "start": 25,
+                "url": "https://t.co/ogiJMd1UaQ"
+              },
+              {
+                "display_url": "3ce71.com",
+                "end": 79,
+                "expanded_url": "http://3ce71.com",
+                "start": 56,
+                "url": "https://t.co/AMK3vjoPc6"
+              }
+            ]
+          }
+        },
+        "id": "1968696176955506688",
+        "name": "高颜值合集",
+        "pinned_tweet_id": "1997996012720488710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989038361164894208/o10krI4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22123,
+          "following_count": 7,
+          "like_count": 15,
+          "listed_count": 50,
+          "media_count": 17,
+          "tweet_count": 24
+        },
+        "username": "sexywoman0",
+        "verified": false
+      }
+    ]
+  }
+}

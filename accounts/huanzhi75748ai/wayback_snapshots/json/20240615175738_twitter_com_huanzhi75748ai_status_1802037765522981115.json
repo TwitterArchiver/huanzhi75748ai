@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1801496203395207243",
+    "created_at": "2024-06-15T17:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T18:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802037765522981115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1025546987578556417",
+          "start": 0,
+          "username": "IWantMyLilDoggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802037765522981115",
+    "in_reply_to_user_id": "1025546987578556417",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801496203395207243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IWantMyLilDoggy 好多多多多多多多多多多多多多多多多多多多多多多多多小🐦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1801496203395207243",
+        "created_at": "2024-06-15T17:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802037765522981115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "IWantMyLilDoggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802037765522981115",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801496203395207243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IWantMyLilDoggy 好多多多多多多多多多多多多多多多多多多多多多多多多小🐦"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801496190174781440"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "1801496203395207243",
+        "created_at": "2024-06-14T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801496203395207243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6ZqiRSwMST",
+              "end": 47,
+              "expanded_url": "https://twitter.com/IWantMyLilDoggy/status/1801496203395207243/photo/1",
+              "media_key": "3_1801496190174781440",
+              "start": 24,
+              "url": "https://t.co/6ZqiRSwMST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801496203395207243",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 66478,
+          "like_count": 937,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "窗外的麻雀在电线杆上多多多多多多多多多多多多嘴 https://t.co/6ZqiRSwMST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1143,
+          "like_count": 11755,
+          "listed_count": 1,
+          "tweet_count": 2185
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/我是发条 你的温柔赛博小黑猫/发点自己看到的有趣东西/时差党/时不时开抽奖/是活人！/对象是@Aranda_5201314/没有水印的图会写上自己所看到的出处/很喜欢的微博博主是@奇思乱想吧 和@今日memes/我爱你 希望你幸福快乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "Aranda_5201314"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "喵星",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739889137615069185/hzgXM4T8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 2696,
+          "like_count": 106460,
+          "listed_count": 12,
+          "tweet_count": 21611
+        },
+        "username": "IWantMyLilDoggy",
+        "verified": true
+      }
+    ]
+  }
+}

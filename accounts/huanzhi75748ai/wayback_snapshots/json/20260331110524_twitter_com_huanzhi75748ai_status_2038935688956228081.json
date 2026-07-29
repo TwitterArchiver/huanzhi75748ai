@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038933924559413475",
+    "created_at": "2026-03-31T11:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038935688956228081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976383726855839744",
+          "start": 0,
+          "username": "MmeTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038935688956228081",
+    "in_reply_to_user_id": "1976383726855839744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038933924559413475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MmeTuT 已婚三娃老大叔来支持了妹妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038933924559413475",
+        "created_at": "2026-03-31T11:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038935688956228081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038935688956228081",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038933924559413475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT 已婚三娃老大叔来支持了妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976383726855839744",
+        "conversation_id": "2038933924559413475",
+        "created_at": "2026-03-31T10:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038933924559413475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038933924559413475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是哥哥控不是大叔控 一堆比我大十几岁二十几岁的叫我妹妹干嘛。叫得我好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 1387,
+          "like_count": 26676,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 5545
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "enfp 哥哥控｜女高｜不是黄推 只发我想发的｜不收🚪不聊骚｜只关注我感兴趣的人｜关于我的碎碎念 @ROSSMARYAGUIRR2 只过互关 没有黄色内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "ROSSMARYAGUIRR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki95570",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki95570",
+                "start": 0,
+                "url": "https://t.co/wJeivsFncV"
+              }
+            ]
+          }
+        },
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024284032037720223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 200,
+          "like_count": 10014,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 3460
+        },
+        "url": "https://t.co/wJeivsFncV",
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

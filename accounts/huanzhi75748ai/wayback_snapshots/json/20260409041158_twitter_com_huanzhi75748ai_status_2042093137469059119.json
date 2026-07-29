@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2042093137469059119",
+    "created_at": "2026-04-09T04:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042093137469059119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Z2ehj/status/2…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Z2ehj/status/2041868280994902087",
+          "start": 55,
+          "url": "https://t.co/JaG7fZRdWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042093137469059119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041868280994902087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了。我想起来我朋友爱玩尘白禁区不敢说怕被开除女籍。其实有女籍的好处为零，考试不给加分上班也不给加薪呀。 https://t.co/JaG7fZRdWD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2042093137469059119",
+        "created_at": "2026-04-09T04:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042093137469059119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Z2ehj/status/2…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Z2ehj/status/2041868280994902087",
+              "start": 55,
+              "url": "https://t.co/JaG7fZRdWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042093137469059119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041868280994902087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了。我想起来我朋友爱玩尘白禁区不敢说怕被开除女籍。其实有女籍的好处为零，考试不给加分上班也不给加薪呀。 https://t.co/JaG7fZRdWD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994831880777076736",
+        "conversation_id": "2041868280994902087",
+        "created_at": "2026-04-08T13:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041868280994902087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041868280994902087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7220,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想说一些乱七八糟的骚话但是怕被开除女籍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1394,
+          "like_count": 28753,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 5890
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T18:13:14.000Z",
+        "description": "请不要转我的帖( DO NOT REPOST )，不加v，没有🚪，不接定制，不闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/z2ehj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/z2ehj",
+                "start": 0,
+                "url": "https://t.co/2rUnulhSSL"
+              }
+            ]
+          }
+        },
+        "id": "1994831880777076736",
+        "location": "四川",
+        "name": "婊翻世界又如何",
+        "pinned_tweet_id": "2039831979122692397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021979596518723584/FqmXXxf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6851,
+          "following_count": 43,
+          "like_count": 1919,
+          "listed_count": 11,
+          "media_count": 34,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/2rUnulhSSL",
+        "username": "Z2ehj",
+        "verified": false
+      }
+    ]
+  }
+}

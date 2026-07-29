@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "1862191883352776942",
+    "created_at": "2024-11-28T17:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T18:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862191883352776942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alice41110/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Alice41110/status/1861619963867328643",
+          "start": 11,
+          "url": "https://t.co/sbw6EmVh2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862191883352776942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861619963867328643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "听起来很美好的科幻片 https://t.co/sbw6EmVh2c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1862191883352776942",
+        "created_at": "2024-11-28T17:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T18:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862191883352776942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alice41110/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Alice41110/status/1861619963867328643",
+              "start": 11,
+              "url": "https://t.co/sbw6EmVh2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862191883352776942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861619963867328643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "听起来很美好的科幻片 https://t.co/sbw6EmVh2c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387442024115171335",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1861619963867328643",
+        "created_at": "2024-11-27T03:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861619963867328643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861619963867328643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 572565,
+          "like_count": 4065,
+          "quote_count": 61,
+          "reply_count": 144,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "炮友转正就是 你没提 他也没提 去了他家无数次 想吃什么就买食材拎过去 一边喝酒一边坐在小沙发上看投影 做了之后可以很自然地搂在一起睡到第二天自然醒 家里慢慢有另一个人的牙刷毛巾充电线隐形眼镜盒睡衣 过节两个人偶尔也出去约会 只是不送花 等到有一天 突然不知道是谁先开始 睡觉之前有晚安吻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1259,
+          "like_count": 18892,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 3713
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T16:22:20.000Z",
+        "description": "it was nice though｜推广自辨",
+        "id": "1387442024115171335",
+        "name": "Alice411",
+        "pinned_tweet_id": "1862096124409938205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422895274448408579/Q9gYCNNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26749,
+          "following_count": 493,
+          "like_count": 22694,
+          "listed_count": 65,
+          "media_count": 2301,
+          "tweet_count": 22100
+        },
+        "username": "Alice41110",
+        "verified": false
+      }
+    ]
+  }
+}

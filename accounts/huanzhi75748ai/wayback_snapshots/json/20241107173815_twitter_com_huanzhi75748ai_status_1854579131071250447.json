@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1854579131071250447",
+    "created_at": "2024-11-07T17:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T18:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854579131071250447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854579131071250447",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一个善妒的小心眼的人。可是我不知道怎么办。我的眼界和见识让我没有办法继续了。我们本来就不是一个世界的人。你应该去和更好的能量更高的人相处。你的选择是对的。离开我你就会幸福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1854579131071250447",
+        "created_at": "2024-11-07T17:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T18:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854579131071250447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854579131071250447",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个善妒的小心眼的人。可是我不知道怎么办。我的眼界和见识让我没有办法继续了。我们本来就不是一个世界的人。你应该去和更好的能量更高的人相处。你的选择是对的。离开我你就会幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1256,
+          "like_count": 18426,
+          "listed_count": 1,
+          "tweet_count": 3606
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

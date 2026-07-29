@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840110399628161347",
+    "created_at": "2024-09-28T19:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T20:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840110399628161347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1654545613529448448",
+          "start": 3,
+          "username": "fakeplasticdog7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840110399628161347",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839500256402350135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fakeplasticdog7: 他根本一点都不特别，是你的喜欢让他变得特别了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840110399628161347",
+        "created_at": "2024-09-28T19:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T20:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840110399628161347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1654545613529448448",
+              "start": 3,
+              "username": "fakeplasticdog7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840110399628161347",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839500256402350135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fakeplasticdog7: 他根本一点都不特别，是你的喜欢让他变得特别了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654545613529448448",
+        "conversation_id": "1839500256402350135",
+        "created_at": "2024-09-27T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839500256402350135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839500256402350135",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 26812,
+          "like_count": 436,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "他根本一点都不特别，是你的喜欢让他变得特别了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1245,
+          "like_count": 16197,
+          "listed_count": 1,
+          "tweet_count": 3064
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:56:37.000Z",
+        "description": "不是客人的朋友到底有没有",
+        "id": "1654545613529448448",
+        "name": "塑料狗",
+        "pinned_tweet_id": "1817863089339207692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670895062195277825/JpPDloaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3323,
+          "following_count": 117,
+          "like_count": 1956,
+          "listed_count": 13,
+          "tweet_count": 4132
+        },
+        "username": "fakeplasticdog7",
+        "verified": false
+      }
+    ]
+  }
+}

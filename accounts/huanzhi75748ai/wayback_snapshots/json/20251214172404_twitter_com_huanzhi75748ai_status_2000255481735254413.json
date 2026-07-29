@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2000255481735254413",
+    "created_at": "2025-12-14T17:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000255481735254413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669746708853706753",
+          "start": 3,
+          "username": "Vaswawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000255481735254413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999551054002946148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vaswawa: 這一世，我重生了，我獲得了八個系統\n1泌尿系統\n2生殖系統\n3內分泌系統\n4神經系統\n5呼吸系統\n6循環系統\n7運動系統\n8消化系統"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2000255481735254413",
+        "created_at": "2025-12-14T17:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000255481735254413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669746708853706753",
+              "start": 3,
+              "username": "Vaswawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000255481735254413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999551054002946148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vaswawa: 這一世，我重生了，我獲得了八個系統\n1泌尿系統\n2生殖系統\n3內分泌系統\n4神經系統\n5呼吸系統\n6循環系統\n7運動系統\n8消化系統"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669746708853706753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1999551054002946148",
+        "created_at": "2025-12-12T18:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999551054002946148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999551054002946148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 203947,
+          "like_count": 3350,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "這一世，我重生了，我獲得了八個系統\n1泌尿系統\n2生殖系統\n3內分泌系統\n4神經系統\n5呼吸系統\n6循環系統\n7運動系統\n8消化系統"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1328,
+          "like_count": 22137,
+          "listed_count": 2,
+          "media_count": 444,
+          "tweet_count": 4584
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T16:40:27.000Z",
+        "description": "▌預見娛樂所屬 二吉生 MeloNyx - 瓦西瓦瓦 Vaswawa 可愛迷人混亂小惡魔天使 | 不是吉瓦瓦▴◡▴ ママ - @kunikune パパ - @Mimu_Live2D - https://t.co/2vQ0MIHqOq 二創 #瓦畫了 配信 #瓦開了 一般 #瓦來了 迷因 #吉瓦瓦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "瓦畫了"
+              },
+              {
+                "end": 132,
+                "start": 128,
+                "tag": "瓦開了"
+              },
+              {
+                "end": 140,
+                "start": 136,
+                "tag": "瓦來了"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "吉瓦瓦"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "kunikune"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Mimu_Live2D"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "envisionvtuber.com.tw/-",
+                "end": 116,
+                "expanded_url": "https://www.envisionvtuber.com.tw/-",
+                "start": 93,
+                "url": "https://t.co/2vQ0MIHqOq"
+              }
+            ]
+          }
+        },
+        "id": "1669746708853706753",
+        "name": "瓦西瓦瓦⭐新衣裝紀念商品預購至11/30",
+        "pinned_tweet_id": "2000249465060676047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989336533648932864/hV88i_U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 339,
+          "like_count": 28923,
+          "listed_count": 33,
+          "media_count": 719,
+          "tweet_count": 4091
+        },
+        "username": "Vaswawa",
+        "verified": false
+      }
+    ]
+  }
+}

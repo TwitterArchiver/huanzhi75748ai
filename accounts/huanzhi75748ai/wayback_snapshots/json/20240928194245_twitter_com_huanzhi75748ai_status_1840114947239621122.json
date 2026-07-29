@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1839708771410735496",
+    "created_at": "2024-09-28T19:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T20:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840114947239621122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798778584909455360",
+          "start": 0,
+          "username": "LixdH5jzYx99195"
+        },
+        {
+          "end": 25,
+          "id": "1609619970811482112",
+          "start": 17,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840114947239621122",
+    "in_reply_to_user_id": "1798778584909455360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840021032222241282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixdH5jzYx99195 @3ch4O1H 不会的，我经常想以我现在混吃等死的状态会不会老了以后在大街上捡垃圾然后被冻死街头。但是不用这么悲观啦。大家都会有压力但是爱就是动力。相信自己也相信你爱人。(悲观厌世和解释自己能力的好萌的一对。)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1839708771410735496",
+        "created_at": "2024-09-28T19:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T20:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840114947239621122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798778584909455360",
+              "start": 0,
+              "username": "LixdH5jzYx99195"
+            },
+            {
+              "end": 25,
+              "id": "1609619970811482112",
+              "start": 17,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840114947239621122",
+        "in_reply_to_user_id": "1798778584909455360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840021032222241282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixdH5jzYx99195 @3ch4O1H 不会的，我经常想以我现在混吃等死的状态会不会老了以后在大街上捡垃圾然后被冻死街头。但是不用这么悲观啦。大家都会有压力但是爱就是动力。相信自己也相信你爱人。(悲观厌世和解释自己能力的好萌的一对。)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798778584909455360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1839708771410735496",
+        "created_at": "2024-09-28T13:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T14:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840021032222241282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840021032222241282",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840012869875970373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H 不知道 只是如果真的面对这个局面\n我是真的不知如何是好……\n\n对于妻子而言……亚硝酸盐或许会是个不错的选择 \n\n丈夫还年轻 还有希望 所以……\n\n老家伙死年轻人活（记得是某个电影里的台词）\n\n符合理性……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16225,
+          "listed_count": 1,
+          "tweet_count": 3072
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T18:07:05.000Z",
+        "description": "真希望永远生活在黑夜之中 真希望永不再见明日的黎明 我恐惧黑暗 但我必须生活在哪里 因为这就是我 我别无选择……",
+        "id": "1798778584909455360",
+        "name": "百尚晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808262134717206529/0zNZxJhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 245,
+          "like_count": 5881,
+          "listed_count": 0,
+          "tweet_count": 1065
+        },
+        "username": "LixdH5jzYx99195",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "爱在当下\n顺男\n伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801965788699770880/04tk9Oj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1626,
+          "like_count": 19694,
+          "listed_count": 0,
+          "tweet_count": 11402
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

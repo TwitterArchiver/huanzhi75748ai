@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1819022157692715487",
+    "created_at": "2024-08-01T15:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T16:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819028243283870124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659216976336789515",
+          "start": 0,
+          "username": "niu0_niu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819028243283870124",
+    "in_reply_to_user_id": "1659216976336789515",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819027800898375806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niu0_niu0 是。。好崩溃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1819022157692715487",
+        "created_at": "2024-08-01T15:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T16:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819028243283870124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659216976336789515",
+              "start": 0,
+              "username": "niu0_niu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819028243283870124",
+        "in_reply_to_user_id": "1659216976336789515",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819027800898375806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niu0_niu0 是。。好崩溃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659216976336789515",
+        "conversation_id": "1819022157692715487",
+        "created_at": "2024-08-01T15:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T16:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819027800898375806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819027800898375806",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819022157692715487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 在商场也买不到比100块便宜的了😪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1224,
+          "like_count": 14894,
+          "listed_count": 1,
+          "tweet_count": 2831
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T15:19:06.000Z",
+        "description": "把内衣穿到极致内衣的男生\n女装大佬",
+        "id": "1659216976336789515",
+        "name": "小妞妞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659236755479072768/jI9obnbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 399,
+          "like_count": 161,
+          "listed_count": 3,
+          "tweet_count": 516
+        },
+        "username": "niu0_niu0",
+        "verified": false
+      }
+    ]
+  }
+}

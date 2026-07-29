@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1970932274146443504",
+    "created_at": "2025-09-24T19:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T20:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970932274146443504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/amecandy_x/status/1970286632604754135",
+          "start": 2,
+          "url": "https://t.co/UwEQEf4kqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970932274146443504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970286632604754135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌 https://t.co/UwEQEf4kqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_1970286625201758208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1fdPyDaoAAOFKO.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1970932274146443504",
+        "created_at": "2025-09-24T19:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T20:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970932274146443504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/amecandy_x/status/1970286632604754135",
+              "start": 2,
+              "url": "https://t.co/UwEQEf4kqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970932274146443504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970286632604754135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌 https://t.co/UwEQEf4kqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970286625201758208"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1970286632604754135",
+        "created_at": "2025-09-23T00:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T01:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970286632604754135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mgnc9PwGxH",
+              "end": 23,
+              "expanded_url": "https://x.com/amecandy_x/status/1970286632604754135/photo/1",
+              "media_key": "3_1970286625201758208",
+              "start": 0,
+              "url": "https://t.co/Mgnc9PwGxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970286632604754135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 160815,
+          "like_count": 3133,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mgnc9PwGxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1348,
+          "like_count": 21767,
+          "listed_count": 3,
+          "media_count": 419,
+          "tweet_count": 4365
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "叫我小雨//休学在家，互联网是我的一切🌏//流泪的阴暗小猫🐱//MtF🏳️‍⚧️//HRT 2022.07//双相//我会写东西搞oc！文章网站https://t.co/Ul32kqG4uh 欢迎找我讨论！！//去过🇯🇵🇷🇺🇰🇷🧳//术曲🎧//私信扩列聊天欢迎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 95,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 72,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东，济南",
+        "name": "超絕最可愛 Rain 🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1962355230282322187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3327,
+          "following_count": 1262,
+          "like_count": 19257,
+          "listed_count": 9,
+          "media_count": 606,
+          "tweet_count": 6143
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

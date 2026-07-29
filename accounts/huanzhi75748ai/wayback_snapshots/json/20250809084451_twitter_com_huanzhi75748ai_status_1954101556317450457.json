@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1953392552805036503",
+    "created_at": "2025-08-09T08:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T09:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954101556317450457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762470904829796352",
+          "start": 0,
+          "username": "I2_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954101556317450457",
+    "in_reply_to_user_id": "1762470904829796352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953392552805036503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I2_1222 想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1953392552805036503",
+        "created_at": "2025-08-09T08:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T09:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954101556317450457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762470904829796352",
+              "start": 0,
+              "username": "I2_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954101556317450457",
+        "in_reply_to_user_id": "1762470904829796352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953392552805036503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I2_1222 想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762470904829796352",
+        "conversation_id": "1953392552805036503",
+        "created_at": "2025-08-07T09:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953392552805036503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953392552805036503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会有人想加 我的 v 吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1357,
+          "like_count": 21824,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 4312
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:33:13.000Z",
+        "description": "4 What？\n|我的提问箱：https://t.co/IeQZ4jA2Mk |\n 畅联世界！无广告干扰，机场节点随便挑，蜂鸟VPN：https://t.co/vij070tyBZ|我不在乎取关与否了|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i2_12222",
+                "end": 38,
+                "expanded_url": "https://ngl.link/i2_12222",
+                "start": 15,
+                "url": "https://t.co/IeQZ4jA2Mk"
+              },
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 90,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=sYRaDV1h",
+                "start": 67,
+                "url": "https://t.co/vij070tyBZ"
+              }
+            ]
+          }
+        },
+        "id": "1762470904829796352",
+        "location": "🚪52|520|5200 什么都没有",
+        "name": "12^",
+        "pinned_tweet_id": "1952917995636048340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902731517186699265/kOF01xfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 3066,
+          "like_count": 82407,
+          "listed_count": 8,
+          "media_count": 494,
+          "tweet_count": 8123
+        },
+        "username": "I2_1222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000003932249071616"
+      ],
+      "media_source_tweet_id": [
+        "2000003935193715142"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2000248691794624980",
+    "created_at": "2025-12-14T16:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000248691794624980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "634714422",
+          "start": 3,
+          "username": "ILLUMINUSNUMBx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AsVtYHgSmw",
+          "end": 43,
+          "expanded_url": "https://x.com/ILLUMINUSNUMBx/status/2000003935193715142/photo/1",
+          "media_key": "3_2000003932249071616",
+          "start": 20,
+          "url": "https://t.co/AsVtYHgSmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000248691794624980",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000003935193715142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ILLUMINUSNUMBx: https://t.co/AsVtYHgSmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2000003932249071616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Fw-tsXIAAf1M4.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000003932249071616"
+          ],
+          "media_source_tweet_id": [
+            "2000003935193715142"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2000248691794624980",
+        "created_at": "2025-12-14T16:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000248691794624980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "634714422",
+              "start": 3,
+              "username": "ILLUMINUSNUMBx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsVtYHgSmw",
+              "end": 43,
+              "expanded_url": "https://x.com/ILLUMINUSNUMBx/status/2000003935193715142/photo/1",
+              "media_key": "3_2000003932249071616",
+              "start": 20,
+              "url": "https://t.co/AsVtYHgSmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000248691794624980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000003935193715142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ILLUMINUSNUMBx: https://t.co/AsVtYHgSmw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000003932249071616"
+          ]
+        },
+        "author_id": "634714422",
+        "conversation_id": "2000003935193715142",
+        "created_at": "2025-12-14T00:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T01:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000003935193715142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsVtYHgSmw",
+              "end": 23,
+              "expanded_url": "https://x.com/ILLUMINUSNUMBx/status/2000003935193715142/photo/1",
+              "media_key": "3_2000003932249071616",
+              "start": 0,
+              "url": "https://t.co/AsVtYHgSmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000003935193715142",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2076,
+          "impression_count": 476062,
+          "like_count": 50249,
+          "quote_count": 291,
+          "reply_count": 70,
+          "retweet_count": 9279
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AsVtYHgSmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1328,
+          "like_count": 22113,
+          "listed_count": 2,
+          "media_count": 444,
+          "tweet_count": 4580
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-13T15:02:29.000Z",
+        "description": "",
+        "id": "634714422",
+        "location": "Pain Dep & Anxiety 𖤐Xx",
+        "name": "Pain Depression & Anxiety",
+        "pinned_tweet_id": "1726624416401182899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977499719195660288/qi65jF0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540840,
+          "following_count": 81,
+          "like_count": 442,
+          "listed_count": 744,
+          "media_count": 5357,
+          "tweet_count": 5665
+        },
+        "username": "ILLUMINUSNUMBx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1864352117130924341",
+    "created_at": "2024-12-04T16:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T17:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864352117130924341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864352117130924341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烦死了。讨厌有人莫名其妙话很多很热情得蛮不讲理闯进我生活。然后在我习惯了对方的存在后离开。像我前任。嘁。打王者的时候一个人莫名其妙观战我莫名其妙和我一起打莫名其妙加好友然后一直在那里说说说。总感觉是不是认识我的人来报复我了。难受。我总感觉接近我的人不怀好意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1864352117130924341",
+        "created_at": "2024-12-04T16:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T17:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864352117130924341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864352117130924341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了。讨厌有人莫名其妙话很多很热情得蛮不讲理闯进我生活。然后在我习惯了对方的存在后离开。像我前任。嘁。打王者的时候一个人莫名其妙观战我莫名其妙和我一起打莫名其妙加好友然后一直在那里说说说。总感觉是不是认识我的人来报复我了。难受。我总感觉接近我的人不怀好意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1262,
+          "like_count": 19088,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 3797
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

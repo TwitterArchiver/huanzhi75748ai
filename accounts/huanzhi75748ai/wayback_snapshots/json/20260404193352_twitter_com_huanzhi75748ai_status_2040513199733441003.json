@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040513199733441003",
+    "created_at": "2026-04-04T19:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T20:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040513199733441003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753480657035300867",
+          "start": 3,
+          "username": "pake661809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040513199733441003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040331248690921854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pake661809: 我的恋人只存在于我的想象里 他没有脸 但我知道他爱我 他可以是任何身材 他可以有千奇百怪的性癖 他可以在我需要安慰的时候摸摸我的头 他可以在我无聊的时候捏捏我的脸 和他在一起我好幸福 但他告诉我你不幸福  因为他只是我的幻想。\n\n亲爱的 梦醒了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040513199733441003",
+        "created_at": "2026-04-04T19:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040513199733441003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753480657035300867",
+              "start": 3,
+              "username": "pake661809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040513199733441003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040331248690921854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pake661809: 我的恋人只存在于我的想象里 他没有脸 但我知道他爱我 他可以是任何身材 他可以有千奇百怪的性癖 他可以在我需要安慰的时候摸摸我的头 他可以在我无聊的时候捏捏我的脸 和他在一起我好幸福 但他告诉我你不幸福  因为他只是我的幻想。\n\n亲爱的 梦醒了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753480657035300867",
+        "conversation_id": "2040331248690921854",
+        "created_at": "2026-04-04T07:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040331248690921854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040331248690921854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2819,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我的恋人只存在于我的想象里 他没有脸 但我知道他爱我 他可以是任何身材 他可以有千奇百怪的性癖 他可以在我需要安慰的时候摸摸我的头 他可以在我无聊的时候捏捏我的脸 和他在一起我好幸福 但他告诉我你不幸福  因为他只是我的幻想。\n\n亲爱的 梦醒了 你怎么又不在了 我想你 我好想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1397,
+          "like_count": 28067,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 5761
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T18:09:30.000Z",
+        "description": "我本位主义 INTP ♒️ 无聊的时候很喜欢调情 不无聊的时候很喜欢看涩图 纯血二次元老资历大手子宅女^ ^｜switch｜发自己想发的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akauya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akauya",
+                "start": 0,
+                "url": "https://t.co/lLjNrK6uOt"
+              }
+            ]
+          }
+        },
+        "id": "1753480657035300867",
+        "location": "🥰",
+        "name": "akauya（牛逼版",
+        "pinned_tweet_id": "2036116621706870793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033509808448663552/FCBLc3A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11845,
+          "following_count": 16,
+          "like_count": 540,
+          "listed_count": 11,
+          "media_count": 302,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/lLjNrK6uOt",
+        "username": "pake661809",
+        "verified": false
+      }
+    ]
+  }
+}

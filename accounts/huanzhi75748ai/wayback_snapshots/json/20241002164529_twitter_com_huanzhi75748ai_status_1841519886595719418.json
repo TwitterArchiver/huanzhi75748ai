@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841519886595719418",
+    "created_at": "2024-10-02T16:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T17:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841519886595719418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1288293461653884931",
+          "start": 3,
+          "username": "more_salt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841519886595719418",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841131122182500654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @more_salt_: 生活中的遇到的一切问题我都想用转发来解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1841519886595719418",
+        "created_at": "2024-10-02T16:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T17:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841519886595719418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1288293461653884931",
+              "start": 3,
+              "username": "more_salt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841519886595719418",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841131122182500654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @more_salt_: 生活中的遇到的一切问题我都想用转发来解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288293461653884931",
+        "conversation_id": "1841131122182500654",
+        "created_at": "2024-10-01T15:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T16:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841131122182500654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841131122182500654",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "生活中的遇到的一切问题我都想用转发来解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1250,
+          "like_count": 16636,
+          "listed_count": 1,
+          "tweet_count": 3146
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T02:01:22.000Z",
+        "description": "狗，土狗，咬人狗，必须卖了，因为咬人",
+        "id": "1288293461653884931",
+        "location": "hell",
+        "name": "淡水卵",
+        "pinned_tweet_id": "1835370576917205483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798409289121632256/raZV3QFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 319,
+          "like_count": 3316,
+          "listed_count": 1,
+          "tweet_count": 2211
+        },
+        "username": "more_salt_",
+        "verified": false
+      }
+    ]
+  }
+}

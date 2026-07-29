@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1854578515833929921",
+    "created_at": "2024-11-07T17:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T18:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854578515833929921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/damatte8964/status/1854548706009436518",
+          "start": 10,
+          "url": "https://t.co/MfnpNaawjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854578515833929921",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854548706009436518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是明明之前很好的 https://t.co/MfnpNaawjl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1854578515833929921",
+        "created_at": "2024-11-07T17:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T18:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854578515833929921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/damatte8964/status/1854548706009436518",
+              "start": 10,
+              "url": "https://t.co/MfnpNaawjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854578515833929921",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854548706009436518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是明明之前很好的 https://t.co/MfnpNaawjl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1854548706009436518",
+        "created_at": "2024-11-07T15:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854548706009436518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854548706009436518",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1160,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你还要反刍那段离你而去的幸福到什么时候？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1256,
+          "like_count": 18426,
+          "listed_count": 1,
+          "tweet_count": 3605
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 我什么都会发，想发就发了。精神疾病影响了我的脑子，说话会奇怪，正在缓慢康复中。我喜欢毛茸茸的小动物，不毛的不喜欢。此账号由人类和小动物共同掌管，暴言暴论都是小动物发的。里账@damatte0526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "damatte0526"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "location": "咪咪帝国",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1851376046173544462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853338629730635776/BoihRLzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8813,
+          "following_count": 495,
+          "like_count": 1487,
+          "listed_count": 5,
+          "tweet_count": 853
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

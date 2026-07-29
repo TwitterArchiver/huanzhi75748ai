@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994292012011475271",
+    "created_at": "2025-11-28T19:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T20:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994492858372689970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742188238645948416",
+          "start": 0,
+          "username": "mekai_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994492858372689970",
+    "in_reply_to_user_id": "1742188238645948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994292012011475271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mekai_404 可以當你男友嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1994292007603404800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60mA8OaAAAgJs2.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994292012011475271",
+        "created_at": "2025-11-28T19:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T20:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994492858372689970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742188238645948416",
+              "start": 0,
+              "username": "mekai_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994492858372689970",
+        "in_reply_to_user_id": "1742188238645948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994292012011475271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mekai_404 可以當你男友嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994292007603404800"
+          ]
+        },
+        "author_id": "1742188238645948416",
+        "conversation_id": "1994292012011475271",
+        "created_at": "2025-11-28T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994292012011475271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89d89Ksafj",
+              "end": 25,
+              "expanded_url": "https://x.com/mekai_404/status/1994292012011475271/photo/1",
+              "media_key": "3_1994292007603404800",
+              "start": 2,
+              "url": "https://t.co/89d89Ksafj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994292012011475271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "? https://t.co/89d89Ksafj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1338,
+          "like_count": 21837,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 4487
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T14:17:22.000Z",
+        "description": "森罗万象｜病垢｜日常｜✉️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/comet_042",
+                "end": 23,
+                "expanded_url": "https://ngl.link/comet_042",
+                "start": 0,
+                "url": "https://t.co/xB1B9lIxdg"
+              }
+            ]
+          }
+        },
+        "id": "1742188238645948416",
+        "location": "冥界匿名➡️",
+        "name": "め🐑",
+        "pinned_tweet_id": "1985989830472548367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959623111416180736/zJMuOpPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 494,
+          "like_count": 45452,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 12750
+        },
+        "url": "https://t.co/xB1B9lIxdg",
+        "username": "mekai_404",
+        "verified": false
+      }
+    ]
+  }
+}

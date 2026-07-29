@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060693538485293056",
+        "3_2060693538841698304"
+      ],
+      "media_source_tweet_id": [
+        "2060693540842487992",
+        "2060693540842487992"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2060802988487455129",
+    "created_at": "2026-05-30T19:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060802988487455129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1064317162028822528",
+          "start": 3,
+          "username": "tyomateee2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJhHq5gPS8",
+          "end": 55,
+          "expanded_url": "https://x.com/tyomateee2/status/2060693540842487992/photo/1",
+          "media_key": "3_2060693538485293056",
+          "start": 32,
+          "url": "https://t.co/XJhHq5gPS8"
+        },
+        {
+          "display_url": "pic.x.com/XJhHq5gPS8",
+          "end": 55,
+          "expanded_url": "https://x.com/tyomateee2/status/2060693540842487992/photo/1",
+          "media_key": "3_2060693538841698304",
+          "start": 32,
+          "url": "https://t.co/XJhHq5gPS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060802988487455129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 592
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060693540842487992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyomateee2: 世界一可愛い痕跡、見つかる。🐾 https://t.co/XJhHq5gPS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2060693538485293056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkN2vBb0AAVhrU.jpg",
+        "width": 828
+      },
+      {
+        "height": 917,
+        "media_key": "3_2060693538841698304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkN2wWaIAAfYfN.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060693538485293056",
+            "3_2060693538841698304"
+          ],
+          "media_source_tweet_id": [
+            "2060693540842487992",
+            "2060693540842487992"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2060802988487455129",
+        "created_at": "2026-05-30T19:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060802988487455129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1064317162028822528",
+              "start": 3,
+              "username": "tyomateee2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJhHq5gPS8",
+              "end": 55,
+              "expanded_url": "https://x.com/tyomateee2/status/2060693540842487992/photo/1",
+              "media_key": "3_2060693538485293056",
+              "start": 32,
+              "url": "https://t.co/XJhHq5gPS8"
+            },
+            {
+              "display_url": "pic.x.com/XJhHq5gPS8",
+              "end": 55,
+              "expanded_url": "https://x.com/tyomateee2/status/2060693540842487992/photo/1",
+              "media_key": "3_2060693538841698304",
+              "start": 32,
+              "url": "https://t.co/XJhHq5gPS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060802988487455129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 592
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060693540842487992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyomateee2: 世界一可愛い痕跡、見つかる。🐾 https://t.co/XJhHq5gPS8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060693538485293056",
+            "3_2060693538841698304"
+          ]
+        },
+        "author_id": "1064317162028822528",
+        "conversation_id": "2060693540842487992",
+        "created_at": "2026-05-30T12:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060693540842487992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJhHq5gPS8",
+              "end": 39,
+              "expanded_url": "https://x.com/tyomateee2/status/2060693540842487992/photo/1",
+              "media_key": "3_2060693538485293056",
+              "start": 16,
+              "url": "https://t.co/XJhHq5gPS8"
+            },
+            {
+              "display_url": "pic.x.com/XJhHq5gPS8",
+              "end": 39,
+              "expanded_url": "https://x.com/tyomateee2/status/2060693540842487992/photo/1",
+              "media_key": "3_2060693538841698304",
+              "start": 16,
+              "url": "https://t.co/XJhHq5gPS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060693540842487992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 410880,
+          "like_count": 13396,
+          "quote_count": 26,
+          "reply_count": 161,
+          "retweet_count": 592
+        },
+        "reply_settings": "everyone",
+        "text": "世界一可愛い痕跡、見つかる。🐾 https://t.co/XJhHq5gPS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1385,
+          "like_count": 31151,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 6436
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-19T00:39:20.000Z",
+        "description": "【利用規約に従い、スパムツイートは一切しません。また動画のツイートはX社が規定する引用元を明記したツイートをしています。】当人が運営しているアカウントは最多情報局 もふもふ動画 カイガイノワダイです。他 癒し垢等の運営とは一切関係ありません。 削除申請はDMまたはメールまでお願い致します。",
+        "id": "1064317162028822528",
+        "location": "aokun4321@gmail.com",
+        "name": "もふもふ動画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161172534789906432/xKRolaCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296550,
+          "following_count": 859,
+          "like_count": 13722,
+          "listed_count": 4420,
+          "media_count": 11991,
+          "tweet_count": 32832
+        },
+        "username": "tyomateee2",
+        "verified": true
+      }
+    ]
+  }
+}

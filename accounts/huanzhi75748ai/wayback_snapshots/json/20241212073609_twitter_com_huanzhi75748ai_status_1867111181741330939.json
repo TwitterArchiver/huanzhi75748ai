@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1866897836861993363",
+    "created_at": "2024-12-12T07:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T08:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867111181741330939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544171637171400704",
+          "start": 0,
+          "username": "LAZY_lazyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867111181741330939",
+    "in_reply_to_user_id": "1544171637171400704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866897836861993363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LAZY_lazyyyy 主人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1866897836861993363",
+        "created_at": "2024-12-12T07:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T08:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867111181741330939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544171637171400704",
+              "start": 0,
+              "username": "LAZY_lazyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867111181741330939",
+        "in_reply_to_user_id": "1544171637171400704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866897836861993363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LAZY_lazyyyy 主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866897829182181376"
+          ]
+        },
+        "author_id": "1544171637171400704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1866897836861993363",
+        "created_at": "2024-12-11T17:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866897836861993363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XNKNUB5RD",
+              "end": 32,
+              "expanded_url": "https://x.com/LAZY_lazyyyy/status/1866897836861993363/photo/1",
+              "media_key": "3_1866897829182181376",
+              "start": 9,
+              "url": "https://t.co/2XNKNUB5RD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866897836861993363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6856,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人级别的美甲💅 https://t.co/2XNKNUB5RD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1263,
+          "like_count": 19655,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 3931
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "我的人生底色就是奸淫懒馋//宝宝: @4inLOVElazyyyy//锁评推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "4inLOVElazyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=z3JzWQIA",
+                "start": 0,
+                "url": "https://t.co/4xh8VvnsCu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "自用vpn👉🏻",
+        "name": "参见小懒",
+        "pinned_tweet_id": "1866022533621027250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824024524419182592/MIoUhHvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20435,
+          "following_count": 964,
+          "like_count": 59843,
+          "listed_count": 52,
+          "media_count": 1493,
+          "tweet_count": 33204
+        },
+        "url": "https://t.co/4xh8VvnsCu",
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

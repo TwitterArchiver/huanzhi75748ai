@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1799584989496922318",
+    "created_at": "2024-06-10T17:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T18:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800219343629992218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789709839058264065",
+          "start": 0,
+          "username": "L1vingDeadQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800219343629992218",
+    "in_reply_to_user_id": "1789709839058264065",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799584989496922318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L1vingDeadQAQ 你现在最大的任务就是本升专"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1799584989496922318].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1799584989496922318",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1799584989496922318"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1799584989496922318",
+        "created_at": "2024-06-10T17:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T18:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800219343629992218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789709839058264065",
+              "start": 0,
+              "username": "L1vingDeadQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800219343629992218",
+        "in_reply_to_user_id": "1789709839058264065",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799584989496922318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L1vingDeadQAQ 你现在最大的任务就是本升专"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1143,
+          "like_count": 11361,
+          "listed_count": 1,
+          "tweet_count": 2108
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T17:31:05.000Z",
+        "description": "But now ur corpse is in my attic and somtimes i heard ur footsteps.",
+        "id": "1789709839058264065",
+        "name": "L1vingDead",
+        "pinned_tweet_id": "1789726914711629913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789711851602763776/LlCWqVAu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 36,
+          "like_count": 838,
+          "listed_count": 0,
+          "tweet_count": 1142
+        },
+        "username": "L1vingDeadQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

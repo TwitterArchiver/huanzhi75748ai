@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1931782459961799018",
+    "created_at": "2025-06-12T18:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T19:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933229759754088497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695515581192278016",
+          "start": 0,
+          "username": "xingchen_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933229759754088497",
+    "in_reply_to_user_id": "1695515581192278016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931879521780998280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingchen_gu 给冰激凌🍦开天眼👁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1931782459961799018",
+        "created_at": "2025-06-12T18:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T19:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933229759754088497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695515581192278016",
+              "start": 0,
+              "username": "xingchen_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933229759754088497",
+        "in_reply_to_user_id": "1695515581192278016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931879521780998280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchen_gu 给冰激凌🍦开天眼👁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695515581192278016",
+        "conversation_id": "1931782459961799018",
+        "created_at": "2025-06-09T01:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T02:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931879521780998280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931879521780998280",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931782459961799018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 冰淇淋要睁眼了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1346,
+          "like_count": 21753,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 4192
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T19:16:40.000Z",
+        "description": "追寻着名为“奇迹”的事物",
+        "id": "1695515581192278016",
+        "location": "everywhere",
+        "name": "一粒小星尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894705443420737536/gdlxg-dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 786,
+          "like_count": 6199,
+          "listed_count": 2,
+          "media_count": 687,
+          "tweet_count": 4981
+        },
+        "username": "xingchen_gu",
+        "verified": false
+      }
+    ]
+  }
+}

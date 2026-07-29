@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043740580522668249",
+    "created_at": "2026-04-13T17:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043740580522668249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NGNGVXX/status…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/NGNGVXX/status/2043532369328791787",
+          "start": 55,
+          "url": "https://t.co/ZevhfDbkBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043740580522668249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043532369328791787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和这种人聊上一段感觉爽死了，真的会相见恨晚。不一样的观点用坦诚的方式和平地碰撞。什么都可以谈，什么都可以说。 https://t.co/ZevhfDbkBU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043740580522668249",
+        "created_at": "2026-04-13T17:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043740580522668249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2043532369328791787",
+              "start": 55,
+              "url": "https://t.co/ZevhfDbkBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043740580522668249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043532369328791787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和这种人聊上一段感觉爽死了，真的会相见恨晚。不一样的观点用坦诚的方式和平地碰撞。什么都可以谈，什么都可以说。 https://t.co/ZevhfDbkBU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043532369328791787",
+        "created_at": "2026-04-13T03:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043532369328791787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043532369328791787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 26300,
+          "like_count": 1028,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别喜欢有深度且坦诚的人。我们完全可以谈论大自然、死亡、性、世界、人类、阴暗的想法、你想过的人生、你的童年、你的不安感，因为那是真实的情感，那是我要的真实、有趣、和深度。可人与人只要一相交，总是会因为不坦诚而渐渐远离，挺可悲的。不知道什么时候开始大家都带上了让人看不懂的面具"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1396,
+          "like_count": 29257,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 5990
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8257,
+          "following_count": 5,
+          "like_count": 1009,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1889
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

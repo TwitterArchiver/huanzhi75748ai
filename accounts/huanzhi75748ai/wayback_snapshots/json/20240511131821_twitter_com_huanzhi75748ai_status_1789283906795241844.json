@@ -1,0 +1,121 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1789283573817921536",
+        "3_1789283599654764544"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1789283906795241844",
+    "created_at": "2024-05-11T13:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T14:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789283906795241844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/an9FMrIvvP",
+          "end": 44,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1789283906795241844/photo/1",
+          "media_key": "3_1789283573817921536",
+          "start": 21,
+          "url": "https://t.co/an9FMrIvvP"
+        },
+        {
+          "display_url": "pic.twitter.com/an9FMrIvvP",
+          "end": 44,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1789283906795241844/photo/1",
+          "media_key": "3_1789283599654764544",
+          "start": 21,
+          "url": "https://t.co/an9FMrIvvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789283906795241844",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或许这一刻我才真正感受到幸福\n（血⚠️） https://t.co/an9FMrIvvP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1789283906795241844].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1789283906795241844",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1789283906795241844"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1789283573817921536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNTP7ivb0AAzD66.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1789283599654764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNTP9C_awAA0_C7.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 1090,
+          "like_count": 7730,
+          "listed_count": 1,
+          "tweet_count": 1557
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038618951161430405",
+    "created_at": "2026-03-30T14:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038622585408434583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540455959986081792",
+          "start": 0,
+          "username": "lulanglinhai3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038622585408434583",
+    "in_reply_to_user_id": "1540455959986081792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038618951161430405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulanglinhai3 嗯我已经在谈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038618951161430405",
+        "created_at": "2026-03-30T14:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038622585408434583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540455959986081792",
+              "start": 0,
+              "username": "lulanglinhai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038622585408434583",
+        "in_reply_to_user_id": "1540455959986081792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038618951161430405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulanglinhai3 嗯我已经在谈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540455959986081792",
+        "conversation_id": "2038618951161430405",
+        "created_at": "2026-03-30T14:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038618951161430405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiamibtc/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jiamibtc/status/2038542637482094783",
+              "start": 13,
+              "url": "https://t.co/PJmiO0cXp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038618951161430405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038542637482094783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许我也可以和豆包谈恋爱 https://t.co/PJmiO0cXp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1383,
+          "like_count": 26209,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5469
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T22:05:06.000Z",
+        "description": "1234",
+        "id": "1540455959986081792",
+        "location": "坟里",
+        "name": "🐸🐸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620375906517946369/8OSPd1Ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 237,
+          "like_count": 45706,
+          "listed_count": 4,
+          "media_count": 1101,
+          "tweet_count": 31501
+        },
+        "username": "lulanglinhai3",
+        "verified": false
+      }
+    ]
+  }
+}

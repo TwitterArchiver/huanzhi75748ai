@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1815502715625324973",
+    "created_at": "2024-07-23T21:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T22:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815854583530541212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798778584909455360",
+          "start": 0,
+          "username": "LixdH5jzYx99195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815854583530541212",
+    "in_reply_to_user_id": "1798778584909455360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815518236320080182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixdH5jzYx99195 哈哈哈哈哈哈但是真的好搞笑那样哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1815502715625324973",
+        "created_at": "2024-07-23T21:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T22:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815854583530541212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798778584909455360",
+              "start": 0,
+              "username": "LixdH5jzYx99195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815854583530541212",
+        "in_reply_to_user_id": "1798778584909455360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815518236320080182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixdH5jzYx99195 哈哈哈哈哈哈但是真的好搞笑那样哭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1798778584909455360",
+        "conversation_id": "1815502715625324973",
+        "created_at": "2024-07-22T22:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T23:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815518236320080182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815518236320080182",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815502715625324973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 这明显是哭的快要昏厥过去了啦～！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1220,
+          "like_count": 14502,
+          "listed_count": 1,
+          "tweet_count": 2732
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T18:07:05.000Z",
+        "description": "日本語勉強します！Blender 勉強します！我被人给捡走了 现在有主人了 感觉…………还行(/// ///)",
+        "id": "1798778584909455360",
+        "name": "百尚晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808262134717206529/0zNZxJhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 89,
+          "like_count": 1479,
+          "listed_count": 0,
+          "tweet_count": 446
+        },
+        "username": "LixdH5jzYx99195",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1891900600473792512"
+      ],
+      "media_source_tweet_id": [
+        "1891900626604322965"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892025216370401668",
+    "created_at": "2025-02-19T01:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T02:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892025216370401668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1667249472013848576",
+          "start": 3,
+          "username": "EsqueletoPosteo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SttGcxaty3",
+          "end": 44,
+          "expanded_url": "https://x.com/EsqueletoPosteo/status/1891900626604322965/video/1",
+          "media_key": "7_1891900600473792512",
+          "start": 21,
+          "url": "https://t.co/SttGcxaty3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892025216370401668",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6250
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891900626604322965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EsqueletoPosteo: https://t.co/SttGcxaty3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16904,
+        "height": 896,
+        "media_key": "7_1891900600473792512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1891900600473792512/pu/img/hi0itCY0aLBa-uxj.jpg",
+        "public_metrics": {
+          "view_count": 685736
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891900600473792512/pu/vid/avc1/320x398/foYFzxPwx6rTIntE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891900600473792512/pu/vid/avc1/480x596/-s08QrRgzjlbhgl3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1891900600473792512/pu/vid/avc1/720x896/oyU8SRXze5F9r2iR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1891900600473792512/pu/pl/IliAIVQ-HXRjG9Ru.m3u8?tag=12&v=0ad"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891900600473792512"
+          ],
+          "media_source_tweet_id": [
+            "1891900626604322965"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892025216370401668",
+        "created_at": "2025-02-19T01:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T02:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892025216370401668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1667249472013848576",
+              "start": 3,
+              "username": "EsqueletoPosteo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SttGcxaty3",
+              "end": 44,
+              "expanded_url": "https://x.com/EsqueletoPosteo/status/1891900626604322965/video/1",
+              "media_key": "7_1891900600473792512",
+              "start": 21,
+              "url": "https://t.co/SttGcxaty3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892025216370401668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6250
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891900626604322965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EsqueletoPosteo: https://t.co/SttGcxaty3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891900600473792512"
+          ]
+        },
+        "author_id": "1667249472013848576",
+        "conversation_id": "1891900626604322965",
+        "created_at": "2025-02-18T17:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T18:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891900626604322965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SttGcxaty3",
+              "end": 23,
+              "expanded_url": "https://x.com/EsqueletoPosteo/status/1891900626604322965/video/1",
+              "media_key": "7_1891900600473792512",
+              "start": 0,
+              "url": "https://t.co/SttGcxaty3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891900626604322965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14519,
+          "impression_count": 1530118,
+          "like_count": 65687,
+          "quote_count": 616,
+          "reply_count": 411,
+          "retweet_count": 6250
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SttGcxaty3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1261,
+          "like_count": 19495,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 3784
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T19:17:20.000Z",
+        "description": "ningún venezolano ha salido herido en la realización de los memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/GfdbcDB…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/GfdbcDBvGw",
+                "start": 0,
+                "url": "https://t.co/pX34uKXBi1"
+              }
+            ]
+          }
+        },
+        "id": "1667249472013848576",
+        "location": "cementerio",
+        "name": "💀 Esqueleto Posteo 💀",
+        "pinned_tweet_id": "1853864573847437369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876311435485011968/2ZgIlT3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88311,
+          "following_count": 94,
+          "like_count": 93590,
+          "listed_count": 42,
+          "media_count": 2975,
+          "tweet_count": 4675
+        },
+        "url": "https://t.co/pX34uKXBi1",
+        "username": "EsqueletoPosteo",
+        "verified": false
+      }
+    ]
+  }
+}

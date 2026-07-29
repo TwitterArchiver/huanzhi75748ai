@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917348945514078208"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1917348950970900540",
+    "created_at": "2025-04-29T22:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T23:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917348950970900540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQp0aXXr6Y",
+          "end": 38,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1917348950970900540/photo/1",
+          "media_key": "3_1917348945514078208",
+          "start": 15,
+          "url": "https://t.co/qQp0aXXr6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917348950970900540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "渗血没注意走了会，还挺好看的 https://t.co/qQp0aXXr6Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917348950970900540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917348950970900540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917348950970900540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917348945514078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvKtRfWIAAD42z.jpg",
+        "width": 906
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1322,
+          "like_count": 20969,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 4071
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

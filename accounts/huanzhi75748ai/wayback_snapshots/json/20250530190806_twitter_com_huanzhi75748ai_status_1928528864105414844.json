@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1928528864105414844",
+    "created_at": "2025-05-30T19:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T20:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928528864105414844"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928528864105414844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我做了梦。梦里一群人说我是神经病，我不是正常人。不让我工作不让我出现。我声嘶力竭地边哭边吼可是我从没有伤害谁我也没有用刀对准别人。有一个做法的来了，说我脑子里有一个情感处理器被我关掉所以过载了。他帮我拿出来。然后我心脏被压着。惊醒了又睡过去了。醒了又睡，睡了又醒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1928528864105414844",
+        "created_at": "2025-05-30T19:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T20:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928528864105414844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928528864105414844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做了梦。梦里一群人说我是神经病，我不是正常人。不让我工作不让我出现。我声嘶力竭地边哭边吼可是我从没有伤害谁我也没有用刀对准别人。有一个做法的来了，说我脑子里有一个情感处理器被我关掉所以过载了。他帮我拿出来。然后我心脏被压着。惊醒了又睡过去了。醒了又睡，睡了又醒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1339,
+          "like_count": 21622,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4171
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

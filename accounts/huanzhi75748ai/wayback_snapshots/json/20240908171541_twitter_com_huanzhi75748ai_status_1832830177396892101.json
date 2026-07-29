@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1832830177396892101",
+    "created_at": "2024-09-08T17:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T18:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832830177396892101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797143402347479040",
+          "start": 3,
+          "username": "s4tuRday_joe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832830177396892101",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832666839895437564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s4tuRday_joe: 刚发现 od割手这种事情和道馆是一样的 偶尔做一下会后悔做完以后就会想自己为什么这样做 长期做就会觉得 那咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1832830177396892101",
+        "created_at": "2024-09-08T17:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T18:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832830177396892101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797143402347479040",
+              "start": 3,
+              "username": "s4tuRday_joe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832830177396892101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832666839895437564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s4tuRday_joe: 刚发现 od割手这种事情和道馆是一样的 偶尔做一下会后悔做完以后就会想自己为什么这样做 长期做就会觉得 那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797143402347479040",
+        "conversation_id": "1832666839895437564",
+        "created_at": "2024-09-08T06:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T07:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832666839895437564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832666839895437564",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚发现 od割手这种事情和道馆是一样的 偶尔做一下会后悔做完以后就会想自己为什么这样做 长期做就会觉得 那咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1223,
+          "like_count": 15234,
+          "listed_count": 1,
+          "tweet_count": 2930
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:49:33.000Z",
+        "description": "学不会海底谭不改简介\n碎碎念@idunnowh0ami\n匿名提问: https://t.co/t2uSuy12GM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "idunnowh0ami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/s4turday_joe1",
+                "end": 57,
+                "expanded_url": "https://ngl.link/s4turday_joe1",
+                "start": 34,
+                "url": "https://t.co/t2uSuy12GM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s4tuRday_joe",
+                "end": 23,
+                "expanded_url": "http://t.me/s4tuRday_joe",
+                "start": 0,
+                "url": "https://t.co/v3nJt0nbGJ"
+              }
+            ]
+          }
+        },
+        "id": "1797143402347479040",
+        "location": "de_vertigo",
+        "name": "周陸4ReaL",
+        "pinned_tweet_id": "1829170764320518527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829725825505378305/SeNrQTAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 487,
+          "like_count": 4379,
+          "listed_count": 1,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/v3nJt0nbGJ",
+        "username": "s4tuRday_joe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2036358243321368673",
+    "created_at": "2026-03-24T11:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036398793894273268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1711941598765076480",
+          "start": 0,
+          "username": "hong_zi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036398793894273268",
+    "in_reply_to_user_id": "1711941598765076480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036358243321368673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hong_zi3 好大一盆血果冻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21435,
+        "height": 1280,
+        "media_key": "13_2036358060130836482",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036358060130836482/img/lklA64OgNBLHQqKu.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036358060130836482/vid/avc1/320x568/CL2pjAM0UDPIbjED.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036358060130836482/vid/avc1/480x852/UEOmE4O9KuGSlhn5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036358060130836482/vid/avc1/720x1280/wcTeQ4nASPIcuTiZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036358060130836482/pl/a2fHm-i9rhAXj1GB.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16601,
+        "height": 960,
+        "media_key": "13_2036358060156026880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036358060156026880/img/2ePF3jsQFzJGEXw1.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036358060156026880/vid/avc1/320x564/XMHXNMV4fZ3SY5RW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036358060156026880/vid/avc1/480x846/SF2f-PNWQDoeFjxj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036358060156026880/vid/avc1/544x960/GmJG8NFwGK03MmMq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036358060156026880/pl/OMbd0Q60WV6mQpuA.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2036358243321368673",
+        "created_at": "2026-03-24T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036398793894273268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711941598765076480",
+              "start": 0,
+              "username": "hong_zi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036398793894273268",
+        "in_reply_to_user_id": "1711941598765076480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036358243321368673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hong_zi3 好大一盆血果冻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036358060130836482",
+            "13_2036358060156026880"
+          ]
+        },
+        "author_id": "1711941598765076480",
+        "conversation_id": "2036358243321368673",
+        "created_at": "2026-03-24T08:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036358243321368673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjg4BdL84K",
+              "end": 23,
+              "expanded_url": "https://x.com/hong_zi3/status/2036358243321368673/video/1",
+              "media_key": "13_2036358060130836482",
+              "start": 0,
+              "url": "https://t.co/jjg4BdL84K"
+            },
+            {
+              "display_url": "pic.x.com/jjg4BdL84K",
+              "end": 23,
+              "expanded_url": "https://x.com/hong_zi3/status/2036358243321368673/video/1",
+              "media_key": "13_2036358060156026880",
+              "start": 0,
+              "url": "https://t.co/jjg4BdL84K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036358243321368673",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 98,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jjg4BdL84K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1371,
+          "like_count": 24704,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 5114
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T03:07:51.000Z",
+        "description": "",
+        "id": "1711941598765076480",
+        "name": "潮湿的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852878044727480320/4HurfYGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 212,
+          "like_count": 4174,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 469
+        },
+        "username": "hong_zi3",
+        "verified": false
+      }
+    ]
+  }
+}

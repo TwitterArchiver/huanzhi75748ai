@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037548582761566325",
+    "created_at": "2026-03-27T15:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037549895901704654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037549895901704654",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037549485770063922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 我们这里还有点冷目前没有蚊子，蚊香液驱蚊水都安排上吧😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037548582761566325",
+        "created_at": "2026-03-27T15:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037549895901704654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037549895901704654",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037549485770063922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 我们这里还有点冷目前没有蚊子，蚊香液驱蚊水都安排上吧😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2037548582761566325",
+        "created_at": "2026-03-27T15:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037549485770063922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037549485770063922",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037549424436731990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 是啊.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1382,
+          "like_count": 25196,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 5327
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只喜欢碎嘴且成分复杂的麻雀 ｜ all of love \n直男 ｜ 互关可扩联系 :P",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "1999408311322706210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 116,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 3316
+        },
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

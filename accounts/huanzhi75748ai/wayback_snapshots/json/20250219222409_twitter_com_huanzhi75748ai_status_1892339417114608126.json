@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892130932548833322",
+    "created_at": "2025-02-19T22:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892339417114608126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "snake_lesyeux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892339417114608126",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892130932548833322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake_lesyeux 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892130932548833322",
+        "created_at": "2025-02-19T22:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892339417114608126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "snake_lesyeux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892339417114608126",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892130932548833322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake_lesyeux 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "1892130932548833322",
+        "created_at": "2025-02-19T08:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T09:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892130932548833322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sanhuabaoyhbx/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sanhuabaoyhbx/status/1892051751823356386",
+              "start": 15,
+              "url": "https://t.co/c0E2gtDFhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892130932548833322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1307,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892051751823356386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普通顺直男为女性月经指明方向 https://t.co/c0E2gtDFhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1262,
+          "like_count": 19550,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3795
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "祈光 匿名提问https://t.co/1rEbO8ImDm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuiyo.nn",
+                "end": 30,
+                "expanded_url": "https://ngl.link/shuiyo.nn",
+                "start": 7,
+                "url": "https://t.co/1rEbO8ImDm"
+              }
+            ]
+          }
+        },
+        "id": "1754871332091682817",
+        "location": "距离您2.4km",
+        "name": "屍犬",
+        "pinned_tweet_id": "1889061655252017454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887820126902460416/l9BYL51y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 984,
+          "like_count": 57491,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 7015
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1997410393342587080",
+    "created_at": "2025-12-06T20:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T21:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997410393342587080"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "suzuka",
+          "probability": 0.8037,
+          "start": 97,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726589826064158720",
+          "start": 3,
+          "username": "ilovemysu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997410393342587080",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1851
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996986495354458419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilovemysu: can’t express how much i missed this portion of their shows and how much i MISSED suzuka’s bird mating dance i’m so glad it’…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18360,
+        "height": 720,
+        "media_key": "13_1996986424978296835",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996986424978296835/img/YemeghdjsnfHGC5t.jpg",
+        "public_metrics": {
+          "view_count": 1196440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996986424978296835/vid/avc1/336x270/1bwYTrH6Xiy-ooYm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996986424978296835/vid/avc1/450x360/ffFQCrTU51L9eop1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996986424978296835/vid/avc1/900x720/XgSIEEILTLVMpYrm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996986424978296835/pl/d4IcatVl7K0faPN5.m3u8?v=cfc"
+          }
+        ],
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1997410393342587080",
+        "created_at": "2025-12-06T20:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T21:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997410393342587080"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "suzuka",
+              "probability": 0.8037,
+              "start": 97,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726589826064158720",
+              "start": 3,
+              "username": "ilovemysu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997410393342587080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1851
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996986495354458419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilovemysu: can’t express how much i missed this portion of their shows and how much i MISSED suzuka’s bird mating dance i’m so glad it’…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996986424978296835"
+          ]
+        },
+        "author_id": "1726589826064158720",
+        "conversation_id": "1996986495354458419",
+        "created_at": "2025-12-05T16:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996986495354458419"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 87,
+              "normalized_text": "suzuka",
+              "probability": 0.7879,
+              "start": 82,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oELEi6KsOR",
+              "end": 157,
+              "expanded_url": "https://x.com/ilovemysu/status/1996986495354458419/video/1",
+              "media_key": "13_1996986424978296835",
+              "start": 134,
+              "url": "https://t.co/oELEi6KsOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996986495354458419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5518,
+          "impression_count": 1952030,
+          "like_count": 34090,
+          "quote_count": 127,
+          "reply_count": 46,
+          "retweet_count": 1851
+        },
+        "reply_settings": "everyone",
+        "text": "can’t express how much i missed this portion of their shows and how much i MISSED suzuka’s bird mating dance i’m so glad it’s back 😭💕 https://t.co/oELEi6KsOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1340,
+          "like_count": 21952,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4529
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T13:14:38.000Z",
+        "description": "「まだまだ人生の交差路楽しいへ行きまっしょ 」𓂃 ࣪ ✽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/szkkzs",
+                "end": 23,
+                "expanded_url": "https://rentry.co/szkkzs",
+                "start": 0,
+                "url": "https://t.co/lz0NiYDNv9"
+              }
+            ]
+          }
+        },
+        "id": "1726589826064158720",
+        "location": "heart full of suzuka ♡♪",
+        "name": "𝑗uju ❤︎ ໒꒱ ‧₊˚♬",
+        "pinned_tweet_id": "1994515828688195609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995207442830159872/5G6C2HgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 103,
+          "like_count": 16178,
+          "listed_count": 2,
+          "media_count": 5585,
+          "tweet_count": 22809
+        },
+        "url": "https://t.co/lz0NiYDNv9",
+        "username": "ilovemysu",
+        "verified": false
+      }
+    ]
+  }
+}

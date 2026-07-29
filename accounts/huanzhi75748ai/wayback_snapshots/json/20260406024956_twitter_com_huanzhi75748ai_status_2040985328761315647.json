@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040585857548398733",
+    "created_at": "2026-04-06T02:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040985328761315647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "126581934",
+          "start": 0,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040985328761315647",
+    "in_reply_to_user_id": "126581934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040585857548398733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearemon 肉色绒裤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040585857548398733",
+        "created_at": "2026-04-06T02:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040985328761315647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040985328761315647",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040585857548398733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 肉色绒裤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "126581934",
+        "conversation_id": "2040585857548398733",
+        "created_at": "2026-04-05T00:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:21:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040585684554326106",
+          "2040585857548398733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040585857548398733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 461309,
+          "like_count": 3197,
+          "quote_count": 9,
+          "reply_count": 232,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得 光腿神器 这个名字很好笑吗，热销这么久的产品居然没有一个更正式的名字\n\n就好像有人把筷子叫做吃饭神器一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1396,
+          "like_count": 28169,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 5794
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49452,
+          "following_count": 632,
+          "like_count": 5637,
+          "listed_count": 196,
+          "media_count": 26663,
+          "tweet_count": 378492
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889068127419600896",
+        "3_1889068127423791104"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889068217626501212",
+    "created_at": "2025-02-10T21:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T22:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889068217626501212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N00AN6XeQT",
+          "end": 38,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1889068217626501212/photo/1",
+          "media_key": "3_1889068127419600896",
+          "start": 15,
+          "url": "https://t.co/N00AN6XeQT"
+        },
+        {
+          "display_url": "pic.x.com/N00AN6XeQT",
+          "end": 38,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1889068217626501212/photo/1",
+          "media_key": "3_1889068127423791104",
+          "start": 15,
+          "url": "https://t.co/N00AN6XeQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889068217626501212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个人又在做负能量的事情。。 https://t.co/N00AN6XeQT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889068217626501212].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889068217626501212",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889068217626501212"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1889068127419600896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjdRdANbkAAo0vI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1889068127423791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjdRdAObgAAUdwK.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1247,
+          "like_count": 19152,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 3747
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1888653214293315598",
+    "created_at": "2025-02-11T05:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T06:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889179935862149467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531971331902050304",
+          "start": 0,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889179935862149467",
+    "in_reply_to_user_id": "1531971331902050304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888653214293315598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangbuxiangchi 那你一定很好吃🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1888653214293315598",
+        "created_at": "2025-02-11T05:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T06:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889179935862149467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889179935862149467",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888653214293315598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 那你一定很好吃🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1888653076539813888"
+          ]
+        },
+        "author_id": "1531971331902050304",
+        "conversation_id": "1888653214293315598",
+        "created_at": "2025-02-09T18:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T19:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888653214293315598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eODdkjbZS",
+              "end": 41,
+              "expanded_url": "https://x.com/Liangbuxiangchi/status/1888653214293315598/video/1",
+              "media_key": "7_1888653076539813888",
+              "start": 18,
+              "url": "https://t.co/6eODdkjbZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888653214293315598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2896,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "等你读懂我的鱿鱼 我就变成铁板烧了 https://t.co/6eODdkjbZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1246,
+          "like_count": 19164,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 3749
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "取关请双取 会回关主页有内容的人 现居广东茂名桌游店 欢迎线下交友一起玩 狼人杀/血染/桌游/PS5 不互推互转 【港美指路】@painofuuuuuuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "painofuuuuuuuu"
+              }
+            ]
+          }
+        },
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1864953513509556548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 1332,
+          "like_count": 30683,
+          "listed_count": 5,
+          "media_count": 795,
+          "tweet_count": 7450
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

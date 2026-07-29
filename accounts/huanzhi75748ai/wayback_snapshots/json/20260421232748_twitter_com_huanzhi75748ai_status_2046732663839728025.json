@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046732648622727168"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046732663839728025",
+    "created_at": "2026-04-21T23:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046732663839728025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rzz9ipAZTd",
+          "end": 41,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2046732663839728025/photo/1",
+          "media_key": "3_2046732648622727168",
+          "start": 18,
+          "url": "https://t.co/rzz9ipAZTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046732663839728025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看你们都在抓异色。我这个怎么样？ https://t.co/rzz9ipAZTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2046732648622727168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGd0f_daIAA7OBy.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046732648622727168"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046732663839728025",
+        "created_at": "2026-04-21T23:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046732663839728025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzz9ipAZTd",
+              "end": 41,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2046732663839728025/photo/1",
+              "media_key": "3_2046732648622727168",
+              "start": 18,
+              "url": "https://t.co/rzz9ipAZTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046732663839728025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看你们都在抓异色。我这个怎么样？ https://t.co/rzz9ipAZTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1388,
+          "like_count": 29588,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 6093
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

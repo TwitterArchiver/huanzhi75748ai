@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892208573637112066",
+    "created_at": "2025-02-19T22:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892338735246639194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "snake_lesyeux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892338735246639194",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892208573637112066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake_lesyeux 我我我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892208573637112066",
+        "created_at": "2025-02-19T22:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892338735246639194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "snake_lesyeux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892338735246639194",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892208573637112066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake_lesyeux 我我我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "1892208573637112066",
+        "created_at": "2025-02-19T13:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T14:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892208573637112066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892208573637112066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2474,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又睡了一个粉丝，妈的，太猛了，腿都给我干软了，上厕所腿都是抖的，下次不敢再约这么猛的粉丝操我了，呜呜呜，点赞抽一个粉丝线下🥹🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1262,
+          "like_count": 19543,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 3792
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "祈光 匿名提问https://t.co/1rEbO8ImDm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuiyo.nn",
+                "end": 30,
+                "expanded_url": "https://ngl.link/shuiyo.nn",
+                "start": 7,
+                "url": "https://t.co/1rEbO8ImDm"
+              }
+            ]
+          }
+        },
+        "id": "1754871332091682817",
+        "location": "距离您2.4km",
+        "name": "屍犬",
+        "pinned_tweet_id": "1889061655252017454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887820126902460416/l9BYL51y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 984,
+          "like_count": 57491,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 7015
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      }
+    ]
+  }
+}

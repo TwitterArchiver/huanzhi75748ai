@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1979080336093908992"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1979080371141538036",
+    "created_at": "2025-10-17T07:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979080371141538036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MHBWx605E5",
+          "end": 23,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1979080371141538036/video/1",
+          "media_key": "7_1979080336093908992",
+          "start": 0,
+          "url": "https://t.co/MHBWx605E5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979080371141538036",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MHBWx605E5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979080371141538036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979080371141538036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979080371141538036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3016,
+        "height": 960,
+        "media_key": "7_1979080336093908992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979080336093908992/pu/img/S7gF2gQwoDgbLR38.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979080336093908992/pu/vid/avc1/320x426/lsZ8qDN6jU8a9Pav.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979080336093908992/pu/vid/avc1/480x640/Kre2Ul_loGEXx3yz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979080336093908992/pu/vid/avc1/720x960/4Er5dWa1OS7TczVJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979080336093908992/pu/pl/pzp5KPxGpRbG1jc_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1336,
+          "like_count": 21806,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 4417
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

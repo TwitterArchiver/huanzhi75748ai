@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1891191976520765749",
+    "created_at": "2025-02-16T18:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T19:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891196777623077255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563559065078595589",
+          "start": 0,
+          "username": "skmt26628703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891196777623077255",
+    "in_reply_to_user_id": "1563559065078595589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891191976520765749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmt26628703 不上麦了家里人睡了😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1891191976520765749",
+        "created_at": "2025-02-16T18:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T19:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891196777623077255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563559065078595589",
+              "start": 0,
+              "username": "skmt26628703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891196777623077255",
+        "in_reply_to_user_id": "1563559065078595589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891191976520765749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skmt26628703 不上麦了家里人睡了😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563559065078595589",
+        "conversation_id": "1891191976520765749",
+        "created_at": "2025-02-16T18:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T19:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891191976520765749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小戈鳥雨’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1LyxB…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1LyxBWPpgOrKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1891192018895867905/cdmCJqLQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1891192018895867905/cdmCJqLQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1LyxBWPpgOrKN/peek",
+              "url": "https://t.co/dDlJy9O5Je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891191976520765749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dDlJy9O5Je"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1258,
+          "like_count": 19341,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 3773
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T16:08:39.000Z",
+        "description": "由宜家開始我哋就係一分鐘㗎朋友。",
+        "id": "1563559065078595589",
+        "location": "阿兹卡班",
+        "name": "小戈鳥雨",
+        "pinned_tweet_id": "1823003101160440077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712597342103412736/1Q3RWfh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 290,
+          "like_count": 33631,
+          "listed_count": 5,
+          "media_count": 736,
+          "tweet_count": 8326
+        },
+        "username": "skmt26628703",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048973841519804417"
+      ],
+      "media_source_tweet_id": [
+        "2049081441489940606"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2049313741913899318",
+    "created_at": "2026-04-29T02:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049313741913899318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B3a6B7AISf",
+          "end": 110,
+          "expanded_url": "https://x.com/KKaWSB/status/2049081441489940606/video/1",
+          "media_key": "13_2048973841519804417",
+          "start": 87,
+          "url": "https://t.co/B3a6B7AISf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049313741913899318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049081441489940606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: 水族馆游客看到一条豹纹鲨试图咬掉另一条鲨鱼的鳍，都吓了一跳。 \n\n工作人员解释说，这不是攻击行为，而是正常的……调情——鲨鱼就是这样表达彼此兴趣的。 https://t.co/B3a6B7AISf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18993,
+        "height": 798,
+        "media_key": "13_2048973841519804417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048973841519804417/img/GV7V7EhwF8bfbt_P.jpg",
+        "public_metrics": {
+          "view_count": 116740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048973841519804417/vid/avc1/320x354/kX3ESDIh8tUjDvfj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048973841519804417/vid/avc1/480x532/7tWplkQluRk6xfeU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048973841519804417/vid/avc1/720x798/cIaWSnAlaEGPE3ew.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048973841519804417/pl/x1zGbprIiEEaLF3k.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048973841519804417"
+          ],
+          "media_source_tweet_id": [
+            "2049081441489940606"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2049313741913899318",
+        "created_at": "2026-04-29T02:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049313741913899318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3a6B7AISf",
+              "end": 110,
+              "expanded_url": "https://x.com/KKaWSB/status/2049081441489940606/video/1",
+              "media_key": "13_2048973841519804417",
+              "start": 87,
+              "url": "https://t.co/B3a6B7AISf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049313741913899318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049081441489940606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: 水族馆游客看到一条豹纹鲨试图咬掉另一条鲨鱼的鳍，都吓了一跳。 \n\n工作人员解释说，这不是攻击行为，而是正常的……调情——鲨鱼就是这样表达彼此兴趣的。 https://t.co/B3a6B7AISf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048973841519804417"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "conversation_id": "2049081441489940606",
+        "created_at": "2026-04-28T11:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049081441489940606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3a6B7AISf",
+              "end": 98,
+              "expanded_url": "https://x.com/KKaWSB/status/2049081441489940606/video/1",
+              "media_key": "13_2048973841519804417",
+              "start": 75,
+              "url": "https://t.co/B3a6B7AISf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049081441489940606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 228453,
+          "like_count": 1376,
+          "quote_count": 26,
+          "reply_count": 30,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "水族馆游客看到一条豹纹鲨试图咬掉另一条鲨鱼的鳍，都吓了一跳。 \n\n工作人员解释说，这不是攻击行为，而是正常的……调情——鲨鱼就是这样表达彼此兴趣的。 https://t.co/B3a6B7AISf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 1402,
+          "like_count": 30156,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 6185
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0jBT"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80682,
+          "following_count": 2894,
+          "like_count": 9332,
+          "listed_count": 673,
+          "media_count": 6342,
+          "tweet_count": 12868
+        },
+        "url": "https://t.co/TpeTVm0jBT",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

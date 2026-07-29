@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2042069758535987313",
+    "created_at": "2026-04-09T04:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042093583688462492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976383726855839744",
+          "start": 0,
+          "username": "MmeTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042093583688462492",
+    "in_reply_to_user_id": "1976383726855839744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042093276455694470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MmeTuT 懂我意思👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2042069758535987313",
+        "created_at": "2026-04-09T04:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042093583688462492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042093583688462492",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042093276455694470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT 懂我意思👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976383726855839744",
+        "conversation_id": "2042069758535987313",
+        "created_at": "2026-04-09T04:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042093276455694470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042093276455694470",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042091876426379298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 懂你意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1394,
+          "like_count": 28761,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 5891
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "不是黄推 只发我想发的｜不收🚪不聊骚｜只关注我感兴趣的人｜关于我的碎碎念 @ROSSMARYAGUIRR2 只过互关 小号没有黄色内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "ROSSMARYAGUIRR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki95570",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki95570",
+                "start": 0,
+                "url": "https://t.co/wJeivsFncV"
+              }
+            ]
+          }
+        },
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024284032037720223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 223,
+          "like_count": 10866,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 4121
+        },
+        "url": "https://t.co/wJeivsFncV",
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

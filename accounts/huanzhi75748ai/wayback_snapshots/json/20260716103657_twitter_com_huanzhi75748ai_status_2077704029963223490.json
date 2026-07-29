@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2077704029963223490",
+    "created_at": "2026-07-16T10:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077704029963223490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077704029963223490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "养狗以后我真的感觉身心健康都有在慢慢转好。\n有了这个傻乎乎的满脑子只有我的笨笨生物一直陪着我。\n陪我出门，陪我傻乐，陪我哭笑，陪我犯病，陪我睡觉，陪我做饭，陪我运动，陪我挨骂。我有时候真的觉得自己什么都不用怕了。\n有一个真正在意自己的生物，哪怕不是同一个物种也不会说话。\n我不用怕了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2077704029963223490",
+        "created_at": "2026-07-16T10:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077704029963223490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077704029963223490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "养狗以后我真的感觉身心健康都有在慢慢转好。\n有了这个傻乎乎的满脑子只有我的笨笨生物一直陪着我。\n陪我出门，陪我傻乐，陪我哭笑，陪我犯病，陪我睡觉，陪我做饭，陪我运动，陪我挨骂。我有时候真的觉得自己什么都不用怕了。\n有一个真正在意自己的生物，哪怕不是同一个物种也不会说话。\n我不用怕了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31649,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 6676
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

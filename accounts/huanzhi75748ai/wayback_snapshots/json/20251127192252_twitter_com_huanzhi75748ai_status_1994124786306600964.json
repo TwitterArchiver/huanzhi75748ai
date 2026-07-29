@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994124786306600964",
+    "created_at": "2025-11-27T19:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T20:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994124786306600964"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994124786306600964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不喜欢看朋友圈因为我对别人的生活不感兴趣无法左右没有意义。我也不喜欢发微信QQ动态，因为我没有分组也不想让半生不熟的人看我失败的生活，我害怕让别人失望。我喜欢发推特。因为这里没有什么人看我评判我议论我，就算有，我不认识的人又能怎样呢。我只是喜欢在这里和自己对话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994124786306600964",
+        "created_at": "2025-11-27T19:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994124786306600964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994124786306600964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢看朋友圈因为我对别人的生活不感兴趣无法左右没有意义。我也不喜欢发微信QQ动态，因为我没有分组也不想让半生不熟的人看我失败的生活，我害怕让别人失望。我喜欢发推特。因为这里没有什么人看我评判我议论我，就算有，我不认识的人又能怎样呢。我只是喜欢在这里和自己对话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1337,
+          "like_count": 21819,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 4494
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

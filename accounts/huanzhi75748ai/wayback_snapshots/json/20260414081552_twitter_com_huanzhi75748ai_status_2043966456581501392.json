@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043966456581501392",
+    "created_at": "2026-04-14T08:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043966456581501392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1237186208104472576",
+          "start": 3,
+          "username": "Miranda1ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043966456581501392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043650770147610880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miranda1ove: 做爱（调教）时对方用很严厉命令式语气说话 会让我很爽 光是想想脑袋都晕乎乎的 比如过来 快点 跪下 趴好 吃下去 还有一些羞辱性言语 我很吃dirty talk……嗯我就这样一直意淫下去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043966456581501392",
+        "created_at": "2026-04-14T08:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043966456581501392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1237186208104472576",
+              "start": 3,
+              "username": "Miranda1ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043966456581501392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043650770147610880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miranda1ove: 做爱（调教）时对方用很严厉命令式语气说话 会让我很爽 光是想想脑袋都晕乎乎的 比如过来 快点 跪下 趴好 吃下去 还有一些羞辱性言语 我很吃dirty talk……嗯我就这样一直意淫下去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237186208104472576",
+        "conversation_id": "2043650770147610880",
+        "created_at": "2026-04-13T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043650770147610880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043650770147610880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 29722,
+          "like_count": 765,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "做爱（调教）时对方用很严厉命令式语气说话 会让我很爽 光是想想脑袋都晕乎乎的 比如过来 快点 跪下 趴好 吃下去 还有一些羞辱性言语 我很吃dirty talk……嗯我就这样一直意淫下去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1397,
+          "like_count": 29387,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6030
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T01:19:30.000Z",
+        "description": "壊す\n\nhttps://t.co/1O76qJ2CKo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miranda1ove",
+                "end": 27,
+                "expanded_url": "http://ngl.link/miranda1ove",
+                "start": 4,
+                "url": "https://t.co/1O76qJ2CKo"
+              }
+            ]
+          }
+        },
+        "id": "1237186208104472576",
+        "name": "Miranda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042830340499345412/vWPhIGoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 47,
+          "like_count": 1507,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 485
+        },
+        "username": "Miranda1ove",
+        "verified": false
+      }
+    ]
+  }
+}

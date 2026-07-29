@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1982816056159633504",
+    "created_at": "2025-10-27T17:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T18:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982855469552308249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742188238645948416",
+          "start": 0,
+          "username": "mekai_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982855469552308249",
+    "in_reply_to_user_id": "1742188238645948416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982816056159633504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mekai_404 好好笑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1982816049406873600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RgsQfXEAApS8_.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1982816056159633504",
+        "created_at": "2025-10-27T17:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982855469552308249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742188238645948416",
+              "start": 0,
+              "username": "mekai_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982855469552308249",
+        "in_reply_to_user_id": "1742188238645948416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982816056159633504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mekai_404 好好笑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982816049406873600"
+          ]
+        },
+        "author_id": "1742188238645948416",
+        "conversation_id": "1982816056159633504",
+        "created_at": "2025-10-27T14:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982816056159633504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRrBfpTRPb",
+              "end": 31,
+              "expanded_url": "https://x.com/mekai_404/status/1982816056159633504/photo/1",
+              "media_key": "3_1982816049406873600",
+              "start": 8,
+              "url": "https://t.co/tRrBfpTRPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982816056159633504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是🐑😭😭😭😭 https://t.co/tRrBfpTRPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1346,
+          "like_count": 22016,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 4461
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T14:17:22.000Z",
+        "description": "森罗万象｜病垢｜小動物｜雜✉️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/z0sw110t78rpil…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/z0sw110t78rpilw?t=ECcpQf&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/adRzGGIeXK"
+              }
+            ]
+          }
+        },
+        "id": "1742188238645948416",
+        "location": "冥界",
+        "name": "め🐑",
+        "pinned_tweet_id": "1980896087234998327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959623111416180736/zJMuOpPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 496,
+          "like_count": 43058,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 11588
+        },
+        "url": "https://t.co/adRzGGIeXK",
+        "username": "mekai_404",
+        "verified": false
+      }
+    ]
+  }
+}

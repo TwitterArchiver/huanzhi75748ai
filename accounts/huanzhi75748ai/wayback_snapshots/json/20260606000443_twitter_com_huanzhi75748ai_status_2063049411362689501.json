@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2063049411362689501",
+    "created_at": "2026-06-06T00:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063049411362689501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds03/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hgds03/status/2062815083684929946",
+          "start": 11,
+          "url": "https://t.co/fr39Br4P3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063049411362689501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062815083684929946",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。我每天孤芳自赏中 https://t.co/fr39Br4P3l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2063049411362689501",
+        "created_at": "2026-06-06T00:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063049411362689501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds03/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hgds03/status/2062815083684929946",
+              "start": 11,
+              "url": "https://t.co/fr39Br4P3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063049411362689501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062815083684929946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。我每天孤芳自赏中 https://t.co/fr39Br4P3l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2062815083684929946",
+        "created_at": "2026-06-05T08:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062815083684929946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062815083684929946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3228,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我推特发的任何内容都没有暗示任何人，我只是单纯沉浸在自己的世界里不知天地为何物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31420,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 6518
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2062496568725721288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4113,
+          "following_count": 477,
+          "like_count": 4888,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 583
+        },
+        "username": "hgds03",
+        "verified": true
+      }
+    ]
+  }
+}

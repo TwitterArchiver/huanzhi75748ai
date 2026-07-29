@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2052174301764395340",
+    "created_at": "2026-05-08T10:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052690365455691971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690365455691971",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052174301764395340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 7🌸👀🥰🔥zc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2052174301764395340",
+        "created_at": "2026-05-08T10:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052690365455691971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052690365455691971",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052174301764395340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 7🌸👀🥰🔥zc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2052174301764395340",
+        "created_at": "2026-05-06T23:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052174301764395340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052174301764395340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 916,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "11真的好看呀，圆头短鼻，目测应该是狸花和英短的串。很多英短应该是混了加菲那种扁脸，丑得要死，一度让我对英短猫包括渐层有丑滤镜\n蓝猫也是，好看的好少，发福之后大概率变得好大叔，不过也分看着不错的大叔和油腻的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1396,
+          "like_count": 30666,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6311
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "咕咕咕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/qp6rLxqENB"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 165,
+          "like_count": 2931,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/qp6rLxqENB",
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2077731018497474682",
+    "created_at": "2026-07-16T12:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077731018497474682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nocontextscats…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/nocontextscats/status/2077307190885621954",
+          "start": 3,
+          "url": "https://t.co/jiE9UU1dUy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077731018497474682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077307190885621954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甩棍 https://t.co/jiE9UU1dUy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2077307180949340160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQT4AHagAA16J3.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2077731018497474682",
+        "created_at": "2026-07-16T12:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077731018497474682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nocontextscats…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/nocontextscats/status/2077307190885621954",
+              "start": 3,
+              "url": "https://t.co/jiE9UU1dUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077731018497474682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077307190885621954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甩棍 https://t.co/jiE9UU1dUy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077307180949340160"
+          ]
+        },
+        "author_id": "1154708530219192322",
+        "conversation_id": "2077307190885621954",
+        "created_at": "2026-07-15T08:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077307190885621954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j85oY8fq55",
+              "end": 42,
+              "expanded_url": "https://x.com/nocontextscats/status/2077307190885621954/photo/1",
+              "media_key": "3_2077307180949340160",
+              "start": 19,
+              "url": "https://t.co/j85oY8fq55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077307190885621954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4610,
+          "impression_count": 1356095,
+          "like_count": 151294,
+          "quote_count": 264,
+          "reply_count": 137,
+          "retweet_count": 12043
+        },
+        "reply_settings": "everyone",
+        "text": "He is about to fly https://t.co/j85oY8fq55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31702,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 6699
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-26T11:02:21.000Z",
+        "description": "In ancient times cats were worshipped as gods; they have not forgotten this - Terry Pratchett ||\nNO AI 🚫",
+        "id": "1154708530219192322",
+        "location": "DM for credit/removal",
+        "name": "No Context Cats",
+        "pinned_tweet_id": "2077307190885621954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490551424341577733/fEl8e9EI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724746,
+          "following_count": 94,
+          "like_count": 9188,
+          "listed_count": 2008,
+          "media_count": 22862,
+          "tweet_count": 24536
+        },
+        "url": "",
+        "username": "nocontextscats",
+        "verified": true
+      }
+    ]
+  }
+}

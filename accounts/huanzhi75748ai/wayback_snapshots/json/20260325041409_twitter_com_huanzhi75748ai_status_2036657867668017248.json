@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2036657867668017248",
+    "created_at": "2026-03-25T04:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036657867668017248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757105459356704768",
+          "start": 3,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036657867668017248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036449705530736893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingopark21: 本人谈不了恋爱的原因\n1.个人欲望较为强烈，可能超出一般承受范围。\n2.对于外形条件较好者，对方可能对我缺乏兴趣；而外形条件欠佳者，我亦难以接受。\n3.日常言语表达较为直接。\n4.倾向于与占有欲较强的人建立关系。\n5.自身相关需求较为频繁。\n6…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2036657867668017248",
+        "created_at": "2026-03-25T04:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036657867668017248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757105459356704768",
+              "start": 3,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036657867668017248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036449705530736893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingopark21: 本人谈不了恋爱的原因\n1.个人欲望较为强烈，可能超出一般承受范围。\n2.对于外形条件较好者，对方可能对我缺乏兴趣；而外形条件欠佳者，我亦难以接受。\n3.日常言语表达较为直接。\n4.倾向于与占有欲较强的人建立关系。\n5.自身相关需求较为频繁。\n6…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2036449705530736893",
+        "created_at": "2026-03-24T14:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036449705530736893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036449705530736893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人谈不了恋爱的原因\n1.个人欲望较为强烈，可能超出一般承受范围。\n2.对于外形条件较好者，对方可能对我缺乏兴趣；而外形条件欠佳者，我亦难以接受。\n3.日常言语表达较为直接。\n4.倾向于与占有欲较强的人建立关系。\n5.自身相关需求较为频繁。\n6.这些特质或许具有某种神圣性，毕竟神明往往都孤独的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1376,
+          "like_count": 24887,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 5196
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只喜欢碎嘴的麻雀 ｜ all of love 直男",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "1999408311322706210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 98,
+          "like_count": 2075,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 3081
+        },
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

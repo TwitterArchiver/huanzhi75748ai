@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038832347769122913",
+    "created_at": "2026-04-01T08:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039258568998985738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1932729591350886400",
+          "start": 0,
+          "username": "lonely47342961"
+        },
+        {
+          "end": 25,
+          "id": "1521851592827310080",
+          "start": 16,
+          "username": "KLGJ8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039258568998985738",
+    "in_reply_to_user_id": "1932729591350886400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038994016231186535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonely47342961 @KLGJ8888 我对聪明丑男情感巅峰是考试偷偷给我报答案的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038832347769122913",
+        "created_at": "2026-04-01T08:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039258568998985738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1932729591350886400",
+              "start": 0,
+              "username": "lonely47342961"
+            },
+            {
+              "end": 25,
+              "id": "1521851592827310080",
+              "start": 16,
+              "username": "KLGJ8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039258568998985738",
+        "in_reply_to_user_id": "1932729591350886400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038994016231186535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonely47342961 @KLGJ8888 我对聪明丑男情感巅峰是考试偷偷给我报答案的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932729591350886400",
+        "conversation_id": "2038832347769122913",
+        "created_at": "2026-03-31T14:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038994016231186535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521851592827310080",
+              "start": 0,
+              "username": "KLGJ8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038994016231186535",
+        "in_reply_to_user_id": "1521851592827310080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11720,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038832347769122913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KLGJ8888 求智性恋正面回答一下喜不喜欢聪明的丑男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1389,
+          "like_count": 26849,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 5583
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T09:20:31.000Z",
+        "description": "",
+        "id": "1932729591350886400",
+        "name": "lo ne ly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981658597273530368/o44bzKXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 17,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 185
+        },
+        "username": "lonely47342961",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "发什么就看什么｜@Lu_lu4Xi1是小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=ATyPkgkN",
+                "start": 0,
+                "url": "https://t.co/bYRS9DrSVf"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "2038930044849176970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005279521214517248/PNZJ9--f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193486,
+          "following_count": 736,
+          "like_count": 15673,
+          "listed_count": 383,
+          "media_count": 723,
+          "tweet_count": 8118
+        },
+        "url": "https://t.co/bYRS9DrSVf",
+        "username": "KLGJ8888",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041747521203269688",
+    "created_at": "2026-04-08T05:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041747521203269688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PaperFoggYuan/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/PaperFoggYuan/status/2041716196173869136",
+          "start": 23,
+          "url": "https://t.co/B6YdiAX2mk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041747521203269688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041716196173869136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从别人嘴里说出来说明我已经色到美名远扬了好吧 https://t.co/B6YdiAX2mk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041747521203269688",
+        "created_at": "2026-04-08T05:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041747521203269688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaperFoggYuan/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/PaperFoggYuan/status/2041716196173869136",
+              "start": 23,
+              "url": "https://t.co/B6YdiAX2mk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041747521203269688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041716196173869136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从别人嘴里说出来说明我已经色到美名远扬了好吧 https://t.co/B6YdiAX2mk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422800225777897472",
+        "conversation_id": "2041500429482426771",
+        "created_at": "2026-04-08T03:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041716196173869136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041716196173869136",
+        "in_reply_to_user_id": "1422800225777897472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 589,
+          "like_count": 48,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041500429482426771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ": 不要隐瞒自己好色有性瘾的事实，因为这个东西从自己嘴里说出来还算能被大家接纳，但从别人嘴里说出来就莫名其妙成自己的缺点和瓜了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1395,
+          "like_count": 28625,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 5863
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T06:03:14.000Z",
+        "description": "ᵕ̈ 欢迎光临！💃 ☮︎名字叫福格Fogg🌳🌲大一在读🌴🏔️平时喜欢一个人吃饭和旅行🚉📷旅行的时候喜欢随地大小拍🏕️🚲还喜欢森林,草原,湖泊,雪山和海洋，热爱音乐剧🏊🎾ENFP🏃🧦熟人可以私信扩列🏗️ʕ •ᴥ•ʔ",
+        "id": "1422800225777897472",
+        "location": "🌊金陵🍁广陵🌸",
+        "name": "福格𐂂🌲☻",
+        "pinned_tweet_id": "1991913479742394793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034185737546215425/t6Rdr5pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 468,
+          "like_count": 84386,
+          "listed_count": 5,
+          "media_count": 1721,
+          "tweet_count": 18616
+        },
+        "username": "PaperFoggYuan",
+        "verified": true
+      }
+    ]
+  }
+}

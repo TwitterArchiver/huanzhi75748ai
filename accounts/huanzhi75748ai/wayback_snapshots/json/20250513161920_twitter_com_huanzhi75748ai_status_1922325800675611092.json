@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922325795881811968"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1922325800675611092",
+    "created_at": "2025-05-13T16:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T17:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922325800675611092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGAP87VAM5",
+          "end": 109,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1922325800675611092/photo/1",
+          "media_key": "3_1922325795881811968",
+          "start": 86,
+          "url": "https://t.co/jGAP87VAM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922325800675611092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高估了我的愈合速度也太过于信任绷带了。。。去食堂的路上绷带绷不住了。直接在路上崩开。我都怕有人蛐蛐我卫生巾掉出来了。然后血黏着裙子一路走一路流血，回来一看以为我大腿中枪了 https://t.co/jGAP87VAM5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922325800675611092].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922325800675611092",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922325800675611092"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922325795881811968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq15IF4bAAALZDl.jpg",
+        "width": 1535
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1339,
+          "like_count": 21508,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 4153
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

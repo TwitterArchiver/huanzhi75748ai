@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866511381220261888",
+        "3_1866511385947164672"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1866511403521306691",
+    "created_at": "2024-12-10T15:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T16:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866511403521306691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXS3NPVefs",
+          "end": 26,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1866511403521306691/photo/1",
+          "media_key": "3_1866511381220261888",
+          "start": 3,
+          "url": "https://t.co/TXS3NPVefs"
+        },
+        {
+          "display_url": "pic.x.com/TXS3NPVefs",
+          "end": 26,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1866511403521306691/photo/1",
+          "media_key": "3_1866511385947164672",
+          "start": 3,
+          "url": "https://t.co/TXS3NPVefs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866511403521306691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以 https://t.co/TXS3NPVefs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1866511403521306691].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1866511403521306691",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1866511403521306691"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_1866511381220261888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GecuNkbbgAAjwOB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 497,
+        "media_key": "3_1866511385947164672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GecuN2CaUAAu4JQ.jpg",
+        "width": 371
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1265,
+          "like_count": 19575,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 3910
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

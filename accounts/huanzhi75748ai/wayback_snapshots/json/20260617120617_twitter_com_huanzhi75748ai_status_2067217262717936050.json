@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067217239401758720"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2067217262717936050",
+    "created_at": "2026-06-17T12:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067217262717936050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lGy74j7bm",
+          "end": 29,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2067217262717936050/photo/1",
+          "media_key": "3_2067217239401758720",
+          "start": 6,
+          "url": "https://t.co/4lGy74j7bm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067217262717936050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁想收原味 https://t.co/4lGy74j7bm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2067217239401758720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA7IGwbAAAlMnk.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067217239401758720"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2067217262717936050",
+        "created_at": "2026-06-17T12:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067217262717936050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lGy74j7bm",
+              "end": 29,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2067217262717936050/photo/1",
+              "media_key": "3_2067217239401758720",
+              "start": 6,
+              "url": "https://t.co/4lGy74j7bm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217262717936050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想收原味 https://t.co/4lGy74j7bm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1381,
+          "like_count": 31485,
+          "listed_count": 2,
+          "media_count": 566,
+          "tweet_count": 6565
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

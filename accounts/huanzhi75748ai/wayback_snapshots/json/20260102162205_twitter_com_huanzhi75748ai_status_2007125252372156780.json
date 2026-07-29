@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2007125252372156780",
+    "created_at": "2026-01-02T16:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T17:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007125252372156780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1826281483675299840",
+          "start": 3,
+          "username": "ci_shang85157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007125252372156780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 542
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006657384127803888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ci_shang85157: 有钱真好，有钱学习不好可以出国，有钱精神病可以看心理医生，有钱压力大可以果断休学，有钱可以不用担心治病买药钱，有钱可以打车不用坐公交车，有钱可以随便玩Cosplay亚文化，有钱可以随便点外卖出去吃，有钱可以不用节省空调电费，有钱真好啊下辈子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007125252372156780",
+        "created_at": "2026-01-02T16:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007125252372156780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1826281483675299840",
+              "start": 3,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007125252372156780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 542
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006657384127803888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ci_shang85157: 有钱真好，有钱学习不好可以出国，有钱精神病可以看心理医生，有钱压力大可以果断休学，有钱可以不用担心治病买药钱，有钱可以打车不用坐公交车，有钱可以随便玩Cosplay亚文化，有钱可以随便点外卖出去吃，有钱可以不用节省空调电费，有钱真好啊下辈子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2006657384127803888",
+        "created_at": "2026-01-01T09:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006657384127803888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006657384127803888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 163406,
+          "like_count": 3982,
+          "quote_count": 49,
+          "reply_count": 67,
+          "retweet_count": 542
+        },
+        "reply_settings": "everyone",
+        "text": "有钱真好，有钱学习不好可以出国，有钱精神病可以看心理医生，有钱压力大可以果断休学，有钱可以不用担心治病买药钱，有钱可以打车不用坐公交车，有钱可以随便玩Cosplay亚文化，有钱可以随便点外卖出去吃，有钱可以不用节省空调电费，有钱真好啊下辈子我也要当有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1327,
+          "like_count": 22361,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 4644
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 675,
+          "like_count": 20276,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 7425
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

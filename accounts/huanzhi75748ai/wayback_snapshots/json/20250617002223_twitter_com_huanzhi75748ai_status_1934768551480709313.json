@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934768548053962754"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1934768551480709313",
+    "created_at": "2025-06-17T00:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934768551480709313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Au6OyCtWY",
+          "end": 135,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1934768551480709313/photo/1",
+          "media_key": "3_1934768548053962754",
+          "start": 112,
+          "url": "https://t.co/9Au6OyCtWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934768551480709313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫很好。我爱他。\n他能听懂我说话，就算在草丛里睡觉听到我叫他都会走过来踩奶🥺我拍拍凳子他就坐我旁边🥺我拍拍腿他就窝在我腿上🥺他要走的时候，我说“我要离开这个学校了，你就不能陪陪我吗”然后他顿了一下又回来了，还翻肚皮给我摸🥺 https://t.co/9Au6OyCtWY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934768551480709313].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934768551480709313",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934768551480709313"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934768548053962754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtmtvl1a0AIDgv2.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1350,
+          "like_count": 21808,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4199
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1815502715625324973",
+    "created_at": "2024-07-22T21:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T22:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815502715625324973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1815502715625324973",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听别人说，想哭的时候，可以眼睛向上看，这时候大脑无法处理复杂的情感，于是我就一副悲伤地翻着白眼哭的傻样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1815502715625324973",
+        "created_at": "2024-07-22T21:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T22:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815502715625324973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815502715625324973",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听别人说，想哭的时候，可以眼睛向上看，这时候大脑无法处理复杂的情感，于是我就一副悲伤地翻着白眼哭的傻样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1219,
+          "like_count": 14496,
+          "listed_count": 1,
+          "tweet_count": 2726
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077742720328847361"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2077733510396219572",
+    "created_at": "2026-07-16T13:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077743040081584238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPZEZ8JQbi",
+          "end": 71,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2077743040081584238/photo/1",
+          "media_key": "3_2077742720328847361",
+          "start": 48,
+          "url": "https://t.co/EPZEZ8JQbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077743040081584238",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077733510396219572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 帮我看看我的鸡吧，起立状态大概有20cm吧。好多人说看着不像，我觉得还挺大的 https://t.co/EPZEZ8JQbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077742720328847361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWf_uva0AEmcD4.jpg",
+        "width": 720
+      },
+      {
+        "height": 1004,
+        "media_key": "3_2077733493296214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWXmpXaMAAW0Bp.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077733493287813121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWXmpVaAAETuzX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077742720328847361"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2077733510396219572",
+        "created_at": "2026-07-16T13:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077743040081584238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPZEZ8JQbi",
+              "end": 71,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2077743040081584238/photo/1",
+              "media_key": "3_2077742720328847361",
+              "start": 48,
+              "url": "https://t.co/EPZEZ8JQbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077743040081584238",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077733510396219572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 帮我看看我的鸡吧，起立状态大概有20cm吧。好多人说看着不像，我觉得还挺大的 https://t.co/EPZEZ8JQbi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077733493296214016",
+            "3_2077733493287813121"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2077733510396219572",
+        "created_at": "2026-07-16T12:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077733510396219572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8E1qdKhsc1",
+              "end": 105,
+              "expanded_url": "https://x.com/QwQIO3O/status/2077733510396219572/photo/1",
+              "media_key": "3_2077733493296214016",
+              "start": 82,
+              "url": "https://t.co/8E1qdKhsc1"
+            },
+            {
+              "display_url": "pic.x.com/8E1qdKhsc1",
+              "end": 105,
+              "expanded_url": "https://x.com/QwQIO3O/status/2077733510396219572/photo/1",
+              "media_key": "3_2077733493287813121",
+              "start": 82,
+              "url": "https://t.co/8E1qdKhsc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077733510396219572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个豆，有段时间会给私信里的鸡吧目测长短，反正大多数人都是14cm，15、16已经算大的了……只有10cm左右才算是小吧，14完全正常人长度，嗯嗯这是可以说的吗 https://t.co/8E1qdKhsc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1377,
+          "like_count": 31786,
+          "listed_count": 2,
+          "media_count": 585,
+          "tweet_count": 6718
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "只是一位单亲拓麻妈妈\n@gjfgift 减肥打卡日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "gjfgift"
+              }
+            ]
+          }
+        },
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 304,
+          "like_count": 11863,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

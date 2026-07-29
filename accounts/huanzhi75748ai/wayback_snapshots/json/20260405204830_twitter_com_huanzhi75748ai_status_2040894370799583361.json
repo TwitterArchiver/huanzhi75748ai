@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2040894370799583361",
+    "created_at": "2026-04-05T20:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T21:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040894370799583361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1494479703234670592",
+          "start": 3,
+          "username": "puppylovesete"
+        },
+        {
+          "end": 26,
+          "id": "1784413526209261568",
+          "start": 19,
+          "username": "soyuyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040894370799583361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040809284431392992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puppylovesete: @soyuyy 才不是呢，幸福有幸福的碎碎念，难过有难过的碎碎念，我不发碎碎念的时候是因为碎碎念发给了某个固定的人，而不是消失了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2040894370799583361",
+        "created_at": "2026-04-05T20:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040894370799583361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1494479703234670592",
+              "start": 3,
+              "username": "puppylovesete"
+            },
+            {
+              "end": 26,
+              "id": "1784413526209261568",
+              "start": 19,
+              "username": "soyuyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040894370799583361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040809284431392992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puppylovesete: @soyuyy 才不是呢，幸福有幸福的碎碎念，难过有难过的碎碎念，我不发碎碎念的时候是因为碎碎念发给了某个固定的人，而不是消失了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494479703234670592",
+        "conversation_id": "2040539737241649543",
+        "created_at": "2026-04-05T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040809284431392992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1784413526209261568",
+              "start": 0,
+              "username": "soyuyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040809284431392992",
+        "in_reply_to_user_id": "1784413526209261568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040539737241649543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyuyy 才不是呢，幸福有幸福的碎碎念，难过有难过的碎碎念，我不发碎碎念的时候是因为碎碎念发给了某个固定的人，而不是消失了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1396,
+          "like_count": 28157,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 5784
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T01:11:59.000Z",
+        "description": "不要在时间的河里刻舟求剑| 不更新的时候都在好好生活",
+        "id": "1494479703234670592",
+        "name": "maintenant",
+        "pinned_tweet_id": "2015344492455551405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027028299143352320/GPWLrqmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 318,
+          "like_count": 2679,
+          "listed_count": 12,
+          "media_count": 129,
+          "tweet_count": 2487
+        },
+        "username": "puppylovesete",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T02:45:30.000Z",
+        "description": "我会 积累更多幸福的画面",
+        "id": "1784413526209261568",
+        "location": "天堂",
+        "name": "天真",
+        "pinned_tweet_id": "2040382048406565315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006038110988296194/H0jqjEix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 20,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 243
+        },
+        "username": "soyuyy",
+        "verified": false
+      }
+    ]
+  }
+}

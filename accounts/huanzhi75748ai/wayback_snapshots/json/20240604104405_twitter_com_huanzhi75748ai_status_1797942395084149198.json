@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1797845841417576483",
+    "created_at": "2024-06-04T10:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T11:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797942395084149198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1613941792193515522",
+          "start": 0,
+          "username": "667shuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797942395084149198",
+    "in_reply_to_user_id": "1613941792193515522",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797845841417576483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@667shuai 66666666666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1797845841417576483",
+        "created_at": "2024-06-04T10:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T11:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797942395084149198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1613941792193515522",
+              "start": 0,
+              "username": "667shuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797942395084149198",
+        "in_reply_to_user_id": "1613941792193515522",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797845841417576483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@667shuai 66666666666"
+      },
+      {
+        "attachments": {},
+        "author_id": "1613941792193515522",
+        "conversation_id": "1797845841417576483",
+        "created_at": "2024-06-04T04:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T05:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797845841417576483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797845841417576483",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚谁想要我白虎照片发泄的，点赞评论扣666，今晚我直接通通满足你们（不开玩笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 1145,
+          "like_count": 10847,
+          "listed_count": 1,
+          "tweet_count": 2025
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T16:51:34.000Z",
+        "description": "07/主页全是做爱视频的别关注我/皮下男别关注我/看主页回fo/心情/日常/@add193787122415我老公",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "add193787122415"
+              }
+            ]
+          }
+        },
+        "id": "1613941792193515522",
+        "location": "🙄",
+        "name": "coolshuaguyge",
+        "pinned_tweet_id": "1793712625588797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789677951782674433/hZI7aIUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 508,
+          "like_count": 8892,
+          "listed_count": 0,
+          "tweet_count": 791
+        },
+        "username": "667shuai",
+        "verified": false
+      }
+    ]
+  }
+}

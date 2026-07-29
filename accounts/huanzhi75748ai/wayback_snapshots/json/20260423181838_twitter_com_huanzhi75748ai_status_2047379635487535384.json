@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2047379635487535384",
+    "created_at": "2026-04-23T18:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047379635487535384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1992095465559715840",
+          "start": 3,
+          "username": "lisianthus2088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047379635487535384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046908126029586658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lisianthus2088: 人和人真是奇怪  明明那么多个夜晚聊到凌晨彼此坦露心迹  某一天后突然就变成了不会再联系的陌生人  我常常抱怨人生路上遇到不该遇见的人  但其实好的坏的我都舍不得忘记"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2047379635487535384",
+        "created_at": "2026-04-23T18:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047379635487535384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1992095465559715840",
+              "start": 3,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047379635487535384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046908126029586658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lisianthus2088: 人和人真是奇怪  明明那么多个夜晚聊到凌晨彼此坦露心迹  某一天后突然就变成了不会再联系的陌生人  我常常抱怨人生路上遇到不该遇见的人  但其实好的坏的我都舍不得忘记"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2046908126029586658",
+        "created_at": "2026-04-22T11:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046908126029586658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046908126029586658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 46795,
+          "like_count": 1618,
+          "quote_count": 25,
+          "reply_count": 182,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "人和人真是奇怪  明明那么多个夜晚聊到凌晨彼此坦露心迹  某一天后突然就变成了不会再联系的陌生人  我常常抱怨人生路上遇到不该遇见的人  但其实好的坏的我都舍不得忘记"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1387,
+          "like_count": 29672,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 6116
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 103,
+          "like_count": 3226,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

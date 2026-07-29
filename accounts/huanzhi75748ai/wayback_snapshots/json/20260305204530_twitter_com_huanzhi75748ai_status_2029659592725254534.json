@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2029439302896390369",
+    "created_at": "2026-03-05T20:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T21:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029659592725254534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2003468394604228608",
+          "start": 0,
+          "username": "pinxowosofure"
+        },
+        {
+          "end": 24,
+          "id": "1980682684985921536",
+          "start": 15,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029659592725254534",
+    "in_reply_to_user_id": "2003468394604228608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029500509774909778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinxowosofure @linovo33 “支持前者的往往极度反对后者”造成这种情况的原因是。目前市场上大部分女性主体游戏较男性主体游戏尺度小很多却不被男性认同（参考曾经某说唱歌手diss乙游）。这种不平衡感导致玩此类型的女性感受到不公平于是进行抵制。并非对本质视而不见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2029439302896390369",
+        "created_at": "2026-03-05T20:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029659592725254534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003468394604228608",
+              "start": 0,
+              "username": "pinxowosofure"
+            },
+            {
+              "end": 24,
+              "id": "1980682684985921536",
+              "start": 15,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029659592725254534",
+        "in_reply_to_user_id": "2003468394604228608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029500509774909778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinxowosofure @linovo33 “支持前者的往往极度反对后者”造成这种情况的原因是。目前市场上大部分女性主体游戏较男性主体游戏尺度小很多却不被男性认同（参考曾经某说唱歌手diss乙游）。这种不平衡感导致玩此类型的女性感受到不公平于是进行抵制。并非对本质视而不见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003468394604228608",
+        "conversation_id": "2029439302896390369",
+        "created_at": "2026-03-05T10:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029500509774909778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029500509774909778",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029467851342647668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 对啊，但是最幽默的就是今天互联网上关于游戏的争吵，支持前者的往往极度反对后者，却对前者和后者的同样本质视而不见，就像他们幻想用br0能辱骂顺直男反而是巩固了父权制顺直正统主义最后和攻击自己没有区别一样，所以说女权被滥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1323,
+          "like_count": 23182,
+          "listed_count": 2,
+          "media_count": 492,
+          "tweet_count": 4920
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 违背现实的“自然”二元性别论及刻板印象及其扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 殖民 华夷秩序 东方主义 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了\n好事物绝缘体ver.\n无为以避有害",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "pinned_tweet_id": "2013824241461027173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 289,
+          "like_count": 9724,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 3662
+        },
+        "username": "pinxowosofure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "你的心脏是一朵百合花",
+        "id": "1980682684985921536",
+        "location": "厦门",
+        "name": "檩",
+        "pinned_tweet_id": "2029034693392515383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028400101555904512/paOhnTuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 88,
+          "like_count": 7425,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 4708
+        },
+        "username": "linovo33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2048600404712214843",
+    "created_at": "2026-04-28T13:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049125589437870377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1427471490383900675",
+          "start": 0,
+          "username": "akiko_edddy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049125589437870377",
+    "in_reply_to_user_id": "1427471490383900675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048600404712214843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiko_edddy 我靠真的。之前有人在我耳边或后脑说话都会发抖。但现在耳钉多了以后分分钟变成耳钉保卫战..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2048600404712214843",
+        "created_at": "2026-04-28T13:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049125589437870377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1427471490383900675",
+              "start": 0,
+              "username": "akiko_edddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049125589437870377",
+        "in_reply_to_user_id": "1427471490383900675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048600404712214843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiko_edddy 我靠真的。之前有人在我耳边或后脑说话都会发抖。但现在耳钉多了以后分分钟变成耳钉保卫战..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427471490383900675",
+        "conversation_id": "2048600404712214843",
+        "created_at": "2026-04-27T03:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048600404712214843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048600404712214843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 344720,
+          "like_count": 1787,
+          "quote_count": 16,
+          "reply_count": 189,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "说起玩耳朵我之前长期的那个炮友就是真的舔我耳朵到我高潮过\n太吓人了\n我耳朵之后整个都肿了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 1401,
+          "like_count": 30053,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 6193
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T03:25:13.000Z",
+        "description": "Aki的秘密园地。",
+        "id": "1427471490383900675",
+        "location": "papayaki",
+        "name": "Akiko",
+        "pinned_tweet_id": "1719560275353841969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621699642395136000/B-SY2Lbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 702,
+          "like_count": 4865,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 1468
+        },
+        "username": "akiko_edddy",
+        "verified": false
+      }
+    ]
+  }
+}

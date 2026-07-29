@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1979060074677936251",
+    "created_at": "2025-10-17T08:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979095182243926519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762470904829796352",
+          "start": 0,
+          "username": "I2_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979095182243926519",
+    "in_reply_to_user_id": "1762470904829796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979060074677936251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I2_1222 很有实力了，首充最低六元呢🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1979060074677936251",
+        "created_at": "2025-10-17T08:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979095182243926519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762470904829796352",
+              "start": 0,
+              "username": "I2_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979095182243926519",
+        "in_reply_to_user_id": "1762470904829796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979060074677936251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I2_1222 很有实力了，首充最低六元呢🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762470904829796352",
+        "conversation_id": "1979060074677936251",
+        "created_at": "2025-10-17T05:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979060074677936251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979060074677936251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近生活好堕落 水课睡觉 晚上通宵 每天首充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1337,
+          "like_count": 21819,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 4422
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:33:13.000Z",
+        "description": "我只是一个有巨大的胃的数字 | 有点不太想玩了",
+        "id": "1762470904829796352",
+        "location": "🚪52|520|5200 什么都没有",
+        "name": "12^（史诗巨胃）",
+        "pinned_tweet_id": "1961401123690221671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902731517186699265/kOF01xfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 3484,
+          "like_count": 105552,
+          "listed_count": 11,
+          "media_count": 1009,
+          "tweet_count": 13446
+        },
+        "username": "I2_1222",
+        "verified": false
+      }
+    ]
+  }
+}

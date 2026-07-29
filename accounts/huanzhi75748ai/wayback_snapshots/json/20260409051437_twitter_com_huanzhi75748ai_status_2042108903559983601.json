@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041782194910458022",
+    "created_at": "2026-04-09T05:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042108903559983601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991711672684421121",
+          "start": 0,
+          "username": "pearl0812lucky"
+        },
+        {
+          "end": 87,
+          "id": "1535277493787189249",
+          "start": 76,
+          "username": "Musran1113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042108903559983601",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041782194910458022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearl0812lucky 高敏的人真的应该多出去走走。减少不必要的社交吧。与其在别人的想法和并无恶意的语言中敏感怀疑自己，不如出去被新鲜空气拥抱。@Musran1113"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041782194910458022",
+        "created_at": "2026-04-09T05:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042108903559983601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            },
+            {
+              "end": 87,
+              "id": "1535277493787189249",
+              "start": 76,
+              "username": "Musran1113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042108903559983601",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041782194910458022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 高敏的人真的应该多出去走走。减少不必要的社交吧。与其在别人的想法和并无恶意的语言中敏感怀疑自己，不如出去被新鲜空气拥抱。@Musran1113"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2041782194910458022",
+        "created_at": "2026-04-08T07:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041782194910458022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041782194910458022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 89867,
+          "like_count": 3168,
+          "quote_count": 42,
+          "reply_count": 43,
+          "retweet_count": 384
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感就适合去看世界 去爬山 去看海 去追赶日落 等待日出 用自然之大衬托自己的渺小 心里面那些乱七八糟的自然不会影响到自己 你也来不及去处理那些让你内耗的任何事 外面的世界太大了 与其感受复杂的人心 不如用去和自然 辽阔天地对话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1394,
+          "like_count": 28770,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 5898
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5176,
+          "following_count": 53,
+          "like_count": 5743,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1333
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T15:07:44.000Z",
+        "description": "我总是来由不明地觉得难过",
+        "id": "1535277493787189249",
+        "name": "Musran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980721976059559936/IkcPvIY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 82,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 77
+        },
+        "username": "Musran1113",
+        "verified": false
+      }
+    ]
+  }
+}

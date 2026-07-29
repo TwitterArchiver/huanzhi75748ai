@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1786908805831266304"
+      ],
+      "media_source_tweet_id": [
+        "1786908822352637965"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049632904679207277",
+    "created_at": "2026-04-29T23:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049632904679207277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3302508846",
+          "start": 3,
+          "username": "A1P4CA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gquOrdjhZL",
+          "end": 47,
+          "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+          "media_key": "7_1786908805831266304",
+          "start": 24,
+          "url": "https://t.co/gquOrdjhZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049632904679207277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049340145287995518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A1P4CA: あまりにも綺麗な空\n\n https://t.co/gquOrdjhZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6906,
+        "height": 1920,
+        "media_key": "7_1786908805831266304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1786908805831266304/pu/img/FkFC2cEFRNovrCum.jpg",
+        "public_metrics": {
+          "view_count": 5569365
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/vid/avc1/320x568/a-L-7Wu09L5x3LgY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/vid/avc1/480x852/mxwscJUsj1ChdjeZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/vid/avc1/720x1280/djFz3U5JGga0eHQ9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/pl/OVNtbe5wLVK-8Y9e.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1786908805831266304"
+          ],
+          "media_source_tweet_id": [
+            "1786908822352637965"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049632904679207277",
+        "created_at": "2026-04-29T23:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049632904679207277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3302508846",
+              "start": 3,
+              "username": "A1P4CA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gquOrdjhZL",
+              "end": 47,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+              "media_key": "7_1786908805831266304",
+              "start": 24,
+              "url": "https://t.co/gquOrdjhZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049632904679207277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049340145287995518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A1P4CA: あまりにも綺麗な空\n\n https://t.co/gquOrdjhZL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1786908805831266304"
+          ],
+          "media_source_tweet_id": [
+            "1786908822352637965"
+          ]
+        },
+        "author_id": "3302508846",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049340145287995518",
+        "created_at": "2026-04-29T04:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049340145287995518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gquOrdjhZL",
+              "end": 35,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+              "media_key": "7_1786908805831266304",
+              "start": 12,
+              "url": "https://t.co/gquOrdjhZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049340145287995518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 676,
+          "impression_count": 112939,
+          "like_count": 10429,
+          "quote_count": 29,
+          "reply_count": 28,
+          "retweet_count": 960
+        },
+        "reply_settings": "everyone",
+        "text": "あまりにも綺麗な空\n\n https://t.co/gquOrdjhZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1404,
+          "like_count": 30296,
+          "listed_count": 2,
+          "media_count": 533,
+          "tweet_count": 6201
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-31T15:31:50.000Z",
+        "description": "",
+        "id": "3302508846",
+        "name": "猫しか勝たん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814284232174530560/SD9Fiwpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66034,
+          "following_count": 1,
+          "like_count": 1063,
+          "listed_count": 300,
+          "media_count": 3641,
+          "tweet_count": 3659
+        },
+        "username": "A1P4CA",
+        "verified": false
+      }
+    ]
+  }
+}

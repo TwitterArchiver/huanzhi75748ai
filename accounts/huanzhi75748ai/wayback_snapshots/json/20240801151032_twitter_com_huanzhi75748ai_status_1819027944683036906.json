@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1819007791467827556",
+    "created_at": "2024-08-01T15:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T16:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819027944683036906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1070677043476606985",
+          "start": 0,
+          "username": "pi_rickc137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819027944683036906",
+    "in_reply_to_user_id": "1070677043476606985",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819007791467827556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pi_rickc137 宅男身材都能这么好啊。强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1819007791467827556",
+        "created_at": "2024-08-01T15:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T16:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819027944683036906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1070677043476606985",
+              "start": 0,
+              "username": "pi_rickc137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819027944683036906",
+        "in_reply_to_user_id": "1070677043476606985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819007791467827556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pi_rickc137 宅男身材都能这么好啊。强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819007634181378048",
+            "7_1819007659842129920"
+          ]
+        },
+        "author_id": "1070677043476606985",
+        "conversation_id": "1819007791467827556",
+        "created_at": "2024-08-01T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819007791467827556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ne8MjMCRBp",
+              "end": 68,
+              "expanded_url": "https://twitter.com/pi_rickc137/status/1819007791467827556/video/1",
+              "media_key": "3_1819007634181378048",
+              "start": 45,
+              "url": "https://t.co/ne8MjMCRBp"
+            },
+            {
+              "display_url": "pic.twitter.com/ne8MjMCRBp",
+              "end": 68,
+              "expanded_url": "https://twitter.com/pi_rickc137/status/1819007791467827556/video/1",
+              "media_key": "7_1819007659842129920",
+              "start": 45,
+              "url": "https://t.co/ne8MjMCRBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819007791467827556",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我们阴暗宅男都有一件同样的外套，适合在下水道方便出自己人，远远看到也不会打招呼。 https://t.co/ne8MjMCRBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1223,
+          "like_count": 14901,
+          "listed_count": 1,
+          "tweet_count": 2830
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-06T13:51:14.000Z",
+        "description": "手机比较好玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pirick710",
+                "end": 23,
+                "expanded_url": "https://t.me/pirick710",
+                "start": 0,
+                "url": "https://t.co/sG6Bj2UuoT"
+              }
+            ]
+          }
+        },
+        "id": "1070677043476606985",
+        "name": "手机太好玩了/Pic_Rick",
+        "pinned_tweet_id": "1728408558902055131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778076670462996480/YrZU6-bK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 457,
+          "like_count": 1785,
+          "listed_count": 3,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/sG6Bj2UuoT",
+        "username": "pi_rickc137",
+        "verified": false
+      }
+    ]
+  }
+}

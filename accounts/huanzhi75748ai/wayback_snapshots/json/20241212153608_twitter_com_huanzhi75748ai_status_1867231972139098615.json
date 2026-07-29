@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1867231888743796737"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1867231972139098615",
+    "created_at": "2024-12-12T15:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T16:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867231972139098615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A64zfPTFmD",
+          "end": 43,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1867231972139098615/video/1",
+          "media_key": "7_1867231888743796737",
+          "start": 20,
+          "url": "https://t.co/A64zfPTFmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867231972139098615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夸我可爱的人，我统治地球时会免你们死罪 https://t.co/A64zfPTFmD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1867231972139098615].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1867231972139098615",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1867231972139098615"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6833,
+        "height": 918,
+        "media_key": "7_1867231888743796737",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1867231888743796737/pu/img/hlTdNrho1UQNNa-p.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867231888743796737/pu/vid/avc1/320x408/3y_zF1bcMH4jAgnu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867231888743796737/pu/vid/avc1/480x612/_oEv2nIfQHU8Xp1G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867231888743796737/pu/vid/avc1/720x918/GZn9F8-BNVFcH0Xh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1867231888743796737/pu/pl/I29blPeIW8DiApp4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1261,
+          "like_count": 19692,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 3942
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

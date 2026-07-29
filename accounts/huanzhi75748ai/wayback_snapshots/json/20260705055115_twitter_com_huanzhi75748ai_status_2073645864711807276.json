@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073645641985900544",
+        "3_2073645643420274688",
+        "3_2073645641973301248"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2073645864711807276",
+    "created_at": "2026-07-05T05:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073645864711807276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhnxyFHDOg",
+          "end": 43,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2073645864711807276/photo/1",
+          "media_key": "3_2073645641985900544",
+          "start": 20,
+          "url": "https://t.co/DhnxyFHDOg"
+        },
+        {
+          "display_url": "pic.x.com/DhnxyFHDOg",
+          "end": 43,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2073645864711807276/photo/1",
+          "media_key": "3_2073645643420274688",
+          "start": 20,
+          "url": "https://t.co/DhnxyFHDOg"
+        },
+        {
+          "display_url": "pic.x.com/DhnxyFHDOg",
+          "end": 43,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2073645864711807276/photo/1",
+          "media_key": "3_2073645641973301248",
+          "start": 20,
+          "url": "https://t.co/DhnxyFHDOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073645864711807276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前两天和狗离家出走在图书馆门口饮水消愁 https://t.co/DhnxyFHDOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2073645641985900544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcRuYibQAA26-8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073645643420274688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcRud4aEAAlLJW.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2073645641973301248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcRuYfbAAANiGj.jpg",
+        "width": 3556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073645641985900544",
+            "3_2073645643420274688",
+            "3_2073645641973301248"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2073645864711807276",
+        "created_at": "2026-07-05T05:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073645864711807276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhnxyFHDOg",
+              "end": 43,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2073645864711807276/photo/1",
+              "media_key": "3_2073645641985900544",
+              "start": 20,
+              "url": "https://t.co/DhnxyFHDOg"
+            },
+            {
+              "display_url": "pic.x.com/DhnxyFHDOg",
+              "end": 43,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2073645864711807276/photo/1",
+              "media_key": "3_2073645643420274688",
+              "start": 20,
+              "url": "https://t.co/DhnxyFHDOg"
+            },
+            {
+              "display_url": "pic.x.com/DhnxyFHDOg",
+              "end": 43,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2073645864711807276/photo/1",
+              "media_key": "3_2073645641973301248",
+              "start": 20,
+              "url": "https://t.co/DhnxyFHDOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073645864711807276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天和狗离家出走在图书馆门口饮水消愁 https://t.co/DhnxyFHDOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1384,
+          "like_count": 31664,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 6662
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

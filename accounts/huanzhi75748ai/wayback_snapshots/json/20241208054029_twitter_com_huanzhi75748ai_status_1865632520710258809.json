@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1865632520710258809",
+    "created_at": "2024-12-08T05:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T06:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865632520710258809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1836782122037874688",
+          "start": 3,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865632520710258809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865628977450390015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio1738468: 政治上我分不清蒋介石和袁世凯，道德上我支持以牙还牙，语文上文字游戏把我玩得团团转，数学上导数没学会，导是什么意思给我学到了，英语上学会了26个字母，组合我是一个不懂，化学只学会了嫁给那美女，地理上学到了能蒙对一半就是赢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1865632520710258809",
+        "created_at": "2024-12-08T05:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T06:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865632520710258809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1836782122037874688",
+              "start": 3,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865632520710258809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865628977450390015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio1738468: 政治上我分不清蒋介石和袁世凯，道德上我支持以牙还牙，语文上文字游戏把我玩得团团转，数学上导数没学会，导是什么意思给我学到了，英语上学会了26个字母，组合我是一个不懂，化学只学会了嫁给那美女，地理上学到了能蒙对一半就是赢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836782122037874688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1865628977450390015",
+        "created_at": "2024-12-08T05:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T06:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865628977450390015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865628977450390015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "政治上我分不清蒋介石和袁世凯，道德上我支持以牙还牙，语文上文字游戏把我玩得团团转，数学上导数没学会，导是什么意思给我学到了，英语上学会了26个字母，组合我是一个不懂，化学只学会了嫁给那美女，地理上学到了能蒙对一半就是赢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1265,
+          "like_count": 19447,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3883
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20/50，好友位/纯绿陪聊，给的越多越热情/粥批/紫菜小号@jy3152509243 /谢谢你和我一起玩😽/手作围巾长期有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3328,
+          "following_count": 470,
+          "like_count": 5931,
+          "listed_count": 5,
+          "media_count": 595,
+          "tweet_count": 5163
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

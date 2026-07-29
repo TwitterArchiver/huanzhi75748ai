@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1862191026636800013",
+    "created_at": "2024-11-28T17:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T18:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862191026636800013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808760963228913664",
+          "start": 3,
+          "username": "Iiicerao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862191026636800013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862019424926187623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iiicerao: 你缺爱的时候其实是缺钱了 缺钱的时候是真的缺钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1862191026636800013",
+        "created_at": "2024-11-28T17:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T18:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862191026636800013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808760963228913664",
+              "start": 3,
+              "username": "Iiicerao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862191026636800013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862019424926187623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iiicerao: 你缺爱的时候其实是缺钱了 缺钱的时候是真的缺钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808760963228913664",
+        "conversation_id": "1862019424926187623",
+        "created_at": "2024-11-28T06:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T07:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862019424926187623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862019424926187623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 45710,
+          "like_count": 491,
+          "quote_count": 7,
+          "reply_count": 63,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "你缺爱的时候其实是缺钱了 缺钱的时候是真的缺钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1259,
+          "like_count": 18874,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 3712
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T07:13:27.000Z",
+        "description": "仅此一个号 没有私联方式",
+        "id": "1808760963228913664",
+        "location": "江苏",
+        "name": "Iiiyo",
+        "pinned_tweet_id": "1858700245640884254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857636093350522881/AeH6s7vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21146,
+          "following_count": 202,
+          "like_count": 6940,
+          "listed_count": 34,
+          "media_count": 166,
+          "tweet_count": 4853
+        },
+        "username": "Iiicerao",
+        "verified": false
+      }
+    ]
+  }
+}

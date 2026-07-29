@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035558600459071488",
+        "3_2035558300767719426",
+        "3_2035558300771856384"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2035558731476533320",
+    "created_at": "2026-03-22T03:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035558731476533320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZkucH6Hr2",
+          "end": 36,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2035558731476533320/photo/1",
+          "media_key": "3_2035558600459071488",
+          "start": 13,
+          "url": "https://t.co/oZkucH6Hr2"
+        },
+        {
+          "display_url": "pic.x.com/oZkucH6Hr2",
+          "end": 36,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2035558731476533320/photo/1",
+          "media_key": "3_2035558300767719426",
+          "start": 13,
+          "url": "https://t.co/oZkucH6Hr2"
+        },
+        {
+          "display_url": "pic.x.com/oZkucH6Hr2",
+          "end": 36,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2035558731476533320/photo/1",
+          "media_key": "3_2035558300771856384",
+          "start": 13,
+          "url": "https://t.co/oZkucH6Hr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035558731476533320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再见了所有爱啃草的鸟子。 https://t.co/oZkucH6Hr2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035558731476533320].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035558731476533320",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035558731476533320"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2993,
+        "media_key": "3_2035558600459071488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_BwyPasAAK0yF.jpg",
+        "width": 2993
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2035558300767719426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_BfVzbkAICTAY.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2035558300771856384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_BfV0asAArteI.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 1353,
+          "like_count": 24266,
+          "listed_count": 2,
+          "media_count": 499,
+          "tweet_count": 5066
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

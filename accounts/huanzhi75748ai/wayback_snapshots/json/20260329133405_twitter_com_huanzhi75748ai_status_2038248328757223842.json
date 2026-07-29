@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038168922567188696",
+    "created_at": "2026-03-29T13:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038248328757223842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        },
+        {
+          "end": 22,
+          "id": "1885765075996393472",
+          "start": 13,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038248328757223842",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038220865989660896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 @maitakoo 霖😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038168922567188696",
+        "created_at": "2026-03-29T13:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038248328757223842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            },
+            {
+              "end": 22,
+              "id": "1885765075996393472",
+              "start": 13,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038248328757223842",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038220865989660896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 @maitakoo 霖😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2038168922567188696",
+        "created_at": "2026-03-29T11:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038220865989660896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038220865989660896",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038168922567188696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 我在哭。我看看能不能复活……谢谢大家的关心!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1382,
+          "like_count": 25769,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5408
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】大号正常期间锁推\n性别是末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/od/sh 全否定\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 293,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo\n提问箱https://t.co/AG60232YzV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%96%84%E6%B…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E8%96%84%E6%B0%B7%E6%AE%89%E6%83%85",
+                "start": 36,
+                "url": "https://t.co/AG60232YzV"
+              }
+            ]
+          }
+        },
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2036718700414570657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 199,
+          "like_count": 3421,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 2211
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

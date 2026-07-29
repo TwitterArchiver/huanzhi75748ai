@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1804158871541576025",
+    "created_at": "2024-06-21T22:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T23:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804278516927860765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781022238516613120",
+          "start": 0,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804278516927860765",
+    "in_reply_to_user_id": "1781022238516613120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804158871541576025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamo_19970327 感谢溺爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1804158871541576025",
+        "created_at": "2024-06-21T22:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T23:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804278516927860765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781022238516613120",
+              "start": 0,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804278516927860765",
+        "in_reply_to_user_id": "1781022238516613120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804158871541576025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamo_19970327 感谢溺爱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1781022238516613120",
+        "conversation_id": "1804158871541576025",
+        "created_at": "2024-06-21T14:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T15:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804158871541576025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804158871541576025",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只会溺爱大部分精神病小女孩 男的另说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1160,
+          "like_count": 12552,
+          "listed_count": 1,
+          "tweet_count": 2303
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "shtwt/LISA/SKZ/Lilies/STAY/CN/EN",
+        "id": "1781022238516613120",
+        "location": "0.1km",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1794754977719841077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804158478078087173/D_NM8lnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 227,
+          "like_count": 3503,
+          "listed_count": 0,
+          "tweet_count": 2072
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

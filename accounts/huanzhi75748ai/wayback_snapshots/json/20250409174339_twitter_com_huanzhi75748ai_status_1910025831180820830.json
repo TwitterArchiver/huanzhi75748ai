@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1910025831180820830",
+    "created_at": "2025-04-09T17:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T18:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910025831180820830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910025831180820830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想一辈子混吃等死和朋友玩。为什么人生如此迷茫。为何逃避现实令人发指。为什么人和人的关系扑朔迷离。我想买好多好看的衣服打满脸的钉子。到底什么是我想要的。我有太多太多为什么。为什么呢。我讨厌不受控的一切。脱离我预期的一切。这一切的一切。我从未做错什么从未对不起谁。请给我一个好结局。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1910025831180820830",
+        "created_at": "2025-04-09T17:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T18:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910025831180820830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910025831180820830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想一辈子混吃等死和朋友玩。为什么人生如此迷茫。为何逃避现实令人发指。为什么人和人的关系扑朔迷离。我想买好多好看的衣服打满脸的钉子。到底什么是我想要的。我有太多太多为什么。为什么呢。我讨厌不受控的一切。脱离我预期的一切。这一切的一切。我从未做错什么从未对不起谁。请给我一个好结局。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1909297170261360648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 1286,
+          "like_count": 20983,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 3992
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

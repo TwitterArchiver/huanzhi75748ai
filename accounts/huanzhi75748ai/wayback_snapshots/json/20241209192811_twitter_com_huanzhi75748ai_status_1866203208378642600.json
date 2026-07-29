@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1866203124115104067",
+    "created_at": "2024-12-09T19:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T20:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866203208378642600"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866203208378642600",
+    "in_reply_to_user_id": "1493643433499582474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866203124115104067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再攒攒衣服可以捏oc了爽爽爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1866203124115104067",
+        "created_at": "2024-12-09T19:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T20:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866203208378642600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866203208378642600",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866203124115104067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再攒攒衣服可以捏oc了爽爽爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866203113356730368"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1866203124115104067",
+        "created_at": "2024-12-09T19:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T20:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866203124115104067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrB7w535Bz",
+              "end": 62,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/1866203124115104067/photo/1",
+              "media_key": "3_1866203113356730368",
+              "start": 39,
+              "url": "https://t.co/RrB7w535Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866203124115104067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "战斗，我不好评。跳跃，我不好评。探索，我不好评。配音，我不好评。好看是真的。 https://t.co/RrB7w535Bz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知                      \n                                 耶稣@guisu_yes4 (小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "guisu_yes4"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1266,
+          "like_count": 19504,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3896
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

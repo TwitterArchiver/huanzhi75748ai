@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994025381611831412",
+    "created_at": "2025-11-27T18:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994118185357070646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1631216897151881216",
+          "start": 0,
+          "username": "brokenqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994118185357070646",
+    "in_reply_to_user_id": "1631216897151881216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994025381611831412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@brokenqaq 此椅正在油腻腻地猥琐笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994025375043866624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wzg4ia0AANqEr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994025381611831412",
+        "created_at": "2025-11-27T18:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994118185357070646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1631216897151881216",
+              "start": 0,
+              "username": "brokenqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994118185357070646",
+        "in_reply_to_user_id": "1631216897151881216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994025381611831412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@brokenqaq 此椅正在油腻腻地猥琐笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994025375043866624"
+          ]
+        },
+        "author_id": "1631216897151881216",
+        "conversation_id": "1994025381611831412",
+        "created_at": "2025-11-27T12:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994025381611831412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K32PHGRfTk",
+              "end": 38,
+              "expanded_url": "https://x.com/brokenqaq/status/1994025381611831412/photo/1",
+              "media_key": "3_1994025375043866624",
+              "start": 15,
+              "url": "https://t.co/K32PHGRfTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994025381611831412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1981,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "有没有人觉得这个凳子很诡异的 https://t.co/K32PHGRfTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1337,
+          "like_count": 21815,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 4483
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T08:56:41.000Z",
+        "description": "06大二｜私信只回复过门口令｜喜欢我请给我钱｜只玩推特其余平台一律不玩｜熟人刷到请闭嘴｜盗我图死全家倒霉一辈子",
+        "id": "1631216897151881216",
+        "location": "🚪128/520/1314",
+        "name": "QQ企鹅",
+        "pinned_tweet_id": "1942137272419471571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915316623843745794/G_iNzt5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38913,
+          "following_count": 215,
+          "like_count": 3155,
+          "listed_count": 96,
+          "media_count": 680,
+          "tweet_count": 2305
+        },
+        "username": "brokenqaq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041111959580655678",
+    "created_at": "2026-04-06T11:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041111959580655678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753480657035300867",
+          "start": 3,
+          "username": "pake661809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041111959580655678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041090071064088834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pake661809: 我要狠狠关怀一个性压抑的缺爱的忧郁的漂亮的东亚长发黑框眼镜男孩子，给他所有想要的和想象不到的喜爱和陪伴和坚定和拥抱，造最美好的幻想温柔世界把他罩进里面，我要让他永远也忘不了我的感觉，哪怕最终分开，当然最好不要分开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041111959580655678",
+        "created_at": "2026-04-06T11:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041111959580655678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753480657035300867",
+              "start": 3,
+              "username": "pake661809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041111959580655678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041090071064088834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pake661809: 我要狠狠关怀一个性压抑的缺爱的忧郁的漂亮的东亚长发黑框眼镜男孩子，给他所有想要的和想象不到的喜爱和陪伴和坚定和拥抱，造最美好的幻想温柔世界把他罩进里面，我要让他永远也忘不了我的感觉，哪怕最终分开，当然最好不要分开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753480657035300867",
+        "conversation_id": "2041090071064088834",
+        "created_at": "2026-04-06T09:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041090071064088834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041090071064088834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1335,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要狠狠关怀一个性压抑的缺爱的忧郁的漂亮的东亚长发黑框眼镜男孩子，给他所有想要的和想象不到的喜爱和陪伴和坚定和拥抱，造最美好的幻想温柔世界把他罩进里面，我要让他永远也忘不了我的感觉，哪怕最终分开，当然最好不要分开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1395,
+          "like_count": 28286,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 5805
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T18:09:30.000Z",
+        "description": "我本位主义 INTP ♒️ 无聊的时候很喜欢调情 不无聊的时候很喜欢看涩图 纯血二次元老资历大手子宅女^ ^｜switch｜发自己想发的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akauya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akauya",
+                "start": 0,
+                "url": "https://t.co/lLjNrK6uOt"
+              }
+            ]
+          }
+        },
+        "id": "1753480657035300867",
+        "location": "🥰",
+        "name": "akauya（牛逼版",
+        "pinned_tweet_id": "2036116621706870793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033509808448663552/FCBLc3A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12385,
+          "following_count": 17,
+          "like_count": 592,
+          "listed_count": 13,
+          "media_count": 337,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/lLjNrK6uOt",
+        "username": "pake661809",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994560143619674579",
+    "created_at": "2025-11-29T01:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994572062799925722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994572062799925722",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994560143619674579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H 邮过来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994560127509360640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64Z3ktacAAI8fG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994560143619674579",
+        "created_at": "2025-11-29T01:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994572062799925722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994572062799925722",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994560143619674579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H 邮过来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994560127509360640"
+          ]
+        },
+        "author_id": "1609619970811482112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994560143619674579",
+        "created_at": "2025-11-29T00:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994560143619674579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjOeVGOzvL",
+              "end": 27,
+              "expanded_url": "https://x.com/3ch4O1H/status/1994560143619674579/photo/1",
+              "media_key": "3_1994560127509360640",
+              "start": 4,
+              "url": "https://t.co/TjOeVGOzvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994560143619674579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一箱狗 https://t.co/TjOeVGOzvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1340,
+          "like_count": 21920,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4502
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/LNLEGH",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/LNLEGH",
+                "start": 0,
+                "url": "https://t.co/8ZHoMP65Dd"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1993378456063950852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993634037651656704/toeAELuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 3969,
+          "like_count": 92472,
+          "listed_count": 4,
+          "media_count": 1102,
+          "tweet_count": 35368
+        },
+        "url": "https://t.co/8ZHoMP65Dd",
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

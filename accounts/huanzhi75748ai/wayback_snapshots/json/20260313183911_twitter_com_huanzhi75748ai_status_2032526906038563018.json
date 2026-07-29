@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032526298971779073",
+        "3_2032526298137112576",
+        "3_2032526299827425280",
+        "3_2032526298296483841"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032451915767042316",
+    "created_at": "2026-03-13T18:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T19:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032526906038563018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1588430939855560704",
+          "start": 0,
+          "username": "PearNiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tlCEyAKgz2",
+          "end": 86,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2032526906038563018/photo/1",
+          "media_key": "3_2032526298971779073",
+          "start": 63,
+          "url": "https://t.co/tlCEyAKgz2"
+        },
+        {
+          "display_url": "pic.x.com/tlCEyAKgz2",
+          "end": 86,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2032526906038563018/photo/1",
+          "media_key": "3_2032526298137112576",
+          "start": 63,
+          "url": "https://t.co/tlCEyAKgz2"
+        },
+        {
+          "display_url": "pic.x.com/tlCEyAKgz2",
+          "end": 86,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2032526906038563018/photo/1",
+          "media_key": "3_2032526299827425280",
+          "start": 63,
+          "url": "https://t.co/tlCEyAKgz2"
+        },
+        {
+          "display_url": "pic.x.com/tlCEyAKgz2",
+          "end": 86,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2032526906038563018/photo/1",
+          "media_key": "3_2032526298296483841",
+          "start": 63,
+          "url": "https://t.co/tlCEyAKgz2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032526906038563018",
+    "in_reply_to_user_id": "1588430939855560704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032451915767042316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PearNiki 可以的妹子可以的，抹祛疤膏。半年就不明显了，我图上是一年时间左右胳膊的对比照。最大最深的增生也能变回肤色 https://t.co/tlCEyAKgz2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032526906038563018].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032526906038563018",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032526906038563018"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2032526298971779073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT75m7aMAEz-ZV.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2032526298137112576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT75j0aMAAy9r2.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3656,
+        "media_key": "3_2032526299827425280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT75qHaUAAbJPU.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2032526298296483841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT75kaaAAEXIJY.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032451811391729664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS4J3EacAA5rOa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032451811391729664"
+          ]
+        },
+        "author_id": "1588430939855560704",
+        "conversation_id": "2032451915767042316",
+        "created_at": "2026-03-13T13:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032451915767042316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eD8s5LqAP",
+              "end": 55,
+              "expanded_url": "https://x.com/PearNiki/status/2032451915767042316/photo/1",
+              "media_key": "3_2032451811391729664",
+              "start": 32,
+              "url": "https://t.co/2eD8s5LqAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032451915767042316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们求助…这种颜色的增生还能变成肤色的吗😢😢能的话要多久啊😢 https://t.co/2eD8s5LqAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1332,
+          "like_count": 23513,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 5014
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T07:20:36.000Z",
+        "description": "Hi寶寶 希望你可以一直幸福🥰 🚪88/168",
+        "id": "1588430939855560704",
+        "location": "電子日記",
+        "name": "小绘酱:P",
+        "pinned_tweet_id": "1986837078194233716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855561895970779136/aGW4vYaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 637,
+          "like_count": 5946,
+          "listed_count": 3,
+          "media_count": 518,
+          "tweet_count": 3036
+        },
+        "username": "PearNiki",
+        "verified": false
+      }
+    ]
+  }
+}

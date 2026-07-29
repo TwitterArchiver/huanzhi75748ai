@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037943070973685992",
+    "created_at": "2026-03-29T05:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038121104670343567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2014214501416284160",
+          "start": 0,
+          "username": "wgylly2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038121104670343567",
+    "in_reply_to_user_id": "2014214501416284160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037943070973685992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgylly2 其实和喜欢的人做什么都色情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037943070973685992",
+        "created_at": "2026-03-29T05:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038121104670343567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014214501416284160",
+              "start": 0,
+              "username": "wgylly2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038121104670343567",
+        "in_reply_to_user_id": "2014214501416284160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037943070973685992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgylly2 其实和喜欢的人做什么都色情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014214501416284160",
+        "conversation_id": "2037943070973685992",
+        "created_at": "2026-03-28T17:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037943070973685992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037943070973685992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16296,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得两个人舌吻也很色情吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1382,
+          "like_count": 25643,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5383
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T05:52:30.000Z",
+        "description": "人是一根能思想的苇草 提问箱：https://t.co/BtBxjf0j0l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixi38883",
+                "end": 38,
+                "expanded_url": "https://ngl.link/xixi38883",
+                "start": 15,
+                "url": "https://t.co/BtBxjf0j0l"
+              }
+            ]
+          }
+        },
+        "id": "2014214501416284160",
+        "name": "Xixi",
+        "pinned_tweet_id": "2032329261059854349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014222087808765952/hzvf-9Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 9,
+          "like_count": 175,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 971
+        },
+        "username": "wgylly2",
+        "verified": false
+      }
+    ]
+  }
+}

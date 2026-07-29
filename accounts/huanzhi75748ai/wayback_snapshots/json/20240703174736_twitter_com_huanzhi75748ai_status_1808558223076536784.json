@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808558223076536784",
+    "created_at": "2024-07-03T17:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T18:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808558223076536784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnunkiL_527/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/AnunkiL_527/status/1808514283359408155",
+          "start": 2,
+          "url": "https://t.co/sKC1qX1vri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808558223076536784",
+    "lang": "art",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808514283359408155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😿 https://t.co/sKC1qX1vri"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808558223076536784",
+        "created_at": "2024-07-03T17:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T18:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808558223076536784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnunkiL_527/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/AnunkiL_527/status/1808514283359408155",
+              "start": 2,
+              "url": "https://t.co/sKC1qX1vri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808558223076536784",
+        "lang": "art",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808514283359408155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😿 https://t.co/sKC1qX1vri"
+      },
+      {
+        "attachments": {},
+        "author_id": "1713116404877279232",
+        "conversation_id": "1808514283359408155",
+        "created_at": "2024-07-03T14:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T15:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808514283359408155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808514283359408155",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别哭了吧。你的眼泪像关闭网址弹出来的确认窗口一样，烦人又毫无用处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1183,
+          "like_count": 13099,
+          "listed_count": 1,
+          "tweet_count": 2378
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T08:56:14.000Z",
+        "description": "一个很幼稚的小女孩… 会说一些莫名其妙的话，关注就是喜欢你╥﹏╥互关麻烦私信，我都会回哒",
+        "id": "1713116404877279232",
+        "location": "火葬场",
+        "name": "anunki_lin⛓️‍💥",
+        "pinned_tweet_id": "1806110205635121201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805083095424712704/gSRy4N9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 112,
+          "like_count": 215,
+          "listed_count": 0,
+          "tweet_count": 735
+        },
+        "username": "AnunkiL_527",
+        "verified": false
+      }
+    ]
+  }
+}

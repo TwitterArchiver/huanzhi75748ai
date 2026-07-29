@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841982511540535721",
+    "created_at": "2024-10-04T00:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T01:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841995617381621877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841995617381621877",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841982511540535721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1841982511540535721",
+        "created_at": "2024-10-04T00:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T01:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841995617381621877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841995617381621877",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841982511540535721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1841982511540535721",
+        "created_at": "2024-10-03T23:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T00:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841982511540535721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841982511540535721",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃药好崩溃求回到某物成为精品神药之前的岁月………………。。。。。。首要的任务是找到时光机。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1249,
+          "like_count": 16704,
+          "listed_count": 1,
+          "tweet_count": 3160
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "Ftx_intp_双相_aspd_习惯性点赞_同成分互fo请直来💍 蛙宝重度依赖@CoFfffEeeeE1 【一次性电子烟80-85r包邮、悦刻五代180r、悦刻五代弹90r一盒包邮，两盒起按80r一盒。纸外烟代，散拼：1包起发/邮费15、散拼10盒/成条包邮单独报价，买烟请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=A0cvDYLN",
+                "start": 0,
+                "url": "https://t.co/6LL8mOeDud"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "location": "自用vpn➡️",
+        "name": "小树（电子烟/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818517642342457344/W-xtl8gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3323,
+          "following_count": 2086,
+          "like_count": 104673,
+          "listed_count": 2,
+          "tweet_count": 12743
+        },
+        "url": "https://t.co/6LL8mOeDud",
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

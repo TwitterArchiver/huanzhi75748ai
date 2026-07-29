@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006784892042907648"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006784896329724010",
+    "created_at": "2026-01-01T17:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006784896329724010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQCN9f1WNW",
+          "end": 154,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2006784896329724010/photo/1",
+          "media_key": "3_2006784892042907648",
+          "start": 131,
+          "url": "https://t.co/eQCN9f1WNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006784896329724010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我本来对今年的年度报告不抱什么希望，因为我今年没有怎么用手机听歌都是用音响放。但是这个词出来的时候还是给我一个惊喜，我本来以为今年是像之前一样“生命、活着、希望、世界”这种给我鼓励的词。没有想到是“今天”但是确实准的要命。“今天”在我过去的一年里，有很大的意义 https://t.co/eQCN9f1WNW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006784896329724010].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006784896329724010",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006784896329724010"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2255,
+        "media_key": "3_2006784892042907648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mIOhbWkAAwsxn.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1326,
+          "like_count": 22341,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4632
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

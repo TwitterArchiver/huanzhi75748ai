@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2028884656402383158",
+    "created_at": "2026-03-03T17:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028884656402383158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2028657278480527778",
+          "start": 127,
+          "url": "https://t.co/wFTIoLf6QV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028884656402383158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028657278480527778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠。我可以接受因为爱和信任上交给别人，但是完全不能接受被上交。别人把工资都给我的话我的压力爆表了直接。一整个月的劳动成果在我手里我会为了负责任地管理这笔钱而焦虑死的。我会害怕对不起这份信任，完成不好管钱的任务。太可怕了。还不如赏我一部分让我一边玩去。 https://t.co/wFTIoLf6QV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2028884656402383158",
+        "created_at": "2026-03-03T17:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028884656402383158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2028657278480527778",
+              "start": 127,
+              "url": "https://t.co/wFTIoLf6QV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028884656402383158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028657278480527778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠。我可以接受因为爱和信任上交给别人，但是完全不能接受被上交。别人把工资都给我的话我的压力爆表了直接。一整个月的劳动成果在我手里我会为了负责任地管理这笔钱而焦虑死的。我会害怕对不起这份信任，完成不好管钱的任务。太可怕了。还不如赏我一部分让我一边玩去。 https://t.co/wFTIoLf6QV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2028657278480527778",
+        "created_at": "2026-03-03T02:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028657278480527778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028657278480527778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12063,
+          "like_count": 77,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国会出现要求婚后上交工资的广泛情况呢？\n我难以理解这样的生活，很窒息很充满不安全感吧，这么想中国简直是亿万万地雷大国啊。\n对我来说，除非一方因有成瘾症状或其他困扰的问题主动请求对方协助管理，不然都太残忍了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1317,
+          "like_count": 23079,
+          "listed_count": 2,
+          "media_count": 492,
+          "tweet_count": 4904
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@Official ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 神待ち……待チ人ハ来ズ。 ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Official"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "VentusUta"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Opiumash"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 276,
+          "like_count": 83359,
+          "listed_count": 7,
+          "media_count": 1082,
+          "tweet_count": 15524
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

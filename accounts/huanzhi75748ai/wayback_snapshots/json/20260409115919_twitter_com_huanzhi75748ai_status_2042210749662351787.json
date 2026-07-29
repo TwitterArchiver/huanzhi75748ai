@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2042210749662351787",
+    "created_at": "2026-04-09T11:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042210749662351787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xvxnuo/status/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/xvxnuo/status/2041956285101543853",
+          "start": 25,
+          "url": "https://t.co/og03hJmt0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042210749662351787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041956285101543853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我三十年前的美照，怎么样，有没有被奶奶迷晕。 https://t.co/og03hJmt0Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2042210749662351787",
+        "created_at": "2026-04-09T11:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042210749662351787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvxnuo/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/xvxnuo/status/2041956285101543853",
+              "start": 25,
+              "url": "https://t.co/og03hJmt0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042210749662351787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041956285101543853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我三十年前的美照，怎么样，有没有被奶奶迷晕。 https://t.co/og03hJmt0Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2041956285101543853",
+        "created_at": "2026-04-08T19:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041956285101543853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041956285101543853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5729,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "年轻一定要多自拍以后老了还能网恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1394,
+          "like_count": 28827,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 5908
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我还想和你谈论宇宙和天空",
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2040792080566640720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041838778499919877/IuFKRgyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 46,
+          "like_count": 20020,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 5588
+        },
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1925422752066150776",
+    "created_at": "2025-05-22T18:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T19:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925619266985807939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925619266985807939",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925422752066150776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 个人感觉不咋地，剧情老套哪吒丑。有时候会玩梗反讽一下hhh。但是不排除一些人真的喜欢吧（比如我舍友的侄子）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1925422752066150776",
+        "created_at": "2025-05-22T18:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T19:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925619266985807939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925619266985807939",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925422752066150776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 个人感觉不咋地，剧情老套哪吒丑。有时候会玩梗反讽一下hhh。但是不排除一些人真的喜欢吧（比如我舍友的侄子）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1925422752066150776",
+        "created_at": "2025-05-22T05:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T06:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925422752066150776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925422752066150776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6635,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是我想问一下，你们真的都那么喜欢那个哪吒吗？我没有不爱国啊，就是为什么这里面有很多东西都是那个元素就那么火吗 甚至有些画风真的有点诡异啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1341,
+          "like_count": 21621,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4164
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "豆沙包 04 坐标上海 农村种地 \n重度抑郁/重度焦虑症/双向情感障碍/心境障碍/精神障碍/精神分裂/分离障碍/\n这些都是确诊过的，不是一下子得的 \n 也许你很想帮助我会给我打赏的对吗\n谢谢你们支持我 喜欢我 我会愿意追随你们滴\n谢谢你们给我的 我想失联会等我吗\nhttps://t.co/WcBjKJ2ok4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wiopqwtrpp5",
+                "end": 155,
+                "expanded_url": "https://ngl.link/wiopqwtrpp5",
+                "start": 132,
+                "url": "https://t.co/WcBjKJ2ok4"
+              }
+            ]
+          }
+        },
+        "id": "1608034171456294912",
+        "location": "距离你800m",
+        "name": "豆沙包（只和妹宝深交版 ）",
+        "pinned_tweet_id": "1919023559864705113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919297836983934976/CyG4IHPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 1824,
+          "like_count": 46537,
+          "listed_count": 7,
+          "media_count": 1581,
+          "tweet_count": 26993
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      }
+    ]
+  }
+}

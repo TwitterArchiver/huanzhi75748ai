@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1888590909803303033",
+    "created_at": "2025-02-12T18:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T19:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889742063383535632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1461152471426863105",
+          "start": 0,
+          "username": "qqc2GvkgkWyehRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889742063383535632",
+    "in_reply_to_user_id": "1461152471426863105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889326918379729221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqc2GvkgkWyehRp 謝謝🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1888590909803303033",
+        "created_at": "2025-02-12T18:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T19:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889742063383535632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1461152471426863105",
+              "start": 0,
+              "username": "qqc2GvkgkWyehRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889742063383535632",
+        "in_reply_to_user_id": "1461152471426863105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889326918379729221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqc2GvkgkWyehRp 謝謝🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461152471426863105",
+        "conversation_id": "1888590909803303033",
+        "created_at": "2025-02-11T14:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T15:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889326918379729221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889326918379729221",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888590909803303033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我也有这些想法，最近在很努力的改变了，感觉做点运动会好很多!感觉变轻了，而且运动完全身都很爽嘿嘿，酸酸的好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1250,
+          "like_count": 19197,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 3750
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T02:01:18.000Z",
+        "description": "听说女孩子用叠词会很可爱，我我觉觉得得我我完完全全掌掌握握了了\\是只会画饼口嗨的猫猫\\",
+        "id": "1461152471426863105",
+        "location": "魔法高校",
+        "name": "苦巧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515598809904349185/z3tsgPZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 329,
+          "like_count": 1947,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1042
+        },
+        "username": "qqc2GvkgkWyehRp",
+        "verified": false
+      }
+    ]
+  }
+}

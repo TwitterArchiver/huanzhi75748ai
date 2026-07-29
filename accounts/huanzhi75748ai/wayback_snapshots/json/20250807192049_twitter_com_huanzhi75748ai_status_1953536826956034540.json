@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1953536826956034540",
+    "created_at": "2025-08-07T19:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T20:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953536826956034540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953536826956034540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又不太焦虑了。。我们科的主任说可以给我加班费嘿嘿😁本来实习生是不给钱的😁我们主任好好😁他说加班的谁做钱就是谁的😁其实没有缺钱到要饭的地步但是想到各种事情都要用钱我就焦虑的要死。😡😡😡我要做钱的唯粉。毒唯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1953536826956034540",
+        "created_at": "2025-08-07T19:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T20:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953536826956034540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953536826956034540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又不太焦虑了。。我们科的主任说可以给我加班费嘿嘿😁本来实习生是不给钱的😁我们主任好好😁他说加班的谁做钱就是谁的😁其实没有缺钱到要饭的地步但是想到各种事情都要用钱我就焦虑的要死。😡😡😡我要做钱的唯粉。毒唯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 1356,
+          "like_count": 21796,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 4307
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

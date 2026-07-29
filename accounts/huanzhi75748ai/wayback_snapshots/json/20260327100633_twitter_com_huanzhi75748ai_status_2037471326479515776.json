@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037429055512007101",
+    "created_at": "2026-03-27T10:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037471326479515776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037471326479515776",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037429055512007101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54188,
+        "height": 1280,
+        "media_key": "13_2037428840583282688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037428840583282688/img/w_sUBQPjaGGvzyVb.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037428840583282688/vid/avc1/320x568/F9m08ag3fGXt5gDy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037428840583282688/vid/avc1/480x852/2AxAe6mC2-2wfBad.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037428840583282688/vid/avc1/720x1280/O3o2chg1-31O4i8i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037428840583282688/pl/RyxJEsXjHvStONoJ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 21668,
+        "height": 1280,
+        "media_key": "13_2037428840583364608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037428840583364608/img/GRdf_tbRT4pR8p20.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037428840583364608/vid/avc1/320x568/BZ3f6hJGLJ5UmlLC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037428840583364608/vid/avc1/480x852/NEmSRbVcV8OzFb2M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037428840583364608/vid/avc1/720x1280/3Y4mDmq6WFpoRcW4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037428840583364608/pl/i7z1FDHCYivC_Mhs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037429055512007101",
+        "created_at": "2026-03-27T10:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037471326479515776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037471326479515776",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037429055512007101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037428840583282688",
+            "13_2037428840583364608"
+          ]
+        },
+        "author_id": "1757105459356704768",
+        "conversation_id": "2037429055512007101",
+        "created_at": "2026-03-27T07:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037429055512007101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixaBrJQ8Ec",
+              "end": 26,
+              "expanded_url": "https://x.com/lingopark21/status/2037429055512007101/video/1",
+              "media_key": "13_2037428840583282688",
+              "start": 3,
+              "url": "https://t.co/ixaBrJQ8Ec"
+            },
+            {
+              "display_url": "pic.x.com/ixaBrJQ8Ec",
+              "end": 26,
+              "expanded_url": "https://x.com/lingopark21/status/2037429055512007101/video/1",
+              "media_key": "13_2037428840583364608",
+              "start": 3,
+              "url": "https://t.co/ixaBrJQ8Ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037429055512007101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午安 https://t.co/ixaBrJQ8Ec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1382,
+          "like_count": 25116,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 5306
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只喜欢碎嘴的麻雀 ｜ all of love 直男",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "1999408311322706210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 114,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 3268
+        },
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

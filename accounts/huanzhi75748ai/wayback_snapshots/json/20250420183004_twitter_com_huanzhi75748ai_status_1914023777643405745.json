@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1914019723429462455",
+    "created_at": "2025-04-20T18:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T19:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914023777643405745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914023777643405745",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914019723429462455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 中间黑一段我都害怕突脸😱呼呼睡带你恐怖一楼一命速通"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88137,
+        "height": 1280,
+        "media_key": "7_1914019368792666112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1914019368792666112/pu/img/u4brcAQ4rXka05Ol.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914019368792666112/pu/vid/avc1/320x568/qEVLSGI-FW5FKJjT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914019368792666112/pu/vid/avc1/480x852/5JBmQHcJKl68PcZB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914019368792666112/pu/vid/avc1/720x1280/voA3zfPrrOgDmB6e.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1914019368792666112/pu/pl/9w_8cPuMzPNdYVR-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1914019723429462455",
+        "created_at": "2025-04-20T18:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T19:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914023777643405745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914023777643405745",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914019723429462455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 中间黑一段我都害怕突脸😱呼呼睡带你恐怖一楼一命速通"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1914019368792666112"
+          ]
+        },
+        "author_id": "1647182072723959808",
+        "conversation_id": "1914019723429462455",
+        "created_at": "2025-04-20T18:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T19:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914019723429462455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSl24rsP55",
+              "end": 36,
+              "expanded_url": "https://x.com/s3450924340204/status/1914019723429462455/video/1",
+              "media_key": "7_1914019368792666112",
+              "start": 13,
+              "url": "https://t.co/KSl24rsP55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914019723429462455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是半夜吃上泡面了好吧（ https://t.co/KSl24rsP55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1909297170261360648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1306,
+          "like_count": 20724,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 4040
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "留下了zZ zZ zZ",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "pinned_tweet_id": "1841792332691083412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908541967350587392/cwYnJKuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 793,
+          "like_count": 150469,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 4411
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

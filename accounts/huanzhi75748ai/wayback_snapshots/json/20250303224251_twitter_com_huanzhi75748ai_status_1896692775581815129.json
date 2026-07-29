@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1896692775581815129",
+    "created_at": "2025-03-03T22:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T23:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896692775581815129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491828502886330368",
+          "start": 3,
+          "username": "ppjiangjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896692775581815129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896505133556695180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ppjiangjiang: 我是完全不能理解那种爱上闺蜜的男朋友的，你看着那个东西都烦死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1896692775581815129",
+        "created_at": "2025-03-03T22:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T23:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896692775581815129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491828502886330368",
+              "start": 3,
+              "username": "ppjiangjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896692775581815129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896505133556695180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ppjiangjiang: 我是完全不能理解那种爱上闺蜜的男朋友的，你看着那个东西都烦死了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491828502886330368",
+        "conversation_id": "1896505133556695180",
+        "created_at": "2025-03-03T10:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896505133556695180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896505133556695180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5244,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是完全不能理解那种爱上闺蜜的男朋友的，你看着那个东西都烦死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1274,
+          "like_count": 20281,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3864
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1891819137913040941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887516529836892165/QAONsznc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 390,
+          "like_count": 41314,
+          "listed_count": 9,
+          "media_count": 1223,
+          "tweet_count": 9224
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

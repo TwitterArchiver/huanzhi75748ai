@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1809044447520510458",
+    "created_at": "2024-07-05T01:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T02:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809044447520510458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809044447520510458",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的感觉有我闺蜜老公网友陪我一天我就能多活一天。真的感谢大家。我感觉我的命都是你们给的。我这么多废话还一直有人愿意听。我诡秘其实是一个很健全的人，和我也有很多不合的地方。但是我真的觉得她是全天下最最好最最可爱最最有趣最应该幸福的人。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1809044447520510458",
+        "created_at": "2024-07-05T01:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T02:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809044447520510458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809044447520510458",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的感觉有我闺蜜老公网友陪我一天我就能多活一天。真的感谢大家。我感觉我的命都是你们给的。我这么多废话还一直有人愿意听。我诡秘其实是一个很健全的人，和我也有很多不合的地方。但是我真的觉得她是全天下最最好最最可爱最最有趣最应该幸福的人。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1190,
+          "like_count": 13333,
+          "listed_count": 1,
+          "tweet_count": 2480
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

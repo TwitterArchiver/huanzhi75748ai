@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919080163956154368"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1919080166015541529",
+    "created_at": "2025-05-04T17:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T18:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919080166015541529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1918949593695617024/lAQ9Jc3j?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1918949593695617024/lAQ9Jc3j?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/qOQVM3nPjG"
+        },
+        {
+          "display_url": "pic.x.com/AaxnKVIgdW",
+          "end": 64,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1919080166015541529/photo/1",
+          "media_key": "3_1919080163956154368",
+          "start": 41,
+          "url": "https://t.co/AaxnKVIgdW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919080166015541529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/qOQVM3nPjG https://t.co/AaxnKVIgdW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919080166015541529].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919080166015541529",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919080166015541529"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1919080163956154368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqHxPcwa4AAVFQw.jpg",
+        "width": 1000
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1331,
+          "like_count": 21095,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4097
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

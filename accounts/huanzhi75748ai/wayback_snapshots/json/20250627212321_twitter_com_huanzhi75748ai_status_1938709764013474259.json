@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1938681362212606447",
+    "created_at": "2025-06-27T21:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T22:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938709764013474259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485268522074730497",
+          "start": 0,
+          "username": "jiulin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938709764013474259",
+    "in_reply_to_user_id": "1485268522074730497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938681362212606447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiulin2333 天才"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1938681359419256832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GueUbMDbMAAhM6F.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1938681362212606447",
+        "created_at": "2025-06-27T21:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T22:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938709764013474259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485268522074730497",
+              "start": 0,
+              "username": "jiulin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938709764013474259",
+        "in_reply_to_user_id": "1485268522074730497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938681362212606447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiulin2333 天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938681359419256832"
+          ]
+        },
+        "author_id": "1485268522074730497",
+        "conversation_id": "1938681362212606447",
+        "created_at": "2025-06-27T19:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938681362212606447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIcc0HHsLF",
+              "end": 46,
+              "expanded_url": "https://x.com/jiulin2333/status/1938681362212606447/photo/1",
+              "media_key": "3_1938681359419256832",
+              "start": 23,
+              "url": "https://t.co/hIcc0HHsLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938681362212606447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天吃碳酸锂的话我肚子里的虫虫会不会变温顺呀 https://t.co/hIcc0HHsLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1356,
+          "like_count": 21945,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 4249
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。\n性别是-奇行种/\nenfp及infp/arcaea/ocart/喜欢水推文\n将来art相关将放在  #JiuLynn_ART",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 68,
+                "tag": "JiuLynn_ART"
+              }
+            ]
+          }
+        },
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910639864951037953/BFY2j0rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 3112,
+          "like_count": 29153,
+          "listed_count": 6,
+          "media_count": 1680,
+          "tweet_count": 22322
+        },
+        "username": "jiulin2333",
+        "verified": false
+      }
+    ]
+  }
+}

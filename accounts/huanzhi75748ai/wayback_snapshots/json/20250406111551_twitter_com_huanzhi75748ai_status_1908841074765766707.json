@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1908766952941813789",
+    "created_at": "2025-04-06T11:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T12:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908841074765766707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908841074765766707",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908766952941813789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 😿🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1908766952941813789",
+        "created_at": "2025-04-06T11:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T12:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908841074765766707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908841074765766707",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908766952941813789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 😿🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1908766952941813789",
+        "created_at": "2025-04-06T06:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T07:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908766952941813789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908766952941813789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊 我的人生要完结了 没有感兴趣的东西和爱好 好想对什么产生兴趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 1275,
+          "like_count": 20718,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3956
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "🐱💊🐸🌲Ftx_aspd_习惯性点赞💍❤️：@CoFfffEeeeE1 ✚各类一次性飞雾小黑条鸭嘴兽song条齐全75-95+元。悦刻五六代正品or其他杆子110-200r♦悦刻原装果味弹75💰纸外烟代，全国无禁区，散拼：1包起发/邮费15、10盒起邮费5。诚信第一♦占卜详细解读30，是与否10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894901825498644480/Ix9mLFco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3963,
+          "following_count": 2150,
+          "like_count": 122007,
+          "listed_count": 7,
+          "media_count": 1532,
+          "tweet_count": 16304
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

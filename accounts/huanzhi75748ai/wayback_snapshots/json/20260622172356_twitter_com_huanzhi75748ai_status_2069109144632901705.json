@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069042674691448833",
+        "3_2069042674691452928"
+      ],
+      "media_source_tweet_id": [
+        "2069042682463408198",
+        "2069042682463408198"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2069109144632901705",
+    "created_at": "2026-06-22T17:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069109144632901705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1615560860155678720",
+          "start": 3,
+          "username": "0live51"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5D0v6y470b",
+          "end": 57,
+          "expanded_url": "https://x.com/0live51/status/2069042682463408198/photo/1",
+          "media_key": "3_2069042674691448833",
+          "start": 34,
+          "url": "https://t.co/5D0v6y470b"
+        },
+        {
+          "display_url": "pic.x.com/5D0v6y470b",
+          "end": 57,
+          "expanded_url": "https://x.com/0live51/status/2069042682463408198/photo/1",
+          "media_key": "3_2069042674691452928",
+          "start": 34,
+          "url": "https://t.co/5D0v6y470b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069109144632901705",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 590
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069042682463408198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0live51: 침대 옆에 가발 벗어두고 자는거 웃겨 https://t.co/5D0v6y470b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1369,
+        "media_key": "3_2069042674691448833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLa3WbIboAE5eZk.jpg",
+        "width": 1369
+      },
+      {
+        "height": 1396,
+        "media_key": "3_2069042674691452928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLa3WbIbsAAsXva.jpg",
+        "width": 1396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069042674691448833",
+            "3_2069042674691452928"
+          ],
+          "media_source_tweet_id": [
+            "2069042682463408198",
+            "2069042682463408198"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2069109144632901705",
+        "created_at": "2026-06-22T17:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069109144632901705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1615560860155678720",
+              "start": 3,
+              "username": "0live51"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D0v6y470b",
+              "end": 57,
+              "expanded_url": "https://x.com/0live51/status/2069042682463408198/photo/1",
+              "media_key": "3_2069042674691448833",
+              "start": 34,
+              "url": "https://t.co/5D0v6y470b"
+            },
+            {
+              "display_url": "pic.x.com/5D0v6y470b",
+              "end": 57,
+              "expanded_url": "https://x.com/0live51/status/2069042682463408198/photo/1",
+              "media_key": "3_2069042674691452928",
+              "start": 34,
+              "url": "https://t.co/5D0v6y470b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069109144632901705",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 590
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069042682463408198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0live51: 침대 옆에 가발 벗어두고 자는거 웃겨 https://t.co/5D0v6y470b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069042674691448833",
+            "3_2069042674691452928"
+          ]
+        },
+        "author_id": "1615560860155678720",
+        "conversation_id": "2069042682463408198",
+        "created_at": "2026-06-22T12:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069042682463408198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D0v6y470b",
+              "end": 44,
+              "expanded_url": "https://x.com/0live51/status/2069042682463408198/photo/1",
+              "media_key": "3_2069042674691448833",
+              "start": 21,
+              "url": "https://t.co/5D0v6y470b"
+            },
+            {
+              "display_url": "pic.x.com/5D0v6y470b",
+              "end": 44,
+              "expanded_url": "https://x.com/0live51/status/2069042682463408198/photo/1",
+              "media_key": "3_2069042674691452928",
+              "start": 21,
+              "url": "https://t.co/5D0v6y470b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069042682463408198",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 50459,
+          "like_count": 2026,
+          "quote_count": 44,
+          "reply_count": 0,
+          "retweet_count": 590
+        },
+        "reply_settings": "everyone",
+        "text": "침대 옆에 가발 벗어두고 자는거 웃겨 https://t.co/5D0v6y470b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31571,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 6613
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T04:05:08.000Z",
+        "description": "💬 5llive5il@gmail.com 인장은 쿠우이님//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "postype.com/@0live51",
+                "end": 23,
+                "expanded_url": "http://postype.com/@0live51",
+                "start": 0,
+                "url": "https://t.co/lhPHUhBU2l"
+              }
+            ]
+          }
+        },
+        "id": "1615560860155678720",
+        "name": "➎➊",
+        "pinned_tweet_id": "2067954748154896419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060724050717241344/9A6BRSG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92532,
+          "following_count": 87,
+          "like_count": 7782,
+          "listed_count": 87,
+          "media_count": 1347,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/lhPHUhBU2l",
+        "username": "0live51",
+        "verified": false
+      }
+    ]
+  }
+}

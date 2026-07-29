@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1855359367329267817",
+    "created_at": "2024-11-09T21:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T22:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855359367329267817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822360993948925952",
+          "start": 3,
+          "username": "6750401wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855359367329267817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854653042236572006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6750401wen: 精神上都这么喜欢你了，如果不想睡你的话感觉对你的肉体特别不尊重。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1855359367329267817",
+        "created_at": "2024-11-09T21:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T22:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855359367329267817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822360993948925952",
+              "start": 3,
+              "username": "6750401wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855359367329267817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854653042236572006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6750401wen: 精神上都这么喜欢你了，如果不想睡你的话感觉对你的肉体特别不尊重。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822360993948925952",
+        "conversation_id": "1854653042236572006",
+        "created_at": "2024-11-07T22:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T23:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854653042236572006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854653042236572006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2506,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "精神上都这么喜欢你了，如果不想睡你的话感觉对你的肉体特别不尊重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1258,
+          "like_count": 18560,
+          "listed_count": 1,
+          "tweet_count": 3634
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T19:55:08.000Z",
+        "description": "如果你愿意认真听我说话 @loveforcarrot 自用紫鸟vpn https://t.co/ucrIwGNXY6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "loveforcarrot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ziniao.sbs/#/login?code=o…",
+                "end": 58,
+                "expanded_url": "https://ziniao.sbs/#/login?code=oIBbV0KL",
+                "start": 35,
+                "url": "https://t.co/ucrIwGNXY6"
+              }
+            ]
+          }
+        },
+        "id": "1822360993948925952",
+        "location": "湖边公路",
+        "name": "果子狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847333597113700356/KHXU_BLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 416,
+          "like_count": 12173,
+          "listed_count": 2,
+          "tweet_count": 5775
+        },
+        "username": "6750401wen",
+        "verified": false
+      }
+    ]
+  }
+}

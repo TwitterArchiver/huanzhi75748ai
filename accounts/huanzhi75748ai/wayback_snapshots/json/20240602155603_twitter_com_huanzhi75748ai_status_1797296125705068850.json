@@ -1,0 +1,155 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797295797865701376",
+        "3_1797295928790945792",
+        "3_1797295985594413057",
+        "3_1797296052682276864"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1797296125705068850",
+    "created_at": "2024-06-02T15:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T16:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797296125705068850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/xqvBi09hpO",
+          "end": 62,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1797296125705068850/photo/1",
+          "media_key": "3_1797295797865701376",
+          "start": 39,
+          "url": "https://t.co/xqvBi09hpO"
+        },
+        {
+          "display_url": "pic.twitter.com/xqvBi09hpO",
+          "end": 62,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1797296125705068850/photo/1",
+          "media_key": "3_1797295928790945792",
+          "start": 39,
+          "url": "https://t.co/xqvBi09hpO"
+        },
+        {
+          "display_url": "pic.twitter.com/xqvBi09hpO",
+          "end": 62,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1797296125705068850/photo/1",
+          "media_key": "3_1797295985594413057",
+          "start": 39,
+          "url": "https://t.co/xqvBi09hpO"
+        },
+        {
+          "display_url": "pic.twitter.com/xqvBi09hpO",
+          "end": 62,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1797296125705068850/photo/1",
+          "media_key": "3_1797296052682276864",
+          "start": 39,
+          "url": "https://t.co/xqvBi09hpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797296125705068850",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "红贝印呀～艾啦呜呦\n又没傻芬～死kii答油\n小小红贝印我真的要夸你了\n好宝宝 https://t.co/xqvBi09hpO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1797296125705068850].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1797296125705068850",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1797296125705068850"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1797295797865701376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPFHAXQWYAAAMqo.jpg",
+        "width": 3120
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1797295928790945792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPFHH-_XEAANPGY.jpg",
+        "width": 3120
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1797295985594413057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPFHLSmXMAE4xIB.jpg",
+        "width": 3120
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1797296052682276864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPFHPMhWwAA8EVk.jpg",
+        "width": 3120
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1149,
+          "like_count": 10803,
+          "listed_count": 1,
+          "tweet_count": 2017
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

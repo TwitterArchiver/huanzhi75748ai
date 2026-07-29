@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2039226296602173662",
+    "created_at": "2026-04-01T10:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039296477915386080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979627040157667328",
+          "start": 0,
+          "username": "Not0wned_zhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039296477915386080",
+    "in_reply_to_user_id": "1979627040157667328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039226296602173662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Not0wned_zhao 魅魔来的！🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15766,
+        "height": 720,
+        "media_key": "13_2039226229950492673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039226229950492673/img/eA6SWWJxytRvf3BR.jpg",
+        "public_metrics": {
+          "view_count": 7584
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039226229950492673/vid/avc1/360x270/SSX-3L_xoSz-kG28.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039226229950492673/vid/avc1/480x360/lBLb-UxjE_VDNZKA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039226229950492673/vid/avc1/960x720/moHg620gLZnK-9Pe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039226229950492673/pl/2fFZ4QX2Jwj0pZOo.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2039226296602173662",
+        "created_at": "2026-04-01T10:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039296477915386080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979627040157667328",
+              "start": 0,
+              "username": "Not0wned_zhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039296477915386080",
+        "in_reply_to_user_id": "1979627040157667328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039226296602173662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Not0wned_zhao 魅魔来的！🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039226229950492673"
+          ]
+        },
+        "author_id": "1979627040157667328",
+        "conversation_id": "2039226296602173662",
+        "created_at": "2026-04-01T06:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039226296602173662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgWId0S2aH",
+              "end": 30,
+              "expanded_url": "https://x.com/Not0wned_zhao/status/2039226296602173662/video/1",
+              "media_key": "13_2039226229950492673",
+              "start": 7,
+              "url": "https://t.co/HgWId0S2aH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039226296602173662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 20809,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 112,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绳不系就这样 https://t.co/HgWId0S2aH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1390,
+          "like_count": 26908,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 5601
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T19:14:52.000Z",
+        "description": "我叫昭昭｜♒️05/173/50 ｜发自己爱看的(o^^o) ｜只看高壮帅男｜不聊骚不线下不约无门不加v｜不闲聊没有义务回答别骚扰🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=xiadQvfC",
+                "start": 0,
+                "url": "https://t.co/SlnWdFFnZT"
+              }
+            ]
+          }
+        },
+        "id": "1979627040157667328",
+        "location": "玩x只为黄和放松 没义务陪聊谢谢 没回就是不想回",
+        "name": "魅魔村村长",
+        "pinned_tweet_id": "2023800898447904980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018701608016830464/R7efrGA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 15,
+          "like_count": 212,
+          "listed_count": 5,
+          "media_count": 218,
+          "tweet_count": 1989
+        },
+        "url": "https://t.co/SlnWdFFnZT",
+        "username": "Not0wned_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

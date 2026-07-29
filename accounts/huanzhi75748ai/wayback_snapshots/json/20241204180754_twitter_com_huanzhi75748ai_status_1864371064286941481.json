@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1864371040438173696",
+        "7_1864371050911338496"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1864371064286941481",
+    "created_at": "2024-12-04T18:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T19:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864371064286941481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AxC1KSHZkF",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1864371064286941481/video/1",
+          "media_key": "7_1864371040438173696",
+          "start": 14,
+          "url": "https://t.co/AxC1KSHZkF"
+        },
+        {
+          "display_url": "pic.x.com/AxC1KSHZkF",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1864371064286941481/video/1",
+          "media_key": "7_1864371050911338496",
+          "start": 14,
+          "url": "https://t.co/AxC1KSHZkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864371064286941481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像割了很多，实则确实不少 https://t.co/AxC1KSHZkF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1864371064286941481].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1864371064286941481",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1864371064286941481"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3172,
+        "height": 720,
+        "media_key": "7_1864371040438173696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864371040438173696/pu/img/PODeXvtlIdw6iBMW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864371040438173696/pu/vid/avc1/320x320/CkEDejzGqEA38kqb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864371040438173696/pu/vid/avc1/540x540/b6JVuSAlEYhPjS4u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864371040438173696/pu/vid/avc1/720x720/XdO4n1eW3E--U1aw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864371040438173696/pu/pl/scOyXJXakJz2kV_w.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3097,
+        "height": 720,
+        "media_key": "7_1864371050911338496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864371050911338496/pu/img/zHF1ML-PmhuW4hRB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864371050911338496/pu/vid/avc1/320x320/xvHMkhRap73BciJL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864371050911338496/pu/vid/avc1/540x540/eO7ujtnPEGOZ4sAo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864371050911338496/pu/vid/avc1/720x720/M8GiXETiWOWGlzAW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864371050911338496/pu/pl/ut9snvalPvT1vMTM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1263,
+          "like_count": 19168,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 3814
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037064942957072646",
+    "created_at": "2026-03-26T11:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037129774339162222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889155672933298176",
+          "start": 0,
+          "username": "HuaJuan15407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037129774339162222",
+    "in_reply_to_user_id": "1889155672933298176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037064942957072646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaJuan15407 我靠是真的。我现在也喜欢那种调情的暴力，但是之前被父母打的时候真的太绝望了。所以我从小就知道求饶和撒娇不管用，反抗才管用。他们一直打到我高中毕业，最后一次打我是因为我实在无处可逃了肘击了一下，然后后面就没有淤青见血程度的打了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037064942957072646",
+        "created_at": "2026-03-26T11:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037129774339162222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889155672933298176",
+              "start": 0,
+              "username": "HuaJuan15407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037129774339162222",
+        "in_reply_to_user_id": "1889155672933298176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037064942957072646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaJuan15407 我靠是真的。我现在也喜欢那种调情的暴力，但是之前被父母打的时候真的太绝望了。所以我从小就知道求饶和撒娇不管用，反抗才管用。他们一直打到我高中毕业，最后一次打我是因为我实在无处可逃了肘击了一下，然后后面就没有淤青见血程度的打了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889155672933298176",
+        "conversation_id": "2037064942957072646",
+        "created_at": "2026-03-26T07:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037064942957072646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uii1556158/sta…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/uii1556158/status/2036807848336986255",
+              "start": 138,
+              "url": "https://t.co/s34hzIm70H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037064942957072646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6582,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036807848336986255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去你们知道这种话对于一个挨过家暴的人来说多恐怖吗？我知道说的是那种调情式的那种，但是。超级恐怖。被完全反抗不了的人压在地上打很恐怖的。很痛，整个脑袋都是昏的。嘴巴里都是血的味道。我左右眼视力差70度左右吧，是被打的\n等肾上腺素过去之后，整个身体都痛，到处都痛\n不要美化暴力 https://t.co/s34hzIm70H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1383,
+          "like_count": 25321,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 5264
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:33:28.000Z",
+        "description": "喵喵喵高P ／死宅／ENFP? ／找我玩 ／有什么话都可以跟我说，我很喜欢听别人聊天🥺🥺来找我玩好吗？ @xmntng23176这个是平板上的号，一般在学校会用！顺便发点同人摸鱼（@tree_and_apple这个会发些照片，所以互关可进！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "xmntng23176"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "tree_and_apple"
+              }
+            ]
+          }
+        },
+        "id": "1889155672933298176",
+        "location": "Time machine",
+        "name": "烂苹果",
+        "pinned_tweet_id": "2002926574631629037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036307413519966211/GQRF3xT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 796,
+          "like_count": 34331,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 2883
+        },
+        "username": "HuaJuan15407",
+        "verified": false
+      }
+    ]
+  }
+}

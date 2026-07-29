@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2048615900975394884",
+    "created_at": "2026-04-27T04:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048615900975394884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acnekot/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/acnekot/status/2047909235678425512",
+          "start": 5,
+          "url": "https://t.co/EIboxPial5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048615900975394884",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047909235678425512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠笑死 https://t.co/EIboxPial5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2047909225226186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuilw3aMAACUXw.png",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2048615900975394884",
+        "created_at": "2026-04-27T04:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048615900975394884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/acnekot/status/2047909235678425512",
+              "start": 5,
+              "url": "https://t.co/EIboxPial5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048615900975394884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047909235678425512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠笑死 https://t.co/EIboxPial5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047909225226186752"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2047909235678425512",
+        "created_at": "2026-04-25T05:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047909235678425512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUyFR4eEfQ",
+              "end": 23,
+              "expanded_url": "https://x.com/acnekot/status/2047909235678425512/photo/1",
+              "media_key": "3_2047909225226186752",
+              "start": 0,
+              "url": "https://t.co/NUyFR4eEfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047909235678425512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 25292,
+          "like_count": 923,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NUyFR4eEfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 1400,
+          "like_count": 30181,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 6177
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 795,
+          "like_count": 91022,
+          "listed_count": 6,
+          "media_count": 3697,
+          "tweet_count": 15912
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

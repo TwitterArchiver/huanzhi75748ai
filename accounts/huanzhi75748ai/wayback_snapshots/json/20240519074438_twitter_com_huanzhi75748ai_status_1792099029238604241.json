@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1753788538225934745",
+    "created_at": "2024-05-19T07:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T08:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792099029238604241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739742344860315648",
+          "start": 0,
+          "username": "nmlgb160041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792099029238604241",
+    "in_reply_to_user_id": "1739742344860315648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792072636123750731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmlgb160041 厕所很有安全感，比家里。我在哪里都能睡着。我在操场食堂楼道厕所都睡过（到处睡觉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1753788538225934745",
+        "created_at": "2024-05-19T07:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T08:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792099029238604241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739742344860315648",
+              "start": 0,
+              "username": "nmlgb160041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792099029238604241",
+        "in_reply_to_user_id": "1739742344860315648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792072636123750731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmlgb160041 厕所很有安全感，比家里。我在哪里都能睡着。我在操场食堂楼道厕所都睡过（到处睡觉）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1739742344860315648",
+        "conversation_id": "1753788538225934745",
+        "created_at": "2024-05-19T05:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T06:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792072636123750731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792072636123750731",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1753788538225934745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 啊😦怎么做到的……在厕所睡着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1097,
+          "like_count": 8131,
+          "listed_count": 1,
+          "tweet_count": 1617
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T20:18:27.000Z",
+        "description": "爱吃葡萄山竹和西红柿",
+        "id": "1739742344860315648",
+        "name": "重生之我是法夫纳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791861277482266624/fsjhO-Q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 127,
+          "listed_count": 0,
+          "tweet_count": 75
+        },
+        "username": "nmlgb160041",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1807830748751356335",
+    "created_at": "2024-07-01T17:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T18:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807830748751356335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700917352064561152",
+          "start": 3,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807830748751356335",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807437439402971370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jing1234560: 闺蜜耐药太厉害了 如果有人想迷奸她肯定放不倒她 她还会一边跑一边大喊我药效呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1807830748751356335",
+        "created_at": "2024-07-01T17:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T18:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807830748751356335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700917352064561152",
+              "start": 3,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807830748751356335",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807437439402971370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jing1234560: 闺蜜耐药太厉害了 如果有人想迷奸她肯定放不倒她 她还会一边跑一边大喊我药效呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "1807437439402971370",
+        "created_at": "2024-06-30T15:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T16:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807437439402971370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807437439402971370",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15678,
+          "like_count": 201,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜耐药太厉害了 如果有人想迷奸她肯定放不倒她 她还会一边跑一边大喊我药效呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知\n傻逼@icnlovecn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "icnlovecn"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1167,
+          "like_count": 12725,
+          "listed_count": 1,
+          "tweet_count": 2339
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了🚪20块钱 过门私信 小号@xingyi1234560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1794419065123184824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 89,
+          "like_count": 7207,
+          "listed_count": 0,
+          "tweet_count": 2298
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

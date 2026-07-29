@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1997411335169249645",
+    "created_at": "2025-12-06T21:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T22:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997411335169249645"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "星尘Infinity",
+          "probability": 0.2517,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 34,
+          "normalized_text": "中国",
+          "probability": 0.7831,
+          "start": 33,
+          "type": "Place"
+        },
+        {
+          "end": 53,
+          "normalized_text": "日本",
+          "probability": 0.6748,
+          "start": 52,
+          "type": "Place"
+        },
+        {
+          "end": 76,
+          "normalized_text": "日本",
+          "probability": 0.6235,
+          "start": 75,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1789879257382158336",
+          "start": 3,
+          "username": "kanade_desuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997411335169249645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 943
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996880015041220808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanade_desuuuu: 星尘Infinityという中国のボカロの子がいるんですけどずっと日本から買うのは難しかったんですよ\nですが最近日本からでも購入しやすくなったのでマジで買ったほうがいいですよ！\n\n自分の曲の宣伝みたいになってしまいますが本当に素晴らしい歌声…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22366,
+        "height": 1080,
+        "media_key": "13_1996879288021536771",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996879288021536771/img/o_nKpcjywXaCINFT.jpg",
+        "public_metrics": {
+          "view_count": 76130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996879288021536771/vid/avc1/1920x1080/VngN86lEFZgH_dmv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996879288021536771/vid/avc1/1280x720/xbGR9FHuCYgXGjvz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996879288021536771/vid/avc1/640x360/4fCSfLRTwHRf235j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996879288021536771/pl/i45PbI4FEsDm4Vyc.m3u8?v=4ab"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996879288021536771/vid/avc1/480x270/CxTIFV2-tmdqwFjW.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1997411335169249645",
+        "created_at": "2025-12-06T21:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T22:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997411335169249645"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "星尘Infinity",
+              "probability": 0.2517,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "中国",
+              "probability": 0.7831,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 53,
+              "normalized_text": "日本",
+              "probability": 0.6748,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "日本",
+              "probability": 0.6235,
+              "start": 75,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1789879257382158336",
+              "start": 3,
+              "username": "kanade_desuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997411335169249645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 943
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996880015041220808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanade_desuuuu: 星尘Infinityという中国のボカロの子がいるんですけどずっと日本から買うのは難しかったんですよ\nですが最近日本からでも購入しやすくなったのでマジで買ったほうがいいですよ！\n\n自分の曲の宣伝みたいになってしまいますが本当に素晴らしい歌声…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996879288021536771"
+          ]
+        },
+        "author_id": "1789879257382158336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1996880015041220808",
+        "created_at": "2025-12-05T09:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996880015041220808"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "星尘Infinity",
+              "probability": 0.1753,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 14,
+              "normalized_text": "中国",
+              "probability": 0.8055,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 33,
+              "normalized_text": "日本",
+              "probability": 0.655,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 56,
+              "normalized_text": "日本",
+              "probability": 0.6154,
+              "start": 55,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwzRIx3u9n",
+              "end": 170,
+              "expanded_url": "https://x.com/kanade_desuuuu/status/1996880015041220808/video/1",
+              "media_key": "13_1996879288021536771",
+              "start": 147,
+              "url": "https://t.co/FwzRIx3u9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996880015041220808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2512,
+          "impression_count": 159676,
+          "like_count": 8014,
+          "quote_count": 51,
+          "reply_count": 5,
+          "retweet_count": 943
+        },
+        "reply_settings": "everyone",
+        "text": "星尘Infinityという中国のボカロの子がいるんですけどずっと日本から買うのは難しかったんですよ\nですが最近日本からでも購入しやすくなったのでマジで買ったほうがいいですよ！\n\n自分の曲の宣伝みたいになってしまいますが本当に素晴らしい歌声なので聴いてみてください\n星尘ユーザー増えろ...！！ https://t.co/FwzRIx3u9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1340,
+          "like_count": 21956,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4532
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T04:44:12.000Z",
+        "description": "ボカロP ∥ 絵と映像も少しだけ ∥ https://t.co/vxYFAu1Bvw ∥ Mail : kanade.desuuuu@gmail.com ∥ 1/n of @GALgaoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "GALgaoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@kanade_desuuuu",
+                "end": 42,
+                "expanded_url": "https://www.youtube.com/@kanade_desuuuu",
+                "start": 19,
+                "url": "https://t.co/vxYFAu1Bvw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/kanade-desuuuu",
+                "end": 23,
+                "expanded_url": "https://potofu.me/kanade-desuuuu",
+                "start": 0,
+                "url": "https://t.co/fGgcrARf8f"
+              }
+            ]
+          }
+        },
+        "id": "1789879257382158336",
+        "location": "ご依頼等はDMまたはメールへ",
+        "name": "奏",
+        "pinned_tweet_id": "1958831513685959002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790891537443979264/k4eErtJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 111,
+          "like_count": 9977,
+          "listed_count": 35,
+          "media_count": 305,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/fGgcrARf8f",
+        "username": "kanade_desuuuu",
+        "verified": true
+      }
+    ]
+  }
+}

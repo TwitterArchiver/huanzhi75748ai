@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2035344685116604499",
+    "created_at": "2026-03-22T03:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035557313604632987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035557313604632987",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035344685116604499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 因为照片很姐姐🥴如果不是有主页简介的话我也以为你是女生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2035344677483012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7_M1DbYAAmwmJ.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2035344685116604499",
+        "created_at": "2026-03-22T03:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035557313604632987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035557313604632987",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035344685116604499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 因为照片很姐姐🥴如果不是有主页简介的话我也以为你是女生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035344677483012096"
+          ]
+        },
+        "author_id": "1757105459356704768",
+        "conversation_id": "2035344685116604499",
+        "created_at": "2026-03-21T13:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035344685116604499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9rdODEaWE",
+              "end": 27,
+              "expanded_url": "https://x.com/lingopark21/status/2035344685116604499/photo/1",
+              "media_key": "3_2035344677483012096",
+              "start": 4,
+              "url": "https://t.co/y9rdODEaWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035344685116604499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1073,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合翼卫 https://t.co/y9rdODEaWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 1353,
+          "like_count": 24263,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 5065
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只喜欢碎嘴的麻雀 ｜ all of love 直男",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "1999408311322706210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 94,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2905
+        },
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

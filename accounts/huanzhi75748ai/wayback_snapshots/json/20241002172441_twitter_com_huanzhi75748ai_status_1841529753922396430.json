@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841393982456422400"
+      ],
+      "media_source_tweet_id": [
+        "1841393991235051830"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841529753922396430",
+    "created_at": "2024-10-02T17:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T18:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841529753922396430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634934184354664449",
+          "start": 3,
+          "username": "lml55vvinc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTWf2aC5Cz",
+          "end": 48,
+          "expanded_url": "https://x.com/lml55vvinc/status/1841393991235051830/photo/1",
+          "media_key": "3_1841393982456422400",
+          "start": 25,
+          "url": "https://t.co/xTWf2aC5Cz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841529753922396430",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841393991235051830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lml55vvinc: 對⋯⋯對不起⋯⋯ https://t.co/xTWf2aC5Cz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1841393982456422400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY3yEifbYAA11w5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841393982456422400"
+          ],
+          "media_source_tweet_id": [
+            "1841393991235051830"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "1841529753922396430",
+        "created_at": "2024-10-02T17:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T18:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841529753922396430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634934184354664449",
+              "start": 3,
+              "username": "lml55vvinc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTWf2aC5Cz",
+              "end": 48,
+              "expanded_url": "https://x.com/lml55vvinc/status/1841393991235051830/photo/1",
+              "media_key": "3_1841393982456422400",
+              "start": 25,
+              "url": "https://t.co/xTWf2aC5Cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841529753922396430",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841393991235051830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lml55vvinc: 對⋯⋯對不起⋯⋯ https://t.co/xTWf2aC5Cz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841393982456422400"
+          ]
+        },
+        "author_id": "1634934184354664449",
+        "conversation_id": "1841393991235051830",
+        "created_at": "2024-10-02T08:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T09:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841393991235051830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTWf2aC5Cz",
+              "end": 32,
+              "expanded_url": "https://x.com/lml55vvinc/status/1841393991235051830/photo/1",
+              "media_key": "3_1841393982456422400",
+              "start": 9,
+              "url": "https://t.co/xTWf2aC5Cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841393991235051830",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 80824,
+          "like_count": 1059,
+          "quote_count": 27,
+          "reply_count": 49,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "對⋯⋯對不起⋯⋯ https://t.co/xTWf2aC5Cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1250,
+          "like_count": 16652,
+          "listed_count": 1,
+          "tweet_count": 3149
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:07:48.000Z",
+        "description": "剪刀石頭出布布｜🍪餅乾怪🍪｜布丁狗｜單｜動漫宅宅｜大小圈影片都會有｜陰晴不定｜禁止🚫認親｜私訊都會看但不一定回｜現實生活很忙碌所以不要催我回訊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bubu80891?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bubu80891?igsh=bWd5Z2lzazN2dTUw&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/iZpm2qEwvP"
+              }
+            ]
+          }
+        },
+        "id": "1634934184354664449",
+        "name": "布布",
+        "pinned_tweet_id": "1840784748203094104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837164073206820864/SCjHc2Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19971,
+          "following_count": 123,
+          "like_count": 1477,
+          "listed_count": 14,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/iZpm2qEwvP",
+        "username": "lml55vvinc",
+        "verified": false
+      }
+    ]
+  }
+}

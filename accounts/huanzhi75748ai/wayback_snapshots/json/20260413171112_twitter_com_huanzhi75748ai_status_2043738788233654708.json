@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043565344674152773",
+    "created_at": "2026-04-13T17:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043738788233654708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503409133399150596",
+          "start": 0,
+          "username": "dengdengmiu"
+        },
+        {
+          "end": 22,
+          "id": "1635516217200099328",
+          "start": 13,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043738788233654708",
+    "in_reply_to_user_id": "1503409133399150596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043695314394284415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengdengmiu @ywxqz_sy 🐈🐧咕咕嘎嘎喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043565344674152773",
+        "created_at": "2026-04-13T17:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043738788233654708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503409133399150596",
+              "start": 0,
+              "username": "dengdengmiu"
+            },
+            {
+              "end": 22,
+              "id": "1635516217200099328",
+              "start": 13,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043738788233654708",
+        "in_reply_to_user_id": "1503409133399150596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043695314394284415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengdengmiu @ywxqz_sy 🐈🐧咕咕嘎嘎喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503409133399150596",
+        "conversation_id": "2043565344674152773",
+        "created_at": "2026-04-13T14:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043695314394284415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043695314394284415",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043565344674152773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 🐱🐧喵嘎喵嘎！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1396,
+          "like_count": 29229,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 5986
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T16:34:13.000Z",
+        "description": "这个世界是开放地图游戏，请你享受其中\n大家来玩\nhttps://t.co/bDHilrScFA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dengdengmiu",
+                "end": 47,
+                "expanded_url": "https://ngl.link/dengdengmiu",
+                "start": 24,
+                "url": "https://t.co/bDHilrScFA"
+              }
+            ]
+          }
+        },
+        "id": "1503409133399150596",
+        "location": "zhejiang",
+        "name": "灯灯（remake版）",
+        "pinned_tweet_id": "2040625403212230922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503411107028824068/hnk4rqha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 426,
+          "like_count": 31760,
+          "listed_count": 15,
+          "media_count": 611,
+          "tweet_count": 5732
+        },
+        "username": "dengdengmiu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "顺女\n纯自恋\n女生和互关欢迎私信\n联系方式看心情给\n没有🚪，什么都不🈷️，不聊骚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2041771400126722473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 591,
+          "like_count": 10899,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 3208
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": false
+      }
+    ]
+  }
+}

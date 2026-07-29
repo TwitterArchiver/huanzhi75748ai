@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1822658639959581159",
+    "created_at": "2024-08-11T19:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T20:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822718883033489762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822718883033489762",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822658639959581159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 王欠欠是挺欠的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1822658639959581159",
+        "created_at": "2024-08-11T19:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T20:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822718883033489762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822718883033489762",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822658639959581159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 王欠欠是挺欠的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822658639959581159",
+        "created_at": "2024-08-11T15:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T16:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822658639959581159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fgbielai8964/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/fgbielai8964/status/1822634886978494517",
+              "start": 23,
+              "url": "https://t.co/KXWPYY32iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822658639959581159",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8032,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822634886978494517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉它像个皮下男…哪有女的打完胎还这种语气的 https://t.co/KXWPYY32iz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1223,
+          "like_count": 14967,
+          "listed_count": 1,
+          "tweet_count": 2861
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1814792606179865072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17295,
+          "following_count": 2187,
+          "like_count": 52029,
+          "listed_count": 22,
+          "tweet_count": 18249
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

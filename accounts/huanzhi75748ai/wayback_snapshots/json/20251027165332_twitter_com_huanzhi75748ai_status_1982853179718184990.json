@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1982853179718184990",
+    "created_at": "2025-10-27T16:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T17:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982853179718184990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RabbiTuT_en/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/RabbiTuT_en/status/1982352024026145129",
+          "start": 4,
+          "url": "https://t.co/tPcDQkSXKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982853179718184990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982352024026145129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了 https://t.co/tPcDQkSXKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_1982352021442146304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4K6qRnWMAAiNOK.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1982853179718184990",
+        "created_at": "2025-10-27T16:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982853179718184990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RabbiTuT_en/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/RabbiTuT_en/status/1982352024026145129",
+              "start": 4,
+              "url": "https://t.co/tPcDQkSXKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982853179718184990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982352024026145129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了 https://t.co/tPcDQkSXKi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982352021442146304"
+          ]
+        },
+        "author_id": "1609816524336017408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982352024026145129",
+        "created_at": "2025-10-26T07:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982352024026145129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8L5Y1lhQFr",
+              "end": 29,
+              "expanded_url": "https://x.com/RabbiTuT_en/status/1982352024026145129/photo/1",
+              "media_key": "3_1982352021442146304",
+              "start": 6,
+              "url": "https://t.co/8L5Y1lhQFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982352024026145129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 237946,
+          "like_count": 1865,
+          "quote_count": 23,
+          "reply_count": 72,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "我被抛弃了 https://t.co/8L5Y1lhQFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1346,
+          "like_count": 21985,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 4457
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T07:39:25.000Z",
+        "description": "我叫恩恩哟｜想跟我聊天先给我打钱 妹子免费｜🚪52",
+        "id": "1609816524336017408",
+        "location": "一个不会寂寞不会痛苦的星球上",
+        "name": "离开母星的那一夜",
+        "pinned_tweet_id": "1975736375090815112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979375100001460224/9c9-WMgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 281,
+          "like_count": 4916,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 3034
+        },
+        "username": "RabbiTuT_en",
+        "verified": false
+      }
+    ]
+  }
+}

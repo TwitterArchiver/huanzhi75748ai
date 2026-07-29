@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2053126511516139569",
+    "created_at": "2026-05-09T15:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053136862295035944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906360034725961728",
+          "start": 0,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053136862295035944",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053132483726848411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyou_329 嗷嗷。如果刚加上就卡泡聊骚各种要求确实很冒犯。我理解偏了，以为是啥都不聊呢。因为我很害怕自己找话题聊天是骚扰别人所以有点代入了。谢谢答疑hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2053126511516139569",
+        "created_at": "2026-05-09T15:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053136862295035944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053136862295035944",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053132483726848411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 嗷嗷。如果刚加上就卡泡聊骚各种要求确实很冒犯。我理解偏了，以为是啥都不聊呢。因为我很害怕自己找话题聊天是骚扰别人所以有点代入了。谢谢答疑hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2053126511516139569",
+        "created_at": "2026-05-09T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053132483726848411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053132483726848411",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053126511516139569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我的想法是：首先一切基于我和这个人并不熟悉，加上联系方式以后，对方一上来就提出要卡泡聊骚，并且给自己带入一个聊两句我就会喜欢ta的认知，不觉得很冒犯吗…？如果说一些实话对方不开心我还要哄那我是上网还是当保姆…而且不是所有人都有时间秒回消息吧(´･ω･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1395,
+          "like_count": 30806,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6345
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14646,
+          "following_count": 167,
+          "like_count": 7442,
+          "listed_count": 21,
+          "media_count": 843,
+          "tweet_count": 6543
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1936196726421176489",
+    "created_at": "2025-06-22T19:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T20:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936865033763610832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1460597945506488325",
+          "start": 0,
+          "username": "aaamomolodeAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936865033763610832",
+    "in_reply_to_user_id": "1460597945506488325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936280075386884550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaamomolodeAA 不是肿胀空间啦，刚穿上就太挤了，肉鼓起来一块一直痛，钉子不拧上还会往肉里缩。眉钉确实不能太长🙀豁了痛不痛啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1936196726421176489",
+        "created_at": "2025-06-22T19:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T20:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936865033763610832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1460597945506488325",
+              "start": 0,
+              "username": "aaamomolodeAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936865033763610832",
+        "in_reply_to_user_id": "1460597945506488325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936280075386884550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaamomolodeAA 不是肿胀空间啦，刚穿上就太挤了，肉鼓起来一块一直痛，钉子不拧上还会往肉里缩。眉钉确实不能太长🙀豁了痛不痛啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460597945506488325",
+        "conversation_id": "1936196726421176489",
+        "created_at": "2025-06-21T04:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936280075386884550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936280075386884550",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936196726421176489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 其实可以呀宝宝 ，眉钉不用预留肿胀空间呀 我的死人穿孔师给我留了一大截然后豁了～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1355,
+          "like_count": 21854,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 4218
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T13:17:57.000Z",
+        "description": "请和「lolo」一起🍴ᗜ 𖥦 ᗜ★品尝这个世界 🩶过🚪纯绿88.88 不闲聊",
+        "id": "1460597945506488325",
+        "location": "霧",
+        "name": "痛い",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936088702083911680/5HlebbE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 168,
+          "like_count": 2873,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 771
+        },
+        "username": "aaamomolodeAA",
+        "verified": false
+      }
+    ]
+  }
+}

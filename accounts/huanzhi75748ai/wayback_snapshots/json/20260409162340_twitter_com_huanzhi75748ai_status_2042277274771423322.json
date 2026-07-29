@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042276889348435968"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041558067805089987",
+    "created_at": "2026-04-09T16:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042277274771423322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785302604920348672",
+          "start": 0,
+          "username": "cal1umL1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fztmjA3eqd",
+          "end": 67,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2042277274771423322/photo/1",
+          "media_key": "3_2042276889348435968",
+          "start": 44,
+          "url": "https://t.co/fztmjA3eqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042277274771423322",
+    "in_reply_to_user_id": "1785302604920348672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042220170530492513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cal1umL1 原来如此，恍然大悟啊。那我没用过逼也没俘获过男大是不是不能毕业啊。 https://t.co/fztmjA3eqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2042276889348435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFegAqqacAAHKLg.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042276889348435968"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041558067805089987",
+        "created_at": "2026-04-09T16:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042277274771423322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785302604920348672",
+              "start": 0,
+              "username": "cal1umL1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fztmjA3eqd",
+              "end": 67,
+              "expanded_url": "https://x.com/huanzhi75748ai/status/2042277274771423322/photo/1",
+              "media_key": "3_2042276889348435968",
+              "start": 44,
+              "url": "https://t.co/fztmjA3eqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042277274771423322",
+        "in_reply_to_user_id": "1785302604920348672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042220170530492513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cal1umL1 原来如此，恍然大悟啊。那我没用过逼也没俘获过男大是不是不能毕业啊。 https://t.co/fztmjA3eqd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785302604920348672",
+        "conversation_id": "2041558067805089987",
+        "created_at": "2026-04-09T12:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042220170530492513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220170530492513",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041558067805089987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 因为支女一边说女性不可被定义一边热衷于给国男扣帽子意思是支女用逼轻松就能俘获男大学生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1394,
+          "like_count": 28841,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 5911
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:38:17.000Z",
+        "description": "我28岁本科待业，在广州天河珠江新城单价最高的地方送外卖半年，每天早八晚八12个小时平时不休息，每天50单，一个月1500多单工资1.3w多；想要达到这个收入需要体力，耐力，专注力以及沟通能力！！说实话这份工作是我毕业出来工资最高的，但是这份工作对于大多数人来说只能是过渡！！无福利无假期无任何保障不管温度多高下多大的雨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LangRenNews6324",
+                "end": 23,
+                "expanded_url": "https://t.me/LangRenNews6324",
+                "start": 0,
+                "url": "https://t.co/lcW7gETFzG"
+              }
+            ]
+          }
+        },
+        "id": "1785302604920348672",
+        "location": "反华不反共",
+        "name": "小偷阿晶",
+        "pinned_tweet_id": "2042207959070146773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042142423368003584/UqW109l6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/lcW7gETFzG",
+        "username": "cal1umL1",
+        "verified": false
+      }
+    ]
+  }
+}

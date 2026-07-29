@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1803142539429712113",
+    "created_at": "2024-06-19T16:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T17:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803460494956663073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1657452862606303232",
+          "start": 0,
+          "username": "Spasmmmm0d1C"
+        },
+        {
+          "end": 24,
+          "id": "1459933885974953984",
+          "start": 14,
+          "username": "zhao_mama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803460494956663073",
+    "in_reply_to_user_id": "1657452862606303232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803259449592914257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spasmmmm0d1C @zhao_mama 我也要。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1803142539429712113",
+        "created_at": "2024-06-19T16:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T17:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803460494956663073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1657452862606303232",
+              "start": 0,
+              "username": "Spasmmmm0d1C"
+            },
+            {
+              "end": 24,
+              "id": "1459933885974953984",
+              "start": 14,
+              "username": "zhao_mama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803460494956663073",
+        "in_reply_to_user_id": "1657452862606303232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803259449592914257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spasmmmm0d1C @zhao_mama 我也要。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1657452862606303232",
+        "conversation_id": "1803142539429712113",
+        "created_at": "2024-06-19T02:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T03:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803259449592914257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1459933885974953984",
+              "start": 0,
+              "username": "zhao_mama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803259449592914257",
+        "in_reply_to_user_id": "1459933885974953984",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803258976701915436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_mama 收到🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1149,
+          "like_count": 12265,
+          "listed_count": 1,
+          "tweet_count": 2260
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T18:29:35.000Z",
+        "description": "cantonese.喜欢小叽，热爱cs\n渴望在因特网寻找慰藉的死人，多暴论\n可以用英文中文粤语同我沟通🤗\n如果我觉得我对你很有好感会另外再加你XD\n粉红/女权请不要评论我的帖子，自觉右上角认爹\n讨厌我的言论的也请自觉右上角认爹谢谢😁",
+        "id": "1657452862606303232",
+        "location": "Cantonia",
+        "name": "💚🧡💙SpaWinniesm0oo0odod8964c",
+        "pinned_tweet_id": "1793209148840276131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792919235766726658/WB9Z01Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 516,
+          "like_count": 12883,
+          "listed_count": 3,
+          "tweet_count": 9643
+        },
+        "username": "Spasmmmm0d1C",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T17:19:29.000Z",
+        "description": "永远永远爱你哦",
+        "id": "1459933885974953984",
+        "name": "坂下乱伦社区🌸私信领福利❤️",
+        "pinned_tweet_id": "1798060046473154832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802741187620835328/IcWXMagk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 848,
+          "like_count": 4734,
+          "listed_count": 1,
+          "tweet_count": 2086
+        },
+        "username": "zhao_mama",
+        "verified": false
+      }
+    ]
+  }
+}

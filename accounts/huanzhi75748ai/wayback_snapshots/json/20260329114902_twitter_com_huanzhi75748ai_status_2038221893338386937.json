@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038218963742826909",
+    "created_at": "2026-03-29T11:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038221893338386937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038221893338386937",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038218963742826909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 有你的味道？狗也是。我的衣服一旦掉到地上，她好像怕别人抢一样。赶紧窝过去趴着。你声音咋这么好听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46615,
+        "height": 1280,
+        "media_key": "13_2038218827792842753",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038218827792842753/img/eV4c-_eV_hVPHyCl.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038218827792842753/vid/avc1/320x568/hu_URe2Tf3o3w8pz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038218827792842753/vid/avc1/480x852/mFf_eCL_frEkPEoj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038218827792842753/vid/avc1/720x1280/3q3MOsD9k9Rm-YCI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038218827792842753/pl/R1WhsRcLh7z0C8bM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038218963742826909",
+        "created_at": "2026-03-29T11:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038221893338386937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038221893338386937",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038218963742826909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 有你的味道？狗也是。我的衣服一旦掉到地上，她好像怕别人抢一样。赶紧窝过去趴着。你声音咋这么好听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038218827792842753"
+          ]
+        },
+        "author_id": "1757105459356704768",
+        "conversation_id": "2038218963742826909",
+        "created_at": "2026-03-29T11:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038218963742826909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzRUcUeYLK",
+              "end": 23,
+              "expanded_url": "https://x.com/lingopark21/status/2038218963742826909/video/1",
+              "media_key": "13_2038218827792842753",
+              "start": 0,
+              "url": "https://t.co/ZzRUcUeYLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038218963742826909",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZzRUcUeYLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1382,
+          "like_count": 25696,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5400
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只碎嘴且成分复杂的麻雀 ｜ all of love \n家有二孩 英短叫十一 三花叫七七\n尽量平和 ｜ 直男 ｜ 互关可扩联系 :P",
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "1999408311322706210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 124,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3499
+        },
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

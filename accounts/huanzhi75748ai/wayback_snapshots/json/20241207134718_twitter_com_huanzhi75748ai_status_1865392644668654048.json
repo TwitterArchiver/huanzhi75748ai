@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1865392644668654048",
+    "created_at": "2024-12-07T13:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T14:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865392644668654048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1761080833799241728",
+          "start": 3,
+          "username": "Joy_of_Desiring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865392644668654048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865334290827096128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joy_of_Desiring: 从一开始就都是我自己的问题，所以我说什么做什么也没有人能放过我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1865392644668654048",
+        "created_at": "2024-12-07T13:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T14:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865392644668654048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1761080833799241728",
+              "start": 3,
+              "username": "Joy_of_Desiring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865392644668654048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865334290827096128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joy_of_Desiring: 从一开始就都是我自己的问题，所以我说什么做什么也没有人能放过我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761080833799241728",
+        "conversation_id": "1865334290827096128",
+        "created_at": "2024-12-07T09:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T10:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865334290827096128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865334290827096128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从一开始就都是我自己的问题，所以我说什么做什么也没有人能放过我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1262,
+          "like_count": 19372,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 3869
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T17:29:31.000Z",
+        "description": "Tell me one thing you would never do",
+        "id": "1761080833799241728",
+        "location": "灰域",
+        "name": "🧤",
+        "pinned_tweet_id": "1864637410698776987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860113611529814018/phs8f6S__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 1,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "Joy_of_Desiring",
+        "verified": false
+      }
+    ]
+  }
+}

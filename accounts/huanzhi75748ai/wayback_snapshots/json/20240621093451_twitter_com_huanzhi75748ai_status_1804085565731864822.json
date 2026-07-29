@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1803964544873844908",
+    "created_at": "2024-06-21T09:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T10:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804085565731864822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635640229246951425",
+          "start": 0,
+          "username": "Quadrant__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804085565731864822",
+    "in_reply_to_user_id": "1635640229246951425",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803964544873844908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quadrant__3 蛋饼是咸的甜的？好吃吗？没吃过诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1803964544873844908",
+        "created_at": "2024-06-21T09:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804085565731864822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635640229246951425",
+              "start": 0,
+              "username": "Quadrant__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804085565731864822",
+        "in_reply_to_user_id": "1635640229246951425",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803964544873844908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quadrant__3 蛋饼是咸的甜的？好吃吗？没吃过诶"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803964542323748864"
+          ]
+        },
+        "author_id": "1635640229246951425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1803964544873844908",
+        "created_at": "2024-06-21T01:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T02:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803964544873844908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HIwwZyvSww",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Quadrant__3/status/1803964544873844908/photo/1",
+              "media_key": "3_1803964542323748864",
+              "start": 17,
+              "url": "https://t.co/HIwwZyvSww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803964544873844908",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這家蛋餅跟奶茶有毒 肚子痛到爛掉 https://t.co/HIwwZyvSww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1161,
+          "like_count": 12511,
+          "listed_count": 1,
+          "tweet_count": 2297
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T13:53:42.000Z",
+        "description": "合作歡迎私訊小盒子/無使用交友軟體/18y/沒畢業/娛樂城 /買精品找我/菸彈/化學組/自然組/k仔/狀況愛/音樂課/廟會孩子並不壞 /陣頭囝仔 /我考5c我驕傲/模板學徒\n\n沒刺青不代表沒故事 年紀輕不代表沒實力",
+        "id": "1635640229246951425",
+        "location": "天龍國的鄉下",
+        "name": "負負得負的二次方再一個二次方",
+        "pinned_tweet_id": "1795840843741646859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799888343616139264/dJV0Fj24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 488,
+          "like_count": 10597,
+          "listed_count": 1,
+          "tweet_count": 1970
+        },
+        "username": "Quadrant__3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2049513156645724648",
+    "created_at": "2026-04-29T15:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049513156645724648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817286603787948032",
+          "start": 3,
+          "username": "21Savage714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049513156645724648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049195931824992626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @21Savage714: 你不要用很轻松的语气讲话然后自己偷偷哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2049513156645724648",
+        "created_at": "2026-04-29T15:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049513156645724648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817286603787948032",
+              "start": 3,
+              "username": "21Savage714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049513156645724648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049195931824992626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @21Savage714: 你不要用很轻松的语气讲话然后自己偷偷哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817286603787948032",
+        "conversation_id": "2049195931824992626",
+        "created_at": "2026-04-28T18:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049195931824992626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049195931824992626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7121,
+          "like_count": 319,
+          "quote_count": 9,
+          "reply_count": 17,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "你不要用很轻松的语气讲话然后自己偷偷哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1402,
+          "like_count": 30174,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 6188
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "09 高中生巨蟹  infp  Khalil  21Savage Haruki Murakami  情绪垃圾桶\n        \n                                                                                我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/457myJQUE7"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027428874158854144/r33COlwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 169,
+          "like_count": 8085,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/457myJQUE7",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

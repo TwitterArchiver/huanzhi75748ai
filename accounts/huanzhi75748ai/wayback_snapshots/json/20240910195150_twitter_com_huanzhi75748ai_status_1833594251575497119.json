@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1833593302924623889",
+    "created_at": "2024-09-10T19:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T20:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833594251575497119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1833594251575497119",
+    "in_reply_to_user_id": "1493643433499582474",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833593302924623889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我对不喜欢的人根本懒得作。。。你以为我打很多字不累吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1833593302924623889",
+        "created_at": "2024-09-10T19:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T20:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833594251575497119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833594251575497119",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833593302924623889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我对不喜欢的人根本懒得作。。。你以为我打很多字不累吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1833593302924623889",
+        "created_at": "2024-09-10T19:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T20:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833593302924623889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833593302924623889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得女鬼，地雷，强制爱是一种萌点。我有些时候会当成一种人设来维持表演。但是如果要一直纠缠对我没感觉的人我就懒得装这个萌点了。我作就是作给别人看的。那又怎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1231,
+          "like_count": 15334,
+          "listed_count": 1,
+          "tweet_count": 2965
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

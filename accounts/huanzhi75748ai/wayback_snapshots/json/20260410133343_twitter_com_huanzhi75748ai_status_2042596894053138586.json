@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2042569765047407060",
+    "created_at": "2026-04-10T13:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042596894053138586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042596894053138586",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042569765047407060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 巨可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12405,
+        "height": 720,
+        "media_key": "13_2042569698206978054",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042569698206978054/img/E85ymmixhYSwbxsd.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042569698206978054/vid/avc1/320x320/Tf2llTBAptsZ_e4W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042569698206978054/vid/avc1/540x540/3em_De0vNg31z99r.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042569698206978054/vid/avc1/720x720/1WxTLE_ygjK_SKOf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042569698206978054/pl/EtzAHJs2jhLKnLwZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2042569765047407060",
+        "created_at": "2026-04-10T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042596894053138586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042596894053138586",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042569765047407060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 巨可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042569698206978054"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2042569765047407060",
+        "created_at": "2026-04-10T11:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042569765047407060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoqAIk5quy",
+              "end": 49,
+              "expanded_url": "https://x.com/QwQIO3O/status/2042569765047407060/video/1",
+              "media_key": "13_2042569698206978054",
+              "start": 26,
+              "url": "https://t.co/ZoqAIk5quy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042569765047407060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵，好消息，养出了活泼宝宝哄我开心(-^〇^-) https://t.co/ZoqAIk5quy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1397,
+          "like_count": 28923,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 5927
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "说好话，做好事",
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2035610275651649551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 211,
+          "like_count": 6892,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1278
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

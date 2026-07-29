@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037102727684382975",
+    "created_at": "2026-03-26T11:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037130749879738758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037130749879738758",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037102727684382975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 真的太贵了。看病开药住院诊疗MECT一套下来十万多。我现在都不敢去复诊了，我怕建议我住院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2037102721862688768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU-IeubYAA0HkE.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037102727684382975",
+        "created_at": "2026-03-26T11:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037130749879738758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037130749879738758",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037102727684382975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 真的太贵了。看病开药住院诊疗MECT一套下来十万多。我现在都不敢去复诊了，我怕建议我住院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037102721862688768"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2037102727684382975",
+        "created_at": "2026-03-26T09:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037102727684382975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78ixLO3lfh",
+              "end": 37,
+              "expanded_url": "https://x.com/_ropu/status/2037102727684382975/photo/1",
+              "media_key": "3_2037102721862688768",
+              "start": 14,
+              "url": "https://t.co/78ixLO3lfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037102727684382975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1005,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没点钱都不敢说自己是精神病 https://t.co/78ixLO3lfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1383,
+          "like_count": 25326,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 5265
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| お姉さん： @Cchang3243 || CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "まのさば"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 78,
+                "start": 60,
+                "tag": "NeedyGirlOverdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2035368636328878543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449027101962240/uJnvTDoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28871,
+          "following_count": 3947,
+          "like_count": 13064,
+          "listed_count": 29,
+          "media_count": 4571,
+          "tweet_count": 32195
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

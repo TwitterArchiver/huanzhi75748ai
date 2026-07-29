@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1793505532269244792",
+    "created_at": "2024-05-23T04:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T05:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793505532269244792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776638570276827136",
+          "start": 3,
+          "username": "landepen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793505532269244792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793490931997712424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @landepen666: 老公手冲的时候不理我 打麻将的时候也不理我 唯一理我的时候是打小三的时候 抱着小三叫我别打了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1793505532269244792",
+        "created_at": "2024-05-23T04:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T05:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793505532269244792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776638570276827136",
+              "start": 3,
+              "username": "landepen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793505532269244792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793490931997712424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @landepen666: 老公手冲的时候不理我 打麻将的时候也不理我 唯一理我的时候是打小三的时候 抱着小三叫我别打了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1776638570276827136",
+        "conversation_id": "1793490931997712424",
+        "created_at": "2024-05-23T03:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T04:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793490931997712424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793490931997712424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "老公手冲的时候不理我 打麻将的时候也不理我 唯一理我的时候是打小三的时候 抱着小三叫我别打了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1130,
+          "like_count": 8951,
+          "listed_count": 1,
+          "tweet_count": 1761
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:50:33.000Z",
+        "description": "如果 我是说如果@whyshesmoke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "whyshesmoke"
+              }
+            ]
+          }
+        },
+        "id": "1776638570276827136",
+        "name": "火棉胶婴儿",
+        "pinned_tweet_id": "1792912913792946331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793320271002357764/KFW4KVoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 81,
+          "like_count": 77,
+          "listed_count": 0,
+          "tweet_count": 50
+        },
+        "username": "landepen666",
+        "verified": false
+      }
+    ]
+  }
+}

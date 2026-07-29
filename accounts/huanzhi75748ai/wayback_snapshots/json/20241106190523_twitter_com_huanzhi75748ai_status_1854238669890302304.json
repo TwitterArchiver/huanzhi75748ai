@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1854238669890302304",
+    "created_at": "2024-11-06T19:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T20:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854238669890302304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1790831068729229312",
+          "start": 3,
+          "username": "Fkmaomaochong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854238669890302304",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854085578314133595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fkmaomaochong: 这条狗好训，并不是因为你训狗技术有多高超，而是这狗喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1854238669890302304",
+        "created_at": "2024-11-06T19:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T20:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854238669890302304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1790831068729229312",
+              "start": 3,
+              "username": "Fkmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854238669890302304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854085578314133595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fkmaomaochong: 这条狗好训，并不是因为你训狗技术有多高超，而是这狗喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790831068729229312",
+        "conversation_id": "1854085578314133595",
+        "created_at": "2024-11-06T08:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T09:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854085578314133595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854085578314133595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 35770,
+          "like_count": 645,
+          "quote_count": 14,
+          "reply_count": 29,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "这条狗好训，并不是因为你训狗技术有多高超，而是这狗喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1255,
+          "like_count": 18343,
+          "listed_count": 1,
+          "tweet_count": 3579
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "🦈的食物 @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "qing2202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=TNgWSGKQ",
+                "start": 0,
+                "url": "https://t.co/ut1t1xDSic"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒᳐松松᳐੭· ﾟ ₊",
+        "pinned_tweet_id": "1851181591302672404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834192244641062912/GEb3WfjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12986,
+          "following_count": 71,
+          "like_count": 12621,
+          "listed_count": 19,
+          "tweet_count": 2460
+        },
+        "url": "https://t.co/ut1t1xDSic",
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

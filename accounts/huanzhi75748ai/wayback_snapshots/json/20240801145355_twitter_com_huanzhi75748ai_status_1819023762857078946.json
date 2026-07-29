@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819023705923633152",
+        "3_1819023735665422336"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1819023762857078946",
+    "created_at": "2024-08-01T14:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T15:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819023762857078946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Gf9ql8i6xs",
+          "end": 79,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1819023762857078946/photo/1",
+          "media_key": "3_1819023705923633152",
+          "start": 56,
+          "url": "https://t.co/Gf9ql8i6xs"
+        },
+        {
+          "display_url": "pic.twitter.com/Gf9ql8i6xs",
+          "end": 79,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1819023762857078946/photo/1",
+          "media_key": "3_1819023735665422336",
+          "start": 56,
+          "url": "https://t.co/Gf9ql8i6xs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819023762857078946",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/Gf9ql8i6xs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1819023762857078946].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1819023762857078946",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1819023762857078946"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1819023705923633152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT54bEWXwAATmYX.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1819023735665422336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT54czJXcAAHxuG.jpg",
+        "width": 2400
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1222,
+          "like_count": 14840,
+          "listed_count": 1,
+          "tweet_count": 2820
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

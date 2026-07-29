@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840231884749406271",
+    "created_at": "2024-09-29T18:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T19:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840454057665990879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385991185689284608",
+          "start": 0,
+          "username": "Joshua78261443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840454057665990879",
+    "in_reply_to_user_id": "1385991185689284608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840231884749406271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joshua78261443 这种坏老师考不上教师职称就老实了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840231884749406271",
+        "created_at": "2024-09-29T18:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T19:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840454057665990879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385991185689284608",
+              "start": 0,
+              "username": "Joshua78261443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840454057665990879",
+        "in_reply_to_user_id": "1385991185689284608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840231884749406271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joshua78261443 这种坏老师考不上教师职称就老实了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385991185689284608",
+        "conversation_id": "1840231884749406271",
+        "created_at": "2024-09-29T03:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T04:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840231884749406271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840231884749406271",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 519,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师上课老爱讲话怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16335,
+          "listed_count": 1,
+          "tweet_count": 3095
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:17:18.000Z",
+        "description": "",
+        "id": "1385991185689284608",
+        "name": "Joshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820898695673692160/sQ2ScosE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4028,
+          "following_count": 1154,
+          "like_count": 32536,
+          "listed_count": 23,
+          "tweet_count": 16224
+        },
+        "username": "Joshua78261443",
+        "verified": false
+      }
+    ]
+  }
+}

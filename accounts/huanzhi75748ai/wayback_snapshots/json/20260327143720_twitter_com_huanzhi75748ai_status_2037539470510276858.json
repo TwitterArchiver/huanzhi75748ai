@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037539470510276858",
+    "created_at": "2026-03-27T14:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037539470510276858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1521354807017152512",
+          "start": 3,
+          "username": "findsisyphus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539470510276858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037184320532848819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @findsisyphus: 虽然好像没什么人在意但我认为淫商也是美商、审美的一部分，很重要…比如一个人爱看91国产、偷拍、说着方言毫无美感的片我会认为淫商好低审美好差好受不了有没有人懂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037539470510276858",
+        "created_at": "2026-03-27T14:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037539470510276858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1521354807017152512",
+              "start": 3,
+              "username": "findsisyphus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539470510276858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037184320532848819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @findsisyphus: 虽然好像没什么人在意但我认为淫商也是美商、审美的一部分，很重要…比如一个人爱看91国产、偷拍、说着方言毫无美感的片我会认为淫商好低审美好差好受不了有没有人懂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521354807017152512",
+        "conversation_id": "2037184320532848819",
+        "created_at": "2026-03-26T15:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037184320532848819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037184320532848819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 149084,
+          "like_count": 3259,
+          "quote_count": 34,
+          "reply_count": 114,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "虽然好像没什么人在意但我认为淫商也是美商、审美的一部分，很重要…比如一个人爱看91国产、偷拍、说着方言毫无美感的片我会认为淫商好低审美好差好受不了有没有人懂的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1382,
+          "like_count": 25166,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 5317
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T05:03:57.000Z",
+        "description": "敬有你们在场的快乐",
+        "id": "1521354807017152512",
+        "name": "lost sisyphus",
+        "pinned_tweet_id": "1730998491877683683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683743392872931328/rQEGeUeh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 14,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 812
+        },
+        "username": "findsisyphus",
+        "verified": false
+      }
+    ]
+  }
+}

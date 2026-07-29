@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1832771602213401026",
+    "created_at": "2024-09-08T13:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T14:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832771602213401026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shudesu00/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/shudesu00/status/1832487808856183035",
+          "start": 14,
+          "url": "https://t.co/jN7sQIdkge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832771602213401026",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832487808856183035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "對。我會突然想和找人結婚。 https://t.co/jN7sQIdkge"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1832771602213401026",
+        "created_at": "2024-09-08T13:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T14:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832771602213401026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shudesu00/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/shudesu00/status/1832487808856183035",
+              "start": 14,
+              "url": "https://t.co/jN7sQIdkge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832771602213401026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832487808856183035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "對。我會突然想和找人結婚。 https://t.co/jN7sQIdkge"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1832487808856183035",
+        "created_at": "2024-09-07T18:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T19:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832487808856183035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832487808856183035",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1176,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "平平淡淡才是真…………..好渴望家庭生活，组成一个家，我和爱人的家，不会被任何人加入，不会被拆散，没有逃离的可能性，两个人都束缚在这栋房子里甜蜜的相处吧，到了最后没了激情，互相扶持，死亡我也要先走一步，因为我承受不了离别的打击，就这样吧，祈祷……………………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1222,
+          "like_count": 15159,
+          "listed_count": 1,
+          "tweet_count": 2923
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "FtxHrt_intp_双相_aspd_习惯性点赞_同成分互fo请直来💍 蛙宝重度依赖@CoFfffEeeeE1 【一次性电子烟75-85r包邮、悦刻五代180r、悦刻五代弹90r一盒包邮。纸外烟代，散拼：1包起发/邮费15、成条包邮单独报价，买烟请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=bfQLBSKc",
+                "start": 0,
+                "url": "https://t.co/Q2KGYjKxQ2"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "location": "自用vpn➡️",
+        "name": "小树（电子烟/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818517642342457344/W-xtl8gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3221,
+          "following_count": 2043,
+          "like_count": 98929,
+          "listed_count": 2,
+          "tweet_count": 12125
+        },
+        "url": "https://t.co/Q2KGYjKxQ2",
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

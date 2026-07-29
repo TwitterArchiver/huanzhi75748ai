@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806658769084174336"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1806658887661265280",
+    "created_at": "2024-06-28T12:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T13:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806658887661265280"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "Miku酱",
+          "probability": 0.3687,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rBUbsDdeHr",
+          "end": 44,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1806658887661265280/photo/1",
+          "media_key": "3_1806658769084174336",
+          "start": 21,
+          "url": "https://t.co/rBUbsDdeHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806658887661265280",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Miku酱、Miku酱、Miku酱～！！ https://t.co/rBUbsDdeHr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1806658887661265280].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1806658887661265280",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806658887661265280"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1806658769084174336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRKKlBGbUAA1l2E.jpg",
+        "width": 2400
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知\n傻逼@icnlovecn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "icnlovecn"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 1170,
+          "like_count": 12727,
+          "listed_count": 1,
+          "tweet_count": 2335
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

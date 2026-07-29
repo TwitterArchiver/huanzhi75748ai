@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1862573955984339268",
+    "created_at": "2024-12-02T17:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T18:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863634885610480120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544171637171400704",
+          "start": 0,
+          "username": "LAZY_lazyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863634885610480120",
+    "in_reply_to_user_id": "1544171637171400704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862777792892698723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LAZY_lazyyyy 我就在这自言自语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1862573955984339268",
+        "created_at": "2024-12-02T17:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T18:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863634885610480120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544171637171400704",
+              "start": 0,
+              "username": "LAZY_lazyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863634885610480120",
+        "in_reply_to_user_id": "1544171637171400704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862777792892698723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LAZY_lazyyyy 我就在这自言自语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544171637171400704",
+        "conversation_id": "1862573955984339268",
+        "created_at": "2024-11-30T08:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862777792892698723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862777792892698723",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862573955984339268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我就在这自言自语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1263,
+          "like_count": 18995,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 3743
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "我的人生底色就是奸淫懒馋//宝宝: @4inLOVElazyyyy//锁评推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "4inLOVElazyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=z3JzWQIA",
+                "start": 0,
+                "url": "https://t.co/4xh8VvnsCu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "自用vpn👉🏻",
+        "name": "参见小懒",
+        "pinned_tweet_id": "1861212827614323106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824024524419182592/MIoUhHvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19504,
+          "following_count": 951,
+          "like_count": 59165,
+          "listed_count": 53,
+          "media_count": 1452,
+          "tweet_count": 32384
+        },
+        "url": "https://t.co/4xh8VvnsCu",
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

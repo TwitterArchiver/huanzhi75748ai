@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1929207728347419012",
+    "created_at": "2025-06-01T19:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T20:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929263079331705077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762470904829796352",
+          "start": 0,
+          "username": "I2_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929263079331705077",
+    "in_reply_to_user_id": "1762470904829796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929207728347419012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I2_1222 在海里游泳🏊🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1929207728347419012",
+        "created_at": "2025-06-01T19:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929263079331705077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762470904829796352",
+              "start": 0,
+              "username": "I2_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929263079331705077",
+        "in_reply_to_user_id": "1762470904829796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929207728347419012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I2_1222 在海里游泳🏊🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762470904829796352",
+        "conversation_id": "1929207728347419012",
+        "created_at": "2025-06-01T16:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929207728347419012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929207728347419012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1518,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下海了我能干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1343,
+          "like_count": 21760,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4179
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:33:13.000Z",
+        "description": "4 What？\n|互关加微信好吗求求了|",
+        "id": "1762470904829796352",
+        "name": "12^",
+        "pinned_tweet_id": "1928488456298103127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902731517186699265/kOF01xfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 2936,
+          "like_count": 74901,
+          "listed_count": 5,
+          "media_count": 282,
+          "tweet_count": 5500
+        },
+        "username": "I2_1222",
+        "verified": false
+      }
+    ]
+  }
+}

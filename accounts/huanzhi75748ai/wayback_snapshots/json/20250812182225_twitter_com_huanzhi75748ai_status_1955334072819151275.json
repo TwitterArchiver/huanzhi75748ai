@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1954594457330106747",
+    "created_at": "2025-08-12T18:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T19:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955334072819151275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "Naii3120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955334072819151275",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955332209990308281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naii3120720 你也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1954594457330106747",
+        "created_at": "2025-08-12T18:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T19:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955334072819151275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "Naii3120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955334072819151275",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955332209990308281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naii3120720 你也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "1954594457330106747",
+        "created_at": "2025-08-12T18:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T19:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955332209990308281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955332209990308281",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955328697260765277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 好谢谢，打扰了。好好休息！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 1358,
+          "like_count": 21850,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 4316
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "我是弱虫，补药点我发的链接！                若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜当前现充，偶尔发日常，无攻击性｜双a，神经质症不安desu｜性格差，精神洁癖的理想主义者，小孩不想长大（？以淡推，以黑化",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "不要点我发的链接",
+        "pinned_tweet_id": "1784505372524638218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 394,
+          "like_count": 29832,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2389
+        },
+        "username": "Naii3120720",
+        "verified": false
+      }
+    ]
+  }
+}

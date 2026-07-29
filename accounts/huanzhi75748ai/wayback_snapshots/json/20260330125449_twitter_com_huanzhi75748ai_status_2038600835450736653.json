@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2038397611330375872",
+    "created_at": "2026-03-30T12:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038600835450736653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038600835450736653",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038397611330375872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetiekittylol 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2038397611330375872",
+        "created_at": "2026-03-30T12:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038600835450736653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038600835450736653",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038397611330375872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetiekittylol 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512373779933978626",
+        "conversation_id": "2038397611330375872",
+        "created_at": "2026-03-29T23:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038397611330375872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038397611330375872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能感受到被关注被需要被占有的话，被骂成贱货臭婊子也没关系，伤害和拥抱一样，都是会在身体上留下痕迹的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1383,
+          "like_count": 26135,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5463
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23675,
+          "following_count": 662,
+          "like_count": 14552,
+          "listed_count": 55,
+          "media_count": 1116,
+          "tweet_count": 9154
+        },
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1922575350166433843",
+    "created_at": "2025-05-14T20:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T21:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922753940317143133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571735057332592640",
+          "start": 0,
+          "username": "rchngbngd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922753940317143133",
+    "in_reply_to_user_id": "1571735057332592640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922575350166433843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rchngbngd1 生活暂停，一起玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1922575350166433843",
+        "created_at": "2025-05-14T20:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T21:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922753940317143133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571735057332592640",
+              "start": 0,
+              "username": "rchngbngd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922753940317143133",
+        "in_reply_to_user_id": "1571735057332592640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922575350166433843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rchngbngd1 生活暂停，一起玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571735057332592640",
+        "conversation_id": "1922575350166433843",
+        "created_at": "2025-05-14T08:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922575350166433843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922575350166433843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们能别有自己的生活都来陪我玩吗😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1338,
+          "like_count": 21523,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4158
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "我是柏一/小号@asllsxexo520(互关可来玩(^  / 我妈妈在此@d3vilsadvocate3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "asllsxexo520"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "d3vilsadvocate3"
+              }
+            ]
+          }
+        },
+        "id": "1571735057332592640",
+        "location": "我的饭呢",
+        "name": "放松下",
+        "pinned_tweet_id": "1907806848998322655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922531479134879744/uea4Oapc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 434,
+          "like_count": 3598,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1694
+        },
+        "username": "rchngbngd1",
+        "verified": false
+      }
+    ]
+  }
+}

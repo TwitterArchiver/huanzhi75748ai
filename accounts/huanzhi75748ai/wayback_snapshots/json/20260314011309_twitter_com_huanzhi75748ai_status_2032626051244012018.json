@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2032626051244012018",
+    "created_at": "2026-03-14T01:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T02:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032626051244012018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SuisPasDaVinci…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/SuisPasDaVinci/status/2032283497780445498",
+          "start": 23,
+          "url": "https://t.co/DPPpLKTQnI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032626051244012018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032283497780445498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠我不想变老我接受不了自己这样。求安乐死求 https://t.co/DPPpLKTQnI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2032626051244012018",
+        "created_at": "2026-03-14T01:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T02:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032626051244012018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SuisPasDaVinci…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/SuisPasDaVinci/status/2032283497780445498",
+              "start": 23,
+              "url": "https://t.co/DPPpLKTQnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032626051244012018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032283497780445498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我不想变老我接受不了自己这样。求安乐死求 https://t.co/DPPpLKTQnI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516975944484990977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2032283497780445498",
+        "created_at": "2026-03-13T02:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032283497780445498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SuisPasDaVinci…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/SuisPasDaVinci/status/2031456898071810436",
+              "start": 155,
+              "url": "https://t.co/cb7Tn7Zzkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032283497780445498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有人说：\n\n只要你去伺候，\n\n一个屎尿屁都不能自理的老人。\n\n不用多，\n\n就俩月。\n\n你会发现，\n\n每一个人的老年生活，\n\n都掺杂着血雨腥风。\n\n这话说得狠，\n\n但去过的人，\n\n都懂。\n\n不是电视剧里那种\n\n安详的晚年。\n\n是翻身时\n\n压出的褥疮，\n\n是喂饭时\n\n无意识的抗拒，\n\n是深夜\n\n无法自控的排泄，\n\n和随之而来的、\n\n混合着疲惫与无奈的沉默。\n\n两个月，\n\n足够你看清\n\n衰老最真实的模样。\n\n它剥去\n\n所有社会身份与体面，\n\n将一个人\n\n还原成最原始的需要：\n\n被清洁，\n\n被喂食，\n\n被移动。\n\n而伺候的人，\n\n在日复一日的\n\n重复劳动与气味中，\n\n消耗着耐心，\n\n也窥见了\n\n人性最幽微的角落。\n\n身体的无助，\n\n只是序章。\n\n人性的博弈，\n\n才是正剧。\n\n久病床前，\n\n考验的\n\n从来不只是孝心。\n\n是兄弟姐妹之间\n\n谁出钱、\n\n谁出力的算计；\n\n是久伴的伴侣眼中\n\n偶尔闪过的\n\n麻木与厌倦；\n\n是老人自己，\n\n从清醒时的愧疚，\n\n到糊涂时的固执与折腾。\n\n你会发现，\n\n爱很伟大。\n\n但疲惫和琐碎，\n\n能磨损一切伟大。\n\n那些你曾仰望的、\n\n强势的、\n\n精致的亲人，\n\n在生命最后的泥泞里，\n\n可能变得\n\n面目全非。\n\n而你自己，\n\n也可能在某次\n\n清理污物之后，\n\n对着镜子，\n\n认不出那个\n\n眉头紧锁、\n\n满眼血丝的人。\n\n所谓\n\n血雨腥风，\n\n不见刀光，\n\n却招招诛心。\n\n它诛的，\n\n是你对\n\n“老有所依”的\n\n浪漫幻想。\n\n诛的，\n\n是你以为\n\n“只要有钱请护工”\n\n就能解决的天真。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 81318,
+          "like_count": 362,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031456898071810436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人说：\n\n只要你去伺候，\n\n一个屎尿屁都不能自理的老人。\n\n不用多，\n\n就俩月。\n\n你会发现，\n\n每一个人的老年生活，\n\n都掺杂着血雨腥风。\n\n这话说得狠，\n\n但去过的人，\n\n都懂。\n\n不是电视剧里那种\n\n安详的晚年。\n\n是翻身时\n\n压出的褥疮，\n\n是喂饭时\n\n无意识的抗拒，\n\n是深夜\n\n无法自控的排泄， https://t.co/cb7Tn7Zzkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1334,
+          "like_count": 23540,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 5021
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "中年老登在🇨🇦苦撑\n\n跨界思考的万事屋",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6877,
+          "following_count": 1388,
+          "like_count": 31173,
+          "listed_count": 20,
+          "media_count": 1050,
+          "tweet_count": 14221
+        },
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

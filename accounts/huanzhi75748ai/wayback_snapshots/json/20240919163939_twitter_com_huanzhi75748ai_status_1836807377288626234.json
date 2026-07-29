@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1836807377288626234",
+    "created_at": "2024-09-19T16:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T17:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836807377288626234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiubuchifeirou…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jiubuchifeirou/status/1836119295396581402",
+          "start": 3,
+          "url": "https://t.co/dqfeoRXiBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836807377288626234",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836119295396581402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好😿 https://t.co/dqfeoRXiBG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1836807377288626234",
+        "created_at": "2024-09-19T16:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T17:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836807377288626234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiubuchifeirou…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jiubuchifeirou/status/1836119295396581402",
+              "start": 3,
+              "url": "https://t.co/dqfeoRXiBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836807377288626234",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836119295396581402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好😿 https://t.co/dqfeoRXiBG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836119292628340737"
+          ]
+        },
+        "author_id": "1425118858134777859",
+        "conversation_id": "1836119295396581402",
+        "created_at": "2024-09-17T19:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T20:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836119295396581402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1roidhnawz",
+              "end": 132,
+              "expanded_url": "https://twitter.com/jiubuchifeirou/status/1836119295396581402/photo/1",
+              "media_key": "3_1836119292628340737",
+              "start": 109,
+              "url": "https://t.co/1ROIdhNawZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836119295396581402",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 83310,
+          "like_count": 524,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "不管你是谁，不管你在什么时候刷到的我这条推，不重要，我就是提醒一句:\n永远，不要，大半夜（指23:00以后）给你的前任哥/姐发任何一条消息。否则就会收获一个第二天睡醒恨天悔地的你。\n\n好了没事了接着刷吧好宝，拜拜👋🏻 https://t.co/1ROIdhNawZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1244,
+          "like_count": 15921,
+          "listed_count": 1,
+          "tweet_count": 3124
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T15:37:10.000Z",
+        "description": "很没意思一人//作品禁止二传二改//别把我发墙内//转推引用随意//骂我你也发不了财//一二三四五六爱都来点//不是男的",
+        "id": "1425118858134777859",
+        "name": "无敌凉拌折耳根",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822360648959098880/kWKKTqGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87724,
+          "following_count": 72,
+          "like_count": 7415,
+          "listed_count": 117,
+          "tweet_count": 6799
+        },
+        "username": "jiubuchifeirou",
+        "verified": false
+      }
+    ]
+  }
+}

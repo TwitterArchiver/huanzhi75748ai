@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      }
+    ],
+    "conversation_id": "1920967150589669647",
+    "created_at": "2025-05-09T22:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T23:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920967150589669647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kissme_catt/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/kissme_catt/status/1920377226844852722",
+          "start": 20,
+          "url": "https://t.co/rpY3chuRcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920967150589669647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920377226844852722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠笑死我了，那没有肉棒的叫\n蟹bro https://t.co/rpY3chuRcn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          }
+        ],
+        "conversation_id": "1920967150589669647",
+        "created_at": "2025-05-09T22:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T23:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920967150589669647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kissme_catt/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kissme_catt/status/1920377226844852722",
+              "start": 20,
+              "url": "https://t.co/rpY3chuRcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920967150589669647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920377226844852722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠笑死我了，那没有肉棒的叫\n蟹bro https://t.co/rpY3chuRcn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899591811859197952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          }
+        ],
+        "conversation_id": "1920377226844852722",
+        "created_at": "2025-05-08T07:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920377226844852722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920377226844852722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 352833,
+          "like_count": 2552,
+          "quote_count": 65,
+          "reply_count": 306,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "你们巨蟹座的肉棒是不是叫蟹肉棒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1335,
+          "like_count": 21281,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4114
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T22:42:46.000Z",
+        "description": "🦋infp｜专发废话｜低于14.8cm包皮过长不许发鸟照｜喜欢讨厌都请投喂=⩌⩊⩌=",
+        "id": "1899591811859197952",
+        "location": "没过🚪199/520之前请不要提任何要求",
+        "name": "放屁像炸弹",
+        "pinned_tweet_id": "1919774425882194101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919794820643528704/6H1ydgve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 128,
+          "like_count": 4175,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 2150
+        },
+        "username": "kissme_catt",
+        "verified": false
+      }
+    ]
+  }
+}

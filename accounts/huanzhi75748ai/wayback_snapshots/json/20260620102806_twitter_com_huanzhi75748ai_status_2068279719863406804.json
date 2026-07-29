@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068066974697963521"
+      ],
+      "media_source_tweet_id": [
+        "2068066976828703182"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2068279719863406804",
+    "created_at": "2026-06-20T10:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068279719863406804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1828525111495831552",
+          "start": 3,
+          "username": "ruh_yordami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQOa1CZUMm",
+          "end": 49,
+          "expanded_url": "https://x.com/ruh_yordami/status/2068066976828703182/photo/1",
+          "media_key": "3_2068066974697963521",
+          "start": 26,
+          "url": "https://t.co/jQOa1CZUMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068279719863406804",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068066976828703182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruh_yordami: Saatleri https://t.co/jQOa1CZUMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2068066974697963521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLM_9NaWwAER0Nq.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068066974697963521"
+          ],
+          "media_source_tweet_id": [
+            "2068066976828703182"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2068279719863406804",
+        "created_at": "2026-06-20T10:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068279719863406804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1828525111495831552",
+              "start": 3,
+              "username": "ruh_yordami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQOa1CZUMm",
+              "end": 49,
+              "expanded_url": "https://x.com/ruh_yordami/status/2068066976828703182/photo/1",
+              "media_key": "3_2068066974697963521",
+              "start": 26,
+              "url": "https://t.co/jQOa1CZUMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068279719863406804",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068066976828703182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruh_yordami: Saatleri https://t.co/jQOa1CZUMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068066974697963521"
+          ]
+        },
+        "author_id": "1828525111495831552",
+        "conversation_id": "2068066976828703182",
+        "created_at": "2026-06-19T20:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068066976828703182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQOa1CZUMm",
+              "end": 32,
+              "expanded_url": "https://x.com/ruh_yordami/status/2068066976828703182/photo/1",
+              "media_key": "3_2068066974697963521",
+              "start": 9,
+              "url": "https://t.co/jQOa1CZUMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068066976828703182",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1407,
+          "impression_count": 333424,
+          "like_count": 9425,
+          "quote_count": 40,
+          "reply_count": 87,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "Saatleri https://t.co/jQOa1CZUMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1385,
+          "like_count": 31493,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 6577
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T20:09:17.000Z",
+        "description": "",
+        "id": "1828525111495831552",
+        "name": "sudemsi",
+        "pinned_tweet_id": "2022187888889540683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860700509767700480/0gBhMNG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 83,
+          "like_count": 24798,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 8639
+        },
+        "url": "",
+        "username": "ruh_yordami",
+        "verified": false
+      }
+    ]
+  }
+}

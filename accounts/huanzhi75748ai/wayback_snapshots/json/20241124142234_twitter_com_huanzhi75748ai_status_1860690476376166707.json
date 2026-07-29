@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860690277557829632",
+        "3_1860690277650063360",
+        "3_1860690278732234752"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1860690476376166707",
+    "created_at": "2024-11-24T14:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T15:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860690476376166707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bInDZ7jjin",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1860690476376166707/photo/1",
+          "media_key": "3_1860690277557829632",
+          "start": 14,
+          "url": "https://t.co/bInDZ7jjin"
+        },
+        {
+          "display_url": "pic.x.com/bInDZ7jjin",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1860690476376166707/photo/1",
+          "media_key": "3_1860690277650063360",
+          "start": 14,
+          "url": "https://t.co/bInDZ7jjin"
+        },
+        {
+          "display_url": "pic.x.com/bInDZ7jjin",
+          "end": 37,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1860690476376166707/photo/1",
+          "media_key": "3_1860690278732234752",
+          "start": 14,
+          "url": "https://t.co/bInDZ7jjin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860690476376166707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "漫展。好玩。但是。人，好多 https://t.co/bInDZ7jjin"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860690476376166707].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860690476376166707",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860690476376166707"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1860690277557829632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJ_8vbbgAA63yX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1860690277650063360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJ_8vxa4AAXpJE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1860690278732234752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJ_8zzbgAAxwGK.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1260,
+          "like_count": 18860,
+          "listed_count": 1,
+          "tweet_count": 3707
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

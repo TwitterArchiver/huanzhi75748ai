@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1980173322995257756",
+    "created_at": "2025-10-21T20:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T21:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980727138547622262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "linlin444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980727138547622262",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980173322995257756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin444444 可能因为社会环境?社会环境造就原生家庭，原生家庭早就地雷女的不幸（瞎猜）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1980173322995257756",
+        "created_at": "2025-10-21T20:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T21:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980727138547622262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980727138547622262",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980173322995257756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 可能因为社会环境?社会环境造就原生家庭，原生家庭早就地雷女的不幸（瞎猜）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1980173322995257756",
+        "created_at": "2025-10-20T07:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980173322995257756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980173322995257756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10750,
+          "like_count": 267,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女的原生家庭跟他妈复制粘贴一样的不幸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1344,
+          "like_count": 22003,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 4441
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5536,
+          "following_count": 69,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 24,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

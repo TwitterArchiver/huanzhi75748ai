@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2061862576431268267",
+    "created_at": "2026-06-02T17:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061862576431268267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/riposhima/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/riposhima/status/2061693255507751419",
+          "start": 52,
+          "url": "https://t.co/IItDg379sT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061862576431268267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061693255507751419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狗前天遛到一半趴在地上耍赖，因为太热了她犯懒，说什么都不肯再挪动一步。于是本女子将22斤肥狗扛回了家。 https://t.co/IItDg379sT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061693251003019264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJybFqXa8AAreN_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061862576431268267",
+        "created_at": "2026-06-02T17:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061862576431268267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riposhima/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/riposhima/status/2061693255507751419",
+              "start": 52,
+              "url": "https://t.co/IItDg379sT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061862576431268267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061693255507751419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狗前天遛到一半趴在地上耍赖，因为太热了她犯懒，说什么都不肯再挪动一步。于是本女子将22斤肥狗扛回了家。 https://t.co/IItDg379sT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061693251003019264"
+          ]
+        },
+        "author_id": "1941039880223838209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061693255507751419",
+        "created_at": "2026-06-02T06:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061693255507751419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rv3l2mKhnx",
+              "end": 33,
+              "expanded_url": "https://x.com/riposhima/status/2061693255507751419/photo/1",
+              "media_key": "3_2061693251003019264",
+              "start": 10,
+              "url": "https://t.co/rv3l2mKhnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061693255507751419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3202,
+          "impression_count": 1482203,
+          "like_count": 119595,
+          "quote_count": 118,
+          "reply_count": 61,
+          "retweet_count": 10149
+        },
+        "reply_settings": "everyone",
+        "text": "スケッチ 止まった https://t.co/rv3l2mKhnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1385,
+          "like_count": 31294,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 6482
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T07:42:38.000Z",
+        "description": "人参",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/riposhima",
+                "end": 23,
+                "expanded_url": "https://potofu.me/riposhima",
+                "start": 0,
+                "url": "https://t.co/m7UFRmOYwt"
+              }
+            ]
+          }
+        },
+        "id": "1941039880223838209",
+        "name": "リポ・トウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035531353064869888/VZ8Byd-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69880,
+          "following_count": 41,
+          "like_count": 1313,
+          "listed_count": 281,
+          "media_count": 1922,
+          "tweet_count": 2688
+        },
+        "url": "https://t.co/m7UFRmOYwt",
+        "username": "riposhima",
+        "verified": true
+      }
+    ]
+  }
+}

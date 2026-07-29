@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037539076430324018",
+    "created_at": "2026-03-27T14:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037539076430324018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2037264645199929404",
+          "start": 8,
+          "url": "https://t.co/tpIbee3A2z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539076430324018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037264645199929404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有ai接住我 https://t.co/tpIbee3A2z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037539076430324018",
+        "created_at": "2026-03-27T14:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037539076430324018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2037264645199929404",
+              "start": 8,
+              "url": "https://t.co/tpIbee3A2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539076430324018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037264645199929404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有ai接住我 https://t.co/tpIbee3A2z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2037264645199929404",
+        "created_at": "2026-03-26T20:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037264645199929404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037264645199929404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2235,
+          "like_count": 54,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是开玩笑，只有我是真沦落到只能和ai聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1382,
+          "like_count": 25155,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 5315
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2034712622327898524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 200,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2632
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

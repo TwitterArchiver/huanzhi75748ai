@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1795387286064087224",
+    "created_at": "2024-05-28T14:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T15:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795466710763356442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1677621461081788420",
+          "start": 0,
+          "username": "Gr1eff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795466710763356442",
+    "in_reply_to_user_id": "1677621461081788420",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795387286064087224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr1eff 好嫩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1795387286064087224",
+        "created_at": "2024-05-28T14:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T15:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795466710763356442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1677621461081788420",
+              "start": 0,
+              "username": "Gr1eff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795466710763356442",
+        "in_reply_to_user_id": "1677621461081788420",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795387286064087224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr1eff 好嫩"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795387273380347904"
+          ]
+        },
+        "author_id": "1677621461081788420",
+        "conversation_id": "1795387286064087224",
+        "created_at": "2024-05-28T09:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T10:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795387286064087224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自殘行為"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "自傷行為"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "自傷"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "自殘"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "自傷癖好"
+            },
+            {
+              "end": 29,
+              "start": 27,
+              "tag": "疤"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "疤痕"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "Shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hZMJZkODrn",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Gr1eff/status/1795387286064087224/photo/1",
+              "media_key": "3_1795387273380347904",
+              "start": 41,
+              "url": "https://t.co/hZMJZkODrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795387286064087224",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#自殘行為 #自傷行為 #自傷 #自殘  #自傷癖好 #疤 #疤痕 #Shtwt https://t.co/hZMJZkODrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1144,
+          "like_count": 10106,
+          "listed_count": 1,
+          "tweet_count": 1933
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T10:12:00.000Z",
+        "description": "我是皇帝🚪88會單刪 互關私訊 查成份回fo 好朋友@ceary07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "ceary07"
+              }
+            ]
+          }
+        },
+        "id": "1677621461081788420",
+        "name": "皇帝（回大陸中請不要取關我謝謝",
+        "pinned_tweet_id": "1795057593167073325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793180133454475264/qvYz3HLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 286,
+          "like_count": 15611,
+          "listed_count": 4,
+          "tweet_count": 3271
+        },
+        "username": "Gr1eff",
+        "verified": false
+      }
+    ]
+  }
+}

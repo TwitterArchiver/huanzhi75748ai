@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892603560669454683",
+    "created_at": "2025-02-20T15:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T16:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892603785706369481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617132952399257608",
+          "start": 0,
+          "username": "snxrn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892603785706369481",
+    "in_reply_to_user_id": "1617132952399257608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892603716705853707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snxrn3 (点头)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892603560669454683",
+        "created_at": "2025-02-20T15:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T16:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892603785706369481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617132952399257608",
+              "start": 0,
+              "username": "snxrn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892603785706369481",
+        "in_reply_to_user_id": "1617132952399257608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892603716705853707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snxrn3 (点头)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617132952399257608",
+        "conversation_id": "1892603560669454683",
+        "created_at": "2025-02-20T15:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T16:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892603716705853707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892603716705853707",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892603560669454683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai （笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1270,
+          "like_count": 19645,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 3803
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:12:21.000Z",
+        "description": "恭喜你發現了整個互聯網最沒趣的傢夥  名为孫旭冉  很高興認識你\nQQ号：522758057   如果你加我了，就證明你比我還要無聊",
+        "id": "1617132952399257608",
+        "location": "中国 黑龙江 哈尔滨",
+        "name": "孫旭冉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889186365805670400/qd7pakfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 70
+        },
+        "username": "snxrn3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792103206945694135",
+    "created_at": "2024-05-19T08:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T09:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792103206945694135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607922536133656577",
+          "start": 3,
+          "username": "Ririca520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792103206945694135",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791858277719908716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririca520: 我要喜欢上一个不会让我流眼泪也不会骗我的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792103206945694135",
+        "created_at": "2024-05-19T08:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T09:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792103206945694135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607922536133656577",
+              "start": 3,
+              "username": "Ririca520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792103206945694135",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791858277719908716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririca520: 我要喜欢上一个不会让我流眼泪也不会骗我的人"
+      },
+      {
+        "attachments": {},
+        "author_id": "1607922536133656577",
+        "conversation_id": "1791858277719908716",
+        "created_at": "2024-05-18T15:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T16:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791858277719908716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791858277719908716",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10334,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我要喜欢上一个不会让我流眼泪也不会骗我的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1098,
+          "like_count": 8183,
+          "listed_count": 1,
+          "tweet_count": 1629
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "傲娇且毒舌｜海外在住｜古典钢琴｜🎹@Mizukileau🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Mizukileau"
+              }
+            ]
+          }
+        },
+        "id": "1607922536133656577",
+        "location": "音乐厅",
+        "name": "姌",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787485678701252608/TwN0letI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4922,
+          "following_count": 550,
+          "like_count": 56746,
+          "listed_count": 15,
+          "tweet_count": 4454
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835751661165248533",
+    "created_at": "2024-09-16T18:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T19:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835751661165248533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1835751661165248533",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我明白恋残的萌点了。你没有腿就无法离开我。你没有眼睛就看不到比我美的人。你没有手就不会对别人不老实。你没有耳朵就听不到别人挑拨离间。你没有嘴就不会和别人相谈甚欢。你没有生殖器就不会背叛我。你没有脑子就不会想反抗我。那些都不重要。你有我就够了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835751661165248533",
+        "created_at": "2024-09-16T18:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T19:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835751661165248533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835751661165248533",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明白恋残的萌点了。你没有腿就无法离开我。你没有眼睛就看不到比我美的人。你没有手就不会对别人不老实。你没有耳朵就听不到别人挑拨离间。你没有嘴就不会和别人相谈甚欢。你没有生殖器就不会背叛我。你没有脑子就不会想反抗我。那些都不重要。你有我就够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1239,
+          "like_count": 15652,
+          "listed_count": 1,
+          "tweet_count": 3062
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

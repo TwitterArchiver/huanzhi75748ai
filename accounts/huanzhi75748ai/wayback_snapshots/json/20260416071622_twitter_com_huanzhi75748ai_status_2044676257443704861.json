@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2044676257443704861",
+    "created_at": "2026-04-16T07:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044676257443704861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965778226627911680",
+          "start": 3,
+          "username": "cidao2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044676257443704861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044387090264395882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cidao2310: 我感觉真正健康的恋爱关系不可能是进展迅速的，这种东西急不来，无论是友情还是爱情，都需要时间的沉淀，去了解，去思考。不要让自己的大脑被短暂的激素控制，要放眼纵观，你们所处的环境、你们开始的起点、你们性格的差异…等等要素，是否是最合适最舒服的，很多关系…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2044676257443704861",
+        "created_at": "2026-04-16T07:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044676257443704861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965778226627911680",
+              "start": 3,
+              "username": "cidao2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044676257443704861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044387090264395882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cidao2310: 我感觉真正健康的恋爱关系不可能是进展迅速的，这种东西急不来，无论是友情还是爱情，都需要时间的沉淀，去了解，去思考。不要让自己的大脑被短暂的激素控制，要放眼纵观，你们所处的环境、你们开始的起点、你们性格的差异…等等要素，是否是最合适最舒服的，很多关系…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965778226627911680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2044387090264395882",
+        "created_at": "2026-04-15T12:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044387090264395882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044387090264395882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 22883,
+          "like_count": 627,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉真正健康的恋爱关系不可能是进展迅速的，这种东西急不来，无论是友情还是爱情，都需要时间的沉淀，去了解，去思考。不要让自己的大脑被短暂的激素控制，要放眼纵观，你们所处的环境、你们开始的起点、你们性格的差异…等等要素，是否是最合适最舒服的，很多关系其实从一开始就注定了结局。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1393,
+          "like_count": 29467,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6055
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "叨叨。\n📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 29,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 6,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "法晕直男/.",
+        "pinned_tweet_id": "2036460137146360126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 158,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1450
+        },
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

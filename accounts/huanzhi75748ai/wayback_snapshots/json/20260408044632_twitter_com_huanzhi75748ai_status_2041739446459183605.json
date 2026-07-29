@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2041579266605781201",
+    "created_at": "2026-04-08T04:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041739446459183605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041739446459183605",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041579266605781201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 好厉害！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041579261384126467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUlhX-a8AM_ngF.jpg",
+        "width": 607
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041579262898270208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUlhdna8AAZ1De.jpg",
+        "width": 607
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041579263363837956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUlhfWa8AQjybP.jpg",
+        "width": 728
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041579263061884928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUlheObgAA4v-Q.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2041579266605781201",
+        "created_at": "2026-04-08T04:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041739446459183605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739446459183605",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041579266605781201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 好厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041579261384126467",
+            "3_2041579262898270208",
+            "3_2041579263363837956",
+            "3_2041579263061884928"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041579266605781201",
+        "created_at": "2026-04-07T18:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041579266605781201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ぽこポケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yM3LPMmnQ6",
+              "end": 54,
+              "expanded_url": "https://x.com/Aloevce/status/2041579266605781201/photo/1",
+              "media_key": "3_2041579261384126467",
+              "start": 31,
+              "url": "https://t.co/yM3LPMmnQ6"
+            },
+            {
+              "display_url": "pic.x.com/yM3LPMmnQ6",
+              "end": 54,
+              "expanded_url": "https://x.com/Aloevce/status/2041579266605781201/photo/1",
+              "media_key": "3_2041579262898270208",
+              "start": 31,
+              "url": "https://t.co/yM3LPMmnQ6"
+            },
+            {
+              "display_url": "pic.x.com/yM3LPMmnQ6",
+              "end": 54,
+              "expanded_url": "https://x.com/Aloevce/status/2041579266605781201/photo/1",
+              "media_key": "3_2041579263363837956",
+              "start": 31,
+              "url": "https://t.co/yM3LPMmnQ6"
+            },
+            {
+              "display_url": "pic.x.com/yM3LPMmnQ6",
+              "end": 54,
+              "expanded_url": "https://x.com/Aloevce/status/2041579266605781201/photo/1",
+              "media_key": "3_2041579263061884928",
+              "start": 31,
+              "url": "https://t.co/yM3LPMmnQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041579266605781201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 368,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四个主线岛终于都十级了已力竭（终于会照片传手机了 #ぽこポケ https://t.co/yM3LPMmnQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1395,
+          "like_count": 28590,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 5859
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18009,
+          "following_count": 2306,
+          "like_count": 54059,
+          "listed_count": 23,
+          "media_count": 6562,
+          "tweet_count": 22841
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

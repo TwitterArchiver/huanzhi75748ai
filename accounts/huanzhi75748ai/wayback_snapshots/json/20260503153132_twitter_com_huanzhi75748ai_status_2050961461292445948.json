@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2050961461292445948",
+    "created_at": "2026-05-03T15:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050961461292445948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TongZi14905/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/TongZi14905/status/2050525787741389081",
+          "start": 42,
+          "url": "https://t.co/jTxediR101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050961461292445948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050525787741389081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "记忆突然回到了参加群主和管理员赛博婚礼的时候，回到了晒情侣空间等级的时候。我笑死了 https://t.co/jTxediR101"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2050961461292445948",
+        "created_at": "2026-05-03T15:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050961461292445948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TongZi14905/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/TongZi14905/status/2050525787741389081",
+              "start": 42,
+              "url": "https://t.co/jTxediR101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050961461292445948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050525787741389081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记忆突然回到了参加群主和管理员赛博婚礼的时候，回到了晒情侣空间等级的时候。我笑死了 https://t.co/jTxediR101"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897829731992805376",
+        "conversation_id": "2050525787741389081",
+        "created_at": "2026-05-02T10:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050525787741389081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050525787741389081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 61615,
+          "like_count": 894,
+          "quote_count": 10,
+          "reply_count": 203,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "现在的人真是好日子过够了 还说对象查手机没边界感 按照以前都是QQ关联你知道不 号主本人还没收到消息呢关联的人就转号给回完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 1402,
+          "like_count": 30527,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 6268
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T02:01:11.000Z",
+        "description": "小猫流口水导致局部暴雨",
+        "id": "1897829731992805376",
+        "location": "猫猫",
+        "name": "桐原介子",
+        "pinned_tweet_id": "2032967091481952491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004463156383326208/YJ2DY8Nw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 588,
+          "like_count": 29755,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 2681
+        },
+        "username": "TongZi14905",
+        "verified": false
+      }
+    ]
+  }
+}

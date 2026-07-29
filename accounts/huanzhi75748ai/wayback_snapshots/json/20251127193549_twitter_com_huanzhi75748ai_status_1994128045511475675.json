@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1994128045511475675",
+    "created_at": "2025-11-27T19:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T20:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994128045511475675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tteokki9/statu…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/tteokki9/status/1993715963817271424",
+          "start": 77,
+          "url": "https://t.co/ar9d1IWpyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994128045511475675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993715963817271424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是我死在那个冬天就好了。痛苦没有减轻也无法加剧，它一直在叠加。不如早点了结，我也不至于面对残酷的现实。至少那时我还是个相信爱最重要的爱玩原神的傻逼。😋 https://t.co/ar9d1IWpyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_1993715957127319552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6saGY-aEAAKhUL.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1994128045511475675",
+        "created_at": "2025-11-27T19:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994128045511475675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tteokki9/statu…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/tteokki9/status/1993715963817271424",
+              "start": 77,
+              "url": "https://t.co/ar9d1IWpyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994128045511475675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993715963817271424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是我死在那个冬天就好了。痛苦没有减轻也无法加剧，它一直在叠加。不如早点了结，我也不至于面对残酷的现实。至少那时我还是个相信爱最重要的爱玩原神的傻逼。😋 https://t.co/ar9d1IWpyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993715957127319552"
+          ]
+        },
+        "author_id": "1901339878966636544",
+        "conversation_id": "1993715963817271424",
+        "created_at": "2025-11-26T16:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993715963817271424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SutlAb7bLY",
+              "end": 47,
+              "expanded_url": "https://x.com/tteokki9/status/1993715963817271424/photo/1",
+              "media_key": "3_1993715957127319552",
+              "start": 24,
+              "url": "https://t.co/SutlAb7bLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993715963817271424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 40131,
+          "like_count": 383,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "看到这句话好想哭 还好没有死在高考前的那个冬天 https://t.co/SutlAb7bLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1337,
+          "like_count": 21820,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 4496
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜置顶推广自辨",
+        "id": "1901339878966636544",
+        "location": "🚪188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1993981977226035648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 127,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1141
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

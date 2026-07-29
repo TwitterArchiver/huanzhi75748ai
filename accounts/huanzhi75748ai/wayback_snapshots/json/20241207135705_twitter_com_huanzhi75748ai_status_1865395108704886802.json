@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1864603362127179973",
+    "created_at": "2024-12-07T13:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T14:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865395108704886802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "damatte0526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865395108704886802",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864603362127179973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte0526 老公你胸上有俩大蟑螂我帮你拿走"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1864603362127179973].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1864603362127179973",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1864603362127179973"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1864603362127179973",
+        "created_at": "2024-12-07T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865395108704886802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "damatte0526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865395108704886802",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864603362127179973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte0526 老公你胸上有俩大蟑螂我帮你拿走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1263,
+          "like_count": 19382,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 3872
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "平和 安楽 一生懸命",
+        "id": "1592719222940962817",
+        "location": "美丽的小咪之家",
+        "name": "家之咪小",
+        "pinned_tweet_id": "1855566813163332085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860209674106097665/98162yLt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 271,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 176
+        },
+        "username": "damatte0526",
+        "verified": false
+      }
+    ]
+  }
+}

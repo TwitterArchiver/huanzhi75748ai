@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1843359239995306019",
+    "created_at": "2024-10-07T18:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T19:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843359239995306019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843359239995306019",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷视频突然想起来我银行卡还给前科绑着亲密付，虽然那个卡好像因为我多次忘记密码用不了了但是以防万一还是解绑了吧=_=咦呃现在我都无法想象我这种人居然会给人绑银行卡。可能是为了自我感动?当时还觉得他如果愿意花我的钱我就还有机会，现在只希望钱给我机会。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1843359239995306019",
+        "created_at": "2024-10-07T18:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T19:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843359239995306019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843359239995306019",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷视频突然想起来我银行卡还给前科绑着亲密付，虽然那个卡好像因为我多次忘记密码用不了了但是以防万一还是解绑了吧=_=咦呃现在我都无法想象我这种人居然会给人绑银行卡。可能是为了自我感动?当时还觉得他如果愿意花我的钱我就还有机会，现在只希望钱给我机会。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1251,
+          "like_count": 16802,
+          "listed_count": 1,
+          "tweet_count": 3179
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

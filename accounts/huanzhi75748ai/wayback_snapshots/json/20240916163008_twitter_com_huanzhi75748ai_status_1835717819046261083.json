@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "1835717819046261083",
+    "created_at": "2024-09-16T16:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T17:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835717819046261083"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1835717819046261083",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做情侣博主没有情侣。做生活博主生活不精彩。做黄色博主没身材。做鉴证博主不犀利。做卖惨博主割的不够深。做文字博主文采不好。做宠物博主疑似虐待动物。做美妆博主没信服度。做二次元博主怕被投厕。做sm博主只会口嗨。做抽象博主比不过抽象圣体。做游戏博主一直被压力。做厨艺博主毒死粉丝。这就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "1835717819046261083",
+        "created_at": "2024-09-16T16:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T17:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835717819046261083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835717819046261083",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做情侣博主没有情侣。做生活博主生活不精彩。做黄色博主没身材。做鉴证博主不犀利。做卖惨博主割的不够深。做文字博主文采不好。做宠物博主疑似虐待动物。做美妆博主没信服度。做二次元博主怕被投厕。做sm博主只会口嗨。做抽象博主比不过抽象圣体。做游戏博主一直被压力。做厨艺博主毒死粉丝。这就是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1238,
+          "like_count": 15566,
+          "listed_count": 1,
+          "tweet_count": 3044
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1828516355618001204",
+    "created_at": "2024-09-07T07:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T08:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832313587278184829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1535277493787189249",
+          "start": 0,
+          "username": "sebi27320357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832313587278184829",
+    "in_reply_to_user_id": "1535277493787189249",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829237618087010791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sebi27320357 你还知道说你呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1828516355618001204",
+        "created_at": "2024-09-07T07:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T08:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832313587278184829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1535277493787189249",
+              "start": 0,
+              "username": "sebi27320357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832313587278184829",
+        "in_reply_to_user_id": "1535277493787189249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829237618087010791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sebi27320357 你还知道说你呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535277493787189249",
+        "conversation_id": "1828516355618001204",
+        "created_at": "2024-08-29T19:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T20:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829237618087010791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829237618087010791",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828516355618001204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 🥴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1226,
+          "like_count": 15118,
+          "listed_count": 1,
+          "tweet_count": 2911
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T15:07:44.000Z",
+        "description": "",
+        "id": "1535277493787189249",
+        "name": "Hoshi4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741531590482931712/jNwEGRfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 24,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "sebi27320357",
+        "verified": false
+      }
+    ]
+  }
+}

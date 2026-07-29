@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1914025340118192248",
+    "created_at": "2025-04-25T02:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T03:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915591211684933967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456264248514908289",
+          "start": 0,
+          "username": "2DXKAOIG8W3S4Ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915591211684933967",
+    "in_reply_to_user_id": "1456264248514908289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915571992159494441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2DXKAOIG8W3S4Ab 我学分，毕业前，不到位，会延毕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1914025340118192248",
+        "created_at": "2025-04-25T02:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T03:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915591211684933967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456264248514908289",
+              "start": 0,
+              "username": "2DXKAOIG8W3S4Ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915591211684933967",
+        "in_reply_to_user_id": "1456264248514908289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915571992159494441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2DXKAOIG8W3S4Ab 我学分，毕业前，不到位，会延毕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456264248514908289",
+        "conversation_id": "1914025340118192248",
+        "created_at": "2025-04-25T01:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T02:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915571992159494441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915571992159494441",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914025340118192248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 相信我，那学分，没卵用，不用理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1914135457455116306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1316,
+          "like_count": 20917,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 4055
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T14:17:23.000Z",
+        "description": "🇨🇳坐标广州020 | Mr.死因 认证原创摄影师|照片均为本人拍摄 | 不卖图 |不介绍丨约拍可私信",
+        "id": "1456264248514908289",
+        "location": "广州",
+        "name": "TIAGULN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867664434484981762/XPs4Davo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 2560,
+          "like_count": 5082,
+          "listed_count": 18,
+          "media_count": 80,
+          "tweet_count": 435
+        },
+        "username": "2DXKAOIG8W3S4Ab",
+        "verified": false
+      }
+    ]
+  }
+}

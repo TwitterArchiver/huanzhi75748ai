@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1803141470414590133",
+    "created_at": "2024-06-18T19:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T20:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803142902911992299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737950771684249600",
+          "start": 0,
+          "username": "Metre_aughhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803142902911992299",
+    "in_reply_to_user_id": "1737950771684249600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803142367316517165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Metre_aughhh 上面写的good luck\n希望吧🫂😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1803141470414590133",
+        "created_at": "2024-06-18T19:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T20:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803142902911992299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737950771684249600",
+              "start": 0,
+              "username": "Metre_aughhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803142902911992299",
+        "in_reply_to_user_id": "1737950771684249600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803142367316517165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Metre_aughhh 上面写的good luck\n希望吧🫂😿"
+      },
+      {
+        "attachments": {},
+        "author_id": "1737950771684249600",
+        "conversation_id": "1803141470414590133",
+        "created_at": "2024-06-18T19:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T20:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803142367316517165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803142367316517165",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803141470414590133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 美丽的手链"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1151,
+          "like_count": 12260,
+          "listed_count": 1,
+          "tweet_count": 2257
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T21:38:58.000Z",
+        "description": "转发R18G+shtwt向账号 性别流体(生理男)介意我的生理性别或感到不适请善用单取双取屏蔽 主用号|查成分请跳转这个号@MoXiAoXD233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "MoXiAoXD233"
+              }
+            ]
+          }
+        },
+        "id": "1737950771684249600",
+        "name": "メトール🔞",
+        "pinned_tweet_id": "1795108152486117747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738807578031742976/RnCCn40d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 344,
+          "like_count": 6578,
+          "listed_count": 0,
+          "tweet_count": 618
+        },
+        "username": "Metre_aughhh",
+        "verified": false
+      }
+    ]
+  }
+}

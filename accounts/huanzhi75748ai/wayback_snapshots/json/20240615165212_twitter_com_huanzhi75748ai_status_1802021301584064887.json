@@ -1,0 +1,107 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802020663286439936",
+        "3_1802020685285572608"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1802021301584064887",
+    "created_at": "2024-06-15T16:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T17:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802021301584064887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zVLLeDSiTj",
+          "end": 70,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1802021301584064887/photo/1",
+          "media_key": "3_1802020663286439936",
+          "start": 47,
+          "url": "https://t.co/zVLLeDSiTj"
+        },
+        {
+          "display_url": "pic.twitter.com/zVLLeDSiTj",
+          "end": 70,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1802021301584064887/photo/1",
+          "media_key": "3_1802020685285572608",
+          "start": 47,
+          "url": "https://t.co/zVLLeDSiTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802021301584064887",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可爱的胶囊小小的绿绿的。我还来了少许联苯双酯小丸丸。保护我已经完蛋的肝。我是青柑普洱梦女。 https://t.co/zVLLeDSiTj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1802021301584064887].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1802021301584064887",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1802021301584064887"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1802020663286439936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQIQPukaIAAAzVX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1802020685285572608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQIQRAhaQAAM2bm.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1142,
+          "like_count": 11652,
+          "listed_count": 1,
+          "tweet_count": 2172
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

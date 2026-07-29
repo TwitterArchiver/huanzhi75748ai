@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1807802570783781209",
+    "created_at": "2024-07-02T14:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T15:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808141746049618208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635640229246951425",
+          "start": 0,
+          "username": "Quadrant__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808141746049618208",
+    "in_reply_to_user_id": "1635640229246951425",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807919388240322714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quadrant__3 🙀深情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1807802570783781209",
+        "created_at": "2024-07-02T14:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T15:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808141746049618208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635640229246951425",
+              "start": 0,
+              "username": "Quadrant__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808141746049618208",
+        "in_reply_to_user_id": "1635640229246951425",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807919388240322714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quadrant__3 🙀深情"
+      },
+      {
+        "attachments": {},
+        "author_id": "1635640229246951425",
+        "conversation_id": "1807802570783781209",
+        "created_at": "2024-07-01T23:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T00:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807919388240322714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807919388240322714",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807829018231857388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 還沒寫的比現實中更慘 我喜歡八年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知\n傻逼@icnlovecn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "icnlovecn"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1176,
+          "like_count": 12854,
+          "listed_count": 1,
+          "tweet_count": 2349
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T13:53:42.000Z",
+        "description": "合作歡迎私訊小盒子/無使用交友軟體/18y/沒畢業/娛樂城 /買精品找我/菸彈/化學組/自然組/k仔/狀況愛/音樂課/廟會孩子並不壞 /陣頭囝仔 /我考5c我驕傲/模板學徒\n\n沒刺青不代表沒故事 年紀輕不代表沒實力",
+        "id": "1635640229246951425",
+        "location": "天母一莊",
+        "name": "負負得負的二次方再一個二次方",
+        "pinned_tweet_id": "1795840843741646859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799888343616139264/dJV0Fj24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 525,
+          "like_count": 13001,
+          "listed_count": 1,
+          "tweet_count": 2770
+        },
+        "username": "Quadrant__3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037878916627804535",
+    "created_at": "2026-03-29T05:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038120627065049549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038120627065049549",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037878916627804535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 东北人到底咋了。我前朋友的群里一直骂东北人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037878916627804535",
+        "created_at": "2026-03-29T05:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038120627065049549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038120627065049549",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037878916627804535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 东北人到底咋了。我前朋友的群里一直骂东北人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2037878916627804535",
+        "created_at": "2026-03-28T13:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037878916627804535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037878916627804535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1617,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉骂东北人成为了一种网络运动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1382,
+          "like_count": 25641,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 5382
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "♡pansexual ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//记录电波发送全过程的赛博日记本(〃ω〃)ᰔ｡ﾟ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oioioi000",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oioioi000",
+                "start": 0,
+                "url": "https://t.co/UdwRNKzpCP"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025210016291033089/eQnDkr6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 299,
+          "like_count": 8601,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 4168
+        },
+        "url": "https://t.co/UdwRNKzpCP",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

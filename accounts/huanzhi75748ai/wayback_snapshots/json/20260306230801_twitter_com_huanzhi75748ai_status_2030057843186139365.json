@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2030057840858255361"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2030057843186139365",
+    "created_at": "2026-03-06T23:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030057843186139365"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030057843186139365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的微信签名一直是\n“共创你我乌托邦”\n你认为？"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030057843186139365].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030057843186139365",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030057843186139365"
+    }
+  ],
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-07T23:08:00.000Z",
+        "id": "2030057840858255361",
+        "options": [
+          {
+            "label": "不存在",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "或许在无限远的不可知存在",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "蠢爆了",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "在有限的人和时空中可能存在",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1327,
+          "like_count": 23314,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 4974
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

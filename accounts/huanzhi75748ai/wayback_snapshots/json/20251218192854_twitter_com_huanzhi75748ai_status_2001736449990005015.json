@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2001736396349018112",
+        "7_2001736403043127298",
+        "3_2001736403034800129",
+        "3_2001736403030511616"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2001736449990005015",
+    "created_at": "2025-12-18T19:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001736449990005015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ja4S9v8YOi",
+          "end": 39,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2001736449990005015/video/1",
+          "media_key": "7_2001736396349018112",
+          "start": 16,
+          "url": "https://t.co/Ja4S9v8YOi"
+        },
+        {
+          "display_url": "pic.x.com/Ja4S9v8YOi",
+          "end": 39,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2001736449990005015/video/1",
+          "media_key": "7_2001736403043127298",
+          "start": 16,
+          "url": "https://t.co/Ja4S9v8YOi"
+        },
+        {
+          "display_url": "pic.x.com/Ja4S9v8YOi",
+          "end": 39,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2001736449990005015/video/1",
+          "media_key": "3_2001736403034800129",
+          "start": 16,
+          "url": "https://t.co/Ja4S9v8YOi"
+        },
+        {
+          "display_url": "pic.x.com/Ja4S9v8YOi",
+          "end": 39,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/2001736449990005015/video/1",
+          "media_key": "3_2001736403030511616",
+          "start": 16,
+          "url": "https://t.co/Ja4S9v8YOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001736449990005015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脾气好好哦睡着觉也要起来打招呼 https://t.co/Ja4S9v8YOi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001736449990005015].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001736449990005015",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001736449990005015"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1573,
+        "height": 720,
+        "media_key": "7_2001736396349018112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001736396349018112/pu/img/q_Y1qJs2T0NRH6fq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001736396349018112/pu/vid/avc1/360x270/tF1v4G6kdyAaCx7M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001736396349018112/pu/vid/avc1/480x360/K6jyhz1-qX8vpo7L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001736396349018112/pu/vid/avc1/960x720/3s15ZBZirwIm1e2Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001736396349018112/pu/pl/y4c_4-v3v9b6_nk7.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 3038,
+        "height": 960,
+        "media_key": "7_2001736403043127298",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001736403043127298/pu/img/RBV6_a1tVpX1HX1g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001736403043127298/pu/vid/avc1/320x426/UPq500DFliLxYNZX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001736403043127298/pu/vid/avc1/480x640/GnFrkn_vCrY8vxJK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001736403043127298/pu/vid/avc1/720x960/utAb-SF-YlMGcs-W.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001736403043127298/pu/pl/UrSk9JV5S4k-wZkS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2001736403034800129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eYpyTbgAEY95j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2001736403030511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eYpySaEAAmsV7.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1329,
+          "like_count": 22296,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 4607
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1815110500428206080"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1815111029875191979",
+    "created_at": "2024-07-21T19:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T20:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815111029875191979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1HuYSDFcnR",
+          "end": 55,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1815111029875191979/photo/1",
+          "media_key": "3_1815110500428206080",
+          "start": 32,
+          "url": "https://t.co/1HuYSDFcnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815111029875191979",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我很讨厌crush这个词\n短暂的热烈的爱\n可是爱凭什么短暂 https://t.co/1HuYSDFcnR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1815111029875191979].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1815111029875191979",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1815111029875191979"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1815110500428206080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTCRYh4a0AAxINg.jpg",
+        "width": 1232
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1219,
+          "like_count": 14489,
+          "listed_count": 1,
+          "tweet_count": 2711
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

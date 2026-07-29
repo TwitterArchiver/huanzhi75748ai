@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1855434483216060769",
+    "created_at": "2024-11-10T10:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T11:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855559047958974852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636445712149020672",
+          "start": 0,
+          "username": "611MurataHimeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855559047958974852",
+    "in_reply_to_user_id": "1636445712149020672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855449295560102357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@611MurataHimeko 摸凹🙌🏻😼🙌🏻😼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1855449295560102357].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1855449295560102357",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1855449295560102357"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1855434483216060769",
+        "created_at": "2024-11-10T10:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T11:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855559047958974852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636445712149020672",
+              "start": 0,
+              "username": "611MurataHimeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855559047958974852",
+        "in_reply_to_user_id": "1636445712149020672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855449295560102357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@611MurataHimeko 摸凹🙌🏻😼🙌🏻😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1261,
+          "like_count": 18652,
+          "listed_count": 1,
+          "tweet_count": 3649
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T19:14:07.000Z",
+        "description": "𝘐 𝘥𝘰𝘯'𝘵 𝘸𝘢𝘯𝘯𝘢 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘸𝘢𝘬𝘦 𝘶𝘱 𝘧𝘳𝘰𝘮 𝘵𝘩𝘪𝘴 𝘥𝘳𝘦𝘢𝘮 Bluesky：https://t.co/yUmnIZY2nv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/611mur…",
+                "end": 77,
+                "expanded_url": "https://bsky.app/profile/611muratahimeko.bsky.social",
+                "start": 54,
+                "url": "https://t.co/yUmnIZY2nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "status.39network.cc",
+                "end": 23,
+                "expanded_url": "https://status.39network.cc",
+                "start": 0,
+                "url": "https://t.co/CnYP7iTFJu"
+              }
+            ]
+          }
+        },
+        "id": "1636445712149020672",
+        "name": "(๑•̌.•̑๑)ˀ̣ˀ̣",
+        "pinned_tweet_id": "1671648877676728320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765828928206462976/vPNiZS_Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 824,
+          "like_count": 39990,
+          "listed_count": 2,
+          "tweet_count": 22393
+        },
+        "url": "https://t.co/CnYP7iTFJu",
+        "username": "611MurataHimeko",
+        "verified": false
+      }
+    ]
+  }
+}

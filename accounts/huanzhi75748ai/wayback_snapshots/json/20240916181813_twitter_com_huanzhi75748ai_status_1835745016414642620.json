@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835745016414642620",
+    "created_at": "2024-09-16T18:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T19:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835745016414642620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fallenrika1/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/fallenrika1/status/1834636919076274307",
+          "start": 55,
+          "url": "https://t.co/ykioDOPqac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835745016414642620",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834636919076274307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是啊。不想认识新的人。不想把难受的东西给别人看以获取同情。不想再满怀期待等着一句刺耳的话。人总是在重复痛苦。 https://t.co/ykioDOPqac"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835745016414642620",
+        "created_at": "2024-09-16T18:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T19:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835745016414642620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fallenrika1/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/fallenrika1/status/1834636919076274307",
+              "start": 55,
+              "url": "https://t.co/ykioDOPqac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835745016414642620",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834636919076274307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是啊。不想认识新的人。不想把难受的东西给别人看以获取同情。不想再满怀期待等着一句刺耳的话。人总是在重复痛苦。 https://t.co/ykioDOPqac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834636912428302337"
+          ]
+        },
+        "author_id": "1566430838434430977",
+        "conversation_id": "1834636919076274307",
+        "created_at": "2024-09-13T16:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T17:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834636919076274307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yadnqv0a83",
+              "end": 34,
+              "expanded_url": "https://twitter.com/fallenrika1/status/1834636919076274307/photo/1",
+              "media_key": "3_1834636912428302337",
+              "start": 11,
+              "url": "https://t.co/YADnQv0A83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834636919076274307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 193,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新认识一个人好麻烦 https://t.co/YADnQv0A83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1239,
+          "like_count": 15637,
+          "listed_count": 1,
+          "tweet_count": 3057
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "燕子来时新社，梨花落后清明",
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "雨淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722424196360507392/OB21JpqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 454,
+          "like_count": 23701,
+          "listed_count": 1,
+          "tweet_count": 1899
+        },
+        "username": "fallenrika1",
+        "verified": false
+      }
+    ]
+  }
+}

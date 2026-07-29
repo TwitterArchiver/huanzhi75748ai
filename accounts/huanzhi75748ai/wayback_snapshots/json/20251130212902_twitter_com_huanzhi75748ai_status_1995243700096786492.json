@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995146701427048448"
+      ],
+      "media_source_tweet_id": [
+        "1995146715947753938"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995243700096786492",
+    "created_at": "2025-11-30T21:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T22:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995243700096786492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833730895750283264",
+          "start": 3,
+          "username": "32_aug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3O8Q9oMJq3",
+          "end": 48,
+          "expanded_url": "https://x.com/32_aug/status/1995146715947753938/photo/1",
+          "media_key": "3_1995146701427048448",
+          "start": 25,
+          "url": "https://t.co/3O8Q9oMJq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995243700096786492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995146715947753938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @32_aug: 那还说啥了 这简直就是我 https://t.co/3O8Q9oMJq3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_1995146701427048448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AvWq1aAAAW3hk.jpg",
+        "width": 1968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995146701427048448"
+          ],
+          "media_source_tweet_id": [
+            "1995146715947753938"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995243700096786492",
+        "created_at": "2025-11-30T21:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T22:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995243700096786492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833730895750283264",
+              "start": 3,
+              "username": "32_aug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3O8Q9oMJq3",
+              "end": 48,
+              "expanded_url": "https://x.com/32_aug/status/1995146715947753938/photo/1",
+              "media_key": "3_1995146701427048448",
+              "start": 25,
+              "url": "https://t.co/3O8Q9oMJq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995243700096786492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995146715947753938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @32_aug: 那还说啥了 这简直就是我 https://t.co/3O8Q9oMJq3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995146701427048448"
+          ]
+        },
+        "author_id": "1833730895750283264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995146715947753938",
+        "created_at": "2025-11-30T15:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995146715947753938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3O8Q9oMJq3",
+              "end": 36,
+              "expanded_url": "https://x.com/32_aug/status/1995146715947753938/photo/1",
+              "media_key": "3_1995146701427048448",
+              "start": 13,
+              "url": "https://t.co/3O8Q9oMJq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995146715947753938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 762,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "那还说啥了 这简直就是我 https://t.co/3O8Q9oMJq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1341,
+          "like_count": 21972,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4521
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "はちです！中国人です！希望跟大家交朋友！｜フィルム｜ContaxG2お使います｜ポーラロイド｜ヨルシカ｜跑步训练｜箱根駅伝｜日常｜リズと青い鳥 ｜No politics 🚫 互fo查成分！日本語勉強しています！無言フォロー失礼します🙇 写真はこちら@ynmori136992",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "ynmori136992"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "みぞれのオーボエ",
+        "pinned_tweet_id": "1962008654842073413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985591382241914880/dav334cB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 683,
+          "like_count": 77820,
+          "listed_count": 3,
+          "media_count": 2322,
+          "tweet_count": 22933
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

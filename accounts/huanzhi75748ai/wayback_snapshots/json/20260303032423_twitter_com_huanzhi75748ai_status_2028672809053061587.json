@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2028672809053061587",
+    "created_at": "2026-03-03T03:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028672809053061587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852390818390450176",
+          "start": 3,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028672809053061587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028379597470138408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lrmc4e: 豆包帮我生成一个除了家里那位没叫过任何妈妈 没有在社交平台私信别的女生 精通各类游戏 单纯天真专一纯爱的没和女生聊过骚 没亲过嘴 不看擦边 没在社交平台发布过游戏集锦中掺杂着几张生活照的厨男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2028672809053061587",
+        "created_at": "2026-03-03T03:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028672809053061587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852390818390450176",
+              "start": 3,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028672809053061587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028379597470138408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lrmc4e: 豆包帮我生成一个除了家里那位没叫过任何妈妈 没有在社交平台私信别的女生 精通各类游戏 单纯天真专一纯爱的没和女生聊过骚 没亲过嘴 不看擦边 没在社交平台发布过游戏集锦中掺杂着几张生活照的厨男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2028379597470138408",
+        "created_at": "2026-03-02T07:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028379597470138408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028379597470138408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 29612,
+          "like_count": 417,
+          "quote_count": 6,
+          "reply_count": 33,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "豆包帮我生成一个除了家里那位没叫过任何妈妈 没有在社交平台私信别的女生 精通各类游戏 单纯天真专一纯爱的没和女生聊过骚 没亲过嘴 不看擦边 没在社交平台发布过游戏集锦中掺杂着几张生活照的厨男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1316,
+          "like_count": 23041,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4886
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲｜小号@ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2003482005892399608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13393,
+          "following_count": 100,
+          "like_count": 19062,
+          "listed_count": 28,
+          "media_count": 222,
+          "tweet_count": 5097
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

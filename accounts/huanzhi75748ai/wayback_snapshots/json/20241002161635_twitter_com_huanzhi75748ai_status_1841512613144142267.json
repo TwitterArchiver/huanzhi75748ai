@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1841512613144142267",
+    "created_at": "2024-10-02T16:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T17:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841512613144142267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760705336540057600",
+          "start": 3,
+          "username": "akiakuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841512613144142267",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841370938656620828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akiakuno: 感觉推特不像微博，像qq 空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1841512613144142267",
+        "created_at": "2024-10-02T16:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T17:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841512613144142267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760705336540057600",
+              "start": 3,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841512613144142267",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841370938656620828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akiakuno: 感觉推特不像微博，像qq 空间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760705336540057600",
+        "conversation_id": "1841370938656620828",
+        "created_at": "2024-10-02T06:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841370938656620828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841370938656620828",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉推特不像微博，像qq 空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1250,
+          "like_count": 16564,
+          "listed_count": 1,
+          "tweet_count": 3133
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "Life changes,why stay still.",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1835138331962962418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 135,
+          "like_count": 11556,
+          "listed_count": 2,
+          "tweet_count": 4901
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1923423576905953581",
+    "created_at": "2025-05-18T16:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T17:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924145482735169700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924145482735169700",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923423576905953581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 是在做法还是需要做法了？🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11100,
+        "height": 1280,
+        "media_key": "7_1923423481695211520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923423481695211520/pu/img/EXu-0qe-K4hCHNBj.jpg",
+        "public_metrics": {
+          "view_count": 251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923423481695211520/pu/vid/avc1/320x568/UiTSvDSZKmnTSaas.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923423481695211520/pu/vid/avc1/480x852/AbwEnjzo6MqmdEAX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923423481695211520/pu/vid/avc1/720x1280/6vlET9ii5Br0JAJC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923423481695211520/pu/pl/77zvd6NKoC3pswOk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1923423576905953581",
+        "created_at": "2025-05-18T16:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T17:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924145482735169700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924145482735169700",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923423576905953581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 是在做法还是需要做法了？🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923423481695211520"
+          ]
+        },
+        "author_id": "1647182072723959808",
+        "conversation_id": "1923423576905953581",
+        "created_at": "2025-05-16T17:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923423576905953581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdvRGcLmSx",
+              "end": 29,
+              "expanded_url": "https://x.com/s3450924340204/status/1923423576905953581/video/1",
+              "media_key": "7_1923423481695211520",
+              "start": 6,
+              "url": "https://t.co/hdvRGcLmSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923423576905953581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起舞吧…… https://t.co/hdvRGcLmSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1340,
+          "like_count": 21622,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4163
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "缓缓睡 悄悄睡 慢慢睡 轻轻睡 早早睡 快快睡 甜甜睡 留下了zZ zZ zZ 梦话飘到空中坠落然后然后早上起来脑袋晕乎乎≥w≤（萌萌哒超级可爱可爱😭😭😭👀✨😈😇👽🙀😘",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "pinned_tweet_id": "1841792332691083412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923415152071974912/3mqFnXWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 825,
+          "like_count": 157058,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 5385
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

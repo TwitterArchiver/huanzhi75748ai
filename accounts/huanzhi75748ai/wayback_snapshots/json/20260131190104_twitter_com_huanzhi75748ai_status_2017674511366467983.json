@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983891213259567105"
+      ],
+      "media_source_tweet_id": [
+        "1983891306423427407"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017674511366467983",
+    "created_at": "2026-01-31T19:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T20:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017674511366467983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552137066951036930",
+          "start": 3,
+          "username": "worldsokuho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RCn8sRzXL8",
+          "end": 52,
+          "expanded_url": "https://x.com/i/status/1983891306423427407/video/1",
+          "media_key": "13_1983891213259567105",
+          "start": 29,
+          "url": "https://t.co/RCn8sRzXL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017674511366467983",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 745
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017559335493374053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @worldsokuho: 小顔はメイクで作れる\n\nhttps://t.co/RCn8sRzXL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66633,
+        "height": 1280,
+        "media_key": "13_1983891213259567105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983891213259567105/img/5yhpwnITC0D5LbK9.jpg",
+        "public_metrics": {
+          "view_count": 2443410
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983891213259567105/vid/avc1/320x568/jw8VNhCT66HzHaHe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983891213259567105/vid/avc1/480x852/E0_wATQfhQ8DG-2m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983891213259567105/vid/avc1/720x1280/m3YIVr56njQ_X2xJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983891213259567105/pl/IrAfh54QyBRaNYsV.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983891213259567105"
+          ],
+          "media_source_tweet_id": [
+            "1983891306423427407"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017674511366467983",
+        "created_at": "2026-01-31T19:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017674511366467983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552137066951036930",
+              "start": 3,
+              "username": "worldsokuho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCn8sRzXL8",
+              "end": 52,
+              "expanded_url": "https://x.com/i/status/1983891306423427407/video/1",
+              "media_key": "13_1983891213259567105",
+              "start": 29,
+              "url": "https://t.co/RCn8sRzXL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017674511366467983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 745
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017559335493374053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @worldsokuho: 小顔はメイクで作れる\n\nhttps://t.co/RCn8sRzXL8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983891213259567105"
+          ],
+          "media_source_tweet_id": [
+            "1983891306423427407"
+          ]
+        },
+        "author_id": "1552137066951036930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017559335493374053",
+        "created_at": "2026-01-31T11:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017559335493374053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCn8sRzXL8",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/1983891306423427407/video/1",
+              "media_key": "13_1983891213259567105",
+              "start": 12,
+              "url": "https://t.co/RCn8sRzXL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017559335493374053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1394,
+          "impression_count": 1575672,
+          "like_count": 8737,
+          "quote_count": 111,
+          "reply_count": 126,
+          "retweet_count": 745
+        },
+        "reply_settings": "everyone",
+        "text": "小顔はメイクで作れる\n\nhttps://t.co/RCn8sRzXL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1321,
+          "like_count": 22540,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 4702
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T03:41:33.000Z",
+        "description": "⚠️海外の衝撃的な動画・画像を過去も含め引用でシェア・呟きます※詳細はリプ欄をチェック",
+        "id": "1552137066951036930",
+        "location": "※削除依頼等はDMまでお願い致します",
+        "name": "衝撃映像ちゃんねる",
+        "pinned_tweet_id": "1745659031384109394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719216024351027200/iV3O9tJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223580,
+          "following_count": 26254,
+          "like_count": 797,
+          "listed_count": 413,
+          "media_count": 65,
+          "tweet_count": 4112
+        },
+        "username": "worldsokuho",
+        "verified": true
+      }
+    ]
+  }
+}

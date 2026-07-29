@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043508609485812001",
+    "created_at": "2026-04-13T17:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043737556521759082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1757105459356704768",
+          "start": 0,
+          "username": "lingopark21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043737556521759082",
+    "in_reply_to_user_id": "1757105459356704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043508609485812001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingopark21 我不是人机。伤心了。😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_2043508601361485824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwAPvebUAAuq1p.jpg",
+        "width": 1179
+      },
+      {
+        "height": 770,
+        "media_key": "3_2043508601378209792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwAPviagAAzKTY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043508609485812001",
+        "created_at": "2026-04-13T17:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043737556521759082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1757105459356704768",
+              "start": 0,
+              "username": "lingopark21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043737556521759082",
+        "in_reply_to_user_id": "1757105459356704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043508609485812001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingopark21 我不是人机。伤心了。😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043508601361485824",
+            "3_2043508601378209792"
+          ]
+        },
+        "author_id": "1757105459356704768",
+        "conversation_id": "2043508609485812001",
+        "created_at": "2026-04-13T01:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043508609485812001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRgxsqpaUT",
+              "end": 23,
+              "expanded_url": "https://x.com/lingopark21/status/2043508609485812001/photo/1",
+              "media_key": "3_2043508601361485824",
+              "start": 0,
+              "url": "https://t.co/gRgxsqpaUT"
+            },
+            {
+              "display_url": "pic.x.com/gRgxsqpaUT",
+              "end": 23,
+              "expanded_url": "https://x.com/lingopark21/status/2043508609485812001/photo/1",
+              "media_key": "3_2043508601378209792",
+              "start": 0,
+              "url": "https://t.co/gRgxsqpaUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043508609485812001",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gRgxsqpaUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1396,
+          "like_count": 29213,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 5982
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "设定是一只碎嘴且成分复杂的麻雀 ｜ all of love \n家有二孩 英短叫十一 彩狸叫七七\n善用屏蔽 ｜ 直男 ｜ 互关可扩联系 :P\n欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/ZNwVVb7OJq"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "合翼卫",
+        "pinned_tweet_id": "2038646063733907850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 156,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 4528
+        },
+        "url": "https://t.co/ZNwVVb7OJq",
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

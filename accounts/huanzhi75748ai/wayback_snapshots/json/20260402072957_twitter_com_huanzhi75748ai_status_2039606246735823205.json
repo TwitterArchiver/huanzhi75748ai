@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2039560138990956914",
+    "created_at": "2026-04-02T07:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039606246735823205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250237155143811076",
+          "start": 0,
+          "username": "1nfinityHeaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039606246735823205",
+    "in_reply_to_user_id": "1250237155143811076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039560138990956914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nfinityHeaven 呃...被看穿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039560127611805696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE35IUhaIAAO8a-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2039560138990956914",
+        "created_at": "2026-04-02T07:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039606246735823205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1250237155143811076",
+              "start": 0,
+              "username": "1nfinityHeaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039606246735823205",
+        "in_reply_to_user_id": "1250237155143811076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039560138990956914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nfinityHeaven 呃...被看穿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039560127611805696"
+          ]
+        },
+        "author_id": "1250237155143811076",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039560138990956914",
+        "created_at": "2026-04-02T04:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039560138990956914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nheQ2CsYvG",
+              "end": 31,
+              "expanded_url": "https://x.com/1nfinityHeaven/status/2039560138990956914/photo/1",
+              "media_key": "3_2039560127611805696",
+              "start": 8,
+              "url": "https://t.co/nheQ2CsYvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039560138990956914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃…又被看穿了 https://t.co/nheQ2CsYvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知\n里世界@guisu_yes4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "guisu_yes4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039527782619979776/24UR456R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1390,
+          "like_count": 27160,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 5625
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "水之湄",
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "1836361021424099715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037505372240621568/75ygSjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7239,
+          "following_count": 194,
+          "like_count": 44888,
+          "listed_count": 11,
+          "media_count": 40,
+          "tweet_count": 12815
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

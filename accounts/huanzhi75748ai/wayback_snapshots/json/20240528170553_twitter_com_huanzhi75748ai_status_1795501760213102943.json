@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1795350180826694024",
+    "created_at": "2024-05-28T17:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T18:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795501760213102943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1657452862606303232",
+          "start": 0,
+          "username": "Spasmmmm0d1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795501760213102943",
+    "in_reply_to_user_id": "1657452862606303232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795350180826694024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spasmmmm0d1C 99.99分，扣0.01分是因为我操不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1795350180826694024",
+        "created_at": "2024-05-28T17:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T18:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795501760213102943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1657452862606303232",
+              "start": 0,
+              "username": "Spasmmmm0d1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795501760213102943",
+        "in_reply_to_user_id": "1657452862606303232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795350180826694024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spasmmmm0d1C 99.99分，扣0.01分是因为我操不到"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795350178079371264"
+          ]
+        },
+        "author_id": "1657452862606303232",
+        "conversation_id": "1795350180826694024",
+        "created_at": "2024-05-28T07:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T08:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795350180826694024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OckDQwv4x2",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Spasmmmm0d1C/status/1795350180826694024/photo/1",
+              "media_key": "3_1795350178079371264",
+              "start": 72,
+              "url": "https://t.co/OckDQwv4x2"
+            },
+            {
+              "display_url": "x.com/MIKUloverrrrr/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/MIKUloverrrrr/status/1795115644532191731",
+              "start": 96,
+              "url": "https://t.co/jx2v1hckDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795350180826694024",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795115644532191731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请大家来锐评我🥹\n内容：包括但不限于素质、言论、水平、友好程度、关于我的故事、合订本。\n还可以基于各种标准打分，0-100区间。\n欢迎大家啊🌹 https://t.co/OckDQwv4x2 https://t.co/jx2v1hckDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1144,
+          "like_count": 10274,
+          "listed_count": 1,
+          "tweet_count": 1969
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T18:29:35.000Z",
+        "description": "a nowhere man.喜欢小叽，热爱cs\n渴望在因特网寻找慰藉的死人，多暴论\n可以用英文中文粤语同我沟通🤗\n如果我觉得我对你很有好感会另外再加你XD\n粉红/女权请不要评论我的帖子，自觉右上角认爹\n讨厌我的发言也请自觉右上角认爹谢谢😁",
+        "id": "1657452862606303232",
+        "location": "nowhere land",
+        "name": "spaasm0oo0oo0odod1111c",
+        "pinned_tweet_id": "1793209148840276131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792919235766726658/WB9Z01Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 444,
+          "like_count": 11378,
+          "listed_count": 3,
+          "tweet_count": 7298
+        },
+        "username": "Spasmmmm0d1C",
+        "verified": false
+      }
+    ]
+  }
+}

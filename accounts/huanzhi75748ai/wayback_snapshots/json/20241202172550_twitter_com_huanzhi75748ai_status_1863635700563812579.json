@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863635695304097792",
+        "3_1863635696705056768"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1863635700563812579",
+    "created_at": "2024-12-02T17:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T18:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863635700563812579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Y94edxXDA",
+          "end": 35,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1863635700563812579/photo/1",
+          "media_key": "3_1863635695304097792",
+          "start": 12,
+          "url": "https://t.co/6Y94edxXDA"
+        },
+        {
+          "display_url": "pic.x.com/6Y94edxXDA",
+          "end": 35,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1863635700563812579/photo/1",
+          "media_key": "3_1863635696705056768",
+          "start": 12,
+          "url": "https://t.co/6Y94edxXDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863635700563812579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我等别人回信息的时候: https://t.co/6Y94edxXDA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863635700563812579].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863635700563812579",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863635700563812579"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1863635695304097792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdz2ynlWwAAnugD.jpg",
+        "width": 448
+      },
+      {
+        "height": 436,
+        "media_key": "3_1863635696705056768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdz2yszXsAA0HIv.jpg",
+        "width": 684
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1263,
+          "like_count": 18997,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 3746
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

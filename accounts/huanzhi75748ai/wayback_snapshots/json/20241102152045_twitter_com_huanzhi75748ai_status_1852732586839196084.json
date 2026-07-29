@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1852732586839196084",
+    "created_at": "2024-11-02T15:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T16:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852732586839196084"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1852732586839196084",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别想玩那个suki那个恋爱软件但是我没有对象也没有暧昧对象，邀请朋友的话有一种蹬鼻子上脸的想要暧昧的感觉，和小号玩的话好像真的成水仙了。。我还没有和谁熟到玩恋爱软件不会被误解的关系。如果被误解我就会被潜意识带偏。这样的一个人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1852732586839196084",
+        "created_at": "2024-11-02T15:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T16:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852732586839196084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852732586839196084",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别想玩那个suki那个恋爱软件但是我没有对象也没有暧昧对象，邀请朋友的话有一种蹬鼻子上脸的想要暧昧的感觉，和小号玩的话好像真的成水仙了。。我还没有和谁熟到玩恋爱软件不会被误解的关系。如果被误解我就会被潜意识带偏。这样的一个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1259,
+          "like_count": 18232,
+          "listed_count": 1,
+          "tweet_count": 3517
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

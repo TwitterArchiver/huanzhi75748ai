@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1833427267101577285",
+    "created_at": "2024-09-10T19:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T20:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833585834202972520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250237155143811076",
+          "start": 0,
+          "username": "1nfinityHeaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833585834202972520",
+    "in_reply_to_user_id": "1250237155143811076",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833427267101577285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nfinityHeaven 萌神降临"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1833427267101577285",
+        "created_at": "2024-09-10T19:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T20:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833585834202972520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1250237155143811076",
+              "start": 0,
+              "username": "1nfinityHeaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833585834202972520",
+        "in_reply_to_user_id": "1250237155143811076",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833427267101577285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nfinityHeaven 萌神降临"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833427240232882181"
+          ]
+        },
+        "author_id": "1250237155143811076",
+        "conversation_id": "1833427267101577285",
+        "created_at": "2024-09-10T08:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T09:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833427267101577285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6fxqojlzw",
+              "end": 26,
+              "expanded_url": "https://twitter.com/1nfinityHeaven/status/1833427267101577285/photo/1",
+              "media_key": "3_1833427240232882181",
+              "start": 3,
+              "url": "https://t.co/e6fXqOJlZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833427267101577285",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19856,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "咋样 https://t.co/e6fXqOJlZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1231,
+          "like_count": 15300,
+          "listed_count": 1,
+          "tweet_count": 2952
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "@yumorentupaopao\n@takemet0themo0n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yumorentupaopao"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "takemet0themo0n"
+              }
+            ]
+          }
+        },
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "1723019190418936178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833498766055510018/bHkel5v9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7060,
+          "following_count": 252,
+          "like_count": 50190,
+          "listed_count": 12,
+          "tweet_count": 15853
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

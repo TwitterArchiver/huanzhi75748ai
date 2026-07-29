@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2036206506077741524",
+    "created_at": "2026-03-23T22:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T23:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036206506077741524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/2036058643016323413",
+          "start": 91,
+          "url": "https://t.co/DNJkfcpZv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036206506077741524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036058643016323413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有什么“我不磨练孩子，孩子会被社会被教育的”这种自我感动的推卸责任的话。其实伤人的话从亲近的人嘴里说出来才有杀伤力吧。其实孩子离开家发现外面没下雨吧。其实光骂孩子了啥都没教吧。😐 https://t.co/DNJkfcpZv7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2036206506077741524",
+        "created_at": "2026-03-23T22:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036206506077741524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/2036058643016323413",
+              "start": 91,
+              "url": "https://t.co/DNJkfcpZv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036206506077741524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036058643016323413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有什么“我不磨练孩子，孩子会被社会被教育的”这种自我感动的推卸责任的话。其实伤人的话从亲近的人嘴里说出来才有杀伤力吧。其实孩子离开家发现外面没下雨吧。其实光骂孩子了啥都没教吧。😐 https://t.co/DNJkfcpZv7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2036058643016323413",
+        "created_at": "2026-03-23T12:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036058643016323413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036058643016323413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8519,
+          "like_count": 381,
+          "quote_count": 10,
+          "reply_count": 8,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "已经完完全全不吃刀子嘴豆腐心这一套了，言语造成的伤害是真实的，我没有义务透过任何人刺耳的表达看到对方柔软的内心，从难听的话语里艰难的解读所谓的好意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1362,
+          "like_count": 24563,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 5101
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19121,
+          "following_count": 160,
+          "like_count": 357,
+          "listed_count": 17,
+          "media_count": 1717,
+          "tweet_count": 6208
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

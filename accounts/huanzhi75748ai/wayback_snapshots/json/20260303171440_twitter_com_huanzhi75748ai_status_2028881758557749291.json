@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2028881758557749291",
+    "created_at": "2026-03-03T17:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028881758557749291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KOITO883284/st…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/KOITO883284/status/2028639755261608173",
+          "start": 126,
+          "url": "https://t.co/uF6LjLvoLy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028881758557749291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028639755261608173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得每个人都有在被洗脑。一个人从出生开始就靠着别人灌输的知识认识世界。在群体长期无意识的大量信息灌输中，不被洗脑才怪吧。说人的一切认知都是被洗脑产生的也不为过。可能我说的很可怕，但是洗脑不一定就是负面的。丧失理智的情况在一定的空间时间中并不难实现。 https://t.co/uF6LjLvoLy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2028881758557749291",
+        "created_at": "2026-03-03T17:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028881758557749291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KOITO883284/st…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/KOITO883284/status/2028639755261608173",
+              "start": 126,
+              "url": "https://t.co/uF6LjLvoLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028881758557749291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028639755261608173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得每个人都有在被洗脑。一个人从出生开始就靠着别人灌输的知识认识世界。在群体长期无意识的大量信息灌输中，不被洗脑才怪吧。说人的一切认知都是被洗脑产生的也不为过。可能我说的很可怕，但是洗脑不一定就是负面的。丧失理智的情况在一定的空间时间中并不难实现。 https://t.co/uF6LjLvoLy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808845864414425089",
+        "conversation_id": "2028639755261608173",
+        "created_at": "2026-03-03T01:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028639755261608173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028639755261608173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 156392,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很好奇 他们所谓的洗脑是怎么洗的 真的有这种情况吗 真的能洗脑吗 不是演的吗 人真的会丧失理智吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1317,
+          "like_count": 23070,
+          "listed_count": 2,
+          "media_count": 492,
+          "tweet_count": 4902
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T12:50:47.000Z",
+        "description": "163/90/lo娘/天蝎/INFP /sw偏sub 电子宠物 赛博主银 欢迎找我聊天 天天开心",
+        "id": "1808845864414425089",
+        "location": "🚪520",
+        "name": "小宅喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923400079731556353/NW2Oh33J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 203,
+          "like_count": 582,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 275
+        },
+        "username": "KOITO883284",
+        "verified": false
+      }
+    ]
+  }
+}

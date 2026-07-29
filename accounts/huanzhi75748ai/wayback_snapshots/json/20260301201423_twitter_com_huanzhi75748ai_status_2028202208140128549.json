@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2028202208140128549",
+    "created_at": "2026-03-01T20:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T21:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028202208140128549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DQadopt/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/DQadopt/status/2027684149746929857",
+          "start": 3,
+          "url": "https://t.co/SlfghRTPv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028202208140128549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027684149746929857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻缺 https://t.co/SlfghRTPv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027684141161172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPH-7aa0AA1ury.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2028202208140128549",
+        "created_at": "2026-03-01T20:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T21:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028202208140128549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DQadopt/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/DQadopt/status/2027684149746929857",
+              "start": 3,
+              "url": "https://t.co/SlfghRTPv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028202208140128549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027684149746929857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻缺 https://t.co/SlfghRTPv1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027684141161172992"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2027684149746929857",
+        "created_at": "2026-02-28T09:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027684149746929857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCmTIyifRX",
+              "end": 35,
+              "expanded_url": "https://x.com/DQadopt/status/2027684149746929857/photo/1",
+              "media_key": "3_2027684141161172992",
+              "start": 12,
+              "url": "https://t.co/XCmTIyifRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027684149746929857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9026,
+          "like_count": 125,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "加油！爱发od的抖人！ https://t.co/XCmTIyifRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1315,
+          "like_count": 22964,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 4883
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 148,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

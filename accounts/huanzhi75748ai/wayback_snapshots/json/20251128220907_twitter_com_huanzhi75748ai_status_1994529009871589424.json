@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1994529009871589424",
+    "created_at": "2025-11-28T22:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T23:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994529009871589424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bugcat_capoo_t…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1993936295262068855",
+          "start": 144,
+          "url": "https://t.co/IqpBRllB9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994529009871589424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993936295262068855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不见证没看过我英也不吃猫猫虫这个ip。只是评论区不管支持还是反对的都是中国人在互骂诶这是新时代抗日吗每个人都很有参与感呢。上一次看到这种乐子还是爱女的姐妹说mhy辱女，于是骂玩米的女玩家都是支持恋童癖给男玩家当斐济杯的裱子。\n依旧连坐制依旧互捅\n依旧恨海情天\n宿敌就是宿敌啊我都磕你们了 https://t.co/IqpBRllB9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 1920,
+        "media_key": "13_1993936176496168962",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993936176496168962/img/dYtsDFRfGyYid0o1.jpg",
+        "public_metrics": {
+          "view_count": 142229
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/1080x1920/eLqSCKuhfylyNZzs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/320x568/NT04Z5fyfghwsO4I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/480x852/9z31rAi9b1EBH7BX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/vid/avc1/720x1280/uwLj5Nn6aTfRRMfh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993936176496168962/pl/R1BYUXf_hcYI99Kh.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1994529009871589424",
+        "created_at": "2025-11-28T22:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T23:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994529009871589424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bugcat_capoo_t…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1993936295262068855",
+              "start": 144,
+              "url": "https://t.co/IqpBRllB9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994529009871589424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993936295262068855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不见证没看过我英也不吃猫猫虫这个ip。只是评论区不管支持还是反对的都是中国人在互骂诶这是新时代抗日吗每个人都很有参与感呢。上一次看到这种乐子还是爱女的姐妹说mhy辱女，于是骂玩米的女玩家都是支持恋童癖给男玩家当斐济杯的裱子。\n依旧连坐制依旧互捅\n依旧恨海情天\n宿敌就是宿敌啊我都磕你们了 https://t.co/IqpBRllB9i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993936176496168962"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "conversation_id": "1993936295262068855",
+        "created_at": "2025-11-27T06:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993936295262068855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "line"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "貼圖"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "我的英雄學院"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BugCat-Capoo x My Hero Academia collaboration stickers are here! These animated stickers, designed by Yara, feature everyone transformed into short, chubby, super soft, and adorable characters!! Please note that the sale of this sticker set will end on November 30, 2027.",
+              "display_url": "lin.ee/shsyqInB",
+              "end": 51,
+              "expanded_url": "https://lin.ee/shsyqInB",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/1993936298030280704/QGWV5vSe?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993936298030280704/QGWV5vSe?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "My Hero Academia x BugCat-Capoo – LINE stickers | LINE STORE",
+              "unwound_url": "https://store.line.me/stickershop/product/36211",
+              "url": "https://t.co/uKRN1XVdOD"
+            },
+            {
+              "display_url": "pic.x.com/NiMgoUbdBN",
+              "end": 94,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1993936295262068855/video/1",
+              "media_key": "13_1993936176496168962",
+              "start": 71,
+              "url": "https://t.co/NiMgoUbdBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993936295262068855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 616,
+          "impression_count": 967658,
+          "like_count": 7400,
+          "quote_count": 293,
+          "reply_count": 965,
+          "retweet_count": 1102
+        },
+        "reply_settings": "everyone",
+        "text": "我的英雄學院X貓貓蟲咖波 \nLine 官方貼圖新上架！\nhttps://t.co/uKRN1XVdOD\n\n#line #貼圖 #我的英雄學院 https://t.co/NiMgoUbdBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1340,
+          "like_count": 21910,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 4498
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. From Taiwan.  猫と虫のように見える奇妙な生き物。台湾から",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWyx7k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "pinned_tweet_id": "1969605259820745073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125309,
+          "following_count": 71,
+          "like_count": 99,
+          "listed_count": 267,
+          "media_count": 326,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/XuFbWWyx7k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

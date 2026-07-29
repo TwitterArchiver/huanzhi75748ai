@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1836718020653109532",
+    "created_at": "2024-09-19T10:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T11:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836718020653109532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836718020653109532",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我总是想着。你一定会喜欢这样的人吧。像她这样好的人这样可爱的人这样有趣的人这样善良的人。于是我再也无法直视她的脸。嫉妒和怀疑填满了我的脑海和心脏。谢谢你带给我的痛苦和创伤怀疑和自卑嫉妒和应激。我再也无法接受。我无论做什么都没有用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1836718020653109532",
+        "created_at": "2024-09-19T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836718020653109532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836718020653109532",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总是想着。你一定会喜欢这样的人吧。像她这样好的人这样可爱的人这样有趣的人这样善良的人。于是我再也无法直视她的脸。嫉妒和怀疑填满了我的脑海和心脏。谢谢你带给我的痛苦和创伤怀疑和自卑嫉妒和应激。我再也无法接受。我无论做什么都没有用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1242,
+          "like_count": 15871,
+          "listed_count": 1,
+          "tweet_count": 3114
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1855352666848907320",
+    "created_at": "2024-11-09T20:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T21:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855352666848907320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LAZY_lazyyyy/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/LAZY_lazyyyy/status/1854937181070278746",
+          "start": 17,
+          "url": "https://t.co/tb5pmUn84h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855352666848907320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854937181070278746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "智性恋都在学习通聊天谈恋爱的() https://t.co/tb5pmUn84h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1855352666848907320",
+        "created_at": "2024-11-09T20:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T21:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855352666848907320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LAZY_lazyyyy/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/LAZY_lazyyyy/status/1854937181070278746",
+              "start": 17,
+              "url": "https://t.co/tb5pmUn84h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855352666848907320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854937181070278746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "智性恋都在学习通聊天谈恋爱的() https://t.co/tb5pmUn84h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544171637171400704",
+        "conversation_id": "1854937181070278746",
+        "created_at": "2024-11-08T17:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T18:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854937181070278746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854937181070278746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25409,
+          "like_count": 290,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "智性恋加到联系方式的第一步是不是互查学信网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1258,
+          "like_count": 18503,
+          "listed_count": 1,
+          "tweet_count": 3623
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "我的人生底色就是奸淫懒馋//推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=z3JzWQIA",
+                "start": 0,
+                "url": "https://t.co/4xh8VvnsCu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "自用vpn👉🏻",
+        "name": "参见小懒",
+        "pinned_tweet_id": "1844663890329891251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824024524419182592/MIoUhHvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15856,
+          "following_count": 912,
+          "like_count": 56630,
+          "listed_count": 51,
+          "tweet_count": 30360
+        },
+        "url": "https://t.co/4xh8VvnsCu",
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

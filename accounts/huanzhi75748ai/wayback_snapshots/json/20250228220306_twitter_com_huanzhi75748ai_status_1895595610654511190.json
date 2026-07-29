@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1895404068136214895",
+    "created_at": "2025-02-28T22:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T23:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895595610654511190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522862031795372032",
+          "start": 0,
+          "username": "Alouette_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895595610654511190",
+    "in_reply_to_user_id": "1522862031795372032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895404068136214895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alouette_zzz 哇塞😼❤️❤️❤️❤️❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1895404063115599872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3T8__WYAA1dut.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1895404068136214895",
+        "created_at": "2025-02-28T22:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T23:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895595610654511190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522862031795372032",
+              "start": 0,
+              "username": "Alouette_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895595610654511190",
+        "in_reply_to_user_id": "1522862031795372032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895404068136214895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alouette_zzz 哇塞😼❤️❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895404063115599872"
+          ]
+        },
+        "author_id": "1522862031795372032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1895404068136214895",
+        "created_at": "2025-02-28T09:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895404068136214895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1893458724360245248/rtmQfOtw?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1893458724360245248/rtmQfOtw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Ap55jBP2l0"
+            },
+            {
+              "display_url": "pic.x.com/qRjvvykZqA",
+              "end": 64,
+              "expanded_url": "https://x.com/Alouette_zzz/status/1895404068136214895/photo/1",
+              "media_key": "3_1895404063115599872",
+              "start": 41,
+              "url": "https://t.co/qRjvvykZqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895404068136214895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Ap55jBP2l0 https://t.co/qRjvvykZqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1276,
+          "like_count": 20156,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3846
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "聊天/分享日常 \n宝宝@wslcdg20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "location": "里八华",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872653372173512704/cTCEH8j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 298,
+          "like_count": 36924,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 6166
+        },
+        "username": "Alouette_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

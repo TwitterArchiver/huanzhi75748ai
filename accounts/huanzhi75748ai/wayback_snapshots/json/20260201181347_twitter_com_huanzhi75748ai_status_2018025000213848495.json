@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2018025000213848495",
+    "created_at": "2026-02-01T18:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T19:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018025000213848495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995076111328509952",
+          "start": 3,
+          "username": "o_Ouser123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018025000213848495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017680525692178722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_Ouser123: 我谈不上恋爱的原因就是我永远不会主动，主动认识我的我又觉得他对以同样的方式认识别人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2018025000213848495",
+        "created_at": "2026-02-01T18:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018025000213848495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995076111328509952",
+              "start": 3,
+              "username": "o_Ouser123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018025000213848495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017680525692178722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_Ouser123: 我谈不上恋爱的原因就是我永远不会主动，主动认识我的我又觉得他对以同样的方式认识别人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995076111328509952",
+        "conversation_id": "2017680525692178722",
+        "created_at": "2026-01-31T19:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017680525692178722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017680525692178722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16669,
+          "like_count": 235,
+          "quote_count": 10,
+          "reply_count": 18,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我谈不上恋爱的原因就是我永远不会主动，主动认识我的我又觉得他对以同样的方式认识别人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1322,
+          "like_count": 22618,
+          "listed_count": 2,
+          "media_count": 467,
+          "tweet_count": 4729
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:23:16.000Z",
+        "description": "只回应好听话和钱  不礼貌性回关有时候不想回评论",
+        "id": "1995076111328509952",
+        "name": "我有被爱妄想症",
+        "pinned_tweet_id": "2006369093948186708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010002942137712640/osx2RvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 128,
+          "like_count": 5863,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 1819
+        },
+        "username": "o_Ouser123",
+        "verified": false
+      }
+    ]
+  }
+}

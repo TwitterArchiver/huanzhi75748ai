@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2036195376198553816",
+    "created_at": "2026-03-23T22:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T23:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036204845103980919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584173045710741504",
+          "start": 0,
+          "username": "SakuraSakuraX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036204845103980919",
+    "in_reply_to_user_id": "1584173045710741504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036195376198553816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraSakuraX7 一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2036195376198553816",
+        "created_at": "2026-03-23T22:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036204845103980919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584173045710741504",
+              "start": 0,
+              "username": "SakuraSakuraX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036204845103980919",
+        "in_reply_to_user_id": "1584173045710741504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036195376198553816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraSakuraX7 一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584173045710741504",
+        "conversation_id": "2036195376198553816",
+        "created_at": "2026-03-23T21:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036195376198553816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036195376198553816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想要被太多人关注，也不想一点关注自己的人都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1362,
+          "like_count": 24558,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 5099
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T13:21:16.000Z",
+        "description": "没有聊天对象所以当碎碎念废话bot\n\n证明有可为我而死的爱，掐住自己的脖子吧。",
+        "id": "1584173045710741504",
+        "name": "只只九九",
+        "pinned_tweet_id": "2035304260943106129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034549095973691392/Jt8rYcSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 649,
+          "like_count": 12785,
+          "listed_count": 7,
+          "media_count": 134,
+          "tweet_count": 5683
+        },
+        "username": "SakuraSakuraX7",
+        "verified": false
+      }
+    ]
+  }
+}

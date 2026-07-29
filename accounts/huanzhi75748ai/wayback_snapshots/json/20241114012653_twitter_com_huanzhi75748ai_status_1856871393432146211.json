@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1856871393432146211",
+    "created_at": "2024-11-14T01:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T02:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856871393432146211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minta_4869/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Minta_4869/status/1856387656889856082",
+          "start": 5,
+          "url": "https://t.co/uL16cZJ9Wd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856871393432146211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856387656889856082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很好了 https://t.co/uL16cZJ9Wd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1856871393432146211",
+        "created_at": "2024-11-14T01:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T02:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856871393432146211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minta_4869/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Minta_4869/status/1856387656889856082",
+              "start": 5,
+              "url": "https://t.co/uL16cZJ9Wd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856871393432146211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856387656889856082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很好了 https://t.co/uL16cZJ9Wd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455715604783005701",
+        "conversation_id": "1856387656889856082",
+        "created_at": "2024-11-12T17:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T18:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856387656889856082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856387656889856082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 22996,
+          "like_count": 327,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的男的全是那种性子温温吞吞，情绪特别稳定，在我发疯的时候淡淡地微笑看着我说“好啦好啦”类型的。不论年上还是年下我对他拳打脚踢撕咬拉扯他还是眯着眼傻笑。某种意义上像我的小熊玩偶（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1262,
+          "like_count": 18847,
+          "listed_count": 1,
+          "tweet_count": 3692
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T01:57:23.000Z",
+        "description": "超级废话大王  小粉红/极端男权给我滚",
+        "id": "1455715604783005701",
+        "location": "天堂",
+        "name": "两脚羊经销商",
+        "pinned_tweet_id": "1838225365103186072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821728844384018432/NXktZbtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 314,
+          "like_count": 6311,
+          "listed_count": 0,
+          "tweet_count": 735
+        },
+        "username": "Minta_4869",
+        "verified": false
+      }
+    ]
+  }
+}

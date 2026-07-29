@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043863396702138749",
+    "created_at": "2026-04-14T01:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T02:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043863396702138749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huanzhi75748ai…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/2043862464270610709",
+          "start": 65,
+          "url": "https://t.co/91qfOkjjTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043863396702138749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043862464270610709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每个人都好有意思！我只要装傻然后看大家有趣的反应就很想笑。骂我的人讨厌我的人喜欢我的人。你们都太可爱了！哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/91qfOkjjTg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043863396702138749",
+        "created_at": "2026-04-14T01:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043863396702138749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huanzhi75748ai…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/huanzhi75748ai/status/2043862464270610709",
+              "start": 65,
+              "url": "https://t.co/91qfOkjjTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043863396702138749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043862464270610709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个人都好有意思！我只要装傻然后看大家有趣的反应就很想笑。骂我的人讨厌我的人喜欢我的人。你们都太可爱了！哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/91qfOkjjTg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043862464270610709",
+        "created_at": "2026-04-14T01:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043862464270610709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043862464270610709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人如果能把自己的感情抽离出具体的人事物，就会发现，这个世界简直太好玩了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1396,
+          "like_count": 29368,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 6022
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

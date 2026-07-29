@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2043025442056425678",
+    "created_at": "2026-04-12T11:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043292414547493198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829229897195368455",
+          "start": 0,
+          "username": "OVOTVTOVO_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043292414547493198",
+    "in_reply_to_user_id": "1829229897195368455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043025442056425678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVOTVTOVO_3 看懂的粉丝晕过去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2043025435592970240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpIzyubUAAmu3N.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2043025442056425678",
+        "created_at": "2026-04-12T11:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043292414547493198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "OVOTVTOVO_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043292414547493198",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043025442056425678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVOTVTOVO_3 看懂的粉丝晕过去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043025435592970240"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2043025442056425678",
+        "created_at": "2026-04-11T17:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043025442056425678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7e1ZWhjEY8",
+              "end": 27,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2043025442056425678/photo/1",
+              "media_key": "3_2043025435592970240",
+              "start": 4,
+              "url": "https://t.co/7e1ZWhjEY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043025442056425678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3941,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "望周知 https://t.co/7e1ZWhjEY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1398,
+          "like_count": 29142,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 5962
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 68,
+          "like_count": 3162,
+          "listed_count": 4,
+          "media_count": 302,
+          "tweet_count": 4683
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

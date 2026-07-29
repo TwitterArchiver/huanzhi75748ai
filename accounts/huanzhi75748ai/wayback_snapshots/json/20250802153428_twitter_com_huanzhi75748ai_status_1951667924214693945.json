@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1951667850407522304",
+        "7_1951667857386876930"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1951667924214693945",
+    "created_at": "2025-08-02T15:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T16:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951667924214693945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z6BaUkO4pT",
+          "end": 53,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1951667924214693945/video/1",
+          "media_key": "7_1951667850407522304",
+          "start": 30,
+          "url": "https://t.co/Z6BaUkO4pT"
+        },
+        {
+          "display_url": "pic.x.com/Z6BaUkO4pT",
+          "end": 53,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1951667924214693945/video/1",
+          "media_key": "7_1951667857386876930",
+          "start": 30,
+          "url": "https://t.co/Z6BaUkO4pT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951667924214693945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁的浓稠版血腥玛丽特调温热不加糖（我是不是血脂有点高。。。 https://t.co/Z6BaUkO4pT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951667924214693945].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951667924214693945",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951667924214693945"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2960,
+        "height": 720,
+        "media_key": "7_1951667850407522304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951667850407522304/pu/img/PsBZS9I_FjxnKfM0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951667850407522304/pu/vid/avc1/320x320/MmL44nWq4Lrcy1y9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951667850407522304/pu/vid/avc1/540x540/ybrE6-TCAbwG-shH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951667850407522304/pu/vid/avc1/720x720/s7A_6pVkdxPH-vKo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951667850407522304/pu/pl/AyRgbfrcy7BhrtaM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3037,
+        "height": 720,
+        "media_key": "7_1951667857386876930",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951667857386876930/pu/img/6QUHum7s1HDE2XgH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951667857386876930/pu/vid/avc1/320x320/fUuVD28kDkWAZuxe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951667857386876930/pu/vid/avc1/540x540/xg5kNuno9k8zhrv7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951667857386876930/pu/vid/avc1/720x720/_ABmTyqF_F1dAqqn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951667857386876930/pu/pl/tHPGgTg-Uu1c2P2s.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1359,
+          "like_count": 21797,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 4296
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

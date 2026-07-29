@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2001019627938439358",
+    "created_at": "2025-12-16T20:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T21:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001019627938439358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001019627938439358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000441386651505003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 人与人的关系简直是捉摸不透，莫名其妙的熟络，莫名其妙的疏离，莫名其妙地复原，莫名其妙的隔阂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2001019627938439358",
+        "created_at": "2025-12-16T20:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T21:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001019627938439358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001019627938439358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000441386651505003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 人与人的关系简直是捉摸不透，莫名其妙的熟络，莫名其妙的疏离，莫名其妙地复原，莫名其妙的隔阂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2000441386651505003",
+        "created_at": "2025-12-15T05:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000441386651505003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000441386651505003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 37872,
+          "like_count": 727,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "人与人的关系简直是捉摸不透，莫名其妙的熟络，莫名其妙的疏离，莫名其妙地复原，莫名其妙的隔阂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1329,
+          "like_count": 22273,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 4604
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 7,
+          "like_count": 609,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 806
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

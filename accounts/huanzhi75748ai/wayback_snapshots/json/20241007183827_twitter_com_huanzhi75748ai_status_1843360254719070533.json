@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1843338698156585395",
+    "created_at": "2024-10-07T18:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T19:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843360254719070533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522862031795372032",
+          "start": 0,
+          "username": "Alouette_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843360254719070533",
+    "in_reply_to_user_id": "1522862031795372032",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843338698156585395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alouette_zzz 好棒耶(σ≧∀≦)σ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1843338698156585395",
+        "created_at": "2024-10-07T18:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T19:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843360254719070533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522862031795372032",
+              "start": 0,
+              "username": "Alouette_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843360254719070533",
+        "in_reply_to_user_id": "1522862031795372032",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843338698156585395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alouette_zzz 好棒耶(σ≧∀≦)σ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843338694540836864"
+          ]
+        },
+        "author_id": "1522862031795372032",
+        "conversation_id": "1843338698156585395",
+        "created_at": "2024-10-07T17:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T18:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843338698156585395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggULIl38Uk",
+              "end": 39,
+              "expanded_url": "https://x.com/Alouette_zzz/status/1843338698156585395/photo/1",
+              "media_key": "3_1843338694540836864",
+              "start": 16,
+              "url": "https://t.co/ggULIl38Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843338698156585395",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。。一个小时做了个💩😭😭😭 https://t.co/ggULIl38Uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1251,
+          "like_count": 16821,
+          "listed_count": 1,
+          "tweet_count": 3183
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "死在日落之前\n@wslcdg20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "location": "里八华",
+        "name": "₊⁺ ꒰১小叙໒꒱ ⁺₊",
+        "pinned_tweet_id": "1672282145468067840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838554971194667008/V1dtJSJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 203,
+          "like_count": 22238,
+          "listed_count": 4,
+          "tweet_count": 2995
+        },
+        "username": "Alouette_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

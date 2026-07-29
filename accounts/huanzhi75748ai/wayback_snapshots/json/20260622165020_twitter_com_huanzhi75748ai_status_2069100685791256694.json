@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2067673346972750083",
+    "created_at": "2026-06-22T16:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069100685791256694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535277493787189249",
+          "start": 0,
+          "username": "Musran1113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069100685791256694",
+    "in_reply_to_user_id": "1535277493787189249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067673914491490609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Musran1113 哦哦那我也要去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2067673346972750083",
+        "created_at": "2026-06-22T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069100685791256694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535277493787189249",
+              "start": 0,
+              "username": "Musran1113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069100685791256694",
+        "in_reply_to_user_id": "1535277493787189249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067673914491490609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Musran1113 哦哦那我也要去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535277493787189249",
+        "conversation_id": "2067673346972750083",
+        "created_at": "2026-06-18T18:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067673914491490609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067673914491490609",
+        "in_reply_to_user_id": "1535277493787189249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067673346972750083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我总是在逃避，我怕脱离这个舒适圈所以我在逃，我怕没有人和我一起去所以我想过逃，我想，如果他们突然说不去了，最后留我一个人去天津，面对一个新的陌生环境，我会不会逃避说我也不去呢，但是我又在想我的未来，我应该去，我得去，我得脱离这个舒适圈，我其实只是害怕一个人，我的社会能力太低下了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31543,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 6606
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T15:07:44.000Z",
+        "description": "我总是来由不明地觉得难过",
+        "id": "1535277493787189249",
+        "name": "Musran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063318559812681728/kKTrakQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 52,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Musran1113",
+        "verified": false
+      }
+    ]
+  }
+}

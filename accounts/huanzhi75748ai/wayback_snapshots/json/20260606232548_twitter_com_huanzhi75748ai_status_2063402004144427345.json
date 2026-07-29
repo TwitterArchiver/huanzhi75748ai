@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2063402004144427345",
+    "created_at": "2026-06-06T23:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063402004144427345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YunJiu/status/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/YunJiu/status/2061718489409483174",
+          "start": 49,
+          "url": "https://t.co/wLRS4YWsb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063402004144427345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061718489409483174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有很长一段时间都非常恐惧电话铃声。。。所以手机常年静音。现在虽然不害怕了，但还保持着静音的习惯 https://t.co/wLRS4YWsb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2061718480051974144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyyCL5bMAA2dtR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2063402004144427345",
+        "created_at": "2026-06-06T23:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063402004144427345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/YunJiu/status/2061718489409483174",
+              "start": 49,
+              "url": "https://t.co/wLRS4YWsb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063402004144427345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061718489409483174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有很长一段时间都非常恐惧电话铃声。。。所以手机常年静音。现在虽然不害怕了，但还保持着静音的习惯 https://t.co/wLRS4YWsb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061718480051974144"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2061718489409483174",
+        "created_at": "2026-06-02T07:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061718489409483174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KqeGVjbx6W",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2061718489409483174/photo/1",
+              "media_key": "3_2061718480051974144",
+              "start": 0,
+              "url": "https://t.co/KqeGVjbx6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061718489409483174",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14914,
+          "like_count": 740,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KqeGVjbx6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1384,
+          "like_count": 31508,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 6538
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105202,
+          "following_count": 801,
+          "like_count": 37130,
+          "listed_count": 296,
+          "media_count": 19176,
+          "tweet_count": 27469
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

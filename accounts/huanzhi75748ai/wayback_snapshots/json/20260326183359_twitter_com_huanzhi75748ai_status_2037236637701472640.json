@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2037236637701472640",
+    "created_at": "2026-03-26T18:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037236637701472640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《3 Stars》，由 Jair Archive 演唱，收录于《3 Stars》专辑中，《3 Stars》下载，《3 Stars》在线试听，更多3 Stars相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/3WUo0uC",
+          "end": 51,
+          "expanded_url": "https://163cn.tv/3WUo0uC",
+          "images": [
+            {
+              "height": 3000,
+              "url": "https://pbs.twimg.com/news_img/2037235734894305282/tQUJ3fHQ?format=jpg&name=orig",
+              "width": 3000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2037235734894305282/tQUJ3fHQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "3 Stars - Jair Archive - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1952688448&uct2=wE95faZbmIG7OpD3FnVRxQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.70&sc=wm&tn=",
+          "url": "https://t.co/g0FFn5F6mB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037236637701472640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Jair Archive的单曲《3 Stars》: https://t.co/g0FFn5F6mB (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2037236637701472640",
+        "created_at": "2026-03-26T18:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037236637701472640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《3 Stars》，由 Jair Archive 演唱，收录于《3 Stars》专辑中，《3 Stars》下载，《3 Stars》在线试听，更多3 Stars相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/3WUo0uC",
+              "end": 51,
+              "expanded_url": "https://163cn.tv/3WUo0uC",
+              "images": [
+                {
+                  "height": 3000,
+                  "url": "https://pbs.twimg.com/news_img/2037235734894305282/tQUJ3fHQ?format=jpg&name=orig",
+                  "width": 3000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037235734894305282/tQUJ3fHQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "3 Stars - Jair Archive - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1952688448&uct2=wE95faZbmIG7OpD3FnVRxQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.70&sc=wm&tn=",
+              "url": "https://t.co/g0FFn5F6mB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037236637701472640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Jair Archive的单曲《3 Stars》: https://t.co/g0FFn5F6mB (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1382,
+          "like_count": 25488,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 5306
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

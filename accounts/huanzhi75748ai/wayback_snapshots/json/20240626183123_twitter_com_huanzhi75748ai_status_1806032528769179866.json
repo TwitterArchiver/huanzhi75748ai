@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1805880044440666124",
+    "created_at": "2024-06-26T18:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T19:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806032528769179866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752783768002371584",
+          "start": 0,
+          "username": "kuwatorobajina9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806032528769179866",
+    "in_reply_to_user_id": "1752783768002371584",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805880044440666124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuwatorobajina9 妹子，已经有好友位的需要补门槛费不😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1805880044440666124",
+        "created_at": "2024-06-26T18:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T19:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806032528769179866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752783768002371584",
+              "start": 0,
+              "username": "kuwatorobajina9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806032528769179866",
+        "in_reply_to_user_id": "1752783768002371584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805880044440666124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuwatorobajina9 妹子，已经有好友位的需要补门槛费不😳"
+      },
+      {
+        "attachments": {},
+        "author_id": "1752783768002371584",
+        "conversation_id": "1805880044440666124",
+        "created_at": "2024-06-26T08:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T09:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805880044440666124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1805689099300618241",
+              "start": 25,
+              "username": "yushiroko93188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805880044440666124",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能给我诈骗号来点fo\n虽然很罪恶\n不过没钱了\n@yushiroko93188"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1166,
+          "like_count": 12647,
+          "listed_count": 1,
+          "tweet_count": 2324
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T19:59:57.000Z",
+        "description": "人类是无法相互理解的/⚠️言论极端注意⚠️「一切辱骂只针对个人」/发点无意义言论日常，会查成分互fo［现在「大量」键政号的不会回了］/精日「是不是支黑自己判断」/粉红自觉右上角给我发野爹证，建制派也滚，我觉得没有区别/逃生舱+锁推疯狂宇宙言论号@kamiiyubidan9/喜欢b人，不顺眼就会b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "kamiiyubidan9"
+              }
+            ]
+          }
+        },
+        "id": "1752783768002371584",
+        "location": "side3 吉翁公国",
+        "name": "网友夏顺亚🌏",
+        "pinned_tweet_id": "1805522147504537737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804182445790752768/rSGYmWFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 287,
+          "like_count": 15344,
+          "listed_count": 1,
+          "tweet_count": 3417
+        },
+        "username": "kuwatorobajina9",
+        "verified": false
+      }
+    ]
+  }
+}

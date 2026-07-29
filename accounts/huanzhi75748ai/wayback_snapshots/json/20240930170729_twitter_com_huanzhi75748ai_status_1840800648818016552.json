@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1840686384622739765",
+    "created_at": "2024-09-30T17:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T18:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840800648818016552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1566430838434430977",
+          "start": 0,
+          "username": "fallenrika1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840800648818016552",
+    "in_reply_to_user_id": "1566430838434430977",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840686384622739765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenrika1 工商银行没礼貌！(ꐦÒ‸Ó)和我打我有礼貌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1840686384622739765",
+        "created_at": "2024-09-30T17:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T18:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840800648818016552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1566430838434430977",
+              "start": 0,
+              "username": "fallenrika1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840800648818016552",
+        "in_reply_to_user_id": "1566430838434430977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840686384622739765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenrika1 工商银行没礼貌！(ꐦÒ‸Ó)和我打我有礼貌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566430838434430977",
+        "conversation_id": "1840686384622739765",
+        "created_at": "2024-09-30T09:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T10:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840686384622739765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840686384622739765",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "工商银行打骚扰电话问要不要贷款炒股，回了句不用，对面居然说“不好意思您是已经退休了啊”，原来我听着这么显老吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1247,
+          "like_count": 16441,
+          "listed_count": 1,
+          "tweet_count": 3116
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "燕子来时新社，梨花落后清明",
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "雨淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722424196360507392/OB21JpqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 454,
+          "like_count": 25205,
+          "listed_count": 1,
+          "tweet_count": 1950
+        },
+        "username": "fallenrika1",
+        "verified": false
+      }
+    ]
+  }
+}

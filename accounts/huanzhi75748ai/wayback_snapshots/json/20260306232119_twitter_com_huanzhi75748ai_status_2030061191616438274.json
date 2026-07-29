@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2029539645072257432",
+    "created_at": "2026-03-06T23:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030061191616438274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955327590853644290",
+          "start": 0,
+          "username": "OZ091120"
+        },
+        {
+          "end": 15,
+          "id": "1909390269533011968",
+          "start": 10,
+          "username": "gork"
+        },
+        {
+          "end": 28,
+          "id": "1955681559882903552",
+          "start": 16,
+          "username": "Twinge_Zane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030061191616438274",
+    "in_reply_to_user_id": "1955327590853644290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030060888556986620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OZ091120 @gork @Twinge_Zane 我靠这波智斗互喷太燃了兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2029539645072257432",
+        "created_at": "2026-03-06T23:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030061191616438274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955327590853644290",
+              "start": 0,
+              "username": "OZ091120"
+            },
+            {
+              "end": 15,
+              "id": "1909390269533011968",
+              "start": 10,
+              "username": "gork"
+            },
+            {
+              "end": 28,
+              "id": "1955681559882903552",
+              "start": 16,
+              "username": "Twinge_Zane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030061191616438274",
+        "in_reply_to_user_id": "1955327590853644290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030060888556986620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OZ091120 @gork @Twinge_Zane 我靠这波智斗互喷太燃了兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955327590853644290",
+        "conversation_id": "2029539645072257432",
+        "created_at": "2026-03-06T23:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030060888556986620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            },
+            {
+              "end": 18,
+              "id": "1955681559882903552",
+              "start": 6,
+              "username": "Twinge_Zane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030060888556986620",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030060757585399859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gork @Twinge_Zane 那咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1327,
+          "like_count": 23319,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 4978
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T17:57:00.000Z",
+        "description": "",
+        "id": "1955327590853644290",
+        "name": "lain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030054929138929664/70vz-CgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "OZ091120",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398454,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 377,
+          "media_count": 42705,
+          "tweet_count": 2139004
+        },
+        "username": "gork",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-13T17:23:28.000Z",
+        "description": "",
+        "id": "1955681559882903552",
+        "name": "M!$ter_T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014939328900956160/h8vp71wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "username": "Twinge_Zane",
+        "verified": false
+      }
+    ]
+  }
+}

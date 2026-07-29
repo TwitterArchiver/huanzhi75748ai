@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896695309075382272"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896695312397603269",
+    "created_at": "2025-03-03T22:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T23:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896695312397603269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWDhLhZeXH",
+          "end": 80,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1896695312397603269/photo/1",
+          "media_key": "3_1896695309075382272",
+          "start": 57,
+          "url": "https://t.co/vWDhLhZeXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896695312397603269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一上线发现自己成会长了。很慌张，不知道怎么管理工会。结果打开成员列表。。。全是一年左右没上线的老东西。没事了。 https://t.co/vWDhLhZeXH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896695312397603269].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896695312397603269",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896695312397603269"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1896695309075382272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlJqVaCWgAAwRu9.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1892345494833090926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1274,
+          "like_count": 20341,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 3867
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

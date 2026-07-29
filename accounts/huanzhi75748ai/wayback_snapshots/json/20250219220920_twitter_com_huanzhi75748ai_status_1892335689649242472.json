@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1892335689649242472",
+    "created_at": "2025-02-19T22:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892335689649242472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1892335689649242472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我总问你爱不爱我。你说有眼睛的人都能看出来。于是我又问什么是爱。你不说话，开始哭。你说你觉得把我教育成这样很失败。于是我也开始哭。那我呢，我是失败品吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1892335689649242472",
+        "created_at": "2025-02-19T22:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892335689649242472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892335689649242472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总问你爱不爱我。你说有眼睛的人都能看出来。于是我又问什么是爱。你不说话，开始哭。你说你觉得把我教育成这样很失败。于是我也开始哭。那我呢，我是失败品吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1890042574909648929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1262,
+          "like_count": 19532,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 3788
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

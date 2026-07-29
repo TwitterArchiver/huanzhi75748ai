@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2017572336879472654",
+    "created_at": "2026-01-31T18:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017670268899262883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017670268899262883",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017572336879472654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ 强哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2835,
+        "media_key": "3_2017572315324981248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__bVMuboAAhuZr.jpg",
+        "width": 2227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2017572336879472654",
+        "created_at": "2026-01-31T18:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017670268899262883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017670268899262883",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017572336879472654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 强哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017572315324981248"
+          ]
+        },
+        "author_id": "1667129907795886081",
+        "conversation_id": "2017572336879472654",
+        "created_at": "2026-01-31T12:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017572336879472654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEF5ThzI0u",
+              "end": 23,
+              "expanded_url": "https://x.com/mods999_/status/2017572336879472654/photo/1",
+              "media_key": "3_2017572315324981248",
+              "start": 0,
+              "url": "https://t.co/OEF5ThzI0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017572336879472654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OEF5ThzI0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1320,
+          "like_count": 22529,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 4700
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "互fo自己查成分，个人建议是翻关注列表最快\\Oder\\阴暗B\\提问箱https://t.co/I9lQtGNxeW\\纯种汉奸🇯🇵\\KOJIMA世界一番!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mods999_",
+                "end": 57,
+                "expanded_url": "https://ngl.link/mods999_",
+                "start": 34,
+                "url": "https://t.co/I9lQtGNxeW"
+              }
+            ]
+          }
+        },
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "白武男",
+        "pinned_tweet_id": "1930267627890585814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010687943283994624/5nviXyxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 389,
+          "like_count": 26979,
+          "listed_count": 2,
+          "media_count": 1056,
+          "tweet_count": 4488
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}
