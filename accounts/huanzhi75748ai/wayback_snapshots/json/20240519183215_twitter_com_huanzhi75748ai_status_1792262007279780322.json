@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792248933894525247",
+    "created_at": "2024-05-19T18:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T19:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792262007279780322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        },
+        {
+          "end": 25,
+          "id": "1781022238516613120",
+          "start": 11,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792262007279780322",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792258908188496070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming @yamo_19970327 对对，但是纱布没有敷贴能吸血，容易透出血吓到人。所以我的建议是贴完敷贴再用绷带固定一下👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792248933894525247",
+        "created_at": "2024-05-19T18:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T19:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792262007279780322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            },
+            {
+              "end": 25,
+              "id": "1781022238516613120",
+              "start": 11,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792262007279780322",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792258908188496070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming @yamo_19970327 对对，但是纱布没有敷贴能吸血，容易透出血吓到人。所以我的建议是贴完敷贴再用绷带固定一下👍🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1690948132979515392",
+        "conversation_id": "1792248933894525247",
+        "created_at": "2024-05-19T18:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T19:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792258908188496070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            },
+            {
+              "end": 30,
+              "id": "1781022238516613120",
+              "start": 16,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792258908188496070",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792257372225740823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai @yamo_19970327 敷貼好 不要用紗布 紗布撕下來比自殘還痛n倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1103,
+          "like_count": 8387,
+          "listed_count": 1,
+          "tweet_count": 1673
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "",
+        "id": "1690948132979515392",
+        "name": "阿明",
+        "pinned_tweet_id": "1767218513733943520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 499,
+          "like_count": 18908,
+          "listed_count": 1,
+          "tweet_count": 15221
+        },
+        "username": "ahixnming",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "养在电解质溶液里的氯化蝴蝶",
+        "id": "1781022238516613120",
+        "location": "mutuals pls send message",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1788534684592513152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791219227199668224/7bD9ksxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 135,
+          "like_count": 1496,
+          "listed_count": 0,
+          "tweet_count": 957
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

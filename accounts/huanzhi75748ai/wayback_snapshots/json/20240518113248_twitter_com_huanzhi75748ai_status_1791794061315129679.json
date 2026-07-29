@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1791794061315129679",
+    "created_at": "2024-05-18T11:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T12:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791794061315129679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1773814776390713344",
+          "start": 3,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791794061315129679",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791698505343594710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoliaomcy: 昨天晚上的餐券酒吧真是给我玩爽了，里面全是圈里人。地雷妹都是当众割手，喷血，她们甚至才认识了10分钟就玩得这么花了，右美沙芬和晚安都分不清了，太疯狂我的天，当然我也在那里偷偷地o了，把一个不认识的美女按在地上操。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1791794061315129679",
+        "created_at": "2024-05-18T11:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T12:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791794061315129679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1773814776390713344",
+              "start": 3,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791794061315129679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791698505343594710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoliaomcy: 昨天晚上的餐券酒吧真是给我玩爽了，里面全是圈里人。地雷妹都是当众割手，喷血，她们甚至才认识了10分钟就玩得这么花了，右美沙芬和晚安都分不清了，太疯狂我的天，当然我也在那里偷偷地o了，把一个不认识的美女按在地上操。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1773814776390713344",
+        "conversation_id": "1791698505343594710",
+        "created_at": "2024-05-18T05:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T06:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791698505343594710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791698505343594710",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上的餐券酒吧真是给我玩爽了，里面全是圈里人。地雷妹都是当众割手，喷血，她们甚至才认识了10分钟就玩得这么花了，右美沙芬和晚安都分不清了，太疯狂我的天，当然我也在那里偷偷地o了，把一个不认识的美女按在地上操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1091,
+          "like_count": 7947,
+          "listed_count": 1,
+          "tweet_count": 1605
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "妹子和我互of  这是我主人@yununouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "yununouo"
+              }
+            ]
+          }
+        },
+        "id": "1773814776390713344",
+        "location": "赈早见琥珀主",
+        "name": "我看不懂",
+        "pinned_tweet_id": "1790428620672102542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789378514006978560/d1bUYg0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 135,
+          "like_count": 10455,
+          "listed_count": 0,
+          "tweet_count": 829
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

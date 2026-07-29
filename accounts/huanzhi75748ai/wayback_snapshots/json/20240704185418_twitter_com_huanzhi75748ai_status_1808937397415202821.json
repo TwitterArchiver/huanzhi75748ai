@@ -1,0 +1,104 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808936949476175874"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1808937397415202821",
+    "created_at": "2024-07-04T18:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T19:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808937397415202821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/EjzMBZej21",
+          "end": 59,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1808937397415202821/photo/1",
+          "media_key": "3_1808936949476175874",
+          "start": 36,
+          "url": "https://t.co/EjzMBZej21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808937397415202821",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是？我翻相册翻到鳗鱼以为这是存的谁自残到肌肉层的血图呢。一点开，饿了 https://t.co/EjzMBZej21"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1808937397415202821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1808937397415202821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1808937397415202821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1808936949476175874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRqikkabMAIqmQE.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1189,
+          "like_count": 13287,
+          "listed_count": 1,
+          "tweet_count": 2460
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

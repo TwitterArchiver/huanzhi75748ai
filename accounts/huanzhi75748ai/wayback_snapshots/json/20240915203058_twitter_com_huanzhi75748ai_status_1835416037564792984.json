@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1835416037564792984",
+    "created_at": "2024-09-15T20:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T21:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835416037564792984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1491205591754473474",
+          "start": 3,
+          "username": "keshiwohaokun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835416037564792984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835184793291833487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keshiwohaokun: 爱是一种偷窥癖。\n你童年因为什么哭泣过，青春期所有的小心翼翼 腼腆和自卑阴郁，每句话背后的隐喻，最喜欢的歌单和谁一起听过，喜欢玩什么游戏，看什么电影，看到哪一部分会流眼泪，被孤独包围的时候会做什么？\n一天二十四小时每分每秒都在想着谁，这些我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1835416037564792984",
+        "created_at": "2024-09-15T20:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T21:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835416037564792984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1491205591754473474",
+              "start": 3,
+              "username": "keshiwohaokun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835416037564792984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835184793291833487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keshiwohaokun: 爱是一种偷窥癖。\n你童年因为什么哭泣过，青春期所有的小心翼翼 腼腆和自卑阴郁，每句话背后的隐喻，最喜欢的歌单和谁一起听过，喜欢玩什么游戏，看什么电影，看到哪一部分会流眼泪，被孤独包围的时候会做什么？\n一天二十四小时每分每秒都在想着谁，这些我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491205591754473474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1835184793291833487",
+        "created_at": "2024-09-15T05:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T06:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835184793291833487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835184793291833487",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 16518,
+          "like_count": 446,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "爱是一种偷窥癖。\n你童年因为什么哭泣过，青春期所有的小心翼翼 腼腆和自卑阴郁，每句话背后的隐喻，最喜欢的歌单和谁一起听过，喜欢玩什么游戏，看什么电影，看到哪一部分会流眼泪，被孤独包围的时候会做什么？\n一天二十四小时每分每秒都在想着谁，这些我都想知道，想一直一直看着你，这样很过分吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1234,
+          "like_count": 15444,
+          "listed_count": 1,
+          "tweet_count": 3003
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/复杂的人/多面体/ 话很多 希望不会吵到你/不喜欢请屏蔽/不接推广 不陪聊/请找我卜卦 我很准的 不准请找我退款/自由散漫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可᳐是我好困᳐੭",
+        "pinned_tweet_id": "1828761484031394200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24535,
+          "following_count": 595,
+          "like_count": 49845,
+          "listed_count": 59,
+          "tweet_count": 25143
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      }
+    ]
+  }
+}

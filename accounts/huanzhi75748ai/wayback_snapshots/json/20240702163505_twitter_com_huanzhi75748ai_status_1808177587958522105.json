@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808160220599787817",
+    "created_at": "2024-07-02T16:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T17:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808177587958522105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597994506116534273",
+          "start": 0,
+          "username": "Yezhii_YzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808177587958522105",
+    "in_reply_to_user_id": "1597994506116534273",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808160581939351732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yezhii_YzZ 我也是凌晨割的。缘分～～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808160220599787817",
+        "created_at": "2024-07-02T16:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T17:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808177587958522105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597994506116534273",
+              "start": 0,
+              "username": "Yezhii_YzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808177587958522105",
+        "in_reply_to_user_id": "1597994506116534273",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808160581939351732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yezhii_YzZ 我也是凌晨割的。缘分～～"
+      },
+      {
+        "attachments": {},
+        "author_id": "1597994506116534273",
+        "conversation_id": "1808160220599787817",
+        "created_at": "2024-07-02T15:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T16:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808160581939351732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808160581939351732",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808160220599787817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 我凌晨也割的這裡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1179,
+          "like_count": 12963,
+          "listed_count": 1,
+          "tweet_count": 2363
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T16:42:44.000Z",
+        "description": "我知道啊但我是女同性戀｜小女孩快来互fo💕",
+        "id": "1597994506116534273",
+        "name": "毛絨玩具重度依賴",
+        "pinned_tweet_id": "1806750592544706690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806732386648129536/gyN-aeQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 89,
+          "like_count": 143,
+          "listed_count": 0,
+          "tweet_count": 295
+        },
+        "username": "Yezhii_YzZ",
+        "verified": false
+      }
+    ]
+  }
+}

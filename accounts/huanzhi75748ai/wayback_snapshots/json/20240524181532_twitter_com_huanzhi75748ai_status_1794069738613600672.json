@@ -1,0 +1,141 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794069190988402688",
+        "3_1794069294969397248",
+        "3_1794069418986639361",
+        "3_1794069621672177664"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1794069738613600672",
+    "created_at": "2024-05-24T18:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T19:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794069738613600672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/57KKyd8wBv",
+          "end": 31,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1794069738613600672/photo/1",
+          "media_key": "3_1794069190988402688",
+          "start": 8,
+          "url": "https://t.co/57KKyd8wBv"
+        },
+        {
+          "display_url": "pic.twitter.com/57KKyd8wBv",
+          "end": 31,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1794069738613600672/photo/1",
+          "media_key": "3_1794069294969397248",
+          "start": 8,
+          "url": "https://t.co/57KKyd8wBv"
+        },
+        {
+          "display_url": "pic.twitter.com/57KKyd8wBv",
+          "end": 31,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1794069738613600672/photo/1",
+          "media_key": "3_1794069418986639361",
+          "start": 8,
+          "url": "https://t.co/57KKyd8wBv"
+        },
+        {
+          "display_url": "pic.twitter.com/57KKyd8wBv",
+          "end": 31,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1794069738613600672/photo/1",
+          "media_key": "3_1794069621672177664",
+          "start": 8,
+          "url": "https://t.co/57KKyd8wBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794069738613600672",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫之写真第①辑 https://t.co/57KKyd8wBv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1794069738613600672].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1794069738613600672",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794069738613600672"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1794069190988402688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOXQbH9WEAALDAB.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1794069294969397248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOXQhLUWIAAULbt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1794069418986639361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOXQoZUXEAEP6QE.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1794069621672177664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOXQ0MYW8AAV1TX.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1140,
+          "like_count": 9526,
+          "listed_count": 1,
+          "tweet_count": 1867
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808924695645073804",
+    "created_at": "2024-07-04T18:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T19:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808935159812788565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "EcH041h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808935159812788565",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808934338551296409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EcH041h 好的👌🏻我感觉自己也是消耗品🙀谁能替换我（无端联想）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808924695645073804",
+        "created_at": "2024-07-04T18:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808935159812788565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "EcH041h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808935159812788565",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808934338551296409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EcH041h 好的👌🏻我感觉自己也是消耗品🙀谁能替换我（无端联想）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1808924695645073804",
+        "created_at": "2024-07-04T18:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808934338551296409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808934338551296409",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808933476990923086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 损耗寿命的话，手机本身某种意义上来说也算一种消耗品，虽然确实需要手机本身来供电，但是影响应该不大，而且电池也是易耗品，觉得续航不行换就好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1189,
+          "like_count": 13267,
+          "listed_count": 1,
+          "tweet_count": 2457
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "没有人能陪着我\n我是男的",
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801965788699770880/04tk9Oj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 1357,
+          "like_count": 7933,
+          "listed_count": 0,
+          "tweet_count": 6205
+        },
+        "username": "EcH041h",
+        "verified": false
+      }
+    ]
+  }
+}

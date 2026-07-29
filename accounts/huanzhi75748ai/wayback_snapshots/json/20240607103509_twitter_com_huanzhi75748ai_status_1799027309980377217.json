@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1798918989630021971",
+    "created_at": "2024-06-07T10:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T11:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799027309980377217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773814776390713344",
+          "start": 0,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799027309980377217",
+    "in_reply_to_user_id": "1773814776390713344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798918989630021971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoliaomcy 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1798918989630021971",
+        "created_at": "2024-06-07T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799027309980377217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773814776390713344",
+              "start": 0,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799027309980377217",
+        "in_reply_to_user_id": "1773814776390713344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798918989630021971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoliaomcy 我就这样"
+      },
+      {
+        "attachments": {},
+        "author_id": "1773814776390713344",
+        "conversation_id": "1798918989630021971",
+        "created_at": "2024-06-07T03:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T04:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798918989630021971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798918989630021971",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2369,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两眼一睁就是复制互关妹子的屌丝文案 这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1144,
+          "like_count": 11165,
+          "listed_count": 1,
+          "tweet_count": 2066
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "你谁？",
+        "id": "1773814776390713344",
+        "location": "对不起行了吗",
+        "name": "我看不懂",
+        "pinned_tweet_id": "1792889790125502664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798850099193458688/_BQ1XCM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 206,
+          "like_count": 23093,
+          "listed_count": 3,
+          "tweet_count": 2035
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1803777235104751689",
+    "created_at": "2024-06-20T13:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T14:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803777235104751689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1803777235104751689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊。心情好的时候可以和任何人说笑。但是难受的时候好像所有人都死了一样。如果和母亲说舍友就会说我没孝心让家人担心。和闺蜜说了但是她一直在抱怨我头晕的时候没回她消息导致吃到了难吃的自助根本不在乎我的情绪。和喜欢的人说的话怕影响人家心情。和同学说其实大家一样难受但是什么也做不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1803777235104751689",
+        "created_at": "2024-06-20T13:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T14:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803777235104751689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803777235104751689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊。心情好的时候可以和任何人说笑。但是难受的时候好像所有人都死了一样。如果和母亲说舍友就会说我没孝心让家人担心。和闺蜜说了但是她一直在抱怨我头晕的时候没回她消息导致吃到了难吃的自助根本不在乎我的情绪。和喜欢的人说的话怕影响人家心情。和同学说其实大家一样难受但是什么也做不到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1157,
+          "like_count": 12478,
+          "listed_count": 1,
+          "tweet_count": 2281
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

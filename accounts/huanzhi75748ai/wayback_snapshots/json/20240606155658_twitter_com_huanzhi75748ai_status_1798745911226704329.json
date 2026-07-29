@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1798745911226704329",
+    "created_at": "2024-06-06T15:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T16:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798745911226704329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 3,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798745911226704329",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798591663411208406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shudesu00: 对不起….又在想od的事了…..对不起…又在想…右美沙芬和pr联用的事了….脑子已经…被各种小药片填满了….怎么办…已经变成了药物过量的形状了…对不起…哦…….对不起我又在想了….对不起….对不起….我现在去买瓶西柚汁稍微冷静一下，可以稍微离开一下…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1798745911226704329",
+        "created_at": "2024-06-06T15:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798745911226704329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 3,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798745911226704329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798591663411208406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shudesu00: 对不起….又在想od的事了…..对不起…又在想…右美沙芬和pr联用的事了….脑子已经…被各种小药片填满了….怎么办…已经变成了药物过量的形状了…对不起…哦…….对不起我又在想了….对不起….对不起….我现在去买瓶西柚汁稍微冷静一下，可以稍微离开一下…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1798591663411208406",
+        "created_at": "2024-06-06T05:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T06:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798591663411208406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798591663411208406",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1218,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对不起….又在想od的事了…..对不起…又在想…右美沙芬和pr联用的事了….脑子已经…被各种小药片填满了….怎么办…已经变成了药物过量的形状了…对不起…哦…….对不起我又在想了….对不起….对不起….我现在去买瓶西柚汁稍微冷静一下，可以稍微离开一下吗？对不起，绝对不是想去od什么的….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1140,
+          "like_count": 11072,
+          "listed_count": 1,
+          "tweet_count": 2053
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "FtxHrt_intp_双相_aspd_od_同成分互fo请直来_我老婆➡️💍 @CoFfffEeeeE1【一次性电子烟、悦刻五代、悦刻五代弹、纸外烟代，买烟请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz_001.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz_001.damo3.site/#/register?code=cdcS1JIN",
+                "start": 0,
+                "url": "https://t.co/heIg6WLWOE"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "location": "自用vpn➡️",
+        "name": "小树（卖电子烟/外烟代）",
+        "pinned_tweet_id": "1797156635980472646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797984845051916288/F1r3k5go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 1904,
+          "like_count": 88196,
+          "listed_count": 2,
+          "tweet_count": 9980
+        },
+        "url": "https://t.co/heIg6WLWOE",
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

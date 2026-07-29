@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1788613505710686266",
+    "created_at": "2024-05-10T04:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T05:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788781008717807620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        },
+        {
+          "end": 29,
+          "id": "1244543552652054528",
+          "start": 13,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788781008717807620",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788756298886218161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan @Greenfish_insky 手套需要买那种可触屏的吗？🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1788613505710686266",
+        "created_at": "2024-05-10T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788781008717807620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            },
+            {
+              "end": 29,
+              "id": "1244543552652054528",
+              "start": 13,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788781008717807620",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788756298886218161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan @Greenfish_insky 手套需要买那种可触屏的吗？🙏🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "1788613505710686266",
+        "created_at": "2024-05-10T02:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T03:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788756298886218161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788756298886218161",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788613505710686266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky hhh果然没入坑都是这样，以前我也是有点怕怕的，但是打久了之后自己面对萌新根本不会有鄙夷的情绪，如果见到有人想入坑，不只是我，几乎所有会玩mai的大家都会很热心教你怎么去操作\n买副棉手套，上机从低难度打起，鼓起勇气问一下旁边的人设置怎么调（当然也可以忽略这一步）\n还是欢迎入坑！很好玩的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1068,
+          "like_count": 7307,
+          "listed_count": 1,
+          "tweet_count": 1490
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "只是一般顺男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1877484597",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1877484597",
+                "start": 0,
+                "url": "https://t.co/x0ZUl8lt1S"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 90,
+          "like_count": 32296,
+          "listed_count": 12,
+          "tweet_count": 17628
+        },
+        "url": "https://t.co/x0ZUl8lt1S",
+        "username": "yuanwangnan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以凡人的身份在地球游历",
+        "id": "1244543552652054528",
+        "location": "瓦纳海姆",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1776647635392426361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783504544183549952/sI5riLrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 155,
+          "like_count": 2180,
+          "listed_count": 0,
+          "tweet_count": 1928
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1788773581083844706",
+    "created_at": "2024-05-10T04:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T05:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788783396434428184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667865236559519745",
+          "start": 0,
+          "username": "KonpakuYou28352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788783396434428184",
+    "in_reply_to_user_id": "1667865236559519745",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788773581083844706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KonpakuYou28352 抱歉🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1788773581083844706",
+        "created_at": "2024-05-10T04:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T05:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788783396434428184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667865236559519745",
+              "start": 0,
+              "username": "KonpakuYou28352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788783396434428184",
+        "in_reply_to_user_id": "1667865236559519745",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788773581083844706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KonpakuYou28352 抱歉🙏🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1667865236559519745",
+        "conversation_id": "1788773581083844706",
+        "created_at": "2024-05-10T03:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T04:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788773581083844706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788773581083844706",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很烦一句话一个表情包的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1068,
+          "like_count": 7317,
+          "listed_count": 1,
+          "tweet_count": 1494
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "姐@SuperREEgo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "SuperREEgo"
+              }
+            ]
+          }
+        },
+        "id": "1667865236559519745",
+        "location": "广西壮族自治区柳州市鱼峰区鸡喇路1号",
+        "name": "奈罗 The 屑人",
+        "pinned_tweet_id": "1780955751462400118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776456610711572480/T9-IKwZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 1131,
+          "like_count": 119020,
+          "listed_count": 5,
+          "tweet_count": 3449
+        },
+        "username": "KonpakuYou28352",
+        "verified": false
+      }
+    ]
+  }
+}

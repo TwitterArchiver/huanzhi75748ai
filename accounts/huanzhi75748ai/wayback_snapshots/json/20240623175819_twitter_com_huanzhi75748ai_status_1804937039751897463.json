@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1804937039751897463",
+    "created_at": "2024-06-23T17:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T18:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804937039751897463"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1804937039751897463",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道，我现在是对我自己来说很危险的平静期。平静地可怕。我今天一天没有任何情绪波动。兴奋抑郁我都可以处理。我不知道现在该怎么办。明天要考试了。我最讨厌考试的时候集中地看到很多人，我会干呕反胃。我不知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1804937039751897463",
+        "created_at": "2024-06-23T17:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T18:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804937039751897463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804937039751897463",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道，我现在是对我自己来说很危险的平静期。平静地可怕。我今天一天没有任何情绪波动。兴奋抑郁我都可以处理。我不知道现在该怎么办。明天要考试了。我最讨厌考试的时候集中地看到很多人，我会干呕反胃。我不知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1165,
+          "like_count": 12654,
+          "listed_count": 1,
+          "tweet_count": 2320
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

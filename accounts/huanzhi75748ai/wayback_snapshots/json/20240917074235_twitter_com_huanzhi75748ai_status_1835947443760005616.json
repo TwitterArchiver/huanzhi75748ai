@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835921194094321892",
+    "created_at": "2024-09-17T07:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T08:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835947443760005616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835947443760005616",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835921194094321892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ 靠。我没想到你通宵了还开车。😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835921194094321892",
+        "created_at": "2024-09-17T07:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T08:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835947443760005616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835947443760005616",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835921194094321892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 靠。我没想到你通宵了还开车。😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667129907795886081",
+        "conversation_id": "1835921194094321892",
+        "created_at": "2024-09-17T05:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T06:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835921194094321892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835921194094321892",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疲劳驾驶不可取，，，\n一头撞绿化带里去了\nhp-3，三星buds2pro左耳丢失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1238,
+          "like_count": 15672,
+          "listed_count": 1,
+          "tweet_count": 3065
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "查成分互fo，不过除了粉蛆基本都过，锁推英文勿扰，我怕晶哥，英文小号也勿扰/按赞=赞同*已读/黑江，我要和你搞里头「下头」",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "mods999「💮」",
+        "pinned_tweet_id": "1810691098865725941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830113764047536128/ZhmextcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 234,
+          "like_count": 8031,
+          "listed_count": 0,
+          "tweet_count": 1482
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1791033272329458126",
+    "created_at": "2024-05-18T19:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T20:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791916833903378833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739742344860315648",
+          "start": 0,
+          "username": "nmlgb160041"
+        },
+        {
+          "end": 27,
+          "id": "1678773839403319302",
+          "start": 13,
+          "username": "shenchun14496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791916833903378833",
+    "in_reply_to_user_id": "1739742344860315648",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791881215894770072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmlgb160041 @shenchun14496 哈哈哈哈哈哈嫌累给我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1791033272329458126",
+        "created_at": "2024-05-18T19:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T20:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791916833903378833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739742344860315648",
+              "start": 0,
+              "username": "nmlgb160041"
+            },
+            {
+              "end": 27,
+              "id": "1678773839403319302",
+              "start": 13,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791916833903378833",
+        "in_reply_to_user_id": "1739742344860315648",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791881215894770072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmlgb160041 @shenchun14496 哈哈哈哈哈哈嫌累给我玩"
+      },
+      {
+        "attachments": {},
+        "author_id": "1739742344860315648",
+        "conversation_id": "1791033272329458126",
+        "created_at": "2024-05-18T17:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T18:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791881215894770072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            },
+            {
+              "end": 30,
+              "id": "1678773839403319302",
+              "start": 16,
+              "username": "shenchun14496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791881215894770072",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791140737075318948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai @shenchun14496 我花了八千多买了个电脑，玩到后面发现坐着好累，还是手机舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1097,
+          "like_count": 8122,
+          "listed_count": 1,
+          "tweet_count": 1609
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T20:18:27.000Z",
+        "description": "爱吃葡萄山竹和西红柿",
+        "id": "1739742344860315648",
+        "name": "重生之我是法夫纳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791861277482266624/fsjhO-Q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 82,
+          "listed_count": 0,
+          "tweet_count": 54
+        },
+        "username": "nmlgb160041",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:30:59.000Z",
+        "description": "一个废物大一学生，大概活不过这学期了",
+        "id": "1678773839403319302",
+        "location": "基沃托斯",
+        "name": "浦岛隧道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781694386117689345/oAiJ8KYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 103,
+          "like_count": 3754,
+          "listed_count": 0,
+          "tweet_count": 1515
+        },
+        "username": "shenchun14496",
+        "verified": false
+      }
+    ]
+  }
+}

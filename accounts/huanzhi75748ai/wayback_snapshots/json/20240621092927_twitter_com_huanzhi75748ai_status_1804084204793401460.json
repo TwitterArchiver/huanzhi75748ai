@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1804015888842264940",
+    "created_at": "2024-06-21T09:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T10:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804084204793401460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1657452862606303232",
+          "start": 0,
+          "username": "Spasmmmm0d1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804084204793401460",
+    "in_reply_to_user_id": "1657452862606303232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804015888842264940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spasmmmm0d1C 我靠好多虾仁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1804015888842264940",
+        "created_at": "2024-06-21T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804084204793401460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1657452862606303232",
+              "start": 0,
+              "username": "Spasmmmm0d1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804084204793401460",
+        "in_reply_to_user_id": "1657452862606303232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804015888842264940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spasmmmm0d1C 我靠好多虾仁"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804015874921369601",
+            "3_1804015879090507776"
+          ]
+        },
+        "author_id": "1657452862606303232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1804015888842264940",
+        "created_at": "2024-06-21T04:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T05:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804015888842264940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kTiTisTiRd",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Spasmmmm0d1C/status/1804015888842264940/photo/1",
+              "media_key": "3_1804015874921369601",
+              "start": 13,
+              "url": "https://t.co/kTiTisTiRd"
+            },
+            {
+              "display_url": "pic.twitter.com/kTiTisTiRd",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Spasmmmm0d1C/status/1804015888842264940/photo/1",
+              "media_key": "3_1804015879090507776",
+              "start": 13,
+              "url": "https://t.co/kTiTisTiRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804015888842264940",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "避雷p1这玩意🤮p2神🤩 https://t.co/kTiTisTiRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1161,
+          "like_count": 12491,
+          "listed_count": 1,
+          "tweet_count": 2293
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T18:29:35.000Z",
+        "description": "cantonese.喜欢小叽，热爱cs\n渴望在因特网寻找慰藉的死人，多暴论\n可以用英文中文粤语同我沟通🤗\n如果我觉得我对你很有好感会另外再加你XD\n粉红/女权请不要评论我的帖子，自觉右上角认爹\n讨厌我的言论的也请自觉右上角认爹谢谢😁",
+        "id": "1657452862606303232",
+        "location": "Cantonia",
+        "name": "💚🧡💙SpaWinniesm0oo0odod8964c",
+        "pinned_tweet_id": "1793209148840276131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792919235766726658/WB9Z01Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 517,
+          "like_count": 12998,
+          "listed_count": 4,
+          "tweet_count": 9907
+        },
+        "username": "Spasmmmm0d1C",
+        "verified": false
+      }
+    ]
+  }
+}

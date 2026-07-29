@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1794639985012076567",
+    "created_at": "2024-05-26T11:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T12:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794697382338458048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1677621461081788420",
+          "start": 0,
+          "username": "Gr1eff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794697382338458048",
+    "in_reply_to_user_id": "1677621461081788420",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794639985012076567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr1eff 老公我跪下了🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1794639985012076567",
+        "created_at": "2024-05-26T11:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T12:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794697382338458048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1677621461081788420",
+              "start": 0,
+              "username": "Gr1eff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794697382338458048",
+        "in_reply_to_user_id": "1677621461081788420",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794639985012076567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr1eff 老公我跪下了🧎‍♀️"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794639961310027776"
+          ]
+        },
+        "author_id": "1677621461081788420",
+        "conversation_id": "1794639985012076567",
+        "created_at": "2024-05-26T08:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T09:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794639985012076567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/L0kMzSHqVt",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Gr1eff/status/1794639985012076567/photo/1",
+              "media_key": "3_1794639961310027776",
+              "start": 35,
+              "url": "https://t.co/L0kMzSHqVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794639985012076567",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "老大們我知道我很醜 但是求求你們幫我轉轉了 本皇帝給你們跪下了😭😭😭 https://t.co/L0kMzSHqVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 1137,
+          "like_count": 9612,
+          "listed_count": 1,
+          "tweet_count": 1888
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T10:12:00.000Z",
+        "description": "我是皇帝🚪88會單刪 互關私訊 查成份回fo 好朋友@ceary07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "ceary07"
+              }
+            ]
+          }
+        },
+        "id": "1677621461081788420",
+        "name": "皇帝（回大陸中請不要取關我謝謝",
+        "pinned_tweet_id": "1767889049321439557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793180133454475264/qvYz3HLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 319,
+          "like_count": 15274,
+          "listed_count": 4,
+          "tweet_count": 3137
+        },
+        "username": "Gr1eff",
+        "verified": false
+      }
+    ]
+  }
+}

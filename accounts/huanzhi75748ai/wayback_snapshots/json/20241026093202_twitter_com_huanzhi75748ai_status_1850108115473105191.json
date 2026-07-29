@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850108101569216512"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1850108115473105191",
+    "created_at": "2024-10-26T09:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T10:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850108115473105191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aj4TssxkRr",
+          "end": 97,
+          "expanded_url": "https://x.com/huanzhi75748ai/status/1850108115473105191/photo/1",
+          "media_key": "3_1850108101569216512",
+          "start": 74,
+          "url": "https://t.co/aj4TssxkRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850108115473105191",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被我这种人缠上是不是很可爱?是不是很无奈 ? 是不是很享受?是不是舍不得 ?是不是有时候会想我?是不是后悔没有早点开口和我说话?是不是想给我花钱? https://t.co/aj4TssxkRr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1850108115473105191].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1850108115473105191",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1850108115473105191"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "每次只画一半脸的懒逼",
+        "height": 1440,
+        "media_key": "3_1850108101569216512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaznhB4bAAA8h5t.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1261,
+          "like_count": 18051,
+          "listed_count": 1,
+          "tweet_count": 3463
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

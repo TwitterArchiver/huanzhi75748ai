@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792258543191478760",
+    "created_at": "2024-05-19T18:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T19:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792258543191478760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tabo127238/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/tabo127238/status/1792212010681393247",
+          "start": 2,
+          "url": "https://t.co/50SKi8IcNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792258543191478760",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792212010681393247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻 https://t.co/50SKi8IcNT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792258543191478760",
+        "created_at": "2024-05-19T18:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T19:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792258543191478760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tabo127238/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/tabo127238/status/1792212010681393247",
+              "start": 2,
+              "url": "https://t.co/50SKi8IcNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792258543191478760",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792212010681393247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻 https://t.co/50SKi8IcNT"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792212001604935680"
+          ]
+        },
+        "author_id": "1715764369601298432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792212010681393247",
+        "created_at": "2024-05-19T15:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T16:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792212010681393247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4AmQEVRxul",
+              "end": 25,
+              "expanded_url": "https://twitter.com/tabo127238/status/1792212010681393247/photo/1",
+              "media_key": "3_1792212001604935680",
+              "start": 2,
+              "url": "https://t.co/4AmQEVRxul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792212010681393247",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1331,
+          "like_count": 31,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐 https://t.co/4AmQEVRxul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1103,
+          "like_count": 8377,
+          "listed_count": 1,
+          "tweet_count": 1671
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T16:18:41.000Z",
+        "description": "去码头整点薯条/事混沌中立intp/ 不见证/ 虽然是美术生但理想是音乐相关/ 本账为日常推，不时转发点meme/ 哲 文学 负能内容在小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rb.gy/enaq3a",
+                "end": 23,
+                "expanded_url": "https://rb.gy/enaq3a",
+                "start": 0,
+                "url": "https://t.co/KJxfJuFD9w"
+              }
+            ]
+          }
+        },
+        "id": "1715764369601298432",
+        "location": "无处不在",
+        "name": "taboo",
+        "pinned_tweet_id": "1783527115054625225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754001473283756032/R78do0au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 887,
+          "like_count": 5086,
+          "listed_count": 1,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/KJxfJuFD9w",
+        "username": "tabo127238",
+        "verified": false
+      }
+    ]
+  }
+}

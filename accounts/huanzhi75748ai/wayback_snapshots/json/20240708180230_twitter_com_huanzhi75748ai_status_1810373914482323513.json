@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1810373829698486272"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1810373914482323513",
+    "created_at": "2024-07-08T18:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T19:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810373914482323513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/IrRMTYTjS4",
+          "end": 118,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1810373914482323513/photo/1",
+          "media_key": "3_1810373829698486272",
+          "start": 95,
+          "url": "https://t.co/IrRMTYTjS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810373914482323513",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想變得超級超級可愛或者超級超級性感！我想讓全世界的人都喜歡我。如果我長得萌萌的就好了。。因為我好想賣萌，但是我每次對著鏡子擺出那種姿勢都會看到惡心地令人作嘔的半扇豬（沒有說豬不好的意思） https://t.co/IrRMTYTjS4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1810373914482323513].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1810373914482323513",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1810373914482323513"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3548,
+        "media_key": "3_1810373829698486272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR-9aAXXgAADJ60.jpg",
+        "width": 2660
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1191,
+          "like_count": 13498,
+          "listed_count": 1,
+          "tweet_count": 2520
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

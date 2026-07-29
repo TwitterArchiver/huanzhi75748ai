@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835564544187617507",
+    "created_at": "2024-09-16T15:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T16:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835700230433718730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781022238516613120",
+          "start": 0,
+          "username": "yamo_19970327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835700230433718730",
+    "in_reply_to_user_id": "1781022238516613120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835564544187617507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamo_19970327 像柚c美式。亚米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835564544187617507",
+        "created_at": "2024-09-16T15:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T16:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835700230433718730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781022238516613120",
+              "start": 0,
+              "username": "yamo_19970327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835700230433718730",
+        "in_reply_to_user_id": "1781022238516613120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835564544187617507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamo_19970327 像柚c美式。亚米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835564535782215681",
+            "3_1835564535824150529"
+          ]
+        },
+        "author_id": "1781022238516613120",
+        "conversation_id": "1835564544187617507",
+        "created_at": "2024-09-16T06:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T07:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835564544187617507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdhrsqtwd7",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yamo_19970327/status/1835564544187617507/photo/1",
+              "media_key": "3_1835564535782215681",
+              "start": 6,
+              "url": "https://t.co/xdhrsqtwd7"
+            },
+            {
+              "display_url": "pic.x.com/xdhrsqtwd7",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yamo_19970327/status/1835564544187617507/photo/1",
+              "media_key": "3_1835564535824150529",
+              "start": 6,
+              "url": "https://t.co/xdhrsqtwd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835564544187617507",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慢慢在沉淀 https://t.co/xdhrsqtwd7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1234,
+          "like_count": 15510,
+          "listed_count": 1,
+          "tweet_count": 3017
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T18:09:34.000Z",
+        "description": "#shtwt 🩸内容‼️请注意❗丨CN/ENG混用｜正常人格指路：@FREEDOM_0327 (备用号)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "FREEDOM_0327"
+              }
+            ]
+          }
+        },
+        "id": "1781022238516613120",
+        "location": "0.1km",
+        "name": "YAMO_",
+        "pinned_tweet_id": "1821718321785635000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831508930251382784/ZbLre2Dm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 283,
+          "like_count": 4355,
+          "listed_count": 1,
+          "tweet_count": 2723
+        },
+        "username": "yamo_19970327",
+        "verified": false
+      }
+    ]
+  }
+}

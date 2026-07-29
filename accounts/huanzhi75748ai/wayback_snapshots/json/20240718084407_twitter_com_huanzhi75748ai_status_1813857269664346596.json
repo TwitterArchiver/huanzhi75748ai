@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1813763220336943513",
+    "created_at": "2024-07-18T08:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T09:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813857269664346596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804416392885866498",
+          "start": 0,
+          "username": "spasmodingg111C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813857269664346596",
+    "in_reply_to_user_id": "1804416392885866498",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813763220336943513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spasmodingg111C 男高收奴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1813763220336943513",
+        "created_at": "2024-07-18T08:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T09:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813857269664346596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804416392885866498",
+              "start": 0,
+              "username": "spasmodingg111C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813857269664346596",
+        "in_reply_to_user_id": "1804416392885866498",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813763220336943513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spasmodingg111C 男高收奴"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813763210043912192"
+          ]
+        },
+        "author_id": "1804416392885866498",
+        "conversation_id": "1813763220336943513",
+        "created_at": "2024-07-18T02:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T03:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813763220336943513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jWHxe5ImtC",
+              "end": 41,
+              "expanded_url": "https://twitter.com/spasmodingg111C/status/1813763220336943513/photo/1",
+              "media_key": "3_1813763210043912192",
+              "start": 18,
+              "url": "https://t.co/jWHxe5ImtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813763220336943513",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收留小狗，长期发展的，等一个唯一。 https://t.co/jWHxe5ImtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1218,
+          "like_count": 14469,
+          "listed_count": 1,
+          "tweet_count": 2686
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T07:29:37.000Z",
+        "description": "Cantonese. 英/粤/普 @spasmmmm0d1c 的第二世，讨厌我的言论/粉红/激女请自觉屏蔽我 推友寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "spasmmmm0d1c"
+              }
+            ]
+          }
+        },
+        "id": "1804416392885866498",
+        "location": "cantonia",
+        "name": "💚🧡💙/spasmoding11111C二代目",
+        "pinned_tweet_id": "1804469594683248935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804419766586613760/bumuzqc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 225,
+          "like_count": 857,
+          "listed_count": 0,
+          "tweet_count": 1861
+        },
+        "username": "spasmodingg111C",
+        "verified": false
+      }
+    ]
+  }
+}

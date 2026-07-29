@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1837441354156155199",
+    "created_at": "2024-09-21T10:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T11:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837441354156155199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1nfinityHeaven…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/1nfinityHeaven/status/1837346658344128610",
+          "start": 16,
+          "url": "https://t.co/YLUSlHl7et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837441354156155199",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837346658344128610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要。。。不要。。不要。咋办。 https://t.co/YLUSlHl7et"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1837441354156155199",
+        "created_at": "2024-09-21T10:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837441354156155199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1nfinityHeaven…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/1nfinityHeaven/status/1837346658344128610",
+              "start": 16,
+              "url": "https://t.co/YLUSlHl7et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837441354156155199",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837346658344128610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要。。。不要。。不要。咋办。 https://t.co/YLUSlHl7et"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837346650119098368"
+          ]
+        },
+        "author_id": "1250237155143811076",
+        "conversation_id": "1837346658344128610",
+        "created_at": "2024-09-21T04:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T05:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837346658344128610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tthclknxhm",
+              "end": 69,
+              "expanded_url": "https://twitter.com/1nfinityHeaven/status/1837346658344128610/photo/1",
+              "media_key": "3_1837346650119098368",
+              "start": 46,
+              "url": "https://t.co/TtHcLKnxHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837346658344128610",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7361,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋完蛋谁知道什么反戒网瘾机构的组织什么的吗  食色性也被送到纽特教育了  谁有什么办法啊 https://t.co/TtHcLKnxHM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1245,
+          "like_count": 15927,
+          "listed_count": 1,
+          "tweet_count": 3132
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T01:39:09.000Z",
+        "description": "@yumorentupaopao\n@takemet0themo0n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yumorentupaopao"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "takemet0themo0n"
+              }
+            ]
+          }
+        },
+        "id": "1250237155143811076",
+        "name": "食色性也",
+        "pinned_tweet_id": "1836361021424099715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836656138764574720/gWaCpzJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 249,
+          "like_count": 51553,
+          "listed_count": 13,
+          "tweet_count": 16036
+        },
+        "username": "1nfinityHeaven",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1810402427092267008"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1810402516057632924",
+    "created_at": "2024-07-08T19:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T20:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810402516057632924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zQVdNkQbei",
+          "end": 86,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1810402516057632924/photo/1",
+          "media_key": "3_1810402427092267008",
+          "start": 63,
+          "url": "https://t.co/zQVdNkQbei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810402516057632924",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這是我老公。（有點丑慎點）抱歉只能給你們看一個頭，因為他在夜場接客，不能給你們看，一個合格的妻子不能影響丈夫的事業，望理解。 https://t.co/zQVdNkQbei"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1810402516057632924].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1810402516057632924",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1810402516057632924"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_1810402427092267008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR_Xal9W8AAHUIl.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1193,
+          "like_count": 13563,
+          "listed_count": 1,
+          "tweet_count": 2530
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

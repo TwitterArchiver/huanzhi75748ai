@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820174306682572800"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1820174367755805021",
+    "created_at": "2024-08-04T19:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T20:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1820174367755805021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/sOBLlPhryL",
+          "end": 23,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1820174367755805021/photo/1",
+          "media_key": "3_1820174306682572800",
+          "start": 0,
+          "url": "https://t.co/sOBLlPhryL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820174367755805021",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/sOBLlPhryL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1820174367755805021].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1820174367755805021",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1820174367755805021"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1820174306682572800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUKO42MbkAA7_lh.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1223,
+          "like_count": 14928,
+          "listed_count": 1,
+          "tweet_count": 2844
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

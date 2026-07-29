@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792256099598414051",
+    "created_at": "2024-05-19T18:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T19:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792256099598414051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1792256099598414051",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从来不怕啥破窗效应，根本没有啥效应，只是你遇到了不好的人。真正在乎你的人就算分开也会注意避开可能会伤害你的点。不过人也确实会在情绪上来时口不择言啊。总之如果被伤害了，不要害怕开启新关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792256099598414051",
+        "created_at": "2024-05-19T18:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T19:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792256099598414051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792256099598414051",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不怕啥破窗效应，根本没有啥效应，只是你遇到了不好的人。真正在乎你的人就算分开也会注意避开可能会伤害你的点。不过人也确实会在情绪上来时口不择言啊。总之如果被伤害了，不要害怕开启新关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1103,
+          "like_count": 8362,
+          "listed_count": 1,
+          "tweet_count": 1667
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

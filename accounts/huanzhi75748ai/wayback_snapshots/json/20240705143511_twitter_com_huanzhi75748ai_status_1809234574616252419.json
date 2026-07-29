@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1809234574616252419",
+    "created_at": "2024-07-05T14:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T15:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809234574616252419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/screamnhorror/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/screamnhorror/status/1808739830077051378",
+          "start": 20,
+          "url": "https://t.co/6oJuoYYPgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809234574616252419",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808739830077051378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠爽飞了冰凉锋利的刀具贴在柔软的地方 https://t.co/6oJuoYYPgg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1809234574616252419",
+        "created_at": "2024-07-05T14:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T15:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809234574616252419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/screamnhorror/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/screamnhorror/status/1808739830077051378",
+              "start": 20,
+              "url": "https://t.co/6oJuoYYPgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809234574616252419",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808739830077051378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠爽飞了冰凉锋利的刀具贴在柔软的地方 https://t.co/6oJuoYYPgg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808739827661062144"
+          ]
+        },
+        "author_id": "765564184465727488",
+        "conversation_id": "1808739830077051378",
+        "created_at": "2024-07-04T05:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T06:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808739830077051378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/75sU1JYdRj",
+              "end": 23,
+              "expanded_url": "https://twitter.com/screamnhorror/status/1808739830077051378/photo/1",
+              "media_key": "3_1808739827661062144",
+              "start": 0,
+              "url": "https://t.co/75sU1JYdRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808739830077051378",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3339,
+          "impression_count": 986650,
+          "like_count": 36507,
+          "quote_count": 217,
+          "reply_count": 90,
+          "retweet_count": 3681
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/75sU1JYdRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 1193,
+          "like_count": 13410,
+          "listed_count": 1,
+          "tweet_count": 2491
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-16T15:01:39.000Z",
+        "description": "𝙝𝙤𝙧𝙧𝙤𝙧, 𝙨𝙚𝙭, 𝙖𝙣𝙙 𝙧𝙤𝙘𝙠 𝙣’ 𝙧𝙤𝙡𝙡— ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ @vayashley ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀ blm | 🍉⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ᵃˡˡ ᵗʰᵉ ⁱⁿᶠᵒ ⬃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "vayashley"
+              }
+            ]
+          }
+        },
+        "id": "765564184465727488",
+        "location": "𝖘𝖈𝖔𝖗𝖕𝖎𝖔 | 25 | she/her",
+        "name": "𝑳𝑰𝑽𝑰𝑵𝑮 𝑫𝑬𝑨𝑫 𝑮𝑰𝑹𝑳 🦇",
+        "pinned_tweet_id": "1653961103376896000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800538386668584960/BOmJR2Vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33903,
+          "following_count": 1779,
+          "like_count": 14226,
+          "listed_count": 82,
+          "tweet_count": 11353
+        },
+        "username": "screamnhorror",
+        "verified": true
+      }
+    ]
+  }
+}

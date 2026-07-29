@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1817924003375522047",
+    "created_at": "2024-07-29T14:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T15:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817924003375522047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513909585672736769",
+          "start": 3,
+          "username": "tianmei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817924003375522047",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817624887437214117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianmei001: 我占有欲很强，喜欢我的时候只可以喜欢我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1817924003375522047",
+        "created_at": "2024-07-29T14:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T15:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817924003375522047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513909585672736769",
+              "start": 3,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817924003375522047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817624887437214117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianmei001: 我占有欲很强，喜欢我的时候只可以喜欢我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513909585672736769",
+        "conversation_id": "1817624887437214117",
+        "created_at": "2024-07-28T18:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T19:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817624887437214117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817624887437214117",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8942,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我占有欲很强，喜欢我的时候只可以喜欢我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1221,
+          "like_count": 14736,
+          "listed_count": 1,
+          "tweet_count": 2792
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:59:16.000Z",
+        "description": "世界是假的 爱是真的",
+        "id": "1513909585672736769",
+        "name": "黯淡星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757795319704961024/VYVDFtb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14814,
+          "following_count": 257,
+          "like_count": 22928,
+          "listed_count": 42,
+          "tweet_count": 20336
+        },
+        "username": "tianmei001",
+        "verified": false
+      }
+    ]
+  }
+}

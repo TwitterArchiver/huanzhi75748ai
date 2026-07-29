@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1802988346777702570",
+    "created_at": "2024-06-18T14:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T15:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803072965103468782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773814776390713344",
+          "start": 0,
+          "username": "Xiaoliaomcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803072965103468782",
+    "in_reply_to_user_id": "1773814776390713344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802988346777702570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoliaomcy 河南人就是牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1802988346777702570",
+        "created_at": "2024-06-18T14:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803072965103468782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773814776390713344",
+              "start": 0,
+              "username": "Xiaoliaomcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803072965103468782",
+        "in_reply_to_user_id": "1773814776390713344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802988346777702570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoliaomcy 河南人就是牛逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1773814776390713344",
+        "conversation_id": "1802988346777702570",
+        "created_at": "2024-06-18T08:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T09:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802988346777702570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802988346777702570",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦达西是河南精神病小妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 1150,
+          "like_count": 12114,
+          "listed_count": 1,
+          "tweet_count": 2235
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T20:49:49.000Z",
+        "description": "滚",
+        "id": "1773814776390713344",
+        "location": "对不起行了吗",
+        "name": "我咋你了",
+        "pinned_tweet_id": "1802989521346420749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803000151180800000/pJ2gUp4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 232,
+          "like_count": 24641,
+          "listed_count": 2,
+          "tweet_count": 2451
+        },
+        "username": "Xiaoliaomcy",
+        "verified": false
+      }
+    ]
+  }
+}

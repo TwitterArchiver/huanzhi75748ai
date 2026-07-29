@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808927478079238355",
+    "created_at": "2024-07-04T18:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T19:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808927478079238355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1808927478079238355",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天上一当，当当不一样。\n在我身上体现的淋漓尽致。\n本来我不打算说的，但是我看互关玩绝区零的不少。我在逼站看到扫码领开服xx抽的福利，还专门下载了快手极速版。扫完显示助力成功。？难道只有我这么傻？对了谁加我撅起来好友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808927478079238355",
+        "created_at": "2024-07-04T18:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808927478079238355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808927478079238355",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天上一当，当当不一样。\n在我身上体现的淋漓尽致。\n本来我不打算说的，但是我看互关玩绝区零的不少。我在逼站看到扫码领开服xx抽的福利，还专门下载了快手极速版。扫完显示助力成功。？难道只有我这么傻？对了谁加我撅起来好友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1189,
+          "like_count": 13223,
+          "listed_count": 1,
+          "tweet_count": 2443
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

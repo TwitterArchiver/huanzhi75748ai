@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1792139139657224375",
+    "created_at": "2024-05-19T17:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T18:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792244005851328632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792244005851328632",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792139139657224375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 是这样的，为什么我们只能隔着屏幕拥抱🥺不过，抱抱啊🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1792139139657224375",
+        "created_at": "2024-05-19T17:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T18:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792244005851328632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792244005851328632",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792139139657224375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 是这样的，为什么我们只能隔着屏幕拥抱🥺不过，抱抱啊🫂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1792139139657224375",
+        "created_at": "2024-05-19T10:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T11:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792139139657224375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792139139657224375",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1946,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我想要现实……\n想要拥抱\n想要亲吻\n想要感受到他人的温度\n不想流泪\n不想自残\n不想嗑药\n不想独自一人缩在被子里绝望\n请救救我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1102,
+          "like_count": 8291,
+          "listed_count": 1,
+          "tweet_count": 1651
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "玄鸦 夕阳 白日梦 傲慢 肠子 少年 GAME 白躁 黄铜 血 腐烂 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔",
+        "pinned_tweet_id": "1752560514201469253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787783520972136448/Ic1VcpeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 3796,
+          "like_count": 24359,
+          "listed_count": 1,
+          "tweet_count": 9704
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

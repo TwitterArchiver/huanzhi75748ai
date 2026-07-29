@@ -1,0 +1,104 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1814381778968432640"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1814381898673824222",
+    "created_at": "2024-07-19T19:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T20:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1814381898673824222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/XRNbfRDErc",
+          "end": 38,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1814381898673824222/photo/1",
+          "media_key": "3_1814381778968432640",
+          "start": 15,
+          "url": "https://t.co/XRNbfRDErc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814381898673824222",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高中的mp4放出颗粒感的回忆 https://t.co/XRNbfRDErc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1814381898673824222].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1814381898673824222",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1814381898673824222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1814381778968432640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GS36nW5a0AAK_Jn.jpg",
+        "width": 3072
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1220,
+          "like_count": 14511,
+          "listed_count": 1,
+          "tweet_count": 2705
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

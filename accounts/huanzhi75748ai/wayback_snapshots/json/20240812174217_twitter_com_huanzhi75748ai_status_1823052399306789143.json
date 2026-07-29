@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1823051557543596381",
+    "created_at": "2024-08-12T17:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T18:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823052399306789143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806390789767086080",
+          "start": 0,
+          "username": "FREEDOM_0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823052399306789143",
+    "in_reply_to_user_id": "1806390789767086080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823051557543596381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREEDOM_0327 妈呀艺术品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1823051557543596381",
+        "created_at": "2024-08-12T17:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T18:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823052399306789143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806390789767086080",
+              "start": 0,
+              "username": "FREEDOM_0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823052399306789143",
+        "in_reply_to_user_id": "1806390789767086080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823051557543596381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREEDOM_0327 妈呀艺术品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823051459900170240"
+          ]
+        },
+        "author_id": "1806390789767086080",
+        "conversation_id": "1823051557543596381",
+        "created_at": "2024-08-12T17:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T18:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823051557543596381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uc0qfqoxj",
+              "end": 36,
+              "expanded_url": "https://twitter.com/FREEDOM_0327/status/1823051557543596381/video/1",
+              "media_key": "7_1823051459900170240",
+              "start": 13,
+              "url": "https://t.co/0uc0qfqOXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823051557543596381",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "丝大 丝大 哇达西哇丝大 https://t.co/0uc0qfqOXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1228,
+          "like_count": 15091,
+          "listed_count": 1,
+          "tweet_count": 2887
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T18:15:08.000Z",
+        "description": "随缘更新 非健全b求放过٩(๑•ㅂ•)۶  ｜          抽象人格指路@yamo_19970327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "yamo_19970327"
+              }
+            ]
+          }
+        },
+        "id": "1806390789767086080",
+        "location": "纯绿🚪113 详细私信",
+        "name": "YAMO_^^",
+        "pinned_tweet_id": "1812855095220150733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806391066750545920/a29ab4KZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 42,
+          "like_count": 57,
+          "listed_count": 1,
+          "tweet_count": 42
+        },
+        "username": "FREEDOM_0327",
+        "verified": false
+      }
+    ]
+  }
+}

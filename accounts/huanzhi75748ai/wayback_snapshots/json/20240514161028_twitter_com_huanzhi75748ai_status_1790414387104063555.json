@@ -1,0 +1,90 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1790414372818255872"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "1790414387104063555",
+    "created_at": "2024-05-14T16:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T17:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790414387104063555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gesupVqR9a",
+          "end": 44,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1790414387104063555/photo/1",
+          "media_key": "3_1790414372818255872",
+          "start": 21,
+          "url": "https://t.co/gesupVqR9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790414387104063555",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以一开始就只有我把几句轻描淡写的话当爱 https://t.co/gesupVqR9a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790414387104063555].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790414387104063555",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790414387104063555"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 255,
+        "media_key": "3_1790414372818255872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNjUYtSWAAAvdCY.jpg",
+        "width": 255
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1091,
+          "like_count": 7898,
+          "listed_count": 1,
+          "tweet_count": 1591
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

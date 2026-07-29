@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1808755926436098093",
+    "created_at": "2024-07-04T17:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T18:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808918948857197022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808918948857197022",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808755926436098093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1808755926436098093",
+        "created_at": "2024-07-04T17:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T18:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808918948857197022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808918948857197022",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808755926436098093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 好吃"
+      },
+      {
+        "attachments": {},
+        "author_id": "1647182072723959808",
+        "conversation_id": "1808755926436098093",
+        "created_at": "2024-07-04T06:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T07:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808755926436098093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808755926436098093",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想品尝奶油泡芙，想变成奶油泡芙……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1189,
+          "like_count": 13163,
+          "listed_count": 1,
+          "tweet_count": 2428
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "08年 infp-T 休学💤💤💤",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761848700144680960/37XmA5-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 402,
+          "like_count": 70387,
+          "listed_count": 0,
+          "tweet_count": 661
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

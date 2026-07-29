@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1835329553088364896",
+    "created_at": "2024-09-15T20:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T21:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835408689949520145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647182072723959808",
+          "start": 0,
+          "username": "s3450924340204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835408689949520145",
+    "in_reply_to_user_id": "1647182072723959808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835329553088364896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3450924340204 缓缓睡好会写，有种荒诞的伤感。还有点尿骚味。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1835329553088364896",
+        "created_at": "2024-09-15T20:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T21:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835408689949520145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647182072723959808",
+              "start": 0,
+              "username": "s3450924340204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835408689949520145",
+        "in_reply_to_user_id": "1647182072723959808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835329553088364896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3450924340204 缓缓睡好会写，有种荒诞的伤感。还有点尿骚味。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647182072723959808",
+        "conversation_id": "1835329553088364896",
+        "created_at": "2024-09-15T14:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T15:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835329553088364896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835329553088364896",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注意看眼前的男人，把前列腺和泪腺互换了，于是他流出了最浓厚腥重的眼泪，滴出了最饱满清澈的尿液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1230,
+          "like_count": 15401,
+          "listed_count": 1,
+          "tweet_count": 2987
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:16:32.000Z",
+        "description": "08年 infp-T 休学💤💤💤",
+        "id": "1647182072723959808",
+        "name": "缓缓睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833979107346186241/iJ0xKJha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 502,
+          "like_count": 81411,
+          "listed_count": 0,
+          "tweet_count": 1052
+        },
+        "username": "s3450924340204",
+        "verified": false
+      }
+    ]
+  }
+}

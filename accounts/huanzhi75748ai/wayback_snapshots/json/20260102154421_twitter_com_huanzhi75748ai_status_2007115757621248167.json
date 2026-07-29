@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2007115757621248167",
+    "created_at": "2026-01-02T15:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007115757621248167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ihateuTvT/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ihateuTvT/status/2006974524642964023",
+          "start": 18,
+          "url": "https://t.co/jokDcVXzx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007115757621248167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006974524642964023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我脑子里突然蹦出一个心心相印。笑死 https://t.co/jokDcVXzx9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2007115757621248167",
+        "created_at": "2026-01-02T15:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007115757621248167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ihateuTvT/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ihateuTvT/status/2006974524642964023",
+              "start": 18,
+              "url": "https://t.co/jokDcVXzx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007115757621248167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006974524642964023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我脑子里突然蹦出一个心心相印。笑死 https://t.co/jokDcVXzx9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535674049631617024",
+        "conversation_id": "2006974524642964023",
+        "created_at": "2026-01-02T06:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006974524642964023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006974524642964023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 29179,
+          "like_count": 331,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我就属于不能约炮那种人，因为我真的逼连心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1327,
+          "like_count": 22338,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4635
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T17:23:31.000Z",
+        "description": "我不想被任何人找到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ihateutvt",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ihateutvt",
+                "start": 0,
+                "url": "https://t.co/7PkLi4LGAo"
+              }
+            ]
+          }
+        },
+        "id": "1535674049631617024",
+        "location": "🚪88纯绿/推广自辨",
+        "name": "世界对我太苛刻了",
+        "pinned_tweet_id": "2005583648494633261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079724977704966/oR-qoZKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 78,
+          "like_count": 6124,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 4340
+        },
+        "url": "https://t.co/7PkLi4LGAo",
+        "username": "ihateuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1843361689322041639",
+    "created_at": "2024-10-07T18:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T19:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843361689322041639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843361689322041639",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我可能不是小狗，我是贱狗哈巴狗狗皮膏药。人家来找我我就贱兮兮地跑过去舔，人家忙的时候不用我的时候就狠狠踢开我，过会我再自己走回来，再被踢走，我自己伤心一会，人家招招手我又跑回来。我不知道。我家人朋友同学都是这样对我的。可能我已经习惯了。可是我还是会伤心\nT﹏T每一次都会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1843361689322041639",
+        "created_at": "2024-10-07T18:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T19:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843361689322041639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843361689322041639",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可能不是小狗，我是贱狗哈巴狗狗皮膏药。人家来找我我就贱兮兮地跑过去舔，人家忙的时候不用我的时候就狠狠踢开我，过会我再自己走回来，再被踢走，我自己伤心一会，人家招招手我又跑回来。我不知道。我家人朋友同学都是这样对我的。可能我已经习惯了。可是我还是会伤心\nT﹏T每一次都会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1251,
+          "like_count": 16821,
+          "listed_count": 1,
+          "tweet_count": 3184
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

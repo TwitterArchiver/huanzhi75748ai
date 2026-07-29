@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1822910200552026487",
+    "created_at": "2024-08-12T16:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T17:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823041631970631797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823041631970631797",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822910200552026487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 好性感的说唱。地表最强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1822910200552026487",
+        "created_at": "2024-08-12T16:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T17:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823041631970631797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823041631970631797",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822910200552026487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 好性感的说唱。地表最强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822909484735340544"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1822910200552026487",
+        "created_at": "2024-08-12T08:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T09:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822910200552026487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttgzakkxj5",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Aloevce/status/1822910200552026487/video/1",
+              "media_key": "7_1822909484735340544",
+              "start": 7,
+              "url": "https://t.co/TtGzAKKXj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822910200552026487",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2194,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈不是男的 https://t.co/TtGzAKKXj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1228,
+          "like_count": 15037,
+          "listed_count": 1,
+          "tweet_count": 2875
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "加速器🚀https://t.co/fWLEBLlyzt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=xtJc89Oz",
+                "start": 4,
+                "url": "https://t.co/fWLEBLlyzt"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "name": "厕所质检员",
+        "pinned_tweet_id": "1822890228509532495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806285347472523264/pJqCwqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17446,
+          "following_count": 2193,
+          "like_count": 52202,
+          "listed_count": 22,
+          "tweet_count": 18293
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}
