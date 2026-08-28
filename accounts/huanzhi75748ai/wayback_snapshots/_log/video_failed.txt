@@ -11,14 +11,12 @@ https://video.twimg.com/ext_tw_video/1901299056070242304/pu/vid/avc1/720x720/lfn
 https://video.twimg.com/ext_tw_video/1970926626939731969/pu/vid/avc1/720x960/B9oTudf6_kNNWe-2.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1951666569035030528/pu/vid/avc1/720x720/fvQWolzHGvyG44hX.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1934769045703892992/pu/vid/avc1/720x1280/SQaTOXaTXzjIPleg.mp4?tag=12
-https://video.twimg.com/amplify_video/1996901240631181313/vid/avc1/960x720/5fAfjD1USxpyUvZo.mp4
 https://video.twimg.com/ext_tw_video/1979081389828915200/pu/vid/avc1/720x960/rWQ94F8CX3eb6Pir.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1908558501154074624/pu/vid/avc1/720x720/SKYiECLPTlZ3fUjX.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1916192947332067328/pu/vid/avc1/720x1280/ZHbVBUW6kONjCA7a.mp4?tag=12
 https://video.twimg.com/ext_tw_video/2027465432169603072/pu/vid/avc1/720x1280/7UKN-035V8UN9jE2.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1947725784065462272/pu/vid/avc1/960x720/5mTJnJa6aqtb-JuM.mp4?tag=12
 https://video.twimg.com/ext_tw_video/2029971327793385472/pu/vid/avc1/720x960/xKDkaJ2iXvaVrQXN.mp4?tag=12
-https://video.twimg.com/ext_tw_video/1997041831247511552/pu/vid/avc1/1280x720/uF-l3J2rvv1fKR94.mp4?tag=12
 https://video.twimg.com/ext_tw_video/2036452775077486596/pu/vid/avc1/1240x720/hTKp-UadmmlWYH2J.mp4?tag=12
 https://video.twimg.com/ext_tw_video/2038176466580668416/pu/vid/avc1/720x960/wRvvY8njePNvzTa7.mp4?tag=12
 https://video.twimg.com/amplify_video/2037538608241139713/vid/avc1/720x1280/0hXXSMuhDa_8Dds5.mp4
@@ -41,3 +39,4 @@ https://video.twimg.com/amplify_video/2039226229950492673/vid/avc1/960x720/moHg6
 https://video.twimg.com/amplify_video/2036358060156026880/vid/avc1/544x960/GmJG8NFwGK03MmMq.mp4
 https://video.twimg.com/ext_tw_video/2052632086918672385/pu/vid/avc1/720x1280/VIlNb8AKlxKRMtK2.mp4?tag=12
 https://video.twimg.com/amplify_video/2039560477009907712/vid/avc1/720x1280/xG8LVyYCOJcgQQ_A.mp4
+https://video.twimg.com/amplify_video/2037036062250602496/vid/avc1/720x1280/S_iG0e_vmzYLtibe.mp4
