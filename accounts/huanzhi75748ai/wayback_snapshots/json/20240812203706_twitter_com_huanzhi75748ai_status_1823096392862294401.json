@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1823096392862294401",
+    "created_at": "2024-08-12T20:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T21:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823096392862294401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544171637171400704",
+          "start": 3,
+          "username": "LAZY_lazyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823096392862294401",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822731640004837447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LAZY_lazyyyy: 你到底要认识多少人 才觉得我才是最好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1823096392862294401",
+        "created_at": "2024-08-12T20:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T21:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823096392862294401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544171637171400704",
+              "start": 3,
+              "username": "LAZY_lazyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823096392862294401",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822731640004837447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LAZY_lazyyyy: 你到底要认识多少人 才觉得我才是最好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544171637171400704",
+        "conversation_id": "1822731640004837447",
+        "created_at": "2024-08-11T20:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T21:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822731640004837447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822731640004837447",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2595,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你到底要认识多少人 才觉得我才是最好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1231,
+          "like_count": 15120,
+          "listed_count": 1,
+          "tweet_count": 2891
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "_(:3 ⌒ﾞ)_=З\n推荐我常用的喵叽vpn👉🏻 https://t.co/nJwp9EdqLu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 49,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=1itxn03J",
+                "start": 26,
+                "url": "https://t.co/nJwp9EdqLu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "1.08km",
+        "name": "阿SA",
+        "pinned_tweet_id": "1822543578423583199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822533930492600320/drO9aa3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 835,
+          "like_count": 50997,
+          "listed_count": 41,
+          "tweet_count": 25367
+        },
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

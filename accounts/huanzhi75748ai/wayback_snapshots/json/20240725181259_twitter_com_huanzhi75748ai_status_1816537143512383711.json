@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1816537143512383711",
+    "created_at": "2024-07-25T18:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T19:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816537143512383711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770018418437058560",
+          "start": 3,
+          "username": "BieZai17302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816537143512383711",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815898193273708638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BieZai17302: 别人出轨：妈的 好贱 \n朋友出轨：卧槽 牛逼 \n自己出轨：有些事情 没有办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1816537143512383711",
+        "created_at": "2024-07-25T18:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816537143512383711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770018418437058560",
+              "start": 3,
+              "username": "BieZai17302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816537143512383711",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815898193273708638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BieZai17302: 别人出轨：妈的 好贱 \n朋友出轨：卧槽 牛逼 \n自己出轨：有些事情 没有办法"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770018418437058560",
+        "conversation_id": "1815898193273708638",
+        "created_at": "2024-07-23T23:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T00:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815898193273708638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815898193273708638",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 221509,
+          "like_count": 2549,
+          "quote_count": 39,
+          "reply_count": 110,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "别人出轨：妈的 好贱 \n朋友出轨：卧槽 牛逼 \n自己出轨：有些事情 没有办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1218,
+          "like_count": 14545,
+          "listed_count": 1,
+          "tweet_count": 2739
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T09:24:20.000Z",
+        "description": "@bailan22T 烂老师重生版 以后就随意发了 | 互关加我 v | 防炸小号@lannueliang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "bailan22T"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "lannueliang"
+              }
+            ]
+          }
+        },
+        "id": "1770018418437058560",
+        "name": "别管我我在做法",
+        "pinned_tweet_id": "1801552903897026956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795088531683164160/_FkQFB5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1049,
+          "like_count": 32337,
+          "listed_count": 1,
+          "tweet_count": 3106
+        },
+        "username": "BieZai17302",
+        "verified": false
+      }
+    ]
+  }
+}

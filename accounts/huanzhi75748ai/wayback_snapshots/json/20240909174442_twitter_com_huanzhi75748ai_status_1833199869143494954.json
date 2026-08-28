@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1832968079418208715",
+    "created_at": "2024-09-09T17:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T18:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833199869143494954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563559065078595589",
+          "start": 0,
+          "username": "skmt26628703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833199869143494954",
+    "in_reply_to_user_id": "1563559065078595589",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833199511835185568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmt26628703 我也不太懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1832968079418208715",
+        "created_at": "2024-09-09T17:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T18:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833199869143494954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563559065078595589",
+              "start": 0,
+              "username": "skmt26628703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833199869143494954",
+        "in_reply_to_user_id": "1563559065078595589",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833199511835185568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skmt26628703 我也不太懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563559065078595589",
+        "conversation_id": "1832968079418208715",
+        "created_at": "2024-09-09T17:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T18:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833199511835185568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833199511835185568",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833199215306064378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 二次元是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1225,
+          "like_count": 15274,
+          "listed_count": 1,
+          "tweet_count": 2950
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T16:08:39.000Z",
+        "description": "活着的尸体/最喜欢❤️@BestCooker4Ever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "BestCooker4Ever"
+              }
+            ]
+          }
+        },
+        "id": "1563559065078595589",
+        "name": "小戈鳥雨",
+        "pinned_tweet_id": "1805077019040055418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712597342103412736/1Q3RWfh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 283,
+          "like_count": 29408,
+          "listed_count": 5,
+          "tweet_count": 6262
+        },
+        "username": "skmt26628703",
+        "verified": false
+      }
+    ]
+  }
+}

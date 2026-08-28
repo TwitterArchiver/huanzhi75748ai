@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1810397428778139648"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1810355193529380922",
+    "created_at": "2024-07-08T19:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T20:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810397573783630011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/9Rokxa13PO",
+          "end": 42,
+          "expanded_url": "https://twitter.com/huanzhi75748ai/status/1810397573783630011/photo/1",
+          "media_key": "3_1810397428778139648",
+          "start": 19,
+          "url": "https://t.co/9Rokxa13PO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810397573783630011",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810355193529380922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 刀片好容易鏽的說 https://t.co/9Rokxa13PO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1810397573783630011].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1810397573783630011",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1810397573783630011"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1810397428778139648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR_S3pyaAAA1mU7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810355143428419585"
+          ]
+        },
+        "author_id": "1725683921763905536",
+        "conversation_id": "1810355193529380922",
+        "created_at": "2024-07-08T16:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T17:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810355193529380922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MpU0nFdd4P",
+              "end": 34,
+              "expanded_url": "https://twitter.com/luonbe69/status/1810355193529380922/photo/1",
+              "media_key": "3_1810355143428419585",
+              "start": 11,
+              "url": "https://t.co/MpU0nFdd4P"
+            },
+            {
+              "display_url": "x.com/luonbe69/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/luonbe69/status/1810354129820332445",
+              "start": 35,
+              "url": "https://t.co/u5CNJnfJuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810355193529380922",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810354129820332445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈他妈的破伤风之刃 https://t.co/MpU0nFdd4P https://t.co/u5CNJnfJuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1193,
+          "like_count": 13552,
+          "listed_count": 1,
+          "tweet_count": 2527
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 夕阳 世界 归零 流浪 列车 白日梦 闪烁 以太 傲慢 节制 肠子 少年 \n终焉 彷徨 白躁 黄铜 血 腐烂 哽咽 徘徊 烂泥 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔",
+        "pinned_tweet_id": "1810312978975330621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804516699149889536/QLdZUkpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 4579,
+          "like_count": 31048,
+          "listed_count": 1,
+          "tweet_count": 11523
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1817922078974386409",
+    "created_at": "2024-07-29T13:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T14:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817922078974386409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804416392885866498",
+          "start": 3,
+          "username": "spasmodingg111C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817922078974386409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817641770173489588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spasmodingg111C: 你聪明的，告诉我，我们的日子为什么一去不复返了呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1817922078974386409",
+        "created_at": "2024-07-29T13:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T14:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817922078974386409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804416392885866498",
+              "start": 3,
+              "username": "spasmodingg111C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817922078974386409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817641770173489588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spasmodingg111C: 你聪明的，告诉我，我们的日子为什么一去不复返了呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804416392885866498",
+        "conversation_id": "1817641770173489588",
+        "created_at": "2024-07-28T19:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T20:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817641770173489588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817641770173489588",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1662,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你聪明的，告诉我，我们的日子为什么一去不复返了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1221,
+          "like_count": 14701,
+          "listed_count": 1,
+          "tweet_count": 2788
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T07:29:37.000Z",
+        "description": "Cantonese. #cantonia eng/粤/普 @spasmmmm0d1c 的第二世，酷爱counter strike。讨厌我的言论/粉红/激女/虐猫人士请自觉屏蔽我 推友寻回中\nAnytime,I love u.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "cantonia"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "spasmmmm0d1c"
+              }
+            ]
+          }
+        },
+        "id": "1804416392885866498",
+        "location": "cantonia",
+        "name": "💚🧡💙/spasmoding11111C二代目",
+        "pinned_tweet_id": "1804469594683248935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804419766586613760/bumuzqc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 292,
+          "like_count": 1969,
+          "listed_count": 0,
+          "tweet_count": 3447
+        },
+        "username": "spasmodingg111C",
+        "verified": false
+      }
+    ]
+  }
+}

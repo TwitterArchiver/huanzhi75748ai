@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1863638720202572162",
+    "created_at": "2024-12-02T18:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T19:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863647263521731048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566430838434430977",
+          "start": 0,
+          "username": "FlowersRainFall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863647263521731048",
+    "in_reply_to_user_id": "1566430838434430977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863643319714328620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlowersRainFall 哈哈哈哈哈哈哈我感觉海莉还挺傲娇的她骂我我反而爽了，而且前期384在屋子里我进不去光给海莉送向日葵了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1863638720202572162",
+        "created_at": "2024-12-02T18:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T19:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863647263521731048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566430838434430977",
+              "start": 0,
+              "username": "FlowersRainFall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863647263521731048",
+        "in_reply_to_user_id": "1566430838434430977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863643319714328620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlowersRainFall 哈哈哈哈哈哈哈我感觉海莉还挺傲娇的她骂我我反而爽了，而且前期384在屋子里我进不去光给海莉送向日葵了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566430838434430977",
+        "conversation_id": "1863638720202572162",
+        "created_at": "2024-12-02T17:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T18:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863643319714328620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863643319714328620",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863638720202572162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 海莉的随机事件汉语翻译有问题😿一个是问玩家每天干啥，回答“在房子里面转”会被骂，原文意思是“在你的房子里晃悠”。另一个是问自己今天该干啥，回答“安安静静的呆着”会被骂，原文意思是“别再没事找事烦我了”。之前玩误以为海莉不通情理，直接选384了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1263,
+          "like_count": 19005,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 3758
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "雨打梨花深闭门｜专偶恋爱中 @shuiyebush1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "shuiyebush1"
+              }
+            ]
+          }
+        },
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "🌧️淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858860873160552448/3Dfpc66I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 505,
+          "like_count": 30563,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2256
+        },
+        "username": "FlowersRainFall",
+        "verified": false
+      }
+    ]
+  }
+}

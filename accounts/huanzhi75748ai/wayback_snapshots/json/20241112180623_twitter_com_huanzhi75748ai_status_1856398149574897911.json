@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1856397175301042434",
+    "created_at": "2024-11-12T18:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T19:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856398149574897911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695515581192278016",
+          "start": 0,
+          "username": "xingchen_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856398149574897911",
+    "in_reply_to_user_id": "1695515581192278016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856397945295266165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingchen_gu 😿好，我想起这些就变得戾气很重了，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1856397175301042434",
+        "created_at": "2024-11-12T18:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T19:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856398149574897911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695515581192278016",
+              "start": 0,
+              "username": "xingchen_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856398149574897911",
+        "in_reply_to_user_id": "1695515581192278016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856397945295266165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchen_gu 😿好，我想起这些就变得戾气很重了，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695515581192278016",
+        "conversation_id": "1856397175301042434",
+        "created_at": "2024-11-12T18:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T19:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856397945295266165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856397945295266165",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856397175301042434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 该睡觉啦😇，即使有再多的不愉快那也是昨天的事情了，睡醒又是新的一天了捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1846238068367581603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1265,
+          "like_count": 18739,
+          "listed_count": 1,
+          "tweet_count": 3679
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T19:16:40.000Z",
+        "description": "星尘就是星尘，也只会是星尘",
+        "id": "1695515581192278016",
+        "location": "未知星云",
+        "name": "一粒小星尘（Dreaming）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736977985436086272/wyfpiBNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 781,
+          "like_count": 5691,
+          "listed_count": 0,
+          "tweet_count": 4190
+        },
+        "username": "xingchen_gu",
+        "verified": false
+      }
+    ]
+  }
+}

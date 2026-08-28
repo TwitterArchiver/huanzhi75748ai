@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1788235180827673040",
+    "created_at": "2024-05-11T12:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T13:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789274858112929992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772680494234345475",
+          "start": 0,
+          "username": "lile995267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789274858112929992",
+    "in_reply_to_user_id": "1772680494234345475",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789274585470542286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lile995267 我也不清楚呢呜呜X﹏X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1788235180827673040",
+        "created_at": "2024-05-11T12:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T13:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789274858112929992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772680494234345475",
+              "start": 0,
+              "username": "lile995267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789274858112929992",
+        "in_reply_to_user_id": "1772680494234345475",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789274585470542286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lile995267 我也不清楚呢呜呜X﹏X"
+      },
+      {
+        "attachments": {},
+        "author_id": "1772680494234345475",
+        "conversation_id": "1788235180827673040",
+        "created_at": "2024-05-11T12:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T13:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789274585470542286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789274585470542286",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789274087350849669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 宝宝🥺其实我不知道怎么弄两边都登陆账号的话会不会被封呀😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "馬裡亞納海溝某不明生物懷裡",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1758934562359456116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749512045656174592/i1H894WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 1090,
+          "like_count": 7724,
+          "listed_count": 1,
+          "tweet_count": 1555
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T17:42:32.000Z",
+        "description": "爱是..？",
+        "id": "1772680494234345475",
+        "name": "恋は戦争",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787835893501538304/KFKT_i0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 170,
+          "like_count": 637,
+          "listed_count": 0,
+          "tweet_count": 131
+        },
+        "username": "lile995267",
+        "verified": false
+      }
+    ]
+  }
+}

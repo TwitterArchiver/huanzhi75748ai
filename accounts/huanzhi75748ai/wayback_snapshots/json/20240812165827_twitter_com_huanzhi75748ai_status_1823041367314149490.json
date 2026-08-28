@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "1822988251109732819",
+    "created_at": "2024-08-12T16:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T17:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823041367314149490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752783768002371584",
+          "start": 0,
+          "username": "kuwatorobajina9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823041367314149490",
+    "in_reply_to_user_id": "1752783768002371584",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822988251109732819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuwatorobajina9 加油.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "1822988251109732819",
+        "created_at": "2024-08-12T16:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T17:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823041367314149490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752783768002371584",
+              "start": 0,
+              "username": "kuwatorobajina9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823041367314149490",
+        "in_reply_to_user_id": "1752783768002371584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822988251109732819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuwatorobajina9 加油.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822988246986752000",
+            "3_1822988245069873152",
+            "3_1822988246609260544"
+          ]
+        },
+        "author_id": "1752783768002371584",
+        "conversation_id": "1822988251109732819",
+        "created_at": "2024-08-12T13:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T14:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822988251109732819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3pxvpaake",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kuwatorobajina9/status/1822988251109732819/photo/1",
+              "media_key": "3_1822988246986752000",
+              "start": 17,
+              "url": "https://t.co/n3pXVPAAkE"
+            },
+            {
+              "display_url": "pic.x.com/n3pxvpaake",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kuwatorobajina9/status/1822988251109732819/photo/1",
+              "media_key": "3_1822988245069873152",
+              "start": 17,
+              "url": "https://t.co/n3pXVPAAkE"
+            },
+            {
+              "display_url": "pic.x.com/n3pxvpaake",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kuwatorobajina9/status/1822988251109732819/photo/1",
+              "media_key": "3_1822988246609260544",
+              "start": 17,
+              "url": "https://t.co/n3pXVPAAkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822988251109732819",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得猫瘟了。。。\n希望卡缪能挺过来 https://t.co/n3pXVPAAkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "歪嘴猫大帝😼",
+        "pinned_tweet_id": "1811710177927704913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811708609467756545/kXGVUfLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1228,
+          "like_count": 15034,
+          "listed_count": 1,
+          "tweet_count": 2874
+        },
+        "username": "huanzhi75748ai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T19:59:57.000Z",
+        "description": "人类是无法相互理解的/⚠️言论极端注意⚠️「一切辱骂只针对个人」/发点无意义言论日常，会查成分互fo［现在「大量」键政号的不会回了］/精日「是不是支黑自己判断」/粉红自觉右上角给我发野爹证，建制派也滚，我觉得没有区别/逃生舱+锁推疯狂宇宙言论号@kamiiyu8964/喜欢b人，不顺眼就会b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 122,
+                "username": "kamiiyu8964"
+              }
+            ]
+          }
+        },
+        "id": "1752783768002371584",
+        "location": "side3 吉翁公国",
+        "name": "网友夏顺亚🌏",
+        "pinned_tweet_id": "1805522147504537737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806342104299548672/aPU6DsCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 304,
+          "like_count": 17178,
+          "listed_count": 1,
+          "tweet_count": 3897
+        },
+        "username": "kuwatorobajina9",
+        "verified": false
+      }
+    ]
+  }
+}
