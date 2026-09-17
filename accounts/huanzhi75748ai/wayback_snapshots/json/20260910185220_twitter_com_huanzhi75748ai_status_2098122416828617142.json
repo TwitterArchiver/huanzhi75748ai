@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2098122416828617142",
+    "created_at": "2026-09-10T18:52:20.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098122416828617142"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098122416828617142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同事说肌肉练的大的人像牛蛙。你们懂什么！高壮男才是男人啊！一群没品位的人！想哭的高壮男可以来我怀里了。☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2098122416828617142",
+        "created_at": "2026-09-10T18:52:20.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098122416828617142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098122416828617142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同事说肌肉练的大的人像牛蛙。你们懂什么！高壮男才是男人啊！一群没品位的人！想哭的高壮男可以来我怀里了。☺️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2098122416828617142",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1341,
+          "like_count": 31658,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6823
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

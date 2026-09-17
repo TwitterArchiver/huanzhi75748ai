@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2094844045386457232",
+    "created_at": "2026-09-01T17:45:15.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094844045386457232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seojihwan7583/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/seojihwan7583/status/2094209120547353017",
+          "start": 5,
+          "url": "https://t.co/4h45EvIpFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094844045386457232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094209120547353017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想睡觉。 https://t.co/4h45EvIpFm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2094844045386457232",
+        "created_at": "2026-09-01T17:45:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094844045386457232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seojihwan7583/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/seojihwan7583/status/2094209120547353017",
+              "start": 5,
+              "url": "https://t.co/4h45EvIpFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094844045386457232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094209120547353017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想睡觉。 https://t.co/4h45EvIpFm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391388714413150210",
+        "conversation_id": "2094209120547353017",
+        "created_at": "2026-08-30T23:42:17.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094209120547353017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094209120547353017",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1247,
+          "impression_count": 1532722,
+          "like_count": 65813,
+          "quote_count": 803,
+          "reply_count": 1,
+          "retweet_count": 20238
+        },
+        "reply_settings": "following",
+        "text": "전세계 사람들 다같이 24시간 자고 달력 하루 미루면 안 됨?\n너무 피곤한데"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2094844045386457232",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1345,
+          "like_count": 31651,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 6782
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-09T13:45:08.000Z",
+        "description": "그건 선생님 마음 가는대로 하실일이지 저한테 결정을 맡기시면 안되죠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/seojihwan",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/seojihwan",
+                "start": 0,
+                "url": "https://t.co/oRkjwtLQkQ"
+              }
+            ]
+          }
+        },
+        "id": "1391388714413150210",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094791479780933802",
+        "name": "서지환",
+        "pinned_tweet_id": "2053378751338266850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391388714413150210/1780815165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019387102677680129/cSRwe-6w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 112,
+          "like_count": 54946,
+          "listed_count": 3,
+          "media_count": 2786,
+          "tweet_count": 20361
+        },
+        "url": "https://t.co/oRkjwtLQkQ",
+        "username": "seojihwan7583",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

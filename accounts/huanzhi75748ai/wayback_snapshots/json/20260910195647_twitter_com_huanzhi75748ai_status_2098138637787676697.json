@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2098030823194992946",
+    "created_at": "2026-09-10T19:56:47.000Z",
+    "display_text_range": [
+      26,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T20:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098138637787676697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 25,
+          "id": "1778616836214439936",
+          "start": 9,
+          "username": "H20_chemistry_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098138637787676697",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098031141974642881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @H20_chemistry_x 右一！？你头发长的好快，羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2098030823194992946",
+        "created_at": "2026-09-10T19:56:47.000Z",
+        "display_text_range": [
+          26,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098138637787676697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 25,
+              "id": "1778616836214439936",
+              "start": 9,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098138637787676697",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098031141974642881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @H20_chemistry_x 右一！？你头发长的好快，羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "2098030823194992946",
+        "created_at": "2026-09-10T12:49:38.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098031141974642881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098031141974642881",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098030823194992946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x 感谢老师集邮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2098138637787676697",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1341,
+          "like_count": 31677,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6834
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n艾克已找到完美的时间线！\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcr3R5"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2098132127930024442",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609619970811482112/1742482505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025547932930617344/gTS0HHwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 4291,
+          "like_count": 145541,
+          "listed_count": 2,
+          "media_count": 1508,
+          "tweet_count": 45248
+        },
+        "url": "https://t.co/YdmeUcr3R5",
+        "username": "3ch4O1H",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098093414890065953",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778616836214439936/1716443879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 2045,
+          "like_count": 45401,
+          "listed_count": 2,
+          "media_count": 1153,
+          "tweet_count": 14308
+        },
+        "url": "",
+        "username": "H20_chemistry_x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

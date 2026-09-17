@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2098115596634542263",
+    "created_at": "2026-09-10T19:29:14.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T20:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098131706108858723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617132952399257608",
+          "start": 0,
+          "username": "snxrn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098131706108858723",
+    "in_reply_to_user_id": "1617132952399257608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098119497760797035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snxrn3 没有答案也没关系，先慢慢摸索着前行吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2098115596634542263",
+        "created_at": "2026-09-10T19:29:14.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098131706108858723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617132952399257608",
+              "start": 0,
+              "username": "snxrn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098131706108858723",
+        "in_reply_to_user_id": "1617132952399257608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098119497760797035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snxrn3 没有答案也没关系，先慢慢摸索着前行吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617132952399257608",
+        "conversation_id": "2098115596634542263",
+        "created_at": "2026-09-10T18:40:44.000Z",
+        "display_text_range": [
+          16,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098119497760797035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493643433499582474",
+              "start": 0,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098119497760797035",
+        "in_reply_to_user_id": "1493643433499582474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098115596634542263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanzhi75748ai 如果能变成大人，也许就不会有这么多烦恼了吧，也许生活也会越来越开心吧，我不断的问我自己，但仍然没得出答案"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2098131706108858723",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1341,
+          "like_count": 31673,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6825
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-22T12:12:21.000Z",
+        "description": "恭喜你發現了整個互聯網最沒趣的傢夥  名为孫旭冉  很高興認識你\nQQ号：522758057   如果你加我了，就證明你比我還要無聊",
+        "id": "1617132952399257608",
+        "is_identity_verified": false,
+        "location": "中国 黑龙江 哈尔滨",
+        "most_recent_tweet_id": "2098125854123647267",
+        "name": "孫旭冉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617132952399257608/1674630870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040797296817045504/4Jp8LJSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "snxrn3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
