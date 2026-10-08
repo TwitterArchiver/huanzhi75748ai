@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2106376288609120555",
+    "created_at": "2026-10-03T13:30:16.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106376288609120555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938921175918485504",
+          "start": 3,
+          "username": "DUBIANCHEOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106376288609120555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105361359852773654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DUBIANCHEOVO: 我的焦虑症就是从幼儿园的击鼓传花、抢椅子、丢手绢，小学的开火车、演讲、抽人回答问题、上黑板做题、红领巾、考试开始的。我讨厌竞争，我不在乎输赢。每次看到别人像疯狗一样抢夺某个东西的时候，我只想躲得远远的，越远越好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2106376288609120555",
+        "created_at": "2026-10-03T13:30:16.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106376288609120555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938921175918485504",
+              "start": 3,
+              "username": "DUBIANCHEOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106376288609120555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105361359852773654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DUBIANCHEOVO: 我的焦虑症就是从幼儿园的击鼓传花、抢椅子、丢手绢，小学的开火车、演讲、抽人回答问题、上黑板做题、红领巾、考试开始的。我讨厌竞争，我不在乎输赢。每次看到别人像疯狗一样抢夺某个东西的时候，我只想躲得远远的，越远越好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938921175918485504",
+        "conversation_id": "2105361359852773654",
+        "created_at": "2026-09-30T18:17:18.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105361359852773654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105361359852773654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 290200,
+          "like_count": 12953,
+          "quote_count": 64,
+          "reply_count": 307,
+          "retweet_count": 1202
+        },
+        "reply_settings": "everyone",
+        "text": "我的焦虑症就是从幼儿园的击鼓传花、抢椅子、丢手绢，小学的开火车、演讲、抽人回答问题、上黑板做题、红领巾、考试开始的。我讨厌竞争，我不在乎输赢。每次看到别人像疯狗一样抢夺某个东西的时候，我只想躲得远远的，越远越好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2106376288609120555",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1326,
+          "like_count": 31257,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6882
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T11:23:38.000Z",
+        "description": "05艺术生 crypto  现象分析 深度思考 润学",
+        "id": "1938921175918485504",
+        "is_identity_verified": false,
+        "location": "Norway",
+        "most_recent_tweet_id": "2106356109661667395",
+        "name": "我需要一张绿卡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938921175918485504/1776778645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938921272978624512/kd5q0-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4974,
+          "following_count": 630,
+          "like_count": 1908,
+          "listed_count": 7,
+          "media_count": 207,
+          "tweet_count": 2524
+        },
+        "url": "",
+        "username": "DUBIANCHEOVO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

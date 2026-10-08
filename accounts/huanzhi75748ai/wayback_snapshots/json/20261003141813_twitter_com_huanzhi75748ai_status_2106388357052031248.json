@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106032142627315713"
+      ],
+      "media_source_tweet_id": [
+        "2106032170016129427"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2106388357052031248",
+    "created_at": "2026-10-03T14:18:13.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106388357052031248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2060895085034610692",
+          "start": 3,
+          "username": "petalparadiseee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EIwatVDXYK",
+          "end": 44,
+          "expanded_url": "https://x.com/petalparadiseee/status/2106032170016129427/video/1",
+          "media_key": "13_2106032142627315713",
+          "start": 21,
+          "url": "https://t.co/EIwatVDXYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106388357052031248",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2106032142627315713"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106032170016129427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @petalparadiseee: https://t.co/EIwatVDXYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6600,
+        "height": 1024,
+        "media_key": "13_2106032142627315713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106032142627315713/img/8kwwYnyyLqELGUD-.jpg",
+        "public_metrics": {
+          "view_count": 536917
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106032142627315713/vid/avc1/320x568/fmGiR_Sz7YzMQMq4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106032142627315713/vid/avc1/480x852/b0apwwexIwQudDYM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106032142627315713/vid/avc1/576x1024/fJMQd9qTv5ilaA8E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106032142627315713/pl/l1W4_eq_7Qe6POWy.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106032142627315713"
+          ],
+          "media_source_tweet_id": [
+            "2106032170016129427"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2106388357052031248",
+        "created_at": "2026-10-03T14:18:13.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106388357052031248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2060895085034610692",
+              "start": 3,
+              "username": "petalparadiseee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIwatVDXYK",
+              "end": 44,
+              "expanded_url": "https://x.com/petalparadiseee/status/2106032170016129427/video/1",
+              "media_key": "13_2106032142627315713",
+              "start": 21,
+              "url": "https://t.co/EIwatVDXYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106388357052031248",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106032142627315713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106032170016129427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @petalparadiseee: https://t.co/EIwatVDXYK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106032142627315713"
+          ]
+        },
+        "author_id": "2060895085034610692",
+        "conversation_id": "2106032170016129427",
+        "created_at": "2026-10-02T14:42:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106032170016129427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIwatVDXYK",
+              "end": 23,
+              "expanded_url": "https://x.com/petalparadiseee/status/2106032170016129427/video/1",
+              "media_key": "13_2106032142627315713",
+              "start": 0,
+              "url": "https://t.co/EIwatVDXYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106032170016129427",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106032142627315713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3207,
+          "impression_count": 1254045,
+          "like_count": 45240,
+          "quote_count": 810,
+          "reply_count": 98,
+          "retweet_count": 9619
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EIwatVDXYK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2106388357052031248",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1326,
+          "like_count": 31349,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 6905
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T01:33:35.000Z",
+        "description": "dm for promotion",
+        "id": "2060895085034610692",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106320314984788401",
+        "name": "🪷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060895085034610692/1784679897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079724343546753024/bxVBzoms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5198,
+          "following_count": 778,
+          "like_count": 246,
+          "listed_count": 6,
+          "media_count": 1786,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "petalparadiseee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

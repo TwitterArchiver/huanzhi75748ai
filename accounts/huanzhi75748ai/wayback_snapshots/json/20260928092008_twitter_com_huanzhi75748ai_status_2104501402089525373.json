@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104266336327147520"
+      ],
+      "media_source_tweet_id": [
+        "2104266340978856319"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      }
+    ],
+    "conversation_id": "2104501402089525373",
+    "created_at": "2026-09-28T09:20:08.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104501402089525373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1861596078165905409",
+          "start": 3,
+          "username": "xikxok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FiyI0WDP6d",
+          "end": 63,
+          "expanded_url": "https://x.com/xikxok/status/2104266340978856319/photo/1",
+          "media_key": "3_2104266336327147520",
+          "start": 40,
+          "url": "https://t.co/FiyI0WDP6d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104501402089525373",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104266336327147520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9741
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104266340978856319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xikxok: took my dog on a walk today https://t.co/FiyI0WDP6d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104266336327147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPbFYGXoAApjLi.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104266336327147520"
+          ],
+          "media_source_tweet_id": [
+            "2104266340978856319"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2104501402089525373",
+        "created_at": "2026-09-28T09:20:08.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104501402089525373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1861596078165905409",
+              "start": 3,
+              "username": "xikxok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiyI0WDP6d",
+              "end": 63,
+              "expanded_url": "https://x.com/xikxok/status/2104266340978856319/photo/1",
+              "media_key": "3_2104266336327147520",
+              "start": 40,
+              "url": "https://t.co/FiyI0WDP6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104501402089525373",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104266336327147520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9741
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104266340978856319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xikxok: took my dog on a walk today https://t.co/FiyI0WDP6d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104266336327147520"
+          ]
+        },
+        "author_id": "1861596078165905409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2104266340978856319",
+        "created_at": "2026-09-27T17:46:05.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104266340978856319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiyI0WDP6d",
+              "end": 51,
+              "expanded_url": "https://x.com/xikxok/status/2104266340978856319/photo/1",
+              "media_key": "3_2104266336327147520",
+              "start": 28,
+              "url": "https://t.co/FiyI0WDP6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104266340978856319",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104266336327147520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7196,
+          "impression_count": 2108347,
+          "like_count": 117857,
+          "quote_count": 609,
+          "reply_count": 1103,
+          "retweet_count": 9741
+        },
+        "reply_settings": "everyone",
+        "text": "took my dog on a walk today https://t.co/FiyI0WDP6d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2104501402089525373",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1327,
+          "like_count": 31256,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6873
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-27T02:21:20.000Z",
+        "description": "internet’s problem child | follow and turn notifs on👑",
+        "id": "1861596078165905409",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104438388795306483",
+        "name": "xik 💫",
+        "pinned_tweet_id": "2104266340978856319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861596078165905409/1763689028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992148030456201216/e2hQL96v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 34,
+          "like_count": 263,
+          "listed_count": 4,
+          "media_count": 538,
+          "tweet_count": 1449
+        },
+        "url": "",
+        "username": "xikxok",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

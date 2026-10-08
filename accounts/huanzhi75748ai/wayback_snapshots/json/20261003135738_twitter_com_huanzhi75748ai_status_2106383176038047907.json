@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106079228391567360"
+      ],
+      "media_source_tweet_id": [
+        "2106079239875473643"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2106383176038047907",
+    "created_at": "2026-10-03T13:57:38.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106383176038047907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893167873209856000",
+          "start": 3,
+          "username": "mxyzcdb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/scFD1k3DGx",
+          "end": 40,
+          "expanded_url": "https://x.com/mxyzcdb/status/2106079239875473643/photo/1",
+          "media_key": "3_2106079228391567360",
+          "start": 17,
+          "url": "https://t.co/scFD1k3DGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106383176038047907",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106079228391567360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106079239875473643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mxyzcdb: 咕咕咕 https://t.co/scFD1k3DGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_2106079228391567360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTpL5lUbsAAdU3_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106079228391567360"
+          ],
+          "media_source_tweet_id": [
+            "2106079239875473643"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2106383176038047907",
+        "created_at": "2026-10-03T13:57:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106383176038047907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893167873209856000",
+              "start": 3,
+              "username": "mxyzcdb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/scFD1k3DGx",
+              "end": 40,
+              "expanded_url": "https://x.com/mxyzcdb/status/2106079239875473643/photo/1",
+              "media_key": "3_2106079228391567360",
+              "start": 17,
+              "url": "https://t.co/scFD1k3DGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106383176038047907",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106079228391567360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106079239875473643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mxyzcdb: 咕咕咕 https://t.co/scFD1k3DGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106079228391567360"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2106079239875473643",
+        "created_at": "2026-10-02T17:49:54.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106079239875473643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scFD1k3DGx",
+              "end": 27,
+              "expanded_url": "https://x.com/mxyzcdb/status/2106079239875473643/photo/1",
+              "media_key": "3_2106079228391567360",
+              "start": 4,
+              "url": "https://t.co/scFD1k3DGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106079239875473643",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106079228391567360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 66083,
+          "like_count": 4282,
+          "quote_count": 22,
+          "reply_count": 36,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "咕咕咕 https://t.co/scFD1k3DGx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2106383176038047907",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1326,
+          "like_count": 31284,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 6896
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "重新启航｜mtx｜叫我翅膀好嘛｜蓝v互关｜内容仅供娱乐，真假自辨｜本体 @axzameyzed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "axzameyzed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/rpnd1q3uqu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106259727160365193",
+        "name": "翅翅膀喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 470,
+          "like_count": 6553,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/rpnd1q3uqu",
+        "username": "mxyzcdb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

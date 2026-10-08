@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2106380064313201151",
+    "created_at": "2026-10-03T13:45:16.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106380064313201151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorsacerba/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Sorsacerba/status/2106301685337584083",
+          "start": 5,
+          "url": "https://t.co/QQYRp3k95R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106380064313201151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106301685337584083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/QQYRp3k95R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2106380064313201151",
+        "created_at": "2026-10-03T13:45:16.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106380064313201151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorsacerba/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Sorsacerba/status/2106301685337584083",
+              "start": 5,
+              "url": "https://t.co/QQYRp3k95R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106380064313201151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106301685337584083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/QQYRp3k95R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "2106301685337584083",
+        "created_at": "2026-10-03T08:33:49.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106301685337584083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106301685337584083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 869,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多人写的东西根本经不过历史伦理层的检验，跟庞德的诗章一样恶心，意象上也没必然性，也没存在的重定义，带着一种对于语言的崇拜去追求某几句看似惊艳的灵感，仿佛写出这一句就是神圣体验的本身，毫无激情与生命，通过自以为冷静的白描感动自己，结果只是空洞的重复苦难本身"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2106380064313201151",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1326,
+          "like_count": 31261,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 6888
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @HacchiTheMaid \n///\n小e：@ceciliahyve\n/// \n纯子：@Arisakajunko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "HacchiTheMaid"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "ceciliahyve"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Arisakajunko"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "is_identity_verified": false,
+        "location": "我家",
+        "most_recent_tweet_id": "2106376174083653849",
+        "name": "时刻保持党性",
+        "pinned_tweet_id": "2103484903950328272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597945043251187712/1708975978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077628838214057984/ALCl1X1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 674,
+          "like_count": 72193,
+          "listed_count": 9,
+          "media_count": 1715,
+          "tweet_count": 22646
+        },
+        "url": "",
+        "username": "Sorsacerba",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

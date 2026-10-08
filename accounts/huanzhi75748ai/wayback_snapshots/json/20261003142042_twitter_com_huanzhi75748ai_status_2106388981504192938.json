@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1493643433499582474",
+    "conversation_id": "2106388981504192938",
+    "created_at": "2026-10-03T14:20:42.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106388981504192938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2061408795520008192",
+          "start": 3,
+          "username": "Liulianhssisn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106388981504192938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106034575474561380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liulianhssisn: 为什么老是说我 哦哦。 可是我觉得 哦哦。很搞笑啊。有一种窝囊的喜感。\n\n哦哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2106388981504192938",
+        "created_at": "2026-10-03T14:20:42.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106388981504192938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2061408795520008192",
+              "start": 3,
+              "username": "Liulianhssisn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106388981504192938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106034575474561380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liulianhssisn: 为什么老是说我 哦哦。 可是我觉得 哦哦。很搞笑啊。有一种窝囊的喜感。\n\n哦哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061408795520008192",
+        "conversation_id": "2106034575474561380",
+        "created_at": "2026-10-02T14:52:25.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106034575474561380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106034575474561380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10563,
+          "like_count": 250,
+          "quote_count": 4,
+          "reply_count": 108,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "为什么老是说我 哦哦。 可是我觉得 哦哦。很搞笑啊。有一种窝囊的喜感。\n\n哦哦。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2106388981504192938",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1326,
+          "like_count": 31355,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 6909
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T11:27:11.000Z",
+        "description": "🈚️🚪不加v\n只是口嗨！！！\n@c0aejs\n我就是一个小乐乐。你把我拉黑我就从你的世界消失了欧坤吗。🫠🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "c0aejs"
+              }
+            ]
+          }
+        },
+        "id": "2061408795520008192",
+        "is_identity_verified": false,
+        "location": "肌肉男的乳沟",
+        "most_recent_tweet_id": "2106384306704949543",
+        "name": "ᗜ ֊ ᗜ",
+        "pinned_tweet_id": "2105707732384768190",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061450399706411008/02E8vh-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 46,
+          "like_count": 9379,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 2515
+        },
+        "url": "",
+        "username": "Liulianhssisn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

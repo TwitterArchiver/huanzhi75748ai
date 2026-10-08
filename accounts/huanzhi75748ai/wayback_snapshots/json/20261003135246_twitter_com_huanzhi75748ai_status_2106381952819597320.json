@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105793420467834880"
+      ],
+      "media_source_tweet_id": [
+        "2106006285485236328"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2106381952819597320",
+    "created_at": "2026-10-03T13:52:46.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106381952819597320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZaMFQN5By",
+          "end": 78,
+          "expanded_url": "https://x.com/itsD3lay/status/2106006285485236328/photo/1",
+          "media_key": "3_2105793420467834880",
+          "start": 55,
+          "url": "https://t.co/2ZaMFQN5By"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106381952819597320",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2105793420467834880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5061
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106006285485236328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: así me siento cuando mi pelo está sucio: https://t.co/2ZaMFQN5By"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2105793420467834880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTlH9X1XEAAdWkZ.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105793420467834880"
+          ],
+          "media_source_tweet_id": [
+            "2106006285485236328"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2106381952819597320",
+        "created_at": "2026-10-03T13:52:46.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106381952819597320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911294414781337600",
+              "start": 3,
+              "username": "itsD3lay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZaMFQN5By",
+              "end": 78,
+              "expanded_url": "https://x.com/itsD3lay/status/2106006285485236328/photo/1",
+              "media_key": "3_2105793420467834880",
+              "start": 55,
+              "url": "https://t.co/2ZaMFQN5By"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106381952819597320",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2105793420467834880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5061
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106006285485236328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsD3lay: así me siento cuando mi pelo está sucio: https://t.co/2ZaMFQN5By"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105793420467834880"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2106006285485236328",
+        "created_at": "2026-10-02T13:00:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106006285485236328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZaMFQN5By",
+              "end": 64,
+              "expanded_url": "https://x.com/itsD3lay/status/2106006285485236328/photo/1",
+              "media_key": "3_2105793420467834880",
+              "start": 41,
+              "url": "https://t.co/2ZaMFQN5By"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106006285485236328",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2105793420467834880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 179957,
+          "like_count": 24807,
+          "quote_count": 23,
+          "reply_count": 12,
+          "retweet_count": 5061
+        },
+        "reply_settings": "everyone",
+        "text": "así me siento cuando mi pelo está sucio: https://t.co/2ZaMFQN5By"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2106381952819597320",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1326,
+          "like_count": 31274,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 6892
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contact: itsd3laybusiness@gmail.com📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2mu7"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "is_identity_verified": false,
+        "location": "bcn",
+        "most_recent_tweet_id": "2106368673594380356",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2003258938356301936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911294414781337600/1659253439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158914,
+          "following_count": 1317,
+          "like_count": 768992,
+          "listed_count": 280,
+          "media_count": 23897,
+          "tweet_count": 79127
+        },
+        "url": "https://t.co/EjiUPH2mu7",
+        "username": "itsD3lay",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

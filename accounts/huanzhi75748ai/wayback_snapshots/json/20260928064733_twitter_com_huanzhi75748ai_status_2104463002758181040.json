@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104128189689954304",
+        "3_2104128195989774336"
+      ],
+      "media_source_tweet_id": [
+        "2104128200620273944",
+        "2104128200620273944"
+      ]
+    },
+    "author_id": "1493643433499582474",
+    "conversation_id": "2104463002758181040",
+    "created_at": "2026-09-28T06:47:33.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104463002758181040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1355481771278655490",
+          "start": 3,
+          "username": "summer_DAMGOM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B1AK8ovTLJ",
+          "end": 42,
+          "expanded_url": "https://x.com/summer_DAMGOM/status/2104128200620273944/photo/1",
+          "media_key": "3_2104128189689954304",
+          "start": 19,
+          "url": "https://t.co/B1AK8ovTLJ"
+        },
+        {
+          "display_url": "pic.x.com/B1AK8ovTLJ",
+          "end": 42,
+          "expanded_url": "https://x.com/summer_DAMGOM/status/2104128200620273944/photo/1",
+          "media_key": "3_2104128195989774336",
+          "start": 19,
+          "url": "https://t.co/B1AK8ovTLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104463002758181040",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104128189689954304"
+      },
+      {
+        "media_key": "3_2104128195989774336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104128200620273944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @summer_DAMGOM: https://t.co/B1AK8ovTLJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2104128189689954304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNdcLxbAAAqs-W.jpg",
+        "width": 736
+      },
+      {
+        "height": 711,
+        "media_key": "3_2104128195989774336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNdcjPaoAADkas.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104128189689954304",
+            "3_2104128195989774336"
+          ],
+          "media_source_tweet_id": [
+            "2104128200620273944",
+            "2104128200620273944"
+          ]
+        },
+        "author_id": "1493643433499582474",
+        "conversation_id": "2104463002758181040",
+        "created_at": "2026-09-28T06:47:33.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104463002758181040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1355481771278655490",
+              "start": 3,
+              "username": "summer_DAMGOM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1AK8ovTLJ",
+              "end": 42,
+              "expanded_url": "https://x.com/summer_DAMGOM/status/2104128200620273944/photo/1",
+              "media_key": "3_2104128189689954304",
+              "start": 19,
+              "url": "https://t.co/B1AK8ovTLJ"
+            },
+            {
+              "display_url": "pic.x.com/B1AK8ovTLJ",
+              "end": 42,
+              "expanded_url": "https://x.com/summer_DAMGOM/status/2104128200620273944/photo/1",
+              "media_key": "3_2104128195989774336",
+              "start": 19,
+              "url": "https://t.co/B1AK8ovTLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104463002758181040",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104128189689954304"
+          },
+          {
+            "media_key": "3_2104128195989774336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104128200620273944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @summer_DAMGOM: https://t.co/B1AK8ovTLJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104128189689954304",
+            "3_2104128195989774336"
+          ]
+        },
+        "author_id": "1355481771278655490",
+        "conversation_id": "2104128200620273944",
+        "created_at": "2026-09-27T08:37:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104128200620273944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1AK8ovTLJ",
+              "end": 23,
+              "expanded_url": "https://x.com/summer_DAMGOM/status/2104128200620273944/photo/1",
+              "media_key": "3_2104128189689954304",
+              "start": 0,
+              "url": "https://t.co/B1AK8ovTLJ"
+            },
+            {
+              "display_url": "pic.x.com/B1AK8ovTLJ",
+              "end": 23,
+              "expanded_url": "https://x.com/summer_DAMGOM/status/2104128200620273944/photo/1",
+              "media_key": "3_2104128195989774336",
+              "start": 0,
+              "url": "https://t.co/B1AK8ovTLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104128200620273944",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104128189689954304"
+          },
+          {
+            "media_key": "3_2104128195989774336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 111604,
+          "like_count": 6393,
+          "quote_count": 57,
+          "reply_count": 0,
+          "retweet_count": 1476
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/B1AK8ovTLJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我叫欢知\n歡喜對你的認知",
+        "id": "1493643433499582474",
+        "is_identity_verified": false,
+        "location": "🌐地球",
+        "most_recent_tweet_id": "2104463002758181040",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493643433499582474/1780515972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1328,
+          "like_count": 31203,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 6859
+        },
+        "url": "",
+        "username": "huanzhi75748ai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-30T11:43:45.000Z",
+        "description": "ナガノのくま / 일상, 독서 / 맞춤법 꿀팁 곰곰이는 농담곰 생각해서 곰곰이",
+        "id": "1355481771278655490",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104457871845175446",
+        "name": "여름",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355481771278655490/1759401178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960679923993206787/8hJ4SeQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 82,
+          "like_count": 4030,
+          "listed_count": 6,
+          "media_count": 763,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "summer_DAMGOM",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
